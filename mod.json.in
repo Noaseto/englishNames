@@ -1,0 +1,7 @@
+{
+  "id": "com.example.my_mod",
+  "name": "My Mod",
+  "version": "@PROJECT_VERSION@",
+  "author": "You",
+  "description": "An example Dusklight mod"
+}
