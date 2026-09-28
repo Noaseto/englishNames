@@ -1,0 +1,457 @@
+[
+    {
+        "ID": "19, 147",
+        "index": "0xb",
+        "attributes": "139300002d000000ff00000005000400",
+        "text": [
+            "Tu as entendu ce que le père",
+            "Renado avait à te dire?"
+        ]
+    },
+    {
+        "ID": "19, 148",
+        "index": "0xc",
+        "attributes": "139400002d000000ff00000005000400",
+        "text": [
+            "Il se fait du souci pour Ilia, mais il",
+            "s'inquiète surtout pour les Zoras",
+            "qui peuplent le lac Hylia."
+        ]
+    },
+    {
+        "ID": "20, 104",
+        "index": "0xe0",
+        "attributes": "1468000027000000ff00000000000400",
+        "text": [
+            "Le garçon... Ralis, c'est le",
+            "prince héritier des Zoras."
+        ]
+    },
+    {
+        "ID": "20, 107",
+        "index": "0xe3",
+        "attributes": "146b000027000000ff00000000000400",
+        "text": [
+            "Ralis a sûrement fort à faire",
+            "dans son village maintenant."
+        ]
+    },
+    {
+        "ID": "20, 108",
+        "index": "0xe4",
+        "attributes": "146c000027000000ff00000000000400",
+        "text": [
+            "Si seulement Ilia pouvait ",
+            "recouvrer la mémoire..."
+        ]
+    },
+    {
+        "ID": "20, 109",
+        "index": "0xe5",
+        "attributes": "146d000027000000ff00000005000400",
+        "text": [
+            "Je suis si contente! Ralis et Ilia",
+            "sont tous les deux guéris!"
+        ]
+    },
+    {
+        "ID": "20, 110",
+        "index": "0xe6",
+        "attributes": "146e000027000000ff00000000000400",
+        "text": [
+            "Mais Ralis n'est plus ici, ",
+            "et un jour vous autres aussi",
+            "vous retournerez à Toal..."
+        ]
+    },
+    {
+        "ID": "20, 185",
+        "index": "0x10a",
+        "attributes": "14b900001e000000ff00000011050400",
+        "text": [
+            "En parlant de ça! Malo n'est",
+            "même pas allé lui rendre visite."
+        ]
+    },
+    {
+        "ID": "20, 195",
+        "index": "0x114",
+        "attributes": "14c300001e000000ff0000000a000400",
+        "text": [
+            "OK! Va voir Malo près d'la source",
+            "des esprits et tire de là-bas!"
+        ]
+    },
+    {
+        "ID": "20, 215",
+        "index": "0x128",
+        "attributes": "14d700001e000000ff00000011050400",
+        "text": [
+            "J'ai vu Malo entrer en cachette ",
+            "dans le vieux magasin... Je me",
+            "demande ce qu'il traficote..."
+        ]
+    },
+    {
+        "ID": "21, 55",
+        "index": "0x188",
+        "attributes": "153700001f000000ff00000000000400",
+        "text": [
+            "Tu voudrais trahir l'image que",
+            "Talo a de toi? Le pauvre, il ne",
+            "va pas s'en remettre..."
+        ]
+    },
+    {
+        "ID": "21, 139",
+        "index": "0x1dc",
+        "attributes": "158b000025000000ff00000007000400",
+        "text": [
+            "Des poissons comme Ralis, {1a07000007000f}il n'a",
+            "pas dû en ferrer souvent!"
+        ]
+    },
+    {
+        "ID": "21, 225",
+        "index": "0x1f7",
+        "attributes": "15e1000022000000ff00000000000400",
+        "text": [
+            "{1a05000000}, va vite sauver Ilia!"
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "index": "0x1fc",
+        "attributes": "15e6000022000000ff00000006030400",
+        "text": [
+            "Le prêtre m'a dit qu'Ilia allait",
+            "peut-être retrouver la mémoire!"
+        ]
+    },
+    {
+        "ID": "21, 234",
+        "index": "0x200",
+        "attributes": "15ea000022000000ff00000000000400",
+        "text": [
+            "Ilia va tous les jours à l'église",
+            "pour prier..."
+        ]
+    },
+    {
+        "ID": "21, 241",
+        "index": "0x207",
+        "attributes": "15f1000022000000ff00000000000400",
+        "text": [
+            "Ilia va tous les jours à l'église ",
+            "et ne fait que prier."
+        ]
+    },
+    {
+        "ID": "21, 243",
+        "index": "0x209",
+        "attributes": "15f3000022000000ff00000007040400",
+        "text": [
+            "Je suis bien content qu'Ilia",
+            "se souvienne enfin de nous!"
+        ]
+    },
+    {
+        "ID": "22, 61",
+        "index": "0x253",
+        "attributes": "163d000037000000ff00000000000400",
+        "text": [
+            "J'ai rrapporrté des matièrres",
+            "prremièrres pour que Barnes",
+            "puisse fairre des bombes!"
+        ]
+    },
+    {
+        "ID": "22, 82",
+        "index": "0x268",
+        "attributes": "1652000028000000ff00000000000400",
+        "text": [
+            "Il se nomme {1a06ff000001}Bo{1a06ff000000}... {1a070000070014}C'est cela,",
+            "c'est bien le {1a06ff000001}chef de ton village",
+            "natal{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 86",
+        "index": "0x26c",
+        "attributes": "1656000028000000ff00000001000400",
+        "text": [
+            "Et si vous comptez vraiment vous",
+            "rendre à la Montagne de la Mort, ",
+            "parlez-en avec {1a06ff000001}Bo{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 97",
+        "index": "0x277",
+        "attributes": "1661000028000000ff00000000060400",
+        "text": [
+            "Il en est de même pour Talo. La",
+            "mésaventure de Colin l'avait",
+            "fortement marqué, et je suis",
+            "heureux de voir qu'il va mieux."
+        ]
+    },
+    {
+        "ID": "22, 101",
+        "index": "0x27b",
+        "attributes": "1665000028000000ff00000000000400",
+        "text": [
+            "Mais il me faut mettre cela de côté.",
+            "Ma priorité est de trouver un",
+            "remède à l'amnésie d'Ilia."
+        ]
+    },
+    {
+        "ID": "22, 103",
+        "index": "0x27d",
+        "attributes": "1667000028000000ff00000000010400",
+        "text": [
+            "Je ferai tout mon possible pour",
+            "trouver un moyen de guérir Ilia!"
+        ]
+    },
+    {
+        "ID": "22, 106",
+        "index": "0x280",
+        "attributes": "166a000028000000ff00000003030400",
+        "text": [
+            "J'ai une bonne nouvelle! Si tout",
+            "se passe bien, je devrais pouvoir",
+            "guérir Ilia de son amnésie!"
+        ]
+    },
+    {
+        "ID": "22, 115",
+        "index": "0x289",
+        "attributes": "1673000028000000ff00000005050400",
+        "text": [
+            "La mémoire d'Ilia est en jeu.",
+            "Ayez courage, {1a05000000}!"
+        ]
+    },
+    {
+        "ID": "22, 117",
+        "index": "0x28b",
+        "attributes": "1675000028000000ff00000001010400",
+        "text": [
+            "Si nous pouvons refaire le chemin",
+            "qu'Ilia a parcouru, nous trouverons",
+            "sûrement quelque chose!"
+        ]
+    },
+    {
+        "ID": "22, 119",
+        "index": "0x28d",
+        "attributes": "1677000028000000ff00000001000400",
+        "text": [
+            "Peut-être Ilia se souviendra-t-elle",
+            "de quelque détail lorsque vous lui",
+            "montrerez ceci."
+        ]
+    },
+    {
+        "ID": "22, 123",
+        "index": "0x291",
+        "attributes": "167b000028000000ff00090000060400",
+        "text": [
+            "Je suis soulagé de voir Ilia guérie."
+        ]
+    },
+    {
+        "ID": "22, 130",
+        "index": "0x298",
+        "attributes": "1682000028000000ff00090000030400",
+        "text": [
+            "Je suis soulagé de voir Ilia guérie."
+        ]
+    },
+    {
+        "ID": "22, 138",
+        "index": "0x2a0",
+        "attributes": "168a000028000000ff00000000000400",
+        "text": [
+            "Talo a fait part de son désir",
+            "d'aider le village et il est allé de",
+            "lui-même se placer à la vigie."
+        ]
+    },
+    {
+        "ID": "22, 140",
+        "index": "0x2a2",
+        "attributes": "168c000028000000ff00000001000400",
+        "text": [
+            "J'ai pensé qu'Ilia avait besoin ",
+            "de se changer les idées, aussi lui ",
+            "ai-je demandé de venir ici."
+        ]
+    },
+    {
+        "ID": "22, 145",
+        "index": "0x2a7",
+        "attributes": "1691000028000000ff00000001000400",
+        "text": [
+            "Connaissez-vous un certain {1a06ff000002}Shad{1a06ff000000} ",
+            "parmi les amis de dame Telma?"
+        ]
+    },
+    {
+        "ID": "22, 147",
+        "index": "0x2a9",
+        "attributes": "1693000028000000ff00000001000400",
+        "text": [
+            "En entendant ceci, {1a06ff000002}Ilia{1a06ff000000} s'est ",
+            "souvenue que la personne qui l'a ",
+            "sauvée lui avait parlé d'un {1a06ff000001}bâton ",
+            "des cieux{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 148",
+        "index": "0x2aa",
+        "attributes": "1694000028000000ff00000001000400",
+        "text": [
+            "{1a06ff000001}Shad{1a06ff000000} est depuis resté cloîtré dans ",
+            "le {1a06ff000001}sous-sol{1a06ff000000} à observer la statue."
+        ]
+    },
+    {
+        "ID": "22, 150",
+        "index": "0x2ac",
+        "attributes": "1696000028000000ff00000001000400",
+        "text": [
+            "Quant à la {1a06ff000001}tribu Goron{1a06ff000000}... {1a070000070014}Je suis",
+            "d'avis d'aller voir {1a06ff000001}Bo{1a06ff000000}. Il a su",
+            "gagner leur confiance et il sera",
+            "certainement prêt à vous aider."
+        ]
+    },
+    {
+        "ID": "23, 144",
+        "index": "0x32f",
+        "attributes": "17900000150d0000ff0000001f1f0400",
+        "text": [
+            "Il t'a dit que tu aurais besoin des",
+            "{1a06ff000001}cristaux d'ombre{1a06ff000000} pour libérer ce",
+            "monde de Zant, le roi des ombres."
+        ]
+    },
+    {
+        "ID": "24, 75",
+        "index": "0x388",
+        "attributes": "184b000039000000ff00000000010400",
+        "text": [
+            "Notrre chef Darbus vous attend, il",
+            "est déjà là-bas. Je vous ai indiqué ",
+            "l'endrroit surr votrre {1a06ff000001}carrte{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "24, 81",
+        "index": "0x38e",
+        "attributes": "1851000019000000ff00000d120a0400",
+        "text": [
+            "Le père Renado m'a offert ",
+            "l'hospitalité dans ce village."
+        ]
+    },
+    {
+        "ID": "24, 87",
+        "index": "0x394",
+        "attributes": "1857000019000000ff00000000000400",
+        "text": [
+            "{1a05000000}, est-ce que tu ",
+            "connais un certain... Shad?"
+        ]
+    },
+    {
+        "ID": "24, 110",
+        "index": "0x3ab",
+        "attributes": "186e000019000000ff00000015000400",
+        "text": [
+            "Tu connais ce Shad? Le type ",
+            "qui est {1a06ff000001}au sous-sol{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "24, 112",
+        "index": "0x3ad",
+        "attributes": "1870000019000000ff00000015000400",
+        "text": [
+            "{1a05000000}, Shad t'attend!",
+            "Il est {1a06ff000001}au sous-sol{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "25, 110",
+        "index": "0x421",
+        "attributes": "196e000005000000ff00000001000400",
+        "text": [
+            "Ah! oui, euh... je m'appelle {1a06ff000002}Shad{1a06ff000000}",
+            "et je fais des recherches sur la",
+            "légende du peuple des {1a06ff000001}Célestiens{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "25, 137",
+        "index": "0x43c",
+        "attributes": "1989000005000000ff00000007030400",
+        "text": [
+            "Les seules indices qui pourraient ",
+            "nous aider se trouvent peut-être ",
+            "dans la {1a06ff000001}mémoire{1a06ff000000} d'{1a06ff000001}Ilia{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "25, 140",
+        "index": "0x43f",
+        "attributes": "198c000005000000ff00000006030400",
+        "text": [
+            "Aah... {1a07000007000a}Si seulement Ilia pouvait ",
+            "recouvrer la mémoire..."
+        ]
+    },
+    {
+        "ID": "25, 163",
+        "index": "0x456",
+        "attributes": "19a3000005000000ff00000002000400",
+        "text": [
+            "Au fait, on m'a raconté qu'Ilia était",
+            "l'une de tes amies?"
+        ]
+    },
+    {
+        "ID": "25, 206",
+        "index": "0x481",
+        "attributes": "19ce00003b000000ff00000009000400",
+        "text": [
+            "Les {1a06ff000001}Galerries Balder{1a06ff000000} qui sont ici",
+            "orrganisent une {1a06ff000001}collecte de fonds{1a06ff000000}",
+            "pourr {1a06ff000001}rréparrer le pont{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "27, 97",
+        "index": "0x4eb",
+        "attributes": "1b610000150d0000ff0000001f1f0400",
+        "text": [
+            "Allez, on file chez ce fameux",
+            "Bo!"
+        ]
+    },
+    {
+        "ID": "31, 67",
+        "index": "0x504",
+        "attributes": "1f43000003020102ff00000000000800",
+        "text": [
+            "{1a07ff00010096}{1a06ff000001}Attention, danger!{1a07ff00010064}{1a06ff000000}",
+            "Défense d'entrer!",
+            "",
+            "                Barnes"
+        ]
+    }
+]

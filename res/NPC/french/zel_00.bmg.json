@@ -1,0 +1,1582 @@
+[
+    {
+        "ID": "0, 138",
+        "index": "0x89",
+        "attributes": "008a0000020902002501000000000400",
+        "text": [
+            "{1a09030000000007ee}{1a05000001}Vous avez rencontré {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Appelez-la dans un donjon et",
+            "elle vous téléporte dehors.",
+            "",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour",
+            "faire appel à ses services!",
+            "Elle peut aussi vous ramener à",
+            "l'endroit d'{1a06ff000001}où vous êtes sorti{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "0, 141",
+        "index": "0x8c",
+        "attributes": "008d0000020902002801000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez l'{1a06ff000001}épée de Toal{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Cette lame a été forgée par Rusl,",
+            "guerrier de Toal, comme cadeau",
+            "pour la famille royale d'Hyrule."
+        ]
+    },
+    {
+        "ID": "0, 152",
+        "index": "0x97",
+        "attributes": "00980000020902003301000000000400",
+        "text": [
+            "{1a09030000000007fc}{1a05000001}Vous retrouvez {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Cette sympathique dame vous",
+            "téléporte hors du donjon pour",
+            "vous y ramener ensuite.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour",
+            "faire appel à ses services!"
+        ]
+    },
+    {
+        "ID": "0, 155",
+        "index": "0x9a",
+        "attributes": "009b0000020902003601000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez la {1a06ff000001}bourse géante{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Vous l'avez reçue d'Agitha",
+            "en tant que citoyen d'honneur!{1a07000007000a}",
+            "On peut y mettre {1a06ff000006}1000 rubis{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "0, 207",
+        "index": "0xce",
+        "attributes": "00cf0000020902006a01000000000400",
+        "text": [
+            "{1a0903000000000833}{1a05000001}Vous avez mis de la {1a06ff000001}soupe",
+            "infecte{1a06ff000000} dans un flacon!{1a05000002} {1a07000007000a}Un plat",
+            "de Coro pour les hommes qui",
+            "ont du caractère. Mais l'odeur...",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour",
+            "la boire. Quant au goût..."
+        ]
+    },
+    {
+        "ID": "0, 216",
+        "index": "0xd7",
+        "attributes": "00d80000020902007301000000000400",
+        "text": [
+            "{1a090300000000083c}{1a05000001}Vous obtenez des {1a06ff000001}larmes de ",
+            "Fée{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il s'agit en fait d'une eau",
+            "bénie par la Great Fairy.",
+            "Assignez-les à {1a05000010} ou {1a0500000f} pour les",
+            "boire afin de regagner {1a06ff000001}toute",
+            "votre énergie vitale{1a06ff000000} et faire",
+            "temporairement plus de {1a06ff000001}dégâts{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "0, 218",
+        "index": "0xd9",
+        "attributes": "00da0000020902007501000000000400",
+        "text": [
+            "{1a090300000000083e}{1a05000001}Vous avez mis des {1a06ff000001}larmes de",
+            "Fée{1a06ff000000} dans votre flacon!{1a05000002}",
+            "{1a07000007000a}Il s'agit en fait d'une eau",
+            "bénie par la Great Fairy.",
+            "Assignez-les à {1a05000010} ou {1a0500000f} pour les",
+            "boire afin de regagner {1a06ff000001}toute",
+            "votre énergie vitale{1a06ff000000} et faire",
+            "temporairement plus de {1a06ff000001}dégâts{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "0, 229",
+        "index": "0xe4",
+        "attributes": "00e50000020902008001000000000400",
+        "text": [
+            "{1a0903000000000849}{1a05000001}Vous prenez la {1a06ff000001}lettre de",
+            "Renado{1a06ff000000}!{1a05000002} {1a07000007000a}Il y est écrit ce qu'il",
+            "faut faire pour guérir Ilia de son",
+            "amnésie.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour",
+            "la montrer à quelqu'un."
+        ]
+    },
+    {
+        "ID": "0, 231",
+        "index": "0xe6",
+        "attributes": "00e70000020902008201000000000400",
+        "text": [
+            "{1a090300000000084b}{1a05000001}Vous récupérez la {1a06ff000001}statuette en",
+            "bois{1a06ff000000}!{1a05000002} {1a07000007000a}Il semblerait que cette",
+            "figurine aux formes étranges",
+            "appartenait à Ilia.",
+            "Elle est liée à la mémoire d'Ilia.",
+            "Assignez-la à {1a05000010} ou {1a0500000f}."
+        ]
+    },
+    {
+        "ID": "0, 232",
+        "index": "0xe7",
+        "attributes": "00e80000020902008301000000000400",
+        "text": [
+            "{1a090300000000084c}{1a05000001}Vous obtenez le {1a06ff000001}collier d'Ilia{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est le collier que portait la",
+            "dame qui a secouru Ilia. Elle y",
+            "tient beaucoup.",
+            "C'est un lien vital pour",
+            "la mémoire d'Ilia.",
+            "Assignez-le à {1a05000010} ou {1a0500000f}."
+        ]
+    },
+    {
+        "ID": "0, 233",
+        "index": "0xe8",
+        "attributes": "00e90000020902008401000000000400",
+        "text": [
+            "{1a090300000000084d}{1a05000001}Vous obtenez le {1a06ff000001}Lien de ",
+            "l'amitié{1a06ff000000}!{1a05000002} {1a07000007000a}Ilia a fabriqué",
+            "cette flûte en faïence",
+            "spécialement pour vous.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} et",
+            "utilisez-la à l'extérieur pour",
+            "appeler {1a05000022}."
+        ]
+    },
+    {
+        "ID": "0, 245",
+        "index": "0xf4",
+        "attributes": "00f50000020902009001000000000400",
+        "text": [
+            "{1a0903000000000859}{1a05000001}Vous obtenez la {1a06ff000001}note",
+            "de Auru{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Elle est destinée à Fyer, au",
+            "lac Hylia.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour la",
+            "lui faire lire."
+        ]
+    },
+    {
+        "ID": "1, 81",
+        "index": "0x150",
+        "attributes": "0151000002090200ec01000000000400",
+        "text": [
+            "{1a0903000000000be5}{1a05000001}Vous avez un nouveau",
+            "compagnon! Le {1a06ff000001}fils de Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Vous pouvez compter sur cet",
+            "ami de Célestia!",
+            "Assignez-le à {1a05000010} ou {1a0500000f} pour",
+            "faire appel à ses services et",
+            "il vous mènera directement",
+            "auprès de Ooccoo."
+        ]
+    },
+    {
+        "ID": "1, 138",
+        "index": "0x189",
+        "attributes": "018a0000020b04002500000000000100",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 140",
+        "index": "0x18b",
+        "attributes": "018c0000020b04002700000000000100",
+        "text": [
+            "Fils de Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 146",
+        "index": "0x191",
+        "attributes": "01920000020b04002d00000000000100",
+        "text": [
+            "Notes de Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 152",
+        "index": "0x197",
+        "attributes": "01980000020b04003300000000000100",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 229",
+        "index": "0x1e4",
+        "attributes": "01e50000020b04008000000000000100",
+        "text": [
+            "Lettre de Renado"
+        ]
+    },
+    {
+        "ID": "1, 232",
+        "index": "0x1e7",
+        "attributes": "01e80000020b04008300000000000100",
+        "text": [
+            "Collier d'Ilia"
+        ]
+    },
+    {
+        "ID": "1, 245",
+        "index": "0x1f4",
+        "attributes": "01f50000020b04009000000000000100",
+        "text": [
+            "Note de Auru"
+        ]
+    },
+    {
+        "ID": "2, 21",
+        "index": "0x214",
+        "attributes": "02150000020b0400b000000000000100",
+        "text": [
+            "Odeur d'{1a06ff000001}Ilia"
+        ]
+    },
+    {
+        "ID": "2, 81",
+        "index": "0x250",
+        "attributes": "02510000020b0400ec00000000000100",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "2, 109",
+        "index": "0x26c",
+        "attributes": "026d0000020b04000800000000000600",
+        "text": [
+            "{1a0903000000000c2d}Le sac de bombes que Iza vous a prêté.",
+            "Assignez-le à {1a05000010} ou {1a0500000f} et appuyez sur {1a0500000a}",
+            "pour en poser, ou en lancer si vous courez.",
+            "Equipez l'{1a06ff000001}Arc du Héros{1a06ff000000} puis combinez-le",
+            "aux bombes avec {1a0500000e} sur l'écran d'inventaire",
+            "pour faire des {1a06ff000001}flèches explosives{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "2, 110",
+        "index": "0x26d",
+        "attributes": "026e0000020b04000900000000000600",
+        "text": [
+            "Le sac de bombes que Iza vous a prêté.",
+            "Vous avez tout utilisé. Il est vide.",
+            "Demandez à Iza de vous le remplir à",
+            "nouveau."
+        ]
+    },
+    {
+        "ID": "2, 138",
+        "index": "0x289",
+        "attributes": "028a0000020b04002500000000000600",
+        "text": [
+            "{1a0903000000000c4a}Assignez et appelez Ooccoo avec {1a05000010} ou {1a0500000f}",
+            "et elle vous fera sortir du donjon. Elle peut",
+            "aussi vous ramener à l'endroit que vous",
+            "aviez quitté. Si vous revenez par vos",
+            "propres moyens dans ce donjon, Ooccoo vous",
+            "attendra à l'entrée."
+        ]
+    },
+    {
+        "ID": "2, 140",
+        "index": "0x28b",
+        "attributes": "028c0000020b04002700000000000600",
+        "text": [
+            "{1a0903000000000c4c}Parlez-lui avec {1a05000010} ou {1a0500000f} quand vous êtes",
+            "à l'extérieur d'un donjon et il vous amènera",
+            "à Ooccoo ou à l'intérieur du donjon."
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "index": "0x28c",
+        "attributes": "028d0000020b04002800000000000400",
+        "text": [
+            "{1a0903000000000c4d}Rusl a forgé cette épée pour l'offrir à",
+            "la famille royale d'Hyrule. La poignée",
+            "est faite en corne de chèvre de Toal.",
+            "{1a0500000b} pour frapper, {1a0500000a} pour ranger."
+        ]
+    },
+    {
+        "ID": "2, 146",
+        "index": "0x291",
+        "attributes": "02920000020b04002d00000000000600",
+        "text": [
+            "Il est écrit:",
+            "",
+            "{1a06ff000001}J'ai encore des choses à faire, alors",
+            "je reste ici. Repasse me voir plus tard",
+            "et nous y irons ensemble.",
+            "",
+            "                                 Ooccoo"
+        ]
+    },
+    {
+        "ID": "2, 152",
+        "index": "0x297",
+        "attributes": "02980000020b04003300000000000600",
+        "text": [
+            "{1a0903000000000c58}Assignez et appelez Ooccoo avec {1a05000010} ou {1a0500000f}",
+            "et elle vous fera sortir du donjon. Elle peut",
+            "aussi vous ramener à l'endroit que vous",
+            "aviez quitté. Si vous revenez par vos",
+            "propres moyens dans ce donjon, Ooccoo vous",
+            "attendra à l'entrée."
+        ]
+    },
+    {
+        "ID": "2, 154",
+        "index": "0x299",
+        "attributes": "029a0000020b04003500000000000400",
+        "text": [
+            "La bourse que vous avez reçue de",
+            "Agitha, la princesse des insectes.",
+            "Elle peut contenir 600 rubis."
+        ]
+    },
+    {
+        "ID": "2, 155",
+        "index": "0x29a",
+        "attributes": "029b0000020b04003600000000000400",
+        "text": [
+            "La bourse que Agitha vous a donnée",
+            "en récompense. Elle peut contenir",
+            "1000 rubis."
+        ]
+    },
+    {
+        "ID": "2, 207",
+        "index": "0x2ce",
+        "attributes": "02cf0000020b04006a00000000000600",
+        "text": [
+            "{1a0903000000000c8f}Assignez cette soupe préparée par Coro",
+            "à {1a05000010} ou {1a0500000f} pour la boire. Le résultat",
+            "devrait être intéressant..."
+        ]
+    },
+    {
+        "ID": "2, 229",
+        "index": "0x2e4",
+        "attributes": "02e50000020b04008000000000000600",
+        "text": [
+            "{1a0903000000000ca5}Une lettre de Renado adressée à Telma.",
+            "Il y est décrit en détail ce qu'il faut faire",
+            "pour qu'Ilia retrouve la mémoire.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour la montrer."
+        ]
+    },
+    {
+        "ID": "2, 231",
+        "index": "0x2e6",
+        "attributes": "02e70000020b04008200000000000600",
+        "text": [
+            "{1a0903000000000ca7}Une statuette d'étrange facture qui",
+            "appartiendrait à Ilia. C'est un élément vital",
+            "pour l'aider à recouvrer la mémoire.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour la montrer",
+            "à quelqu'un."
+        ]
+    },
+    {
+        "ID": "2, 232",
+        "index": "0x2e7",
+        "attributes": "02e80000020b04008300000000000600",
+        "text": [
+            "{1a0903000000000ca8}Un collier porte-bonheur que portait",
+            "la dame qui a secouru Ilia. C'est un",
+            "élément vital pour l'aider à recouvrer",
+            "la mémoire. Assignez-le à {1a05000010} ou {1a0500000f}",
+            "pour le montrer à quelqu'un."
+        ]
+    },
+    {
+        "ID": "2, 233",
+        "index": "0x2e8",
+        "attributes": "02e90000020b04008400000000000600",
+        "text": [
+            "{1a0903000000000ca9}Ilia voulait vous confier cette",
+            "flûte en faïence qui appelle {1a05000022}.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour que votre",
+            "monture accoure quand vous n'avez pas",
+            "d'herbe à cheval à portée de main."
+        ]
+    },
+    {
+        "ID": "2, 245",
+        "index": "0x2f4",
+        "attributes": "02f50000020b04009000000000000600",
+        "text": [
+            "{1a0903000000000cb5}Une note que Auru a écrite pour Fyer.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour la faire",
+            "lire à ce dernier."
+        ]
+    },
+    {
+        "ID": "2, 246",
+        "index": "0x2f5",
+        "attributes": "02f60000020b04009100000000000600",
+        "text": [
+            "{1a0903000000000cb6}Le dessin qu'a fait Ashei du géant au",
+            "poisson qu'elle a vu. Assignez-le à {1a05000010} ou",
+            "{1a0500000f} pour le montrer à quelqu'un."
+        ]
+    },
+    {
+        "ID": "3, 10",
+        "index": "0x309",
+        "attributes": "030a0000020b0400a500000000000400",
+        "text": [
+            "Un morceau du miroir liant la lumière au",
+            "Crépuscule. Il a été brisé par Zant.",
+            "Rassemblez tous les fragments pour",
+            "compléter le Miroir des ombres."
+        ]
+    },
+    {
+        "ID": "3, 11",
+        "index": "0x30a",
+        "attributes": "030b0000020b0400a600000000000400",
+        "text": [
+            "Des morceaux du miroir liant la lumière",
+            "au Crépuscule. Il a été brisé par Zant.",
+            "Rassemblez tous les fragments pour",
+            "compléter le Miroir des ombres."
+        ]
+    },
+    {
+        "ID": "3, 21",
+        "index": "0x314",
+        "attributes": "03150000020b0400b000000000000400",
+        "text": [
+            "L'odeur d'Ilia. Elle imprégnait la",
+            "sacoche que vous avez trouvée dans",
+            "la plaine de Lanelle."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "index": "0x350",
+        "attributes": "03510000020b0400ec00000000000600",
+        "text": [
+            "{1a0903000000000d11}Ooccoo, une Célestienne.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour l'appeler et",
+            "elle vous emmènera instantanément au",
+            "magasin de Célestia."
+        ]
+    },
+    {
+        "ID": "4, 108",
+        "index": "0x46b",
+        "attributes": "046c0000020c0100ff00000000000100",
+        "text": [
+            "Château de Machaon{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 109",
+        "index": "0x46c",
+        "attributes": "046d0000020c0100ff00000000000100",
+        "text": [
+            "Maison de Giovanni{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 130",
+        "index": "0x481",
+        "attributes": "0482000002130100ff00000000000200",
+        "text": [
+            "HUMOoccoo,",
+            "{1a07ff00010052}antique terreur ressuscitée{1a07000004005a}"
+        ]
+    },
+    {
+        "ID": "4, 134",
+        "index": "0x485",
+        "attributes": "0486000002130100ff00000000000200",
+        "text": [
+            "Zant,",
+            "{1a07ff00010052}usurpateur{1a07000004005a}"
+        ]
+    },
+    {
+        "ID": "5, 187",
+        "index": "0x5ba",
+        "attributes": "05bb000002000000ff00000000000100",
+        "text": [
+            "Donner à Agitha?"
+        ]
+    },
+    {
+        "ID": "11, 194",
+        "index": "0x5f0",
+        "attributes": "0bc2000020000000ff00000000000400",
+        "text": [
+            "Nous ferions bien de rentrer",
+            "au village.",
+            "",
+            "",
+            "Je vais tout expliquer à Bo."
+        ]
+    },
+    {
+        "ID": "11, 211",
+        "index": "0x601",
+        "attributes": "0bd300001a000000ff00000000000400",
+        "text": [
+            "Allez, allez, Ilia.",
+            "Ce n'est pas la peine d'en faire",
+            "toute une histoire...{1a07000004001e}"
+        ]
+    },
+    {
+        "ID": "11, 216",
+        "index": "0x606",
+        "attributes": "0bd800001a000000ff00000000000400",
+        "text": [
+            "Eh! mais attends! Ilia!",
+            "",
+            "",
+            "",
+            "Comment veux-tu qu'il aille",
+            "porter le cadeau à Hyrule",
+            "sans {1a05000022}!?"
+        ]
+    },
+    {
+        "ID": "12, 39",
+        "index": "0x655",
+        "attributes": "0c27002d26000100ff00000000000400",
+        "text": [
+            "{1a070000040078}... Midna?!"
+        ]
+    },
+    {
+        "ID": "12, 57",
+        "index": "0x667",
+        "attributes": "0c39000026000000ff00000000000400",
+        "text": [
+            "Midna... les créatures des ombres",
+            "sont partout à ta recherche.",
+            "",
+            "",
+            "Quelle en est la raison?"
+        ]
+    },
+    {
+        "ID": "15, 197",
+        "index": "0x6c2",
+        "attributes": "0fc5000003050005ff00000000000400",
+        "text": [
+            "Vous trouvez une branche taillée!",
+            "{1a07000007002d}C'est celle dont Talo se sert pour",
+            "s'entraîner à l'épée..."
+        ]
+    },
+    {
+        "ID": "16, 241",
+        "index": "0x7ee",
+        "attributes": "10f10000020902002500000000000400",
+        "text": [
+            "{1a05000001}{1a06ff000001}Ooccoo{1a06ff000000} est devenue une amie!{1a05000002}",
+            "{1a07000007000a}Elle peut vous faire sortir d'un",
+            "donjon ou vous y ramener, {1a06ff000001}dans",
+            "la pièce où vous l'avez utilisée{1a06ff000000}.",
+            "Assignez-la à {1a05030002} sur l'écran {1a05030004},",
+            "et appelez-la de même avec {1a05030002}.",
+            "Si vous l'assignez à {1a05030008}, alors",
+            "vous pouvez l'appeler sans {1a05030002}."
+        ]
+    },
+    {
+        "ID": "16, 243",
+        "index": "0x7f0",
+        "attributes": "10f30000020902002700000000000400",
+        "text": [
+            "Vous avez rencontré le {1a05000001}{1a06ff000001}fils de",
+            "Ooccoo{1a06ff000000}!{1a05000002} {1a07000007000a}Ce petit Harpie peut vous",
+            "ramener à n'importe quel",
+            "moment auprès de Ooccoo!",
+            "Assignez-le à {1a05030002} sur l'écran {1a05030004},",
+            "et appelez-le de même avec {1a05030002}.",
+            "Si vous l'assignez à {1a05030008}, alors",
+            "vous pouvez l'appeler sans {1a05030002}."
+        ]
+    },
+    {
+        "ID": "16, 255",
+        "index": "0x7fc",
+        "attributes": "10ff0000020902003300000000000400",
+        "text": [
+            "{1a05000001}Vous retrouvez {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Cette sympathique dame vous",
+            "téléporte hors du donjon et ",
+            "peut vous y ramener ensuite.",
+            "Assignez-la à {1a05030002} sur l'écran {1a05030004},",
+            "et appelez-la de même avec {1a05030002}.",
+            "Si vous l'assignez à {1a05030008}, vous",
+            "pouvez l'appeler sans {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 54",
+        "index": "0x833",
+        "attributes": "11360000020902006a00000000000400",
+        "text": [
+            "{1a05000001}Vous avez mis de la {1a06ff000001}soupe",
+            "infecte{1a06ff000000} dans un flacon!{1a05000002} {1a07000007000a}Un plat",
+            "de Coro pour les hommes qui",
+            "ont du caractère. Mais l'odeur...",
+            "Assignez-la à {1a05030002} sur l'écran {1a05030004}",
+            "pour l'utiliser avec {1a05030002}. La boire",
+            "devrait donner des résultats...",
+            "intéressants."
+        ]
+    },
+    {
+        "ID": "17, 63",
+        "index": "0x83c",
+        "attributes": "113f0000020902007300000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez des {1a06ff000001}larmes de ",
+            "Fée{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il s'agit en fait d'une eau",
+            "bénie par la Great Fairy.",
+            "Assignez-les à {1a05030002} sur l'écran {1a05030004}",
+            "pour les boire afin de {1a06ff000001}regagner",
+            "toute votre énergie vitale{1a06ff000000} ainsi",
+            "que {1a06ff000001}faire plus de dégâts{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "17, 65",
+        "index": "0x83e",
+        "attributes": "11410000020902007500000000000400",
+        "text": [
+            "{1a05000001}Vous avez mis des {1a06ff000001}larmes de",
+            "Fée{1a06ff000000} dans votre flacon!{1a05000002}",
+            "{1a07000007000a}Il s'agit en fait d'une eau",
+            "bénie par la Great Fairy.",
+            "Assignez-les à {1a05030002} sur l'écran {1a05030004}",
+            "pour les boire afin de {1a06ff000001}regagner",
+            "toute votre énergie vitale{1a06ff000000} ainsi",
+            "que {1a06ff000001}faire plus de dégâts{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "17, 76",
+        "index": "0x849",
+        "attributes": "114c0000020902008000000000000400",
+        "text": [
+            "{1a05000001}Vous prenez la {1a06ff000001}lettre de",
+            "Renado{1a06ff000000}!{1a05000002} {1a07000007000a}Il y est écrit ce qu'il",
+            "faut faire pour qu'Ilia recouvre",
+            "la mémoire.",
+            "Assignez-la à {1a05030002} sur l'écran {1a05030004}",
+            "pour la montrer à quelqu'un. Si",
+            "vous l'assignez à {1a05030008}, vous",
+            "n'avez pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 78",
+        "index": "0x84b",
+        "attributes": "114e0000020902008200000000000400",
+        "text": [
+            "{1a05000001}Vous récupérez la {1a06ff000001}statuette",
+            "en bois{1a06ff000000}!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}Il semblerait que cette",
+            "figurine aux formes étranges",
+            "appartenait à Ilia. C'est un",
+            "objet vital pour sa guérison!",
+            "Assignez-la à {1a05030002} sur l'écran {1a05030004}",
+            "pour la montrer à quelqu'un. Si",
+            "vous l'assignez à {1a05030008}, vous",
+            "n'avez pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 79",
+        "index": "0x84c",
+        "attributes": "114f0000020902008300000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez le {1a06ff000001}collier d'Ilia{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est le collier que portait la",
+            "dame qui a secouru Ilia. Elle y",
+            "tient beaucoup.",
+            "C'est un élément vital pour",
+            "qu'Ilia retrouve la mémoire.",
+            "Assignez-le à {1a05030002} sur l'écran {1a05030004}",
+            "pour le montrer à quelqu'un.",
+            "Si vous l'assignez à {1a05030008}, vous",
+            "n'avez pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 80",
+        "index": "0x84d",
+        "attributes": "11500000020902008400000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez le {1a06ff000001}Lien de ",
+            "l'amitié{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ilia a fabriqué cette flûte",
+            "spécialement pour vous.",
+            "Avec cet objet, vous pouvez",
+            "appeler {1a05000022} même",
+            "s'il n'y a pas d'herbe à",
+            "proximité.",
+            "Assignez-le à {1a05030002} sur l'écran {1a05030004}",
+            "pour souffler dedans. Si vous",
+            "l'assignez à {1a05030008}, vous n'avez pas",
+            "besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 92",
+        "index": "0x859",
+        "attributes": "115c0000020902009000000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez la {1a06ff000001}note",
+            "de Auru{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Elle est destinée à Fyer, au",
+            "lac Hylia.",
+            "Assignez-la à {1a05030002} sur l'écran {1a05030004}",
+            "pour la faire lire à quelqu'un. Si",
+            "vous l'assignez à {1a05030008}, vous",
+            "n'avez pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "12, 180",
+        "index": "0x8df",
+        "attributes": "0cb4000022000000ff00000000000400",
+        "text": [
+            "Beth... Ça va?"
+        ]
+    },
+    {
+        "ID": "12, 208",
+        "index": "0x8fb",
+        "attributes": "0cd0000028000000ff00000000000400",
+        "text": [
+            "Veuillez m'excuser, je ne me suis",
+            "pas présenté. Je me nomme",
+            "{1a06ff000002}Renado{1a06ff000000} et je suis le prêtre",
+            "de ce village."
+        ]
+    },
+    {
+        "ID": "12, 210",
+        "index": "0x8fd",
+        "attributes": "0cd2000028000000ff00000000000400",
+        "text": [
+            "Voici ma fille, {1a06ff000002}Luda{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "12, 211",
+        "index": "0x8fe",
+        "attributes": "0cd3000022000000ff00000000000400",
+        "text": [
+            "Les monstres nous ont enlevés! Et",
+            "après, ils nous ont emmenés",
+            "quelque part! C'est le père Renado",
+            "qui nous a secourus!"
+        ]
+    },
+    {
+        "ID": "12, 242",
+        "index": "0x91d",
+        "attributes": "0cf2000022000000ff00000000000400",
+        "text": [
+            "Beth... Pardon... de t'avoir",
+            "poussée..."
+        ]
+    },
+    {
+        "ID": "12, 253",
+        "index": "0x928",
+        "attributes": "0cfd000022000000ff00000000000400",
+        "text": [
+            "Ilia..."
+        ]
+    },
+    {
+        "ID": "12, 254",
+        "index": "0x929",
+        "attributes": "0cfe000022000000ff00000000000400",
+        "text": [
+            "Tu dois sauver Ilia!"
+        ]
+    },
+    {
+        "ID": "13, 0",
+        "index": "0x92b",
+        "attributes": "0d00000022000000ff00000000000400",
+        "text": [
+            "{1a05000000}, c'est penser à toi",
+            "et à Ilia qui m'a permis de tenir",
+            "quand mon courage m'abandonnait."
+        ]
+    },
+    {
+        "ID": "13, 4",
+        "index": "0x92f",
+        "attributes": "0d04000022000000ff00000000000400",
+        "text": [
+            "Alors tu n'as plus besoin de",
+            "t'inquiéter pour moi.",
+            "Va secourir Ilia!"
+        ]
+    },
+    {
+        "ID": "13, 119",
+        "index": "0x9a8",
+        "attributes": "0d77000022000000ff00000000000400",
+        "text": [
+            "Dis, {1a05000000}. Pour Ilia..."
+        ]
+    },
+    {
+        "ID": "13, 130",
+        "index": "0x9fe",
+        "attributes": "0d8200002d000000ff00000000000400",
+        "text": [
+            "Bon, je pense que je vais rester ici",
+            "encore un peu. Je me fais du souci",
+            "pour Ilia, et puis..."
+        ]
+    },
+    {
+        "ID": "13, 145",
+        "index": "0xa0d",
+        "attributes": "0d910000150d0100ff000b0000000400",
+        "text": [
+            "Xa... Zant!{1a07000004001e}"
+        ]
+    },
+    {
+        "ID": "13, 147",
+        "index": "0xa0f",
+        "attributes": "0d93000008000000ff00000000000400",
+        "text": [
+            "Sotte rebelle que tu es, Midna."
+        ]
+    },
+    {
+        "ID": "13, 153",
+        "index": "0xa33",
+        "attributes": "0d99000008000000ff00000000000400",
+        "text": [
+            "Midna... aurais-tu oublié? Cette",
+            "bête est une créature de la lumière.",
+            "Une des créatures qui ont oppressé",
+            "notre peuple!"
+        ]
+    },
+    {
+        "ID": "13, 156",
+        "index": "0xa36",
+        "attributes": "0d9c000008000000ff00000000000400",
+        "text": [
+            "C'est pour cela, Midna..."
+        ]
+    },
+    {
+        "ID": "8, 103",
+        "index": "0xa40",
+        "attributes": "08670000150d0000ff000d001f1f0400",
+        "text": [
+            "Je me demande qui peut bien",
+            "connaître l'incantation qui permet",
+            "de recharger le pouvoir du bâton",
+            "Anima... Pas Ooccoo en tout cas."
+        ]
+    },
+    {
+        "ID": "8, 107",
+        "index": "0xa44",
+        "attributes": "086b0000150d0000ff000d001f1f0400",
+        "text": [
+            "Zant est dans le Crépuscule!"
+        ]
+    },
+    {
+        "ID": "13, 173",
+        "index": "0xa47",
+        "attributes": "0dad000026000000ff00000000000400",
+        "text": [
+            "Midna!!"
+        ]
+    },
+    {
+        "ID": "13, 188",
+        "index": "0xa56",
+        "attributes": "0dbc000026000000ff00000000000400",
+        "text": [
+            "Midna... Je pense avoir compris",
+            "qui tu es vraiment..."
+        ]
+    },
+    {
+        "ID": "13, 191",
+        "index": "0xa59",
+        "attributes": "0dbf000026000000ff00000000000400",
+        "text": [
+            "Midna, accepte ce don. Prends..."
+        ]
+    },
+    {
+        "ID": "8, 109",
+        "index": "0xa5d",
+        "attributes": "086d0000150d0000ff000d001f1f0400",
+        "text": [
+            "{1a05000000}, aide-moi à",
+            "vaincre Zant!"
+        ]
+    },
+    {
+        "ID": "13, 209",
+        "index": "0xa6b",
+        "attributes": "0dd10000150d0000ff00010000000400",
+        "text": [
+            "Après tout, Zant a fait tous ces",
+            "efforts pour nous le remettre, ce",
+            "serait dommage de ne pas en",
+            "profiter!"
+        ]
+    },
+    {
+        "ID": "13, 213",
+        "index": "0xa7c",
+        "attributes": "0dd50000150d0000ff000f0000000400",
+        "text": [
+            "Le {1a06ff000001}Miroir des ombres{1a06ff000000}... c'est la",
+            "seule chance que nous ayons pour",
+            "retrouver Zant!"
+        ]
+    },
+    {
+        "ID": "13, 235",
+        "index": "0xa92",
+        "attributes": "0deb0000150d0000ff000d0000000400",
+        "text": [
+            "Mais Zant s'est emparé du",
+            "pouvoir... et il a transformé",
+            "les habitants du {1a06ff000001}Crépuscule",
+            "{1a06ff000000}en créatures des ombres."
+        ]
+    },
+    {
+        "ID": "13, 241",
+        "index": "0xa98",
+        "attributes": "0df10000150d0000ff000d0000000400",
+        "text": [
+            "Avec le miroir, nous pouvons entrer",
+            "dans le {1a06ff000001}Crépuscule{1a06ff000000}. Et Zant se",
+            "trouve certainement là-bas."
+        ]
+    },
+    {
+        "ID": "14, 13",
+        "index": "0xab4",
+        "attributes": "0e0d0000150d0000ff00100000000400",
+        "text": [
+            "Si nous arrivons à vaincre Zant,",
+            "nous pourrons lever la malédiction",
+            "qui pèse sur moi et rendre vie à",
+            "Zelda!"
+        ]
+    },
+    {
+        "ID": "14, 31",
+        "index": "0xac6",
+        "attributes": "0e1f000000000000ff00000000000400",
+        "text": [
+            "C'est sans doute lui qui a doté",
+            "{1a06ff000001}Zant{1a06ff000000} de ce {1a06ff000001}pouvoir malfaisant{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "14, 32",
+        "index": "0xac7",
+        "attributes": "0e200000150d0000ff00060000000400",
+        "text": [
+            "Si vous venez juste de comprendre",
+            "d'où vient le pouvoir de Zant...",
+            "c'est bien trop tard!"
+        ]
+    },
+    {
+        "ID": "14, 47",
+        "index": "0xad6",
+        "attributes": "0e2f0000150d0000ff001a0000000400",
+        "text": [
+            "Zant!"
+        ]
+    },
+    {
+        "ID": "14, 68",
+        "index": "0xaeb",
+        "attributes": "0e440000150d0000ff000b0000000400",
+        "text": [
+            "Tu ne comprends donc pas...",
+            "Si tu ne peux pas être roi, Zant,",
+            "c'est à cause de ce qu'on peut lire",
+            "dans tes yeux!",
+            "Cette soif de pouvoir tapie dans ton",
+            "regard provoqua autrefois la perte",
+            "de notre peuple! Nous n'avons pas",
+            "oublié, Zant..."
+        ]
+    },
+    {
+        "ID": "14, 69",
+        "index": "0xaec",
+        "attributes": "0e45000008000000ff000b0000000400",
+        "text": [
+            "Midna, sotte {1a06ff000001}princesse des",
+            "ombres{1a06ff000000}... Sache que la {1a06ff000001}malédiction{1a06ff000000}",
+            "qui pèse sur toi {1a06ff000001}ne peut être",
+            "levée{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "8, 151",
+        "index": "0xb11",
+        "attributes": "0897000000000000ff00000000000400",
+        "text": [
+            "C'est la seule chance que nous",
+            "ayons contre Zant...",
+            "Aide-moi à le retrouver."
+        ]
+    },
+    {
+        "ID": "14, 118",
+        "index": "0xb1d",
+        "attributes": "0e76000026000000ff00000000000400",
+        "text": [
+            "Ne dis rien, Midna..."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "index": "0xbe5",
+        "attributes": "11b8000002090200ec00000000000400",
+        "text": [
+            "{1a05000001}Vous avez un nouveau",
+            "compagnon! Le {1a06ff000001}fils de Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Vous pouvez compter sur cet",
+            "ami de Célestia!",
+            "Assignez-le à {1a05030002} sur l'écran {1a05030004}",
+            "pour l'appeler avec {1a05030002}. Si vous",
+            "l'assignez à {1a05030008}, vous n'avez",
+            "pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 0",
+        "index": "0xc2d",
+        "attributes": "12000000020b04000800000000000600",
+        "text": [
+            "Le sac de bombes que Iza vous a prêté.",
+            "Appuyez sur {1a05030002} pour en prendre une.",
+            "Appuyez sur {1a05030001} ou {1a05030002} pour les poser, ou les",
+            "lancer si vous courez. Equipez l'{1a06ff000001}Arc du",
+            "Héros{1a06ff000000} pour le combiner avec les bombes",
+            "avec {1a05030014} et faire des {1a06ff000001}flèches explosives{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "18, 31",
+        "index": "0xc4c",
+        "attributes": "121f0000020b04002700000000000600",
+        "text": [
+            "Le fils de Ooccoo.",
+            "Parlez-lui et il vous ramènera",
+            "immédiatement auprès de Ooccoo.",
+            "Assignez-le à {1a05030002} pour l'appeler.",
+            "Si vous l'assignez à {1a05030008}, vous pouvez alors",
+            "l'appeler directement sans utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 32",
+        "index": "0xc4d",
+        "attributes": "12200000020b04002800000000000400",
+        "text": [
+            "Cette épée, forgée par Rusl, a sa poignée",
+            "en corne de chèvre. Frappez en mimant",
+            "le geste avec {1a05030011}. Rangez-la avec {1a05030001}."
+        ]
+    },
+    {
+        "ID": "18, 98",
+        "index": "0xc8f",
+        "attributes": "12620000020b04006a00000000000600",
+        "text": [
+            "Assignez cette soupe préparée par",
+            "Coro à {1a05030002} pour la boire.",
+            "Le résultat devrait être... intéressant."
+        ]
+    },
+    {
+        "ID": "18, 120",
+        "index": "0xca5",
+        "attributes": "12780000020b04008000000000000600",
+        "text": [
+            "Une lettre de Renado adressée à Telma.",
+            "Il y est décrit en détail ce qu'il faut faire",
+            "pour guérir Ilia de son amnésie.",
+            "Assignez-la à {1a05030008} ou {1a05030002} pour la faire lire",
+            "à quelqu'un."
+        ]
+    },
+    {
+        "ID": "18, 122",
+        "index": "0xca7",
+        "attributes": "127a0000020b04008200000000000600",
+        "text": [
+            "Une statuette d'étrange facture qui",
+            "appartiendrait à Ilia.",
+            "C'est un élément vital pour l'aider à",
+            "recouvrer la mémoire. Assignez-la à {1a05030008}",
+            "ou {1a05030002} pour la montrer à quelqu'un."
+        ]
+    },
+    {
+        "ID": "18, 123",
+        "index": "0xca8",
+        "attributes": "127b0000020b04008300000000000600",
+        "text": [
+            "Un collier porte-bonheur que portait",
+            "la dame qui a secouru Ilia.",
+            "C'est un élément vital pour soigner",
+            "l'amnésie d'Ilia. Assignez-le à {1a05030008} ou {1a05030002}",
+            "pour le montrer à quelqu'un."
+        ]
+    },
+    {
+        "ID": "18, 124",
+        "index": "0xca9",
+        "attributes": "127c0000020b04008400000000000600",
+        "text": [
+            "Ilia a fait cette flûte pour vous,",
+            "{1a05000000}.",
+            "Assignez-la à {1a05030002} et utilisez-la avec {1a05030002} pour",
+            "appeler {1a05000022} à vous, même là où",
+            "il n'y a pas d'herbe à cheval. Assignez-la",
+            "à {1a05030008} pour vous passer de {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 136",
+        "index": "0xcb5",
+        "attributes": "12880000020b04009000000000000600",
+        "text": [
+            "Le message que Auru a écrit à l'attention",
+            "de Fyer.",
+            "Assignez-le à {1a05030008} ou à {1a05030002} pour le faire lire",
+            "à une personne devant vous."
+        ]
+    },
+    {
+        "ID": "18, 137",
+        "index": "0xcb6",
+        "attributes": "12890000020b04009100000000000600",
+        "text": [
+            "Le dessin qu'a fait Ashei de l'homme-bête au",
+            "{1a06ff000001}poisson rouge{1a06ff000000} qu'elle a vu.",
+            "Assignez-le à {1a05030008} ou {1a05030002} pour le montrer",
+            "à quelqu'un."
+        ]
+    },
+    {
+        "ID": "18, 216",
+        "index": "0xd05",
+        "attributes": "12d80000020b0400e000000000000400",
+        "text": [
+            "Les morceaux d'âme que détenaient ces",
+            "spectres que seuls vos Sens permettent",
+            "de voir. Ramenez-en au moins 20 à",
+            "Jovani et..."
+        ]
+    },
+    {
+        "ID": "18, 228",
+        "index": "0xd11",
+        "attributes": "12e40000020b0400ec00000000000600",
+        "text": [
+            "Ooccoo, une Célestienne.",
+            "Faites appel à elle avec {1a05030002} et elle vous",
+            "téléportera jusqu'à son magasin. Si vous",
+            "l'assignez à {1a05030008}, vous pouvez l'appeler",
+            "directement sans passer par {1a05030002}."
+        ]
+    },
+    {
+        "ID": "9, 197",
+        "index": "0xd52",
+        "attributes": "09c5000002000000ff00000000000100",
+        "text": [
+            "L'amnésie d'Ilia..."
+        ]
+    },
+    {
+        "ID": "9, 209",
+        "index": "0xd5e",
+        "attributes": "09d1000002000000ff00000000000100",
+        "text": [
+            "Le rêve d'Agitha"
+        ]
+    },
+    {
+        "ID": "9, 214",
+        "index": "0xd63",
+        "attributes": "09d6000002000000ff00000000000100",
+        "text": [
+            "De la part de Mme Yeti"
+        ]
+    },
+    {
+        "ID": "10, 41",
+        "index": "0xdb6",
+        "attributes": "0a29000002000000ff00000000000100",
+        "text": [
+            "Renado"
+        ]
+    },
+    {
+        "ID": "10, 42",
+        "index": "0xdb7",
+        "attributes": "0a2a000002000000ff00000000000100",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 43",
+        "index": "0xdb8",
+        "attributes": "0a2b000002000000ff00000000000100",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 46",
+        "index": "0xdbb",
+        "attributes": "0a2e000002000000ff00000000000100",
+        "text": [
+            "Barnes"
+        ]
+    },
+    {
+        "ID": "10, 47",
+        "index": "0xdbc",
+        "attributes": "0a2f000002000000ff00000000000100",
+        "text": [
+            "Barnes"
+        ]
+    },
+    {
+        "ID": "10, 51",
+        "index": "0xdc0",
+        "attributes": "0a33000002000000ff00000000000100",
+        "text": [
+            "Purlo"
+        ]
+    },
+    {
+        "ID": "10, 52",
+        "index": "0xdc1",
+        "attributes": "0a34000002000000ff00000000000100",
+        "text": [
+            "Madame Fanadi, voyante"
+        ]
+    },
+    {
+        "ID": "10, 53",
+        "index": "0xdc2",
+        "attributes": "0a35000002000000ff00000000000100",
+        "text": [
+            "Princesse Agitha"
+        ]
+    },
+    {
+        "ID": "10, 55",
+        "index": "0xdc4",
+        "attributes": "0a37000002000000ff00000000000100",
+        "text": [
+            "Impaz"
+        ]
+    },
+    {
+        "ID": "10, 57",
+        "index": "0xdc6",
+        "attributes": "0a39000002000000ff00000000000100",
+        "text": [
+            "Shad"
+        ]
+    },
+    {
+        "ID": "10, 58",
+        "index": "0xdc7",
+        "attributes": "0a3a000002000000ff00000000000100",
+        "text": [
+            "Yeta"
+        ]
+    },
+    {
+        "ID": "10, 141",
+        "index": "0xe1a",
+        "attributes": "0a8d000002000000ff00000000000c00",
+        "text": [
+            "Cher {1a05000000},",
+            "J'ai une nouvelle urgente à vous",
+            "communiquer concernant",
+            "l'amnésie d'Ilia.",
+            "",
+            "Je n'ignore pas que vous devez",
+            "être fort occupé, mais je vous en",
+            "prie, venez au plus vite.",
+            "Je vous attends en mon {1a06ff000001}église{1a06ff000000},",
+            "à {1a06ff000001}Cocorico{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "10, 142",
+        "index": "0xe1b",
+        "attributes": "0a8e000002000000ff00000000000c00",
+        "text": [
+            "Jeune homme, notre rencontre",
+            "fortuite et à l'heureux",
+            "dénouement m'a permis de passer",
+            "un très bon moment en votre",
+            "compagnie.",
+            "",
+            "Grâce à vous, j'ai pu revoir le",
+            "sourire de mon fils et cela a",
+            "empli mon cur de joie.",
+            "",
+            "Enfin, mon fils et moi sommes",
+            "en route pour une autre contrée.",
+            "Si vous continuez vous aussi",
+            "votre aventure, nos chemins",
+            "ne peuvent que se croiser",
+            "à nouveau.",
+            "",
+            "Mon fils et moi attendons ces",
+            "retrouvailles avec impatience.",
+            "Prenez soin de vous!",
+            "                                      Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 143",
+        "index": "0xe1c",
+        "attributes": "0a8f000002000000ff00000000000c00",
+        "text": [
+            "Jeune homme, notre rencontre",
+            "fortuite m'a permis de passer un",
+            "très bon moment.",
+            "",
+            "Je suis maintenant repartie",
+            "visiter une autre région.",
+            "Si vous poursuivez vos",
+            "aventures, peut-être nous",
+            "rencontrerons-nous à nouveau?",
+            "",
+            "Prenez soin de vous!",
+            "                                      Ooccoo",
+            "P.S.",
+            "Je n'ai pas eu l'occasion de vous",
+            "en parler lors de notre rencontre,",
+            "mais j'ai un fils. J'espère vous le",
+            "présenter lors de nos éventuelles",
+            "retrouvailles!",
+            "",
+            "Vous devriez vous entendre à",
+            "merveille: lui aussi se range",
+            "dans votre inventaire!"
+        ]
+    },
+    {
+        "ID": "10, 146",
+        "index": "0xe1f",
+        "attributes": "0a92000002000000ff00000000000c00",
+        "text": [
+            "J'ai finalement terminé mon",
+            "nouveau modèle de bombe!",
+            "Une bombe qui explose sous",
+            "l'eau, ça en jette, non?",
+            "Elles sont déjà en rayon, alors",
+            "ramène-toi en vitesse!",
+            "N'oublie pas, je suis ouvert sept",
+            "jours sur sept, et 24h/24!",
+            " {1a06ff000001}      Barnes, vendeur de bombes"
+        ]
+    },
+    {
+        "ID": "10, 147",
+        "index": "0xe20",
+        "attributes": "0a93000002000000ff00000000000c00",
+        "text": [
+            "Et alors, ça boume?",
+            "J'espère que tu t'éclates tous les",
+            "jours avec mes bombes!",
+            "J'ai un nouveau modèle de bombe",
+            "du genre... exotique!",
+            "Viens jeter un il si tu passes",
+            "dans le coin avec des rubis dans",
+            "les poches! Il faut absolument",
+            "que tu les essaies!",
+            " {1a06ff000001}      Barnes, vendeur de bombes"
+        ]
+    },
+    {
+        "ID": "10, 148",
+        "index": "0xe21",
+        "attributes": "0a94000002000000ff00000000000c00",
+        "text": [
+            "{1a0903000000000e2c}La fabrique de bombes Barnes",
+            "vous remercie de votre confiance!",
+            "",
+            "Sachez que vous pouvez aussi",
+            "combiner nos bombes avec un {1a06ff000001}arc",
+            "{1a06ff000000}et créer des {1a06ff000001}flèches explosives{1a06ff000000}.",
+            "",
+            "Equipez-vous de votre arc, ouvrez",
+            "l'inventaire avec {1a05030009},",
+            "sélectionnez les bombes puis",
+            "appuyez sur {1a0500000e}.",
+            "A votre bon plaisir!"
+        ]
+    },
+    {
+        "ID": "10, 153",
+        "index": "0xe26",
+        "attributes": "0a99000002000000ff00000000000c00",
+        "text": [
+            "{1a0903000000000e27}En travail, échec sur échec.",
+            "En amour, Cupidon vous méprise.",
+            "",
+            "Aux brebis égarées qui se",
+            "reconnaissent en ces mots,",
+            "Madame Fanadi, maîtresse du manoir ",
+            "de la divination, vous apportera",
+            "la solution.",
+            "",
+            "Dirigez vos pas vers la rue",
+            "sud-ouest et faites le premier",
+            "pas vers une nouvelle vie!"
+        ]
+    },
+    {
+        "ID": "10, 154",
+        "index": "0xe27",
+        "attributes": "0a9a000002000000ff00000000000c00",
+        "text": [
+            "En travail, échec sur échec.",
+            "En amour, Cupidon vous méprise.",
+            "",
+            "Aux brebis égarées qui se",
+            "reconnaissent en ces mots,",
+            "Madame Fanadi, maîtresse du manoir ",
+            "de la divination, vous apportera",
+            "la solution.",
+            "",
+            "Dirigez vos pas vers la rue",
+            "sud-est et faites le premier",
+            "pas vers une nouvelle vie!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "index": "0xe29",
+        "attributes": "0a9c000002000000ff00000000000c00",
+        "text": [
+            "L'Office du Tourisme de Lanelle",
+            "présente de fabuleuses",
+            "attractions dans le plus grand",
+            "respect de la nature!",
+            "",
+            "Cette fois, il s'agit d'activités",
+            "pour les plus sportifs présentées",
+            "par les surs Iza et Hena. ",
+            "",
+            "Vous trouverez ces activités au",
+            "bord de la rivière, en aval de la",
+            "cascade des Zoras.",
+            "{1a05060004}Les rapides de Iza{1a05060004}",
+            "Essayez de toucher des cibles",
+            "tout en descendant les rapides!",
+            "Les flèches explosives sont",
+            "fournies gracieusement!",
+            "",
+            "{1a05060004}Le paradis du pêcheur d'Hena{1a05060004}",
+            "Mesurez-vous à la nature dans",
+            "une pêche au lancer sans",
+            "artifices! Quels poissons",
+            "allez-vous remonter?",
+            "",
+            "Venez nombreux!"
+        ]
+    },
+    {
+        "ID": "10, 159",
+        "index": "0xe2c",
+        "attributes": "0a9f000002000000ff00000000000c00",
+        "text": [
+            "La fabrique de bombes Barnes",
+            "vous remercie de votre confiance!",
+            "",
+            "Sachez que vous pouvez aussi",
+            "combiner nos bombes avec un arc{1a06ff000001}",
+            "{1a06ff000000}et créer des {1a06ff000001}flèches explosives{1a06ff000000}.",
+            "",
+            "Equipez-vous de votre arc, ouvrez",
+            "l'inventaire avec {1a06ff000001}{1a05030004}{1a06ff000000},",
+            "sélectionnez les bombes puis",
+            "appuyez sur {1a05030014}.",
+            "A votre bon plaisir!"
+        ]
+    },
+    {
+        "ID": "10, 160",
+        "index": "0xe2d",
+        "attributes": "0aa0000002000000ff00000000000c00",
+        "text": [
+            "Cher {1a05000000},",
+            "",
+            "J'ai voyagé à travers tout Hyrule ",
+            "depuis notre dernière rencontre, ",
+            "et j'ai prononcé l'incantation ",
+            "devant toutes les statues, mais ",
+            "aucune n'a montré de réactions...",
+            "",
+            "C'est décourageant!",
+            "",
+            "Mais il est trop tôt pour baisser ",
+            "les bras! Mon père se moquerait ",
+            "de moi s'il était encore vivant...",
+            "Je vais retourner à Cocorico ",
+            "et chercher à nouveau des indices",
+            "dans le sous-sol de l'église.",
+            "",
+            "Si tu découvres quelque chose ",
+            "de ton côté, n'hésite pas à venir",
+            "m'en parler!",
+            "",
+            "Sur les traces de mon rêve, ",
+            "                                      Shad"
+        ]
+    }
+]

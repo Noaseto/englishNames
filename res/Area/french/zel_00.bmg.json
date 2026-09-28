@@ -1,0 +1,1645 @@
+[
+    {
+        "ID": "0, 141",
+        "index": "0x8c",
+        "attributes": "008d0000020902002801000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez l'{1a06ff000001}épée de Ordon{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Cette lame a été forgée par Moï,",
+            "guerrier de Ordon, comme cadeau",
+            "pour la famille royale d'Hyrule."
+        ]
+    },
+    {
+        "ID": "0, 143",
+        "index": "0x8e",
+        "attributes": "008f0000020902002a01000000000400",
+        "text": [
+            "{1a09030000000007f3}{1a05000001}Vous obtenez le {1a06ff000001}bouclier de",
+            "Ordon{1a06ff000000}!{1a05000002} {1a07000007000a}Appuyez sur {1a0500000d} pour",
+            "vous protéger avec. Attention,",
+            "il craint le feu!"
+        ]
+    },
+    {
+        "ID": "0, 149",
+        "index": "0x94",
+        "attributes": "00950000020902003001000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez l'{1a06ff000001}armure magique{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}La sublime, la magnifique,",
+            "la superbe armure magique!",
+            "Merci les Malo Mart!",
+            "Son enchantement consomme",
+            "des {1a06ff000006}rubis{1a06ff000000} quand vous la portez,",
+            "et encore plus quand vous",
+            "subissez une attaque.",
+            "Tant que vous avez des {1a06ff000006}rubis{1a06ff000000},",
+            "vous ne subissez aucun dégât!",
+            "Sinon, l'effet disparaît et elle",
+            "ne fait que vous encombrer..."
+        ]
+    },
+    {
+        "ID": "1, 81",
+        "index": "0x150",
+        "attributes": "0151000002090200ec01000000000400",
+        "text": [
+            "{1a0903000000000be5}{1a05000001}Vous avez un nouveau",
+            "compagnon! Le {1a06ff000001}fils de Baba{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Vous pouvez compter sur cet",
+            "ami de City in the Sky!",
+            "Assignez-le à {1a05000010} ou {1a0500000f} pour",
+            "faire appel à ses services et",
+            "il vous mènera directement",
+            "auprès de Baba."
+        ]
+    },
+    {
+        "ID": "1, 83",
+        "index": "0x152",
+        "attributes": "0153000002090200ee01000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez une {1a06ff000001}petite clé{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Elle ouvre le portail qui mène",
+            "à la forêt de Faron."
+        ]
+    },
+    {
+        "ID": "1, 88",
+        "index": "0x157",
+        "attributes": "0158000002090201f301000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez la {1a06ff000001}clé du portail{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est la clé du portail qui",
+            "ferme la route menant au",
+            "village de Kakariko."
+        ]
+    },
+    {
+        "ID": "1, 89",
+        "index": "0x158",
+        "attributes": "0159000002090200f401000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez un {1a06ff000001}potiron",
+            "toalien{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il provient de Ordon, votre",
+            "village natal."
+        ]
+    },
+    {
+        "ID": "1, 90",
+        "index": "0x159",
+        "attributes": "015a000002090200f501000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez du {1a06ff000001}fromage",
+            "toalien{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il a été fait avec le lait des",
+            "chèvres de Ordon."
+        ]
+    },
+    {
+        "ID": "1, 99",
+        "index": "0x162",
+        "attributes": "0163000002090200fe01000000000400",
+        "text": [
+            "{1a05000001}Vous recevez une{1a06ff000001} petite clé{1a06ff000000}!{1a05000002} ",
+            "{1a07000007000a}Elle ouvre le portail de la forêt",
+            "de Faron."
+        ]
+    },
+    {
+        "ID": "1, 141",
+        "index": "0x18c",
+        "attributes": "018d0000020b04002800000000000100",
+        "text": [
+            "Epée de Ordon"
+        ]
+    },
+    {
+        "ID": "1, 143",
+        "index": "0x18e",
+        "attributes": "018f0000020b04002a00000000000100",
+        "text": [
+            "Bouclier de Ordon"
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "index": "0x28c",
+        "attributes": "028d0000020b04002800000000000400",
+        "text": [
+            "{1a0903000000000c4d}Moï a forgé cette épée pour l'offrir à",
+            "la famille royale d'Hyrule. La poignée",
+            "est faite en corne de chèvre de Ordon.",
+            "{1a0500000b} pour frapper, {1a0500000a} pour ranger."
+        ]
+    },
+    {
+        "ID": "2, 143",
+        "index": "0x28e",
+        "attributes": "028f0000020b04002a00000000000400",
+        "text": [
+            "{1a0903000000000c4f}Un bouclier traditionnel de Ordon.",
+            "Votre épée à la main, appuyez sur {1a0500000d}",
+            "pour vous protéger. Il craint le feu."
+        ]
+    },
+    {
+        "ID": "2, 178",
+        "index": "0x2b1",
+        "attributes": "02b20000020b04004d00000000000600",
+        "text": [
+            "Un bâton qui anime d'antiques statues",
+            "de pierre.",
+            "Ce n'est plus qu'un artefact décrépit par sa",
+            "sortie du Temple of Time. Dans l'état, il",
+            "est inutilisable."
+        ]
+    },
+    {
+        "ID": "3, 21",
+        "index": "0x314",
+        "attributes": "03150000020b0400b000000000000400",
+        "text": [
+            "L'odeur d'Iria. Elle imprégnait la",
+            "sacoche que vous avez trouvée dans",
+            "la plaine de Lanayru."
+        ]
+    },
+    {
+        "ID": "3, 23",
+        "index": "0x316",
+        "attributes": "03170000020b0400b200000000000400",
+        "text": [
+            "L'odeur des spectres qui errent",
+            "dans la Arbiter's Grounds, dans",
+            "le désert."
+        ]
+    },
+    {
+        "ID": "3, 25",
+        "index": "0x318",
+        "attributes": "03190000020b0400b400000000000400",
+        "text": [
+            "L'odeur des enfants de Ordon. Elle",
+            "imprégnait l'épée de bois que vous",
+            "avez trouvée dans la plaine d'Eldin."
+        ]
+    },
+    {
+        "ID": "3, 37",
+        "index": "0x324",
+        "attributes": "03250000020b0400c000000000000600",
+        "text": [
+            "Un scarabée {1a05060002} au corps doré que",
+            "vous avez trouvé dans la plaine",
+            "de Faron."
+        ]
+    },
+    {
+        "ID": "3, 38",
+        "index": "0x325",
+        "attributes": "03260000020b0400c100000000000600",
+        "text": [
+            "Un scarabée {1a05060003} au corps doré que",
+            "vous avez trouvé dans la plaine",
+            "de Faron."
+        ]
+    },
+    {
+        "ID": "3, 41",
+        "index": "0x328",
+        "attributes": "03290000020b0400c400000000000600",
+        "text": [
+            "Une lucane {1a05060002} au corps doré que",
+            "vous avez trouvée dans la plaine",
+            "au nord du Hyrule Castle."
+        ]
+    },
+    {
+        "ID": "3, 42",
+        "index": "0x329",
+        "attributes": "032a0000020b0400c500000000000600",
+        "text": [
+            "Une lucane {1a05060003} au corps doré que",
+            "vous avez trouvée dans la plaine",
+            "au nord du Hyrule Castle."
+        ]
+    },
+    {
+        "ID": "3, 43",
+        "index": "0x32a",
+        "attributes": "032b0000020b0400c600000000000600",
+        "text": [
+            "Une sauterelle {1a05060002} au corps doré",
+            "que vous avez trouvée dans la",
+            "plaine au nord de Kakariko."
+        ]
+    },
+    {
+        "ID": "3, 44",
+        "index": "0x32b",
+        "attributes": "032c0000020b0400c700000000000600",
+        "text": [
+            "Une sauterelle {1a05060003} au corps doré",
+            "que vous avez trouvée dans la",
+            "plaine au nord de Kakariko."
+        ]
+    },
+    {
+        "ID": "3, 45",
+        "index": "0x32c",
+        "attributes": "032d0000020b0400c800000000000600",
+        "text": [
+            "Un phasme {1a05060002} au corps doré que",
+            "vous avez trouvé au pont d'Eldin."
+        ]
+    },
+    {
+        "ID": "3, 46",
+        "index": "0x32d",
+        "attributes": "032e0000020b0400c900000000000600",
+        "text": [
+            "Un phasme {1a05060003} au corps doré que",
+            "vous avez trouvé au pont d'Eldin."
+        ]
+    },
+    {
+        "ID": "3, 47",
+        "index": "0x32e",
+        "attributes": "032f0000020b0400ca00000000000600",
+        "text": [
+            "Un cloporte {1a05060002} au corps doré que",
+            "vous avez trouvé dans les gorges",
+            "de Kakariko."
+        ]
+    },
+    {
+        "ID": "3, 48",
+        "index": "0x32f",
+        "attributes": "03300000020b0400cb00000000000600",
+        "text": [
+            "Un cloporte {1a05060003} au corps doré que",
+            "vous avez trouvé dans les gorges",
+            "de Kakariko."
+        ]
+    },
+    {
+        "ID": "3, 56",
+        "index": "0x337",
+        "attributes": "03380000020b0400d300000000000600",
+        "text": [
+            "Une libellule {1a05060003} au corps doré",
+            "que vous avez trouvée en amont",
+            "de la Zora's River."
+        ]
+    },
+    {
+        "ID": "3, 57",
+        "index": "0x338",
+        "attributes": "03390000020b0400d400000000000600",
+        "text": [
+            "Une fourmi {1a05060002} au corps doré que",
+            "vous avez trouvée dans le",
+            "cimetière de Kakariko."
+        ]
+    },
+    {
+        "ID": "3, 58",
+        "index": "0x339",
+        "attributes": "033a0000020b0400d500000000000600",
+        "text": [
+            "Une fourmi {1a05060003} au corps doré que",
+            "vous avez trouvée dans Kakariko."
+        ]
+    },
+    {
+        "ID": "3, 59",
+        "index": "0x33a",
+        "attributes": "033b0000020b0400d600000000000600",
+        "text": [
+            "Un éphémère {1a05060002} au corps doré",
+            "que vous avez trouvé dans le",
+            "Gerudo Desert."
+        ]
+    },
+    {
+        "ID": "3, 60",
+        "index": "0x33b",
+        "attributes": "033c0000020b0400d700000000000600",
+        "text": [
+            "Un éphémère {1a05060003} au corps doré",
+            "que vous avez trouvé dans le",
+            "Gerudo Desert."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "index": "0x350",
+        "attributes": "03510000020b0400ec00000000000600",
+        "text": [
+            "{1a0903000000000d11}Baba, une Célestienne.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour l'appeler et",
+            "elle vous emmènera instantanément au",
+            "magasin de City in the Sky."
+        ]
+    },
+    {
+        "ID": "3, 89",
+        "index": "0x358",
+        "attributes": "03590000020b0400f400000000000700",
+        "text": [
+            "Un potiron de Ordon. Son odeur rappelle",
+            "bien des souvenirs. C'est délicieux en",
+            "soupe!"
+        ]
+    },
+    {
+        "ID": "3, 90",
+        "index": "0x359",
+        "attributes": "035a0000020b0400f500000000000700",
+        "text": [
+            "Un fromage fait avec le lait des chèvres ",
+            "de Ordon. Utilisé comme condiment dans",
+            "une soupe, il en adoucira agréablement",
+            "la saveur."
+        ]
+    },
+    {
+        "ID": "3, 91",
+        "index": "0x35a",
+        "attributes": "035b0000020b0400f600000000000700",
+        "text": [
+            "La clé de la chambre du yéti dans les ruines",
+            "des Snowpeak. Le fragment du Miroir des",
+            "ombres y est conservé."
+        ]
+    },
+    {
+        "ID": "3, 112",
+        "index": "0x36f",
+        "attributes": "0370000002000000ff00000000000100",
+        "text": [
+            "Hyrule Castle"
+        ]
+    },
+    {
+        "ID": "3, 113",
+        "index": "0x370",
+        "attributes": "0371000002000000ff00000000000100",
+        "text": [
+            "Forest Temple"
+        ]
+    },
+    {
+        "ID": "3, 114",
+        "index": "0x371",
+        "attributes": "0372000002000000ff00000000000100",
+        "text": [
+            "Goron Mines"
+        ]
+    },
+    {
+        "ID": "3, 115",
+        "index": "0x372",
+        "attributes": "0373000002000000ff00000000000100",
+        "text": [
+            "Lakebed Temple"
+        ]
+    },
+    {
+        "ID": "3, 116",
+        "index": "0x373",
+        "attributes": "0374000002000000ff00000000000100",
+        "text": [
+            "Arbiter's Grounds"
+        ]
+    },
+    {
+        "ID": "3, 117",
+        "index": "0x374",
+        "attributes": "0375000002000000ff00000000000100",
+        "text": [
+            "Ruines des Snowpeak"
+        ]
+    },
+    {
+        "ID": "3, 118",
+        "index": "0x375",
+        "attributes": "0376000002000000ff00000000000100",
+        "text": [
+            "Temple of Time"
+        ]
+    },
+    {
+        "ID": "3, 119",
+        "index": "0x376",
+        "attributes": "0377000002000000ff00000000000100",
+        "text": [
+            "City in the Sky"
+        ]
+    },
+    {
+        "ID": "3, 120",
+        "index": "0x377",
+        "attributes": "0378000002000000ff00000000000100",
+        "text": [
+            "Palace of Twilight"
+        ]
+    },
+    {
+        "ID": "4, 77",
+        "index": "0x44c",
+        "attributes": "044d0000020c0100ff00000000000100",
+        "text": [
+            "Forest Temple{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 78",
+        "index": "0x44d",
+        "attributes": "044e0000020c0100ff00000000000100",
+        "text": [
+            "Goron Mines{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 79",
+        "index": "0x44e",
+        "attributes": "044f0000020c0100ff00000000000100",
+        "text": [
+            "Lakebed Temple{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 80",
+        "index": "0x44f",
+        "attributes": "04500000020c0100ff00000000000100",
+        "text": [
+            "Arbiter's Grounds{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 81",
+        "index": "0x450",
+        "attributes": "04510000020c0100ff00000000000100",
+        "text": [
+            "Ruines des Snowpeak{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 82",
+        "index": "0x451",
+        "attributes": "04520000020c0100ff00000000000100",
+        "text": [
+            "Temple of Time{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 83",
+        "index": "0x452",
+        "attributes": "04530000020c0100ff00000000000100",
+        "text": [
+            "City in the Sky{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 84",
+        "index": "0x453",
+        "attributes": "04540000020c0100ff00000000000100",
+        "text": [
+            "Palace of Twilight{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 85",
+        "index": "0x454",
+        "attributes": "04550000020c0100ff00000000000100",
+        "text": [
+            "Hyrule Castle{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 87",
+        "index": "0x456",
+        "attributes": "04570000020c0100ff00000000000100",
+        "text": [
+            "Ordon{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 88",
+        "index": "0x457",
+        "attributes": "04580000020c0100ff00000000000100",
+        "text": [
+            "Kakariko{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 89",
+        "index": "0x458",
+        "attributes": "04590000020c0100ff00000000000100",
+        "text": [
+            "Zora's River{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 91",
+        "index": "0x45a",
+        "attributes": "045b0000020c0100ff00000000000100",
+        "text": [
+            "Forêt de Faron{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 95",
+        "index": "0x45e",
+        "attributes": "045f0000020c0100ff00000000000100",
+        "text": [
+            "Gerudo Desert{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 96",
+        "index": "0x45f",
+        "attributes": "04600000020c0100ff00000000000100",
+        "text": [
+            "Snowpeak{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 97",
+        "index": "0x460",
+        "attributes": "04610000020c0100ff00000000000100",
+        "text": [
+            "Mirror Chamber{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 99",
+        "index": "0x462",
+        "attributes": "04630000020c0100ff00000000000100",
+        "text": [
+            "Sacred Grove{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 100",
+        "index": "0x463",
+        "attributes": "04640000020c0100ff00000000000100",
+        "text": [
+            "Hyrule Castle Town{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 102",
+        "index": "0x465",
+        "attributes": "04660000020c0100ff00000000000100",
+        "text": [
+            "Malo Mart{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 103",
+        "index": "0x466",
+        "attributes": "04670000020c0100ff00000000000100",
+        "text": [
+            "Barnes Bomb, bombes{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 104",
+        "index": "0x467",
+        "attributes": "04680000020c0100ff00000000000100",
+        "text": [
+            "Malo Mart Castle Branch{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 105",
+        "index": "0x468",
+        "attributes": "04690000020c0100ff00000000000100",
+        "text": [
+            "STAR Tent{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 106",
+        "index": "0x469",
+        "attributes": "046a0000020c0100ff00000000000100",
+        "text": [
+            "Telma's Bar{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 107",
+        "index": "0x46a",
+        "attributes": "046b0000020c0100ff00000000000100",
+        "text": [
+            "Fanadi's Palace{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 108",
+        "index": "0x46b",
+        "attributes": "046c0000020c0100ff00000000000100",
+        "text": [
+            "Agitha's Castle{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 109",
+        "index": "0x46c",
+        "attributes": "046d0000020c0100ff00000000000100",
+        "text": [
+            "Jovani's House{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 110",
+        "index": "0x46d",
+        "attributes": "046e0000020c0100ff00000000000100",
+        "text": [
+            "Hidden village{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 116",
+        "index": "0x473",
+        "attributes": "04740000020c0100ff00000000000100",
+        "text": [
+            "Fishing Hole{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 117",
+        "index": "0x474",
+        "attributes": "04750000020c0100ff00000000000100",
+        "text": [
+            "Upper Zora's River{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "5, 123",
+        "index": "0x57a",
+        "attributes": "057b000002000000ff00000000000100",
+        "text": [
+            "Ordon"
+        ]
+    },
+    {
+        "ID": "5, 124",
+        "index": "0x57b",
+        "attributes": "057c000002000000ff00000000000100",
+        "text": [
+            "Forêt de Ordon"
+        ]
+    },
+    {
+        "ID": "5, 125",
+        "index": "0x57c",
+        "attributes": "057d000002000000ff00000000000100",
+        "text": [
+            "Ordona"
+        ]
+    },
+    {
+        "ID": "5, 126",
+        "index": "0x57d",
+        "attributes": "057e000002000000ff00000000000100",
+        "text": [
+            "Faron"
+        ]
+    },
+    {
+        "ID": "5, 127",
+        "index": "0x57e",
+        "attributes": "057f000002000000ff00000000000100",
+        "text": [
+            "Source de Ordon"
+        ]
+    },
+    {
+        "ID": "5, 128",
+        "index": "0x57f",
+        "attributes": "0580000002000000ff00000000000100",
+        "text": [
+            "Forêt de Faron"
+        ]
+    },
+    {
+        "ID": "5, 129",
+        "index": "0x580",
+        "attributes": "0581000002000000ff00000000000100",
+        "text": [
+            "Kakariko"
+        ]
+    },
+    {
+        "ID": "5, 132",
+        "index": "0x583",
+        "attributes": "0584000002000000ff00000000000100",
+        "text": [
+            "Eldin"
+        ]
+    },
+    {
+        "ID": "5, 133",
+        "index": "0x584",
+        "attributes": "0585000002000000ff00000000000100",
+        "text": [
+            "Zora's River"
+        ]
+    },
+    {
+        "ID": "5, 136",
+        "index": "0x587",
+        "attributes": "0588000002000000ff00000000000100",
+        "text": [
+            "Lanayru"
+        ]
+    },
+    {
+        "ID": "5, 138",
+        "index": "0x589",
+        "attributes": "058a000002000000ff00000000000100",
+        "text": [
+            "Snowpeak"
+        ]
+    },
+    {
+        "ID": "5, 139",
+        "index": "0x58a",
+        "attributes": "058b000002000000ff00000000000100",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 141",
+        "index": "0x58c",
+        "attributes": "058d000002000000ff00000000000100",
+        "text": [
+            "Sacred Grove"
+        ]
+    },
+    {
+        "ID": "5, 142",
+        "index": "0x58d",
+        "attributes": "058e000002000000ff00000000000100",
+        "text": [
+            "Hyrule Castle"
+        ]
+    },
+    {
+        "ID": "5, 143",
+        "index": "0x58e",
+        "attributes": "058f000002000000ff00000000000100",
+        "text": [
+            "Hidden village"
+        ]
+    },
+    {
+        "ID": "5, 144",
+        "index": "0x58f",
+        "attributes": "0590000002000000ff00000000000100",
+        "text": [
+            "Snowpeak Top"
+        ]
+    },
+    {
+        "ID": "5, 145",
+        "index": "0x590",
+        "attributes": "0591000002000000ff00000000000100",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 153",
+        "index": "0x598",
+        "attributes": "0599000002000000ff00000000000100",
+        "text": [
+            "Silure de Ordon"
+        ]
+    },
+    {
+        "ID": "5, 203",
+        "index": "0x5ca",
+        "attributes": "05cb000000000000ff00000000000100",
+        "text": [
+            "Mais tu... tu es de Ordon, c'est ça?{1a07000007000a}",
+            "Désolé d'avoir fondu sur toi",
+            "comme ça... mais c'est aussi",
+            "un peu ma nature..."
+        ]
+    },
+    {
+        "ID": "5, 204",
+        "index": "0x5cb",
+        "attributes": "05cc000002000000ff00000000000100",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 205",
+        "index": "0x5cc",
+        "attributes": "05cd000002000000ff00000000000100",
+        "text": [
+            "Mirror Chamber"
+        ]
+    },
+    {
+        "ID": "5, 206",
+        "index": "0x5cd",
+        "attributes": "05ce000002000000ff00000000000100",
+        "text": [
+            "Sacred Grove"
+        ]
+    },
+    {
+        "ID": "5, 207",
+        "index": "0x5ce",
+        "attributes": "05cf000002000000ff00000000000100",
+        "text": [
+            "Upper Zora's River"
+        ]
+    },
+    {
+        "ID": "5, 208",
+        "index": "0x5cf",
+        "attributes": "05d0000002000000ff00000000000100",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 209",
+        "index": "0x5d0",
+        "attributes": "05d1000002000000ff00000000000100",
+        "text": [
+            "Snowpeak Top"
+        ]
+    },
+    {
+        "ID": "5, 210",
+        "index": "0x5d1",
+        "attributes": "05d2000002000000ff00000000000100",
+        "text": [
+            "Pont d'Eldin"
+        ]
+    },
+    {
+        "ID": "5, 211",
+        "index": "0x5d2",
+        "attributes": "05d3000002000000ff00000000000100",
+        "text": [
+            "Gorge de Kakariko"
+        ]
+    },
+    {
+        "ID": "5, 216",
+        "index": "0x5d7",
+        "attributes": "05d8000002000000ff00000000000100",
+        "text": [
+            "Kakariko"
+        ]
+    },
+    {
+        "ID": "5, 217",
+        "index": "0x5d8",
+        "attributes": "05d9000002000000ff00000000000100",
+        "text": [
+            "Forêt de Faron - N"
+        ]
+    },
+    {
+        "ID": "5, 218",
+        "index": "0x5d9",
+        "attributes": "05da000002000000ff00000000000100",
+        "text": [
+            "Forêt de Faron - S"
+        ]
+    },
+    {
+        "ID": "5, 219",
+        "index": "0x5da",
+        "attributes": "05db000002000000ff00000000000100",
+        "text": [
+            "Source de Ordon"
+        ]
+    },
+    {
+        "ID": "11, 206",
+        "index": "0x5fc",
+        "attributes": "0bce00001a000000ff00000000000400",
+        "text": [
+            "Nous venons tout juste de préparer",
+            "le cadeau. Tu devrais faire tes",
+            "propres préparatifs pour ton départ",
+            "pour le Hyrule Castle.",
+            "Après tout, tu dois délivrer ce",
+            "présent à la famille royale d'Hyrule!",
+            "",
+            "",
+            "Ça serait vraiment... inconvenant...",
+            "si le représentant de Ordon arrivait",
+            "en retard pour une telle occasion,",
+            "tu me suis?"
+        ]
+    },
+    {
+        "ID": "12, 91",
+        "index": "0x689",
+        "attributes": "0c5b00000e080500ff00000000000400",
+        "text": [
+            "Je suis {1a06ff000002}Ordona{1a06ff000000}, l'un des {1a06ff000001}quatre",
+            "Esprits de la lumière{1a06ff000000} que les",
+            "déesses ont désignés pour",
+            "apporter la lumière en Hyrule."
+        ]
+    },
+    {
+        "ID": "12, 99",
+        "index": "0x691",
+        "attributes": "0c6300000e080500ff00000000000400",
+        "text": [
+            "Mais si tu allais dans la {1a06ff000001}forêt de",
+            "Faron{1a06ff000000}, là où tu fus changé en",
+            "loup... Si tu ravivais la lumière",
+            "de l'{1a06ff000001}Esprit{1a06ff000000} qui y réside..."
+        ]
+    },
+    {
+        "ID": "16, 246",
+        "index": "0x7f3",
+        "attributes": "10f60000020902002a00000000000400",
+        "text": [
+            "{1a05000001}Vous obtenez le {1a06ff000001}bouclier de",
+            "Ordon{1a06ff000000}!{1a05000002} {1a07000007000a}Appuyez sur {1a05030014} pour",
+            "vous protéger avec. Attention, il",
+            "est vulnérable au feu!"
+        ]
+    },
+    {
+        "ID": "12, 131",
+        "index": "0x8ae",
+        "attributes": "0c8300000e080500ff00000000000400",
+        "text": [
+            "Mon nom est {1a06ff000002}Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "8, 64",
+        "index": "0x8f0",
+        "attributes": "08400000150d0000ff0000001f1f0400",
+        "text": [
+            "Le temple au fond de la {1a06ff000001}forêt de",
+            "Faron{1a06ff000000}? Ça tombe bien!"
+        ]
+    },
+    {
+        "ID": "12, 201",
+        "index": "0x8f4",
+        "attributes": "0cc900000e080500ff00000000000400",
+        "text": [
+            "Je suis {1a06ff000002}Eldin{1a06ff000000}.",
+            "",
+            "",
+            "",
+            "Je suis l'Esprit de la lumière chargé",
+            "de veiller sur ces lieux.",
+            "",
+            "",
+            "Ô toi, être élu..."
+        ]
+    },
+    {
+        "ID": "12, 212",
+        "index": "0x8ff",
+        "attributes": "0cd4000028000000ff00000000000400",
+        "text": [
+            "Je dois avouer que je fus d'abord",
+            "sceptique quand ces enfants m'ont",
+            "dit venir du village de Ordon, en",
+            "Ordona..."
+        ]
+    },
+    {
+        "ID": "12, 250",
+        "index": "0x925",
+        "attributes": "0cfa00000e080500ff00000000000400",
+        "text": [
+            "Traverse le grand pont au bout de",
+            "la plaine, au {1a06ff000001}nord{1a06ff000000}. Là se trouvent",
+            "les terres que protège l'{1a06ff000001}Esprit de",
+            "la lumière Lanayru{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "13, 2",
+        "index": "0x92d",
+        "attributes": "0d02000022000000ff00000000000400",
+        "text": [
+            "Tu te souviens de ce que je t'ai dit",
+            "quand nous étions encore à Ordon,",
+            "{1a05000000}?"
+        ]
+    },
+    {
+        "ID": "8, 71",
+        "index": "0x936",
+        "attributes": "08470000150d0000ff0000001f1f0400",
+        "text": [
+            "{1a0903000000000a60}Dépêche-toi! Rends-toi à l'{1a06ff000001}est{1a06ff000000},{1a06ff000001}",
+            "{1a06ff000000}en {1a06ff000001}Terres d'Eldin{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "8, 72",
+        "index": "0x94b",
+        "attributes": "08480000150d0000ff0000001f1f0400",
+        "text": [
+            "Si tu veux passer la gorge d'Eldin,",
+            "il va te falloir trouver quelque",
+            "chose à mettre en travers."
+        ]
+    },
+    {
+        "ID": "8, 73",
+        "index": "0x94c",
+        "attributes": "08490000150d0000ff0000001f1f0400",
+        "text": [
+            "En retournant dans la forêt de",
+            "Faron, tu devrais pouvoir y",
+            "trouver la solution à ton problème!"
+        ]
+    },
+    {
+        "ID": "8, 74",
+        "index": "0x94d",
+        "attributes": "084a0000150d0000ff0000001f1f0400",
+        "text": [
+            "Ferme-la! Cherche plutôt l'Esprit",
+            "de la lumière qui protège les {1a06ff000001}Terres",
+            "d'Eldin{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "13, 45",
+        "index": "0x95e",
+        "attributes": "0d2d00000e080500ff00000000000400",
+        "text": [
+            "Mon nom est {1a06ff000002}Lanayru{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "13, 76",
+        "index": "0x97d",
+        "attributes": "0d4c00002d000000ff00000000000400",
+        "text": [
+            "Il nous reste une chance.",
+            "J'ai entendu parler d'un {1a06ff000001}prêtre{1a06ff000000}",
+            "à {1a06ff000001}Kakariko{1a06ff000000}, du côté d'Eldin, qui",
+            "soignerait des Zoras et des Gorons."
+        ]
+    },
+    {
+        "ID": "13, 80",
+        "index": "0x981",
+        "attributes": "0d5000002d000000ff00000000000400",
+        "text": [
+            "Il faut traverser deux plaines",
+            "infestées de {1a06ff000001}monstres{1a06ff000000} pour",
+            "atteindre le {1a06ff000001}village de Kakariko{1a06ff000000}.",
+            "",
+            "Mais avec des gars comme vous,",
+            "nous serons en sécurité!"
+        ]
+    },
+    {
+        "ID": "13, 98",
+        "index": "0x993",
+        "attributes": "0d6200002d000000ff00000000000400",
+        "text": [
+            "Ma petite, attends d'être arrivée",
+            "saine et sauve à {1a06ff000001}Kakariko{1a06ff000000} avant",
+            "de te répandre en bons sentiments!"
+        ]
+    },
+    {
+        "ID": "13, 100",
+        "index": "0x995",
+        "attributes": "0d6400002d000000ff00000000000400",
+        "text": [
+            "Si tu nous mènes à {1a06ff000001}Kakariko{1a06ff000000} sains",
+            "et saufs, je veillerai à ce que tu ne",
+            "le regrettes pas."
+        ]
+    },
+    {
+        "ID": "8, 88",
+        "index": "0x99d",
+        "attributes": "08580000150d0000ff0000001f1f0400",
+        "text": [
+            "Le type que tu cherches, il est dans",
+            "les {1a06ff000001}Terres de Lanayru{1a06ff000000}, non?",
+            "{1a07000007000a}C'est pas génial, ça?"
+        ]
+    },
+    {
+        "ID": "8, 89",
+        "index": "0x99e",
+        "attributes": "08590000150d0000ff0000001f1f0400",
+        "text": [
+            "Cherche le {1a06ff000001}Crépuscule{1a06ff000000} qui a envahi",
+            "les terres au {1a06ff000001}nord {1a06ff000000}de Kakariko."
+        ]
+    },
+    {
+        "ID": "13, 124",
+        "index": "0x9f8",
+        "attributes": "0d7c000028000000ff00000000000400",
+        "text": [
+            "En attendant, reste parmi nous à",
+            "Kakariko. Cette fois, c'est à nous",
+            "de nous montrer à la hauteur de",
+            "ton courage."
+        ]
+    },
+    {
+        "ID": "8, 94",
+        "index": "0xa04",
+        "attributes": "085e0000150d0000ff000d001f1f0400",
+        "text": [
+            "L'{1a06ff000001}épée pourfendeuse du mal",
+            "{1a06ff000000}se trouve au fond de la forêt",
+            "de Faron, dans le {1a06ff000001}sanctuaire",
+            "de la forêt{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "7, 230",
+        "index": "0xa1c",
+        "attributes": "07e60000150d0000ff0000001f1f0400",
+        "text": [
+            "Comme tu peux le voir, la forêt de",
+            "Faron que tu connaissais fait",
+            "maintenant partie du {1a06ff000001}monde des",
+            "ombres{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "8, 106",
+        "index": "0xa43",
+        "attributes": "086a0000150d0000ff000d001f1f0400",
+        "text": [
+            "{1a05000000}, retournons à la",
+            "{1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "13, 179",
+        "index": "0xa4d",
+        "attributes": "0db3000026000000ff00000000000400",
+        "text": [
+            "Caché au {1a06ff000001}fin fond{1a06ff000000} des terres sur",
+            "lesquelles veille l'Esprit {1a06ff000001}Faron",
+            "{1a06ff000000}se trouve un {1a06ff000001}sanctuaire dans une",
+            "forêt{1a06ff000000}. C'est là que vous devez aller."
+        ]
+    },
+    {
+        "ID": "13, 193",
+        "index": "0xa5b",
+        "attributes": "0dc10000150d0000ff00100000000400",
+        "text": [
+            "{1a05000000}, nous repartons!",
+            "Pour la {1a06ff000001}forêt de Faron{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "8, 111",
+        "index": "0xa5f",
+        "attributes": "086f0000150d0000ff000d001f1f0400",
+        "text": [
+            "Allons au Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "8, 112",
+        "index": "0xa60",
+        "attributes": "08700000150d0000ff0000001f1f0400",
+        "text": [
+            "{1a0903000000000a60}Dépêche-toi! Rends-toi à l'{1a06ff000001}ouest{1a06ff000000},{1a06ff000001}",
+            "{1a06ff000000}en {1a06ff000001}Terres d'Eldin{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "8, 117",
+        "index": "0xa7e",
+        "attributes": "08750000150d0000ff0000001f1f0400",
+        "text": [
+            "Bon... où peut bien être {1a06ff000001}Eldin{1a06ff000000}...",
+            "Je parle de l'{1a06ff000001}Esprit de la lumière{1a06ff000000},",
+            "bien sûr!"
+        ]
+    },
+    {
+        "ID": "8, 123",
+        "index": "0xa84",
+        "attributes": "087b0000150d0000ff0000001f1f0400",
+        "text": [
+            "Notre prochain objectif est le",
+            "{1a06ff000001}Lakebed Temple{1a06ff000000}, au fond du {1a06ff000001}lac",
+            "Hylia{1a06ff000000}... {1a07000007000a}alors assure-toi que tu es",
+            "bien préparé avant d'y aller!"
+        ]
+    },
+    {
+        "ID": "8, 163",
+        "index": "0xb27",
+        "attributes": "08a30000150d0000ff0000001f1f0400",
+        "text": [
+            "Tu as compris? Ce que je cherche",
+            "se trouve dans le {1a06ff000001}temple{1a06ff000000} de la {1a06ff000001}forêt",
+            "de Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "8, 171",
+        "index": "0xb37",
+        "attributes": "08ab0000150d0000ff0000001f1f0400",
+        "text": [
+            "Vu l'étendue des Terres de",
+            "Lanayru, trouver tous les insectes",
+            "des ombres ne va pas être une",
+            "partie de plaisir..."
+        ]
+    },
+    {
+        "ID": "8, 173",
+        "index": "0xb4d",
+        "attributes": "08ad0000150d0000ff0000001f1f0400",
+        "text": [
+            "Encore un tout petit effort et",
+            "Lanayru retrouvera la lumière."
+        ]
+    },
+    {
+        "ID": "8, 176",
+        "index": "0xb50",
+        "attributes": "08b00000150d0000ff0000001f1f0400",
+        "text": [
+            "Le Lakebed Temple... au fond du",
+            "lac Hylia... Au fond...",
+            "{1a070000070005}Tu sais nager?"
+        ]
+    },
+    {
+        "ID": "8, 179",
+        "index": "0xb53",
+        "attributes": "08b30000150d0000ff0000001f1f0400",
+        "text": [
+            "Les Zoras sont censés protéger",
+            "le Lakebed Temple, non? Ils",
+            "pourraient peut-être nous donner",
+            "un coup de main?"
+        ]
+    },
+    {
+        "ID": "8, 181",
+        "index": "0xb55",
+        "attributes": "08b50000150d0000ff000d001f1f0400",
+        "text": [
+            "C'est incroyable qu'un endroit",
+            "pareil puisse se trouver au fond",
+            "de la forêt de Faron..."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "index": "0xbe5",
+        "attributes": "11b8000002090200ec00000000000400",
+        "text": [
+            "{1a05000001}Vous avez un nouveau",
+            "compagnon! Le {1a06ff000001}fils de Baba{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Vous pouvez compter sur cet",
+            "ami de City in the Sky!",
+            "Assignez-le à {1a05030002} sur l'écran {1a05030004}",
+            "pour l'appeler avec {1a05030002}. Si vous",
+            "l'assignez à {1a05030008}, vous n'avez",
+            "pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 34",
+        "index": "0xc4f",
+        "attributes": "12220000020b04002a00000000000400",
+        "text": [
+            "Un bouclier en bois sculpté dans la",
+            "tradition de Ordon. Appuyez sur {1a05030014} pour",
+            "vous protéger. Il est vulnérable au feu."
+        ]
+    },
+    {
+        "ID": "10, 45",
+        "index": "0xdba",
+        "attributes": "0a2d000002000000ff00000000000100",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 48",
+        "index": "0xdbd",
+        "attributes": "0a30000002000000ff00000000000100",
+        "text": [
+            "Barnes Bomb"
+        ]
+    },
+    {
+        "ID": "10, 49",
+        "index": "0xdbe",
+        "attributes": "0a31000002000000ff00000000000100",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 54",
+        "index": "0xdc3",
+        "attributes": "0a36000002000000ff00000000000100",
+        "text": [
+            "OT de Lanayru"
+        ]
+    },
+    {
+        "ID": "10, 141",
+        "index": "0xe1a",
+        "attributes": "0a8d000002000000ff00000000000c00",
+        "text": [
+            "Cher {1a05000000},",
+            "J'ai une nouvelle urgente à vous",
+            "communiquer concernant",
+            "l'amnésie d'Iria.",
+            "",
+            "Je n'ignore pas que vous devez",
+            "être fort occupé, mais je vous en",
+            "prie, venez au plus vite.",
+            "Je vous attends en mon {1a06ff000001}église{1a06ff000000},",
+            "à {1a06ff000001}Kakariko{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "10, 145",
+        "index": "0xe1e",
+        "attributes": "0a91000002000000ff00000000000c00",
+        "text": [
+            "La boutique de Kakariko",
+            "a ouvert ses portes!",
+            "",
+            "Nous avons en stock un objet",
+            "que vous ne trouverez nulle part",
+            "ailleurs!",
+            "C'est un exemplaire unique, alors",
+            "venez l'acheter avant que",
+            "quelqu'un d'autre ne flaire la",
+            "bonne affaire!",
+            "Réservé aux clients sérieux!"
+        ]
+    },
+    {
+        "ID": "10, 149",
+        "index": "0xe22",
+        "attributes": "0a95000002000000ff00000000000c00",
+        "text": [
+            "Les Malo Mart, le héros des",
+            "petits prix, viennent d'ouvrir leurs",
+            "portes dans la ville fortifiée!",
+            "",
+            "Voyageurs et aventuriers de tous",
+            "horizons, venez y profiter de nos",
+            "offres promotionnelles à des prix",
+            "défiant toute concurrence!",
+            "",
+            "Pour notre ouverture, mise en",
+            "vente exceptionnelle d'une",
+            "armure magique (1 exemplaire)!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "index": "0xe29",
+        "attributes": "0a9c000002000000ff00000000000c00",
+        "text": [
+            "L'Office du Tourisme de Lanayru",
+            "présente de fabuleuses",
+            "attractions dans le plus grand",
+            "respect de la nature!",
+            "",
+            "Cette fois, il s'agit d'activités",
+            "pour les plus sportifs présentées",
+            "par les surs Lise et Hena. ",
+            "",
+            "Vous trouverez ces activités au",
+            "bord de la rivière, en aval de la",
+            "cascade des Zoras.",
+            "{1a05060004}Les rapides de Lise{1a05060004}",
+            "Essayez de toucher des cibles",
+            "tout en descendant les rapides!",
+            "Les flèches explosives sont",
+            "fournies gracieusement!",
+            "",
+            "{1a05060004}Le Fishing Hole d'Hena{1a05060004}",
+            "Mesurez-vous à la nature dans",
+            "une pêche au lancer sans",
+            "artifices! Quels poissons",
+            "allez-vous remonter?",
+            "",
+            "Venez nombreux!"
+        ]
+    },
+    {
+        "ID": "10, 158",
+        "index": "0xe2b",
+        "attributes": "0a9e000002000000ff00000000000c00",
+        "text": [
+            "",
+            "",
+            "Montieur, vous zètes trop",
+            "tuper fort!",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Mon fils tenait absolument à",
+            "t'écrire un mot, alors je lui ai",
+            "laissé la première page.",
+            "",
+            "Que ce soit sur la terre ou dans",
+            "les cieux, tu as toujours été très",
+            "gentil avec nous. Les habitants",
+            "de City in the Sky se joignent",
+            "à nous pour te remercier.",
+            "",
+            "Reviens surtout nous voir dès que",
+            "tu le peux! Nous te reverrons",
+            "avec plaisir!",
+            "",
+            "Prends soin de toi!"
+        ]
+    },
+    {
+        "ID": "10, 160",
+        "index": "0xe2d",
+        "attributes": "0aa0000002000000ff00000000000c00",
+        "text": [
+            "Cher {1a05000000},",
+            "",
+            "J'ai voyagé à travers tout Hyrule ",
+            "depuis notre dernière rencontre, ",
+            "et j'ai prononcé l'incantation ",
+            "devant toutes les statues, mais ",
+            "aucune n'a montré de réactions...",
+            "",
+            "C'est décourageant!",
+            "",
+            "Mais il est trop tôt pour baisser ",
+            "les bras! Mon père se moquerait ",
+            "de moi s'il était encore vivant...",
+            "Je vais retourner à Kakariko ",
+            "et chercher à nouveau des indices",
+            "dans le sous-sol de l'église.",
+            "",
+            "Si tu découvres quelque chose ",
+            "de ton côté, n'hésite pas à venir",
+            "m'en parler!",
+            "",
+            "Sur les traces de mon rêve, ",
+            "                                      Jehd"
+        ]
+    },
+    {
+        "ID": "8, 209",
+        "index": "0xeac",
+        "attributes": "08d10000150d0000ff000d001f1f0400",
+        "text": [
+            "Allez, ne traîne pas et va récupérer",
+            "le fragment du miroir encore dans",
+            "les pattes du yéti! Mais oui, là-bas,",
+            "dans les Snowpeak!"
+        ]
+    },
+    {
+        "ID": "7, 21",
+        "index": "0xf98",
+        "attributes": "0715000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fca}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}silure de Ordon {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 22",
+        "index": "0xf99",
+        "attributes": "0716000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fcb}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}silure de Ordon {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 23",
+        "index": "0xf9a",
+        "attributes": "0717000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fcc}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}silure de Ordon {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 71",
+        "index": "0xfca",
+        "attributes": "0747000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}silure de Ordon {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a05030005} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 72",
+        "index": "0xfcb",
+        "attributes": "0748000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}silure de Ordon {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 73",
+        "index": "0xfcc",
+        "attributes": "0749000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}silure de Ordon {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "8, 216",
+        "index": "0xff6",
+        "attributes": "08d80000150d0000ff0000001f1f0400",
+        "text": [
+            "La source de {1a06ff000001}Kakariko{1a06ff000000}, tu connais?",
+            "C'est là que se trouve l'Esprit",
+            "Eldin. Arrête de traîner la patte",
+            "et va à son secours!"
+        ]
+    },
+    {
+        "ID": "13, 9",
+        "index": "0x11d7",
+        "attributes": "0d0900000e080500ff00000000000400",
+        "text": [
+            "Au {1a06ff000001}nord-est{1a06ff000000} d'ici se trouvent",
+            "les terres que protège L'{1a06ff000001}Esprit",
+            "de la lumière Lanayru{1a06ff000000}..."
+        ]
+    }
+]

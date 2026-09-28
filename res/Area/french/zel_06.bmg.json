@@ -1,0 +1,204 @@
+[
+    {
+        "ID": "19, 216",
+        "index": "0x4f",
+        "attributes": "13d800000e080501ff00000000000400",
+        "text": [
+            "{1a090300000000050c}Une fois sorti de ces {1a06ff000001}bois{1a06ff000000}, tu",
+            "trouveras à l'{1a06ff000001}est{1a06ff000000} les terres protégées",
+            "par l'{1a06ff000001}Esprit Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 220",
+        "index": "0x53",
+        "attributes": "13dc00000e080501ff00000000000400",
+        "text": [
+            "{1a090300000000050f}Va, élu! Sors de ces {1a06ff000001}bois{1a06ff000000} et dirige ",
+            "tes pas vers l'{1a06ff000001}est{1a06ff000000}. Il te faut trouver",
+            "les {1a06ff000001}Terres d'Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 235",
+        "index": "0x62",
+        "attributes": "13eb000003020100ff00000000000800",
+        "text": [
+            "{1a0903000000000510}{1a05000014} Chemin du {1a06ff000002}Forest Temple{1a06ff000000}",
+            "",
+            "Pour se rendre au temple, voir",
+            "la cabane au fond à droite {1a05000015}.",
+            "",
+            "                 Le gardien, Kikolou"
+        ]
+    },
+    {
+        "ID": "20, 88",
+        "index": "0xc0",
+        "attributes": "1458000017000000ff00001500050400",
+        "text": [
+            "C'est bien ce que je pensais...",
+            "{1a07000007000f}Tu es le gars de Ordon, hein?"
+        ]
+    },
+    {
+        "ID": "20, 91",
+        "index": "0xc3",
+        "attributes": "145b000017000000ff00001500000400",
+        "text": [
+            "Il y a plein de monstres par ici, ",
+            "alors j'ai fermé le chemin qui",
+            "mène au Forest Temple."
+        ]
+    },
+    {
+        "ID": "20, 104",
+        "index": "0xd0",
+        "attributes": "1468000017000000ff00001504030400",
+        "text": [
+            "Hé... {1a070000070005}Mais...? {1a07000007000a}Tu serais pas... de Ordon,",
+            "par hasard?"
+        ]
+    },
+    {
+        "ID": "20, 111",
+        "index": "0xd7",
+        "attributes": "146f000017000000ff00001500000400",
+        "text": [
+            "Il y a plein de monstres par ici, ",
+            "j'ai même bloqué le chemin qui mène ",
+            "au Forest Temple, pour te dire..."
+        ]
+    },
+    {
+        "ID": "20, 113",
+        "index": "0xd9",
+        "attributes": "1471000017000000ff00001505050400",
+        "text": [
+            "Si un jour tu vas au Forest Temple,",
+            "tu verras, il va t'en falloir un paquet!"
+        ]
+    },
+    {
+        "ID": "20, 189",
+        "index": "0x125",
+        "attributes": "14bd000017000000ff00101508050400",
+        "text": [
+            "Tiens, un gars de Ordon...",
+            "Salut."
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "index": "0x14b",
+        "attributes": "151f000003020100ff00000000000800",
+        "text": [
+            "{1a05000016} {1a06ff000002}Forest Temple{1a06ff000000} ",
+            "",
+            "N'oubliez pas votre lanterne!",
+            "Magasin d'huile sur le chemin."
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "index": "0x20b",
+        "attributes": "15e6000004000000ff00000000000400",
+        "text": [
+            "J'ai entendu beaucoup de choses sur",
+            "toi... Je m'appelle {1a06ff000002}Ash{1a06ff000000}. Je vais",
+            "régulièrement à la Telma's Bar."
+        ]
+    },
+    {
+        "ID": "23, 122",
+        "index": "0x27f",
+        "attributes": "177a000007000000ff00000003010400",
+        "text": [
+            "Ce Hidden village abritait autrefois",
+            "le peuple qui servait la famille",
+            "royale, mais..."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "index": "0x294",
+        "attributes": "178f00006c000000ff00000003000400",
+        "text": [
+            "Parr là, c'est le Hidden village,",
+            "petit homme."
+        ]
+    },
+    {
+        "ID": "23, 158",
+        "index": "0x2a3",
+        "attributes": "179e000007000000ff00000004000400",
+        "text": [
+            "Il était l'apanage du {1a06ff000001}messager royal",
+            "{1a06ff000000}qui assurait la liaison entre le royaume",
+            "terrestre et {1a06ff000001}City in the Sky{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "31, 78",
+        "index": "0x476",
+        "attributes": "1f4e0000470e0000ff00000000000400",
+        "text": [
+            "Coooh... Cot! Bienvenue, soldat!",
+            "{1a07000007000a}Vous êtes ici dans le Hidden village!"
+        ]
+    },
+    {
+        "ID": "58, 232",
+        "index": "0x50c",
+        "attributes": "3ae800000e080501ff00000000000400",
+        "text": [
+            "Une fois sorti de ces {1a06ff000001}bois{1a06ff000000}, tu",
+            "trouveras à l'{1a06ff000001}ouest{1a06ff000000} les terres",
+            "protégées par l'{1a06ff000001}Esprit Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 233",
+        "index": "0x50d",
+        "attributes": "3ae900000e080501ff00000000000400",
+        "text": [
+            "Une fois sorti de ces {1a06ff000001}bois{1a06ff000000}, tu",
+            "trouveras à l'{1a06ff000001}ouest{1a06ff000000} les terres",
+            "protégées par l'{1a06ff000001}Esprit Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 235",
+        "index": "0x50e",
+        "attributes": "3aeb00000e080501ff00000000000400",
+        "text": [
+            "Va, sors de ces {1a06ff000001}bois{1a06ff000000} et dirige tes",
+            "pas vers l'{1a06ff000001}ouest{1a06ff000000}. Tu dois trouver",
+            "les {1a06ff000001}terres d'Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 236",
+        "index": "0x50f",
+        "attributes": "3aec00000e080501ff00000000000400",
+        "text": [
+            "Va, élu! Sors de ces {1a06ff000001}bois{1a06ff000000} et dirige ",
+            "tes pas vers l'{1a06ff000001}ouest{1a06ff000000}. Il te faut trouver",
+            "les {1a06ff000001}Terres d'Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 251",
+        "index": "0x510",
+        "attributes": "3afb000003020100ff00000000000800",
+        "text": [
+            "Chemin du {1a06ff000002}Forest Temple{1a06ff000000} {1a05000015}",
+            "",
+            "{1a05000014} Pour se rendre au temple,",
+            "aller à la cabane au fond à",
+            "gauche.",
+            "",
+            "                 Le gardien, Kikolou"
+        ]
+    }
+]

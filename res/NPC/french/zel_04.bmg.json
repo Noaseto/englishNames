@@ -1,0 +1,504 @@
+[
+    {
+        "ID": "19, 237",
+        "index": "0x65",
+        "attributes": "13ed00002d000000ff00010c01010400",
+        "text": [
+            "Ooooh, mais c'est... de la part",
+            "du père Renado?"
+        ]
+    },
+    {
+        "ID": "19, 240",
+        "index": "0x68",
+        "attributes": "13f000002d000000ff00000c07020400",
+        "text": [
+            "Si c'est pour la petite Ilia, bien",
+            "sûr que je vais vous aider!"
+        ]
+    },
+    {
+        "ID": "19, 254",
+        "index": "0x76",
+        "attributes": "13fe00002d000000ff00000001000400",
+        "text": [
+            "C'est un homme d'un âge un peu",
+            "avancé qui s'appelle {1a06ff000002}Auru{1a06ff000000}. Si",
+            "jamais tu le vois, tu devrais lui",
+            "parler."
+        ]
+    },
+    {
+        "ID": "20, 0",
+        "index": "0x78",
+        "attributes": "140000002d000000ff00000001000400",
+        "text": [
+            "C'est une jolie fille qui s'appelle",
+            "{1a06ff000002}Ashei{1a06ff000000}! Si tu la vois, prends le temps",
+            "de parler avec elle, d'accord?"
+        ]
+    },
+    {
+        "ID": "20, 6",
+        "index": "0x7e",
+        "attributes": "140600002d000000ff00000002010400",
+        "text": [
+            "Il s'appelle {1a06ff000002}Shad{1a06ff000000} et il a à peu près",
+            "ton âge, je pense. Si tu le vois,",
+            "n'hésite pas à parler avec lui."
+        ]
+    },
+    {
+        "ID": "20, 7",
+        "index": "0x7f",
+        "attributes": "140700002d000000ff00000001040400",
+        "text": [
+            "Oh! Dire que j'ai failli oublier!{1a07000007000a} Si",
+            "tu vas à Cocorico, passe le bonjour",
+            "au père Renado de ma part!"
+        ]
+    },
+    {
+        "ID": "20, 10",
+        "index": "0x82",
+        "attributes": "140a00002d000000ff00000001000400",
+        "text": [
+            "Et alors, comment va Ilia?"
+        ]
+    },
+    {
+        "ID": "20, 11",
+        "index": "0x83",
+        "attributes": "140b00002d000000ff00000002000400",
+        "text": [
+            "Je suis sûre que le père Renado",
+            "trouvera un moyen de guérir Ilia."
+        ]
+    },
+    {
+        "ID": "20, 13",
+        "index": "0x85",
+        "attributes": "140d00002d000000ff00000000000400",
+        "text": [
+            "Laisse le père Renado s'occuper",
+            "d'Ilia, tu as assez de pain sur",
+            "la planche comme ça. D'accord?"
+        ]
+    },
+    {
+        "ID": "20, 16",
+        "index": "0x88",
+        "attributes": "141000002d000000ff00000000000400",
+        "text": [
+            "Si tu ne sais plus quoi faire,",
+            "essaie de trouver {1a06ff000002}Auru{1a06ff000000}, il saura",
+            "certainement te conseiller."
+        ]
+    },
+    {
+        "ID": "20, 18",
+        "index": "0x8a",
+        "attributes": "141200002d000000ff00000000000400",
+        "text": [
+            "Je sais que tu te débrouilles très",
+            "bien tout seul, mais n'hésite pas à",
+            "demander conseil à {1a06ff000002}Ashei{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 20",
+        "index": "0x8c",
+        "attributes": "141400002d000000ff00000000000400",
+        "text": [
+            "Je sais que ce n'est pas facile...",
+            "Si tu te sens un peu paumé, va",
+            "rendre visite à {1a06ff000002}Rusl{1a06ff000000}. Je suis sûre",
+            "qu'il pourra te conseiller."
+        ]
+    },
+    {
+        "ID": "20, 23",
+        "index": "0x8f",
+        "attributes": "141700002d000000ff00000000000400",
+        "text": [
+            "En plus, ça tombe bien, {1a06ff000002}Shad {1a06ff000000}y est",
+            "allé pour faire des recherches."
+        ]
+    },
+    {
+        "ID": "20, 36",
+        "index": "0x9c",
+        "attributes": "142400002d000000ff00000001060400",
+        "text": [
+            "Quoi, qu'est-ce que tu dis?",
+            "Ilia a retrouvé la mémoire?"
+        ]
+    },
+    {
+        "ID": "20, 39",
+        "index": "0x9f",
+        "attributes": "142700002d000000ff00000000010400",
+        "text": [
+            "Occupe-toi bien d'Ilia, veux-tu?"
+        ]
+    },
+    {
+        "ID": "20, 85",
+        "index": "0xb0",
+        "attributes": "1455000030000000ff00040003000400",
+        "text": [
+            "Psst, au fait, la fille... ",
+            "Ilia, elle a parlé de moi?"
+        ]
+    },
+    {
+        "ID": "20, 111",
+        "index": "0xca",
+        "attributes": "146f000030000000ff00000d00000400",
+        "text": [
+            "Tu n'as qu'à la rendre à Ilia,",
+            "machine, truc... Enfin, elle quoi!"
+        ]
+    },
+    {
+        "ID": "20, 114",
+        "index": "0xcd",
+        "attributes": "1472000030000000ff00000d01000400",
+        "text": [
+            "Et je ne sais pas à quoi ressemblait",
+            "la statuette d'une dénommée Ilia,",
+            "ou toute autre jeune fille quelle",
+            "qu'elle soit!"
+        ]
+    },
+    {
+        "ID": "20, 183",
+        "index": "0xd7",
+        "attributes": "14b70000450e0000ff00000000000400",
+        "text": [
+            "Je suppose que tu cherches",
+            "la statuette d'{1a06ff000001}Ilia{1a06ff000000}?"
+        ]
+    },
+    {
+        "ID": "20, 189",
+        "index": "0xdd",
+        "attributes": "14bd0000450e0000ff00000000000400",
+        "text": [
+            "Cette statuette est très importante",
+            "pour rendre la mémoire à {1a06ff000001}Ilia{1a06ff000000}! Tu",
+            "dois absolument la retrouver!"
+        ]
+    },
+    {
+        "ID": "20, 192",
+        "index": "0xe0",
+        "attributes": "14c00000450e0000ff00000000000400",
+        "text": [
+            "Prends la statuette et va voir Ilia!",
+            "Dépêche-toi!"
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "index": "0x104",
+        "attributes": "151f000043000100ff00000001000400",
+        "text": [
+            "{1a06ff000008}Bombes{1a06ff000000}",
+            "Fleurons de la société Barnes,",
+            "elles ont depuis toujours un franc",
+            "succès auprès de ces messieurs."
+        ]
+    },
+    {
+        "ID": "21, 135",
+        "index": "0x159",
+        "attributes": "1587000020000000ff00001f16000400",
+        "text": [
+            "Ah, au fait, tu as parlé à {1a06ff000001}Shad{1a06ff000000}?"
+        ]
+    },
+    {
+        "ID": "22, 76",
+        "index": "0x1b2",
+        "attributes": "164c000005000000ff00001f04000400",
+        "text": [
+            "Je m'appelle {1a06ff000002}Shad{1a06ff000000}, content de",
+            "te connaître."
+        ]
+    },
+    {
+        "ID": "22, 176",
+        "index": "0x1db",
+        "attributes": "16b0000004000000ff00001f00000400",
+        "text": [
+            "... Je suis {1a06ff000002}Ashei{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 149",
+        "index": "0x27b",
+        "attributes": "1795000006000000ff0004000a030400",
+        "text": [
+            "Qu'est-ce que tu dis?",
+            "La Reine Rutela est...?"
+        ]
+    },
+    {
+        "ID": "23, 181",
+        "index": "0x29b",
+        "attributes": "17b5000005000000ff00090000000400",
+        "text": [
+            "En ce moment, Auru observe ",
+            "le désert depuis le {1a06ff000001}lac Hylia{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 182",
+        "index": "0x29c",
+        "attributes": "17b6000006000000ff00000000000400",
+        "text": [
+            "Ashei a seulement dit qu'elle était",
+            "préoccupée par les {1a06ff000001}Pics Blancs{1a06ff000000} et",
+            "elle est partie..."
+        ]
+    },
+    {
+        "ID": "23, 183",
+        "index": "0x29d",
+        "attributes": "17b7000004000000ff00000000000400",
+        "text": [
+            "La {1a06ff000001}forêt sacrée{1a06ff000000} où se trouve Rusl",
+            "doit être quelque part près de",
+            "la marque rouge sur la carte..."
+        ]
+    },
+    {
+        "ID": "23, 184",
+        "index": "0x29e",
+        "attributes": "17b8000020000000ff00000000000400",
+        "text": [
+            "Shad est à {1a06ff000001}Cocorico{1a06ff000000} en ce moment.",
+            "Si tu vas le voir, passe aussi voir",
+            "comment vont les enfants,",
+            "d'accord, {1a05000000}?"
+        ]
+    },
+    {
+        "ID": "23, 217",
+        "index": "0x2bf",
+        "attributes": "17d900000a000000ff00000003000400",
+        "text": [
+            "Mais je ne me suis pas présentée!{1a07000007000a}",
+            "Je m'appelle {1a06ff000002}Agitha{1a06ff000000}. Je suis la ",
+            "princesse du royaume des insectes."
+        ]
+    },
+    {
+        "ID": "24, 106",
+        "index": "0x30c",
+        "attributes": "186a000000000000ff00000000000400",
+        "text": [
+            "Jovani"
+        ]
+    },
+    {
+        "ID": "24, 108",
+        "index": "0x30e",
+        "attributes": "186c000011000000ff00004000010400",
+        "text": [
+            "Je m'appelle{1a070000070005} {1a06ff000002}Jovani{1a06ff000000}. Aveuglé par",
+            "la cupidité, j'ai vendu mon âme",
+            "pour devenir riche, et je me suis",
+            "retrouvé dans cet état{1a070000070005}.{1a070000070005}.{1a070000070005}."
+        ]
+    },
+    {
+        "ID": "24, 109",
+        "index": "0x30f",
+        "attributes": "186d000011000000ff00024000000400",
+        "text": [
+            "Je ne peux plus bouger... je ne",
+            "peux pas voir ma fiancée... mon",
+            "chat {1a06ff000002}Gengle {1a06ff000000}a été pétrifié sur ma",
+            "tête... Ma mort est un enfer!"
+        ]
+    },
+    {
+        "ID": "24, 138",
+        "index": "0x32c",
+        "attributes": "188a000011000000ff00004002040400",
+        "text": [
+            "Gengle peut maintenant lui",
+            "aussi se mouvoir normalement!{1a07000007000a}",
+            "C'est grâce à toi, non?"
+        ]
+    },
+    {
+        "ID": "24, 141",
+        "index": "0x32f",
+        "attributes": "188d000011000000ff00004000000400",
+        "text": [
+            "Gengle peut maintenant lui aussi",
+            "se mouvoir normalement!",
+            "C'est grâce à toi, non?"
+        ]
+    },
+    {
+        "ID": "24, 164",
+        "index": "0x346",
+        "attributes": "18a40000450e0000ff00001900000400",
+        "text": [
+            "Moi, c'est Gengle.{1a07000007000f} Je suis",
+            "le chef des chats du coin."
+        ]
+    },
+    {
+        "ID": "25, 111",
+        "index": "0x369",
+        "attributes": "196f000040000000ff00000000000400",
+        "text": [
+            "Purlo est tellement beau!",
+            "Et sa voix si charmante... J'ai hâte ",
+            "de l'entendre à nouveau!"
+        ]
+    },
+    {
+        "ID": "27, 91",
+        "index": "0x421",
+        "attributes": "1b5b0000450e0000ff00000000000400",
+        "text": [
+            "Je commence à m'inquiéter...",
+            "Où peut bien être parti Jovani?"
+        ]
+    },
+    {
+        "ID": "27, 92",
+        "index": "0x422",
+        "attributes": "1b5c0000450e0000ff00000000000400",
+        "text": [
+            "Je me demande ce qu'Gengle ",
+            "peut bien faire à l'intérieur..."
+        ]
+    },
+    {
+        "ID": "27, 99",
+        "index": "0x429",
+        "attributes": "1b630000450e0000ff00000000000400",
+        "text": [
+            "D'habitude, on se retrouve tous",
+            "devant chez Jovani..."
+        ]
+    },
+    {
+        "ID": "27, 101",
+        "index": "0x42b",
+        "attributes": "1b650000450e0000ff00000000000400",
+        "text": [
+            "Mais puisque notre chef Gengle",
+            "ne sort plus, j'aimerais bien",
+            "qu'on se retrouve tous devant",
+            "chez moi! Tant qu'à faire..."
+        ]
+    },
+    {
+        "ID": "27, 108",
+        "index": "0x432",
+        "attributes": "1b6c0000450e0000ff00000000000400",
+        "text": [
+            "Qui, Jovani? Il est sorti tout",
+            "à l'heure comme s'il avait le feu",
+            "au pantalon."
+        ]
+    },
+    {
+        "ID": "27, 109",
+        "index": "0x433",
+        "attributes": "1b6d0000450e0000ff00000000000400",
+        "text": [
+            "Enfin... Gengle est en bonne santé,",
+            "c'est le principal."
+        ]
+    },
+    {
+        "ID": "27, 114",
+        "index": "0x438",
+        "attributes": "1b720000450e0000ff00000000000400",
+        "text": [
+            "Mon cher Gengle ne vient pas",
+            "aujourd'hui non plus{1a070000070005}.{1a070000070005}.{1a070000070005}."
+        ]
+    },
+    {
+        "ID": "27, 117",
+        "index": "0x43b",
+        "attributes": "1b750000450e0000ff00000000000400",
+        "text": [
+            "Mon cher Gengle est sain et sauf!",
+            "Je suis si soulagée!"
+        ]
+    },
+    {
+        "ID": "31, 69",
+        "index": "0x456",
+        "attributes": "1f45000002020100ff00000000000800",
+        "text": [
+            "{1a06ff000006}Princesse Agitha"
+        ]
+    },
+    {
+        "ID": "31, 70",
+        "index": "0x457",
+        "attributes": "1f46000002020100ff00000000000800",
+        "text": [
+            "{1a06ff000002}Jovani"
+        ]
+    },
+    {
+        "ID": "39, 71",
+        "index": "0x4cb",
+        "attributes": "2747000066000000ff00000003000400",
+        "text": [
+            "Hé toi, t'es déjà allé dans cette",
+            "rue-là, au {1a06ff000001}château de Machaon{1a06ff000000}?"
+        ]
+    },
+    {
+        "ID": "39, 180",
+        "index": "0x538",
+        "attributes": "27b4000068000000ff0003001c000400",
+        "text": [
+            "Jovani, {1a070000070005}Jovani, {1a070000070005}un idiot, ",
+            "un abruti, {1a070000070005}qui voulait {1a070000070005}des rubis, ",
+            "{1a070000070005}au diable son âme il vendit et puiiis",
+            "{1a070000070005}personne l'a vu depuiiiis..."
+        ]
+    },
+    {
+        "ID": "39, 183",
+        "index": "0x53b",
+        "attributes": "27b700004b000000ff00000003000400",
+        "text": [
+            "Ah, vous avez une minute? {1a07000007000a}Vous ",
+            "connaissez un certain {1a070000070005}Jovani?"
+        ]
+    },
+    {
+        "ID": "39, 232",
+        "index": "0x56c",
+        "attributes": "27e800005e000000ff00000003000400",
+        "text": [
+            "Tu lui veux quelque chose, ",
+            "à Agitha?"
+        ]
+    },
+    {
+        "ID": "39, 236",
+        "index": "0x570",
+        "attributes": "27ec00005e000000ff00000003000400",
+        "text": [
+            "Et... {1a070000070005}et toi? Tu... {1a070000070005}T'es quoi ",
+            "pour Agitha? {1a07000007000a}Je veux savoir!"
+        ]
+    }
+]

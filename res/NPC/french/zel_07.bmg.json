@@ -1,0 +1,187 @@
+[
+    {
+        "ID": "19, 139",
+        "index": "0x3",
+        "attributes": "138b000016000000ff00000000000400",
+        "text": [
+            "Mon nom est {1a06ff000002}Rutela{1a06ff000000}. Je suis à la",
+            "tête du {1a06ff000001}village des Zoras{1a06ff000000} et",
+            "également la reine de mon peuple."
+        ]
+    },
+    {
+        "ID": "19, 144",
+        "index": "0x8",
+        "attributes": "1390000016000000ff00000000000400",
+        "text": [
+            "Lors de l'attaque de nos terres, j'ai",
+            "dépêché mon fils {1a06ff000002}Ralis{1a06ff000000} vers le",
+            "{1a06ff000001}Château d'Hyrule{1a06ff000000} afin qu'il",
+            "avertisse la princesse Zelda."
+        ]
+    },
+    {
+        "ID": "19, 148",
+        "index": "0xc",
+        "attributes": "1394000016000000ff00000000000400",
+        "text": [
+            "Alors, je t'en conjure.",
+            "Tu dois sauver le prince {1a06ff000001}Ralis{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 240",
+        "index": "0x56",
+        "attributes": "13f000002f000000ff000000100b0400",
+        "text": [
+            "C'est la première fois que je voyais",
+            "quelqu'un d'autre que le prince",
+            "Ralis réussir à prendre ce poisson!"
+        ]
+    },
+    {
+        "ID": "19, 241",
+        "index": "0x57",
+        "attributes": "13f100002f000000ff00000000000400",
+        "text": [
+            "Je suis vraiment très surpris. ",
+            "Je pensais que seul le prince Ralis ",
+            "était capable de pêcher cette sorte",
+            "de poissons..."
+        ]
+    },
+    {
+        "ID": "19, 243",
+        "index": "0x59",
+        "attributes": "13f300002f000000ff00000000000400",
+        "text": [
+            "Le prince Ralis était très habile",
+            "pour pêcher cette espèce..."
+        ]
+    },
+    {
+        "ID": "20, 93",
+        "index": "0xc3",
+        "attributes": "145d00002f000000ff000000100b0400",
+        "text": [
+            "Avec toutes ces escouades parties",
+            "à la recherche du prince Ralis, nous",
+            "n'avons quasiment plus de gardes",
+            "ici... Hmmm..."
+        ]
+    },
+    {
+        "ID": "20, 103",
+        "index": "0xcd",
+        "attributes": "146700002f000000ff000000110c0400",
+        "text": [
+            "J'aurais tant souhaité que la reine",
+            "puisse voir le prince Ralis tel qu'il",
+            "est aujourd'hui..."
+        ]
+    },
+    {
+        "ID": "20, 136",
+        "index": "0xee",
+        "attributes": "148800002f000000ff000000110c0400",
+        "text": [
+            "Aurais-tu croisé le {1a06ff000001}prince Ralis{1a06ff000000}...{1a07000007000f} je",
+            "veux dire, un {1a06ff000001}jeune Zora{1a06ff000000}, sur la",
+            "route qui t'a mené jusqu'ici?"
+        ]
+    },
+    {
+        "ID": "20, 151",
+        "index": "0xfd",
+        "attributes": "149700002f000000ff000000010d0400",
+        "text": [
+            "Feu notre roi était un Zora",
+            "exceptionnel, et le jeune prince",
+            "Ralis montre également des",
+            "dispositions très prometteuses."
+        ]
+    },
+    {
+        "ID": "20, 154",
+        "index": "0x100",
+        "attributes": "149a00002f000000ff000000020d0400",
+        "text": [
+            "Dès que le monde sera de nouveau",
+            "en paix, nous organiserons des",
+            "festivités grandioses pour le",
+            "couronnement du prince Ralis."
+        ]
+    },
+    {
+        "ID": "31, 162",
+        "index": "0x36d",
+        "attributes": "1fa2000033000000ff00000000000400",
+        "text": [
+            "Il est mignon, hein? Il s'appelle",
+            "Purdy!"
+        ]
+    },
+    {
+        "ID": "31, 191",
+        "index": "0x38a",
+        "attributes": "1fbf000033000000ff00000000000400",
+        "text": [
+            "Ça, c'est mon petit frère Coro",
+            "qui pose avec le silure de Toal de",
+            "63 cm qu'il a pêché."
+        ]
+    },
+    {
+        "ID": "31, 196",
+        "index": "0x38f",
+        "attributes": "1fc4000033000000ff00000000000400",
+        "text": [
+            "Au fait, elle s'appelle Iza."
+        ]
+    },
+    {
+        "ID": "31, 207",
+        "index": "0x39a",
+        "attributes": "1fcf000033000000ff00000000000400",
+        "text": [
+            "Alors? Alors? Qui est la plus",
+            "mignonne sur ces photos?",
+            "Moi ou ma sur Iza?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "31, 208",
+        "index": "0x39b",
+        "attributes": "1fd0000033000000ff00000000000400",
+        "text": [
+            "{1a0600000901}Toi.",
+            "{1a0600000902}Iza.",
+            "{1a0600000903}Les deux."
+        ]
+    },
+    {
+        "ID": "31, 240",
+        "index": "0x3bb",
+        "attributes": "1ff0000033000000ff000d0000000400",
+        "text": [
+            "Ça va pas la tête?! {1a07000007000a}Pauvre Purdy!"
+        ]
+    },
+    {
+        "ID": "32, 27",
+        "index": "0x3e6",
+        "attributes": "201b000033000000ff000d0000000400",
+        "text": [
+            "Purdy!{1a07000007000a} Ça suffit! {1a07000007000a}Arrête de dire",
+            "n'importe quoi!"
+        ]
+    },
+    {
+        "ID": "32, 28",
+        "index": "0x3e7",
+        "attributes": "201c000033000000ff00110000000400",
+        "text": [
+            "Ça suffit maintenant,{1a07000007000a} Purdy!"
+        ]
+    }
+]

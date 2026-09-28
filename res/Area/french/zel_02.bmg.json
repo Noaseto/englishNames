@@ -1,0 +1,239 @@
+[
+    {
+        "ID": "19, 170",
+        "index": "0x22",
+        "attributes": "13aa000016000000ff00000000000400",
+        "text": [
+            "Le village de Kakariko est le lieu",
+            "du repos éternel de notre lignée."
+        ]
+    },
+    {
+        "ID": "20, 110",
+        "index": "0xe6",
+        "attributes": "146e000027000000ff00000000000400",
+        "text": [
+            "Mais Lars n'est plus ici, ",
+            "et un jour vous autres aussi",
+            "vous retournerez à Ordon..."
+        ]
+    },
+    {
+        "ID": "21, 37",
+        "index": "0x176",
+        "attributes": "152500001f000000ff00000000000400",
+        "text": [
+            "Je ne t'ai jamais vu manier un arc ",
+            "quand nous vivions à Ordon..."
+        ]
+    },
+    {
+        "ID": "22, 85",
+        "index": "0x26b",
+        "attributes": "1655000028000000ff00000001000400",
+        "text": [
+            "Laissez-les avec nous, ils ne",
+            "risquent plus rien au village,{1a07000007000f} et",
+            "allez rassurer ces parents",
+            "certainement inquiets à {1a06ff000001}Ordon{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 91",
+        "index": "0x271",
+        "attributes": "165b000028000000ff00000d01000400",
+        "text": [
+            "Je ne permettrai pas que les",
+            "enfants de Ordon puissent de",
+            "nouveau se trouver en danger.",
+            "Tu as ma parole!"
+        ]
+    },
+    {
+        "ID": "22, 98",
+        "index": "0x278",
+        "attributes": "1662000028000000ff00000001060400",
+        "text": [
+            "Je suis sûr qu'il serait très content",
+            "si vous lui rendiez visite. Il se",
+            "trouve au poste de vigie, bien",
+            "au-dessus de Barnes Bomb."
+        ]
+    },
+    {
+        "ID": "22, 120",
+        "index": "0x28e",
+        "attributes": "1678000028000000ff00000001000400",
+        "text": [
+            "Si nous pouvons nous fier à ce",
+            "souvenir, il nous faut trouver cette",
+            "personne du Hidden village..."
+        ]
+    },
+    {
+        "ID": "22, 149",
+        "index": "0x2ab",
+        "attributes": "1695000028000000ff00000000000400",
+        "text": [
+            "Je pense vraiment qu'il vaudrait",
+            "mieux que vous retourniez au",
+            "moins une fois à {1a06ff000001}Ordon{1a06ff000000}, ne serait-ce",
+            "que pour rassurer tous les parents."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "index": "0x32e",
+        "attributes": "178f0000150d0000ff0000001f1f0400",
+        "text": [
+            "Souviens-toi de ce que disait",
+            "Faron, l'Esprit de la lumière."
+        ]
+    },
+    {
+        "ID": "24, 72",
+        "index": "0x385",
+        "attributes": "1848000039000000ff00000001010400",
+        "text": [
+            "Ce {1a06ff000001}Hidden village{1a06ff000000} doit se trrouver ",
+            "aprrès le {1a06ff000001}pont d'Orrdinn{1a06ff000000}, ",
+            "surr le {1a06ff000001}chemin{1a06ff000000} qui mène à Lanayru."
+        ]
+    },
+    {
+        "ID": "24, 76",
+        "index": "0x389",
+        "attributes": "184c000039000000ff00000001000400",
+        "text": [
+            "Allez aprrès le {1a06ff000001}pont d'Orrdinn{1a06ff000000}",
+            "et cherrchez à vous rrendrre ",
+            "en Lanayru."
+        ]
+    },
+    {
+        "ID": "24, 157",
+        "index": "0x3da",
+        "attributes": "189d000039000000ff00000000000400",
+        "text": [
+            "Je vous ai {1a06ff000001}marrqué{1a06ff000000} l'endroit surr",
+            "votrre {1a06ff000001}carrte{1a06ff000000}. Allez aprrès le {1a06ff000001}pont ",
+            "d'Orrdinn {1a06ff000000}et cherrchez en chemin ",
+            "l'entrrée verrs le {1a06ff000001}Hidden village{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "25, 1",
+        "index": "0x3ef",
+        "attributes": "190100003c000000ff00010005020400",
+        "text": [
+            "{1a07ff0001007d}Bienvenue...",
+            "aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 3",
+        "index": "0x3f1",
+        "attributes": "190300003c000000ff00000004050400",
+        "text": [
+            "Fortes de cette information,",
+            "les Malo Mart ont de suite",
+            "conçu un {1a06ff000001}plan de sauvetage{1a06ff000000}",
+            "pour répondre à leur détresse!"
+        ]
+    },
+    {
+        "ID": "25, 20",
+        "index": "0x402",
+        "attributes": "191400003c000000ff00000007070400",
+        "text": [
+            "{1a07ff0001007d}Bienvenue... ",
+            "aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 22",
+        "index": "0x404",
+        "attributes": "191600003c000000ff00060007070400",
+        "text": [
+            "A-che-tez, c'qui-vous-plaît,",
+            "aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 31",
+        "index": "0x40d",
+        "attributes": "191f00003b000000ff00070002020400",
+        "text": [
+            "A-che-tez, c'qui-vous-plaît,",
+            "aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "26, 55",
+        "index": "0x4b9",
+        "attributes": "1a37000018000000ff00000007050400",
+        "text": [
+            "... C'est l'homme-animal vivant",
+            "aux Snowpeak, n'est-ce pas?"
+        ]
+    },
+    {
+        "ID": "27, 93",
+        "index": "0x4e7",
+        "attributes": "1b5d0000150d0000ff0000001f1f0400",
+        "text": [
+            "Quoi, il faut retourner à Ordon??"
+        ]
+    },
+    {
+        "ID": "31, 68",
+        "index": "0x505",
+        "attributes": "1f44000003020102ff00000000000800",
+        "text": [
+            "{1a06ff000002}Sources chaudes de Kakariko",
+            "{1a06ff000000}",
+            "Entrée libre à tous et à toutes!",
+            "Si vous restez vous y baigner, ",
+            "vous récupérerez de l'{1a06ff000001}énergie",
+            "vitale{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "31, 71",
+        "index": "0x508",
+        "attributes": "1f47000003020100ff00000000000800",
+        "text": [
+            "{1a06ff000001}Fabrique de bombes ",
+            "                          Barnes Bomb{1a06ff000000}",
+            "",
+            "Achat - vente",
+            "",
+            "Ouvert 24 h/24 et 7 j/7"
+        ]
+    },
+    {
+        "ID": "31, 74",
+        "index": "0x50b",
+        "attributes": "1f4a000003020100ff00000000000800",
+        "text": [
+            "{1a06ff000002}Malo Mart{1a06ff000000}",
+            "",
+            "Tous nos efforts tendent",
+            "à votre confort!"
+        ]
+    },
+    {
+        "ID": "31, 75",
+        "index": "0x50c",
+        "attributes": "1f4b000003020100ff00000000000800",
+        "text": [
+            "Le Héros des petits prix est ici!",
+            "",
+            "{1a06ff000002}Malo Mart",
+            "                          (siège social){1a06ff000000}",
+            "",
+            "",
+            "24 h/24  7 j/7"
+        ]
+    }
+]

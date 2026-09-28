@@ -1,0 +1,109 @@
+[
+    {
+        "ID": "19, 235",
+        "index": "0x62",
+        "attributes": "13eb000003020100ff00000000000800",
+        "text": [
+            "{1a0903000000000510}{1a05000014} Chemin du {1a06ff000002}Temple sylvestre{1a06ff000000}",
+            "",
+            "Pour se rendre au temple, voir",
+            "la cabane au fond à droite {1a05000015}.",
+            "",
+            "                 Le gardien, Coro"
+        ]
+    },
+    {
+        "ID": "21, 32",
+        "index": "0x14c",
+        "attributes": "1520000003020100ff00000000000800",
+        "text": [
+            "Magasin de Trill",
+            "",
+            "Veuillez régler la note en ",
+            "déposant l'argent directement ",
+            "dans la caisse, près du gérant."
+        ]
+    },
+    {
+        "ID": "21, 33",
+        "index": "0x14d",
+        "attributes": "1521000000000000ff00000000000400",
+        "text": [
+            "Le magasin de Trill est un peu",
+            "plus loin sur ce chemin! ",
+            "Vous y trouverez de l'huile!"
+        ]
+    },
+    {
+        "ID": "21, 34",
+        "index": "0x14e",
+        "attributes": "1522000000000000ff00000000000400",
+        "text": [
+            "Magasin de Trill",
+            "Veuillez régler la note en ",
+            "déposant l'argent directement ",
+            "dans la caisse, près du gérant."
+        ]
+    },
+    {
+        "ID": "21, 226",
+        "index": "0x207",
+        "attributes": "15e2000004000000ff00000000000400",
+        "text": [
+            "Tu ne te souviens pas de moi?",
+            "Nous nous sommes rencontrés",
+            "chez Telma. Je suis {1a06ff000002}Ashei{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "index": "0x20b",
+        "attributes": "15e6000004000000ff00000000000400",
+        "text": [
+            "J'ai entendu beaucoup de choses sur",
+            "toi... Je m'appelle {1a06ff000002}Ashei{1a06ff000000}. Je vais",
+            "régulièrement à la taverne de Telma."
+        ]
+    },
+    {
+        "ID": "23, 18",
+        "index": "0x268",
+        "attributes": "17120000150d0000ff000d0000000400",
+        "text": [
+            "Qu'est-ce que tu penses de cette ",
+            "histoire de yéti dont parlait Ashei?"
+        ]
+    },
+    {
+        "ID": "23, 120",
+        "index": "0x27d",
+        "attributes": "1778000007000000ff00000000000400",
+        "text": [
+            "Je m'appelle {1a06ff000002}Impaz{1a06ff000000}. J'habite ici."
+        ]
+    },
+    {
+        "ID": "25, 111",
+        "index": "0x3eb",
+        "attributes": "196f000020000000ff00000000010400",
+        "text": [
+            "Quand Colin m'a dit que Talo était",
+            "parti dans la forêt et qu'il n'était",
+            "pas encore revenu, j'ai accouru..."
+        ]
+    },
+    {
+        "ID": "58, 251",
+        "index": "0x510",
+        "attributes": "3afb000003020100ff00000000000800",
+        "text": [
+            "Chemin du {1a06ff000002}Temple sylvestre{1a06ff000000} {1a05000015}",
+            "",
+            "{1a05000014} Pour se rendre au temple,",
+            "aller à la cabane au fond à",
+            "gauche.",
+            "",
+            "                 Le gardien, Coro"
+        ]
+    }
+]

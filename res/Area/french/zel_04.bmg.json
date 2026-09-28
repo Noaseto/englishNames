@@ -1,0 +1,396 @@
+[
+    {
+        "ID": "19, 202",
+        "index": "0x42",
+        "attributes": "13ca00004f000000ff00000000000400",
+        "text": [
+            "C'est le {1a06ff000001}Hyrule Castle{1a06ff000000}, ici! C'est",
+            "pas n'importe où, quand même!"
+        ]
+    },
+    {
+        "ID": "20, 5",
+        "index": "0x7d",
+        "attributes": "140500002d000000ff00000000000400",
+        "text": [
+            "En fait, ils ne sont pas tous là...",
+            "Il est allé à {1a06ff000001}Kakariko {1a06ff000000}pour faire",
+            "des recherches."
+        ]
+    },
+    {
+        "ID": "20, 7",
+        "index": "0x7f",
+        "attributes": "140700002d000000ff00000001040400",
+        "text": [
+            "Oh! Dire que j'ai failli oublier!{1a07000007000a} Si",
+            "tu vas à Kakariko, passe le bonjour",
+            "au père Reynald de ma part!"
+        ]
+    },
+    {
+        "ID": "20, 22",
+        "index": "0x8e",
+        "attributes": "141600002d000000ff00000000000400",
+        "text": [
+            "Tu ne sais pas ce que tu dois faire",
+            "maintenant? Essaie d'aller faire un",
+            "tour au village de {1a06ff000001}Kakariko{1a06ff000000},",
+            "histoire de te changer les idées..."
+        ]
+    },
+    {
+        "ID": "21, 45",
+        "index": "0x112",
+        "attributes": "152d000043000000ff00000001040400",
+        "text": [
+            "A-che-tez, c'qui-vous-plaît,",
+            "aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "21, 46",
+        "index": "0x113",
+        "attributes": "152e000043000000ff00000000000400",
+        "text": [
+            "Entrez donc, entrez donc! La {1a06ff000001}filiale",
+            "des Malo Mart{1a06ff000000} vous propose",
+            "des soldes à l'occasion de son",
+            "ouverture!"
+        ]
+    },
+    {
+        "ID": "21, 47",
+        "index": "0x114",
+        "attributes": "152f000043000000ff00000000020400",
+        "text": [
+            "-20%? -30%? Pas de problème!",
+            "Tout est à prix réduit! L'ami du",
+            "peuple, le Héros des petits prix:",
+            "les Malo Mart!"
+        ]
+    },
+    {
+        "ID": "21, 49",
+        "index": "0x116",
+        "attributes": "1531000043000000ff00000002010400",
+        "text": [
+            "Entrez, entrez! Soyez les bienvenus",
+            "dans la {1a06ff000001}filiale des Malo Mart{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "21, 50",
+        "index": "0x117",
+        "attributes": "1532000043000000ff00000001040400",
+        "text": [
+            "{1a0903000000000635}A-che-tez, c'qui-vous-plaît,",
+            "aux Malo Mart!",
+            "Faites votre choix avec {1a0500001b}{1a05000015}!{1a070000040000}"
+        ]
+    },
+    {
+        "ID": "21, 58",
+        "index": "0x11f",
+        "attributes": "153a000043000100ff00000004040400",
+        "text": [
+            "{1a06ff000008}Bombes {1a06ff000001}A PRIX EXPLOSIF{1a06ff000008} {1a06ff000006}45 rubis{1a06ff000000}",
+            "Lot de 30 bombes de Barnes Bomb.",
+            "Un prix que vous ne verrez",
+            "nulle part ailleurs!"
+        ]
+    },
+    {
+        "ID": "21, 84",
+        "index": "0x139",
+        "attributes": "155400005d000000ff0000000a000400",
+        "text": [
+            "Le Héros des petits prix,",
+            "{1a06ff000001}les Malo Mart{1a06ff000000}, entre ici-même",
+            "dans la légende de la citadelle!"
+        ]
+    },
+    {
+        "ID": "21, 128",
+        "index": "0x152",
+        "attributes": "1580000020000000ff00001f20030400",
+        "text": [
+            "Ma femme m'a fait savoir pour les",
+            "enfants, et je suis allé les voir",
+            "à Kakariko!"
+        ]
+    },
+    {
+        "ID": "21, 137",
+        "index": "0x15b",
+        "attributes": "1589000020000000ff00001f17000400",
+        "text": [
+            "Il est justement allé à {1a06ff000001}Kakariko{1a06ff000000}",
+            "pour ses recherches, pourquoi",
+            "ne pas aller le voir?"
+        ]
+    },
+    {
+        "ID": "21, 232",
+        "index": "0x193",
+        "attributes": "15e8000006000000ff00001f01000400",
+        "text": [
+            "Finalement, la Arbiter's Grounds",
+            "recelait-elle quelque mystère...?"
+        ]
+    },
+    {
+        "ID": "22, 97",
+        "index": "0x1c7",
+        "attributes": "1661000005000000ff00000004000400",
+        "text": [
+            "Tu as vu ce qui est arrivé au",
+            "Hyrule Castle, {1a05000000}?"
+        ]
+    },
+    {
+        "ID": "22, 182",
+        "index": "0x1e1",
+        "attributes": "16b6000004000000ff00001f02010400",
+        "text": [
+            "La montagne au nord d'Hyrule...",
+            "{1a06ff000001}le Snowpeak Top{1a06ff000000} ne ",
+            "ressemble en rien aux autres",
+            "montagnes que je connais."
+        ]
+    },
+    {
+        "ID": "22, 186",
+        "index": "0x1e5",
+        "attributes": "16ba000004000000ff00001f02010400",
+        "text": [
+            "Je te conseille de ne pas ",
+            "t'approcher des Snowpeak."
+        ]
+    },
+    {
+        "ID": "22, 190",
+        "index": "0x1e9",
+        "attributes": "16be000004000000ff00001f05050400",
+        "text": [
+            "La créature des Snowpeak n'est",
+            "pas réapparue dans le village Zora",
+            "dernièrement."
+        ]
+    },
+    {
+        "ID": "23, 114",
+        "index": "0x258",
+        "attributes": "1772000029000000ff00010c01010400",
+        "text": [
+            "Bienvenue chez Irimpa, en son",
+            "Fanadi's Palace..."
+        ]
+    },
+    {
+        "ID": "23, 176",
+        "index": "0x296",
+        "attributes": "17b0000006000000ff0000010a000400",
+        "text": [
+            "C'est un jeune homme qui s'appelle",
+            "{1a05000000}...",
+            "Il a escorté à lui seul Telma et",
+            "une cliente jusqu'à Kakariko."
+        ]
+    },
+    {
+        "ID": "23, 179",
+        "index": "0x299",
+        "attributes": "17b3000005000000ff00000304000400",
+        "text": [
+            "A ce qu'on dit, il vient d'un village",
+            "situé dans les Terres de Ordona."
+        ]
+    },
+    {
+        "ID": "23, 182",
+        "index": "0x29c",
+        "attributes": "17b6000006000000ff00000000000400",
+        "text": [
+            "Ash a seulement dit qu'elle était",
+            "préoccupée par les {1a06ff000001}Snowpeak{1a06ff000000} et",
+            "elle est partie..."
+        ]
+    },
+    {
+        "ID": "23, 184",
+        "index": "0x29e",
+        "attributes": "17b8000020000000ff00000000000400",
+        "text": [
+            "Jehd est à {1a06ff000001}Kakariko{1a06ff000000} en ce moment.",
+            "Si tu vas le voir, passe aussi voir",
+            "comment vont les enfants,",
+            "d'accord, {1a05000000}?"
+        ]
+    },
+    {
+        "ID": "24, 125",
+        "index": "0x31f",
+        "attributes": "187d000011000000ff00000001040400",
+        "text": [
+            "{1a0903000000000637}Hé hé hé... Alors ça, tu vois, ",
+            "il paraît qu'on peut en trouver ",
+            "dans une {1a06ff000001}grotte{1a06ff000000} située tout à ",
+            "l'{1a06ff000001}ouest {1a06ff000000}du {1a06ff000001}Gerudo Desert{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "31, 66",
+        "index": "0x453",
+        "attributes": "1f42000002020100ff00000000000800",
+        "text": [
+            "{1a06ff000002}Telma's Bar",
+            "",
+            "",
+            "{1a06ff000000}C'est ouvert!"
+        ]
+    },
+    {
+        "ID": "31, 67",
+        "index": "0x454",
+        "attributes": "1f43000002020100ff00000000000800",
+        "text": [
+            "{1a06ff000002}Telma's Bar",
+            "",
+            "",
+            "{1a06ff000000}Pour des raisons d'ordre",
+            "personnel, la taverne restera ",
+            "fermée pendant quelques jours."
+        ]
+    },
+    {
+        "ID": "39, 36",
+        "index": "0x4a8",
+        "attributes": "272400005a000000ff00000000000400",
+        "text": [
+            "{1a06ff000001}Le jeune Zora{1a06ff000000} dont je te parlais, ",
+            "il paraît qu'ils l'ont ramené dans",
+            "la {1a06ff000001}Telma's Bar{1a06ff000000}, dans la {1a06ff000001}ruelle",
+            "derrière la rue Sud{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "39, 48",
+        "index": "0x4b4",
+        "attributes": "2730000061000001ff00000003000400",
+        "text": [
+            "Ça me fait penser, il paraît",
+            "qu'il y a un magasin bien",
+            "et pas cher à Kakariko!"
+        ]
+    },
+    {
+        "ID": "39, 51",
+        "index": "0x4b7",
+        "attributes": "2733000061000001ff00000003000400",
+        "text": [
+            "Dites, vous connaissez Kakariko?{1a07000007000f}",
+            "Il paraît qu'il y a un bon magasin",
+            "pas cher qui a ouvert là-bas!"
+        ]
+    },
+    {
+        "ID": "39, 57",
+        "index": "0x4bd",
+        "attributes": "2739002f54000000ff00000002000400",
+        "text": [
+            "{1a090300000000063f}J'invoque les Esprits des Terres",
+            "de Lanayru... Puissiez-vous faire",
+            "tomber une pluie salvatrice sur le ",
+            "{1a06ff000001}lac Hylia{1a06ff000000}... {1a07ff0001004b}Ohmmm... Ohmmm..."
+        ]
+    },
+    {
+        "ID": "39, 64",
+        "index": "0x4c4",
+        "attributes": "2740000065000000ff0006001b000400",
+        "text": [
+            "Aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "39, 66",
+        "index": "0x4c6",
+        "attributes": "2742000068000000ff0006001b000400",
+        "text": [
+            "Aux Malo Mart!"
+        ]
+    },
+    {
+        "ID": "39, 71",
+        "index": "0x4cb",
+        "attributes": "2747000066000000ff00000003000400",
+        "text": [
+            "Hé toi, t'es déjà allé dans cette",
+            "rue-là, au {1a06ff000001}Agitha's Castle{1a06ff000000}?"
+        ]
+    },
+    {
+        "ID": "39, 73",
+        "index": "0x4cd",
+        "attributes": "2749000003020100ff00000000000800",
+        "text": [
+            "Le Fanadi's Palace ",
+            "                             Irimpa"
+        ]
+    },
+    {
+        "ID": "39, 87",
+        "index": "0x4db",
+        "attributes": "2757000062000000ff00000003000400",
+        "text": [
+            "Dites, vous êtes déjà allé dans le",
+            "Fanadi's Palace, dans la",
+            "rue Sud-Ouest? {1a07000007000a}Cette voyante a de",
+            "vrais pouvoirs, ça marche!"
+        ]
+    },
+    {
+        "ID": "39, 104",
+        "index": "0x4ec",
+        "attributes": "2768000062000001ff00000026000400",
+        "text": [
+            "Dites, vous êtes déjà allé dans le ",
+            "Fanadi's Palace, dans la ",
+            "ruelle au sud? Cette voyante a de",
+            "vrais pouvoirs, ça marche!"
+        ]
+    },
+    {
+        "ID": "60, 66",
+        "index": "0x635",
+        "attributes": "3c42000043000000ff00000001040400",
+        "text": [
+            "A-che-tez, c'qui-vous-plaît,",
+            "aux Malo Mart!",
+            "Faites votre choix avec {1a05000014}{1a0500001a}!{1a070000040000}"
+        ]
+    },
+    {
+        "ID": "63, 141",
+        "index": "0x637",
+        "attributes": "3f8d000011000000ff00000001040400",
+        "text": [
+            "Hé hé hé... Alors ça, tu vois, ",
+            "il paraît qu'on peut en trouver ",
+            "dans une {1a06ff000001}grotte{1a06ff000000} située tout à ",
+            "l'{1a06ff000001}est {1a06ff000000}du {1a06ff000001}Gerudo Desert{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "78, 73",
+        "index": "0x63f",
+        "attributes": "4e49000054000000ff00000002000400",
+        "text": [
+            "J'invoque les Esprits des Terres",
+            "de Lanayru... Puissiez-vous faire",
+            "tomber une pluie salvatrice sur le ",
+            "{1a06ff000001}lac Hylia{1a06ff000000}... {1a07ff0001004b}Ohmmm... Ohmmm..."
+        ]
+    }
+]
