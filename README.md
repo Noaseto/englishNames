@@ -1,64 +1,36 @@
-# Dusklight Mod Template
+A mod by human for human, I do not like the usage of generative AIs. Also, we stand for Trans people right :3
 
-A standalone template for [Dusklight](https://github.com/TwilitRealm/dusklight) mods.
+This readme is a big work in progress, its bulk information
 
-See the [Dusklight modding documentation](https://github.com/TwilitRealm/dusklight/blob/main/docs/modding.md)
-for the full mod API: services, hooking game functions, asset overlays, and more.
+basically, all the following will be description for how to redo all I did but with others languages.
+First you need your wii iso, I dumped mine, https://fr.dolphin-emu.org/docs/guides/ripping-games
+The choice of wii iso is because there are more translation (left/righ, west/east) so it will be usable as soon as
+that feature is available from the decomp team :>
 
-## Quick start
+Then I extracted `res/Msgfr` for the french translation and `res/Msguk` for the english ones with dolphin
 
-1. Click "Use this template" to create a new repository for your mod.
-2. Edit `mod.json.in`: set your mod's `id` (reverse-DNS style, e.g. `com.example.my_mod`),
-   `name`, `author`, and `description`.
-3. Rename the target in `CMakeLists.txt` (`add_mod(my_mod ...)`) (this names the `.dusk` file).
-4. Write your mod in `src/mod.cpp`.
-5. Build locally:
-   ```sh
-   cmake -B build
-   cmake --build build
-   ```
+Inside for each `bmgres.arc` files from no number to `bmgres8.arc` I retrieved the .bmg files
+`zel_00.bmg` to `zel_08.bmg` with gcft.
 
-The result is `build/mods/<name>.dusk`. Copy it into the game's mods folder to try it:
-
-- Windows: `%APPDATA%\TwilitRealm\Dusklight\mods`
-- Linux: `~/.local/share/TwilitRealm/Dusklight/mods`
-- macOS: `~/Library/Application Support/TwilitRealm/Dusklight/mods`
-
-During development, rebuild, copy and click **Reload** in the in-game mod manager to pick up changes.
-
-> [!IMPORTANT]
-> A mod built locally will only be valid for your own platform, and shouldn't be distributed.
-> The repository will build a [cross-platform bundle](#github-actions) for distribution. See below.
-
-## Updating to a new Dusklight version
-
-Change the `DUSKLIGHT_VERSION` line in `CMakeLists.txt` to the new release tag (or commit hash) and reconfigure. The
-pinned version is fetched into `dusklight/` automatically. Use the `dusklight/` checkout to browse game code, headers
-and mod services.
-
-> [!IMPORTANT]
-> The Dusklight checkout is for **reference only**. Mods use
-> [services](https://github.com/TwilitRealm/dusklight/blob/main/docs/modding.md#built-in-services) and
-> [hooks](https://github.com/TwilitRealm/dusklight/blob/main/docs/modding.md#hooking-game-functions) to interact with
-> game code.
-
-## GitHub Actions
-
-The included GitHub Actions workflow builds the mod for the following platforms:
-- Windows (AMD64 & ARM64)
-- macOS (Apple Silicon & Intel)
-- iOS (Apple Silicon)
-- Linux (x86_64 & aarch64)
-- Android (aarch64)
-
-It then merges the per-platform builds into a single `.dusk` supporting all platforms. (Artifact `mod-combined`) 
-
-Pushing a tag to the repository creates a GitHub release with the combined bundle.
-
-## For Dusklight developers
-
-Point the build at an existing checkout instead of fetching one:
-
-```sh
-cmake -B build -DDUSKLIGHT_DIR=~/path/to/dusklight
+then thanks to `https://github.com/RenolY2/pikminBMG` after cloning it somewhere, and this command
+(given both input and output folder exist)
+```bash
+python3 pikminBMGtool.py DUMP input/zel_00.bmg output/zel_00.bmg.txt
 ```
+
+I ended up with the `zel_00.bmg.txt` up to `zel_08.bmg.txt`
+
+for french œ character and others, I also did a latin1->cp1252 conversion after. But I needed too in the code
+I don't think I understand the encoding then, anyways, it ends up working
+```bash
+iconv -f UTF-8 -t LATIN1 zel_00.bmg.txt | iconv -f CP1252 -t UTF-8> zel_00.bmg.cp1252.txt
+```
+
+Then I don't need either the index nor attributes so
+```bash
+sed -i.bak -E '/^\s*"(index|attributes)":/d' zel_00.bmg.cp1252.txt 
+```
+finally rename them all back to `zel_xx.json`
+And then some long work to investigate all the fields and adap where needs be
+
+Lastly the flow and message service inject that text inside the game.

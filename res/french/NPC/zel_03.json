@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 174",
-        "index": "0x26",
-        "attributes": "13ae000037000000ff00000004000400",
         "text": [
             "Gorr Coron en était le champion",
             "incontesté, mais il est déjà si vieux",
@@ -12,8 +10,6 @@
     },
     {
         "ID": "19, 211",
-        "index": "0x4b",
-        "attributes": "13d3000037000000ff00000000000400",
         "text": [
             "Notrre doyen, Gorr Coron, était",
             "le chef de la trribu avant qu'il ne ",
@@ -22,8 +18,6 @@
     },
     {
         "ID": "19, 239",
-        "index": "0x67",
-        "attributes": "13ef000039000000ff00000000000400",
         "text": [
             "Je suis le doyen des Gorrons,",
             "{1a06ff000002}Gorr Coron{1a06ff000000}."
@@ -31,8 +25,6 @@
     },
     {
         "ID": "19, 240",
-        "index": "0x68",
-        "attributes": "13f0000039000000ff00000000000400",
         "text": [
             "Je dirrige la trribu en l'absence",
             "de {1a06ff000001}Darbus{1a06ff000000}, notrre {1a06ff000001}chef{1a06ff000000}."
@@ -40,8 +32,6 @@
     },
     {
         "ID": "20, 8",
-        "index": "0x80",
-        "attributes": "1408000039000000ff00000000000400",
         "text": [
             "Lorrsque la montagne a changé,",
             "nous les quatrre {1a06ff000001}doyens{1a06ff000000} et notrre",
@@ -51,8 +41,6 @@
     },
     {
         "ID": "20, 10",
-        "index": "0x82",
-        "attributes": "140a000039000000ff00000000000400",
         "text": [
             "Mais lorrsque Darbus a touché",
             "le trrésorr..."
@@ -60,8 +48,6 @@
     },
     {
         "ID": "20, 15",
-        "index": "0x87",
-        "attributes": "140f000039000000ff00000000000400",
         "text": [
             "Humain... Ecoute ma rrequête...",
             "Tu dois sauver Darbus!"
@@ -69,16 +55,12 @@
     },
     {
         "ID": "20, 17",
-        "index": "0x89",
-        "attributes": "1411000039000000ff00000000000400",
         "text": [
             "Moi, Gorr Coron..."
         ]
     },
     {
         "ID": "20, 32",
-        "index": "0x98",
-        "attributes": "1420000039000000ff00000001000400",
         "text": [
             "En parrlant de cela... Cette jeune",
             "humaine est la fille de Bo,",
@@ -88,8 +70,6 @@
     },
     {
         "ID": "20, 34",
-        "index": "0x9a",
-        "attributes": "1422000039000000ff00000000010400",
         "text": [
             "Mais je suis surrprris que Bo",
             "puisse avoirr une fille aussi jolie..."
@@ -97,8 +77,6 @@
     },
     {
         "ID": "20, 41",
-        "index": "0xa1",
-        "attributes": "142900006c000000ff00000000000400",
         "text": [
             "Le chef de la trribu des Gorrons,",
             "c'est {1a06ff000002}Darbus{1a06ff000000}! Et Darbus,",
@@ -107,8 +85,6 @@
     },
     {
         "ID": "20, 87",
-        "index": "0xcf",
-        "attributes": "1457000037000000ff0000000d000400",
         "text": [
             "Notrre chef Darbus est rrevenu",
             "de son entrraînement dans la mine."
@@ -116,8 +92,6 @@
     },
     {
         "ID": "20, 98",
-        "index": "0xda",
-        "attributes": "146200003a000000ff00000000000400",
         "text": [
             "Darbus et les autrres sages",
             "sont déjà là-bas."
@@ -125,8 +99,6 @@
     },
     {
         "ID": "20, 100",
-        "index": "0xdc",
-        "attributes": "146400003a000000ff00040000000400",
         "text": [
             "Gorr Ebizo et Gorr Liggs sont allés",
             "à Cocorrico, et depuis, je ne les ai",
@@ -135,8 +107,6 @@
     },
     {
         "ID": "20, 101",
-        "index": "0xdd",
-        "attributes": "146500003a000000ff00000000000400",
         "text": [
             "Darbus m'a dit que le village était",
             "en sécurrité maintenant, mais..."
@@ -144,8 +114,6 @@
     },
     {
         "ID": "20, 103",
-        "index": "0xdf",
-        "attributes": "146700003a000000ff00000000000400",
         "text": [
             "Gorr Ebizo et Gorr Liggs sont ",
             "au village de Cocorrico."
@@ -153,8 +121,6 @@
     },
     {
         "ID": "27, 92",
-        "index": "0x198",
-        "attributes": "1b5c0000150d0000ff00070d00000400",
         "text": [
             "Il faut aller voir ce Bo, et vite!"
         ]

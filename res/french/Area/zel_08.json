@@ -1,16 +1,12 @@
 [
     {
         "ID": "19, 234",
-        "index": "0x62",
-        "attributes": "13ea000003020100ff00000000000800",
         "text": [
             "{1a05000016} Source de l'Esprit Lanayru"
         ]
     },
     {
         "ID": "20, 181",
-        "index": "0xf3",
-        "attributes": "14b500002b000000ff00010003020400",
         "text": [
             "Hellllo!{1a07000007001e} ",
             "Bienvenue à {1a06ff000002}Flight by Fowl{1a06ff000000}!",
@@ -19,8 +15,6 @@
     },
     {
         "ID": "20, 202",
-        "index": "0x108",
-        "attributes": "14ca000003020100ff00000000000800",
         "text": [
             "{1a090300000000050d}Nouvelle Attraction du Lac Hylia",
             "",
@@ -34,8 +28,6 @@
     },
     {
         "ID": "21, 125",
-        "index": "0x115",
-        "attributes": "157d00002d000000ff000c0000000400",
         "text": [
             "Tu es prêt, {1a05000000}?",
             "Le sort de ces enfants repose",
@@ -45,8 +37,6 @@
     },
     {
         "ID": "22, 187",
-        "index": "0x236",
-        "attributes": "16bb00002f000000ff000b0000000400",
         "text": [
             "Oui, c'est la seule {1a06ff000001}voie navigable{1a06ff000000}",
             "conduisant au {1a06ff000001}Hyrule Castle{1a06ff000000}.",
@@ -55,8 +45,6 @@
     },
     {
         "ID": "23, 41",
-        "index": "0x2a4",
-        "attributes": "1729000006000000ff00000002010400",
         "text": [
             "Comptez-vous vous rendre en",
             "le Gerudo Desert?{1a05000020}"
@@ -64,8 +52,6 @@
     },
     {
         "ID": "23, 143",
-        "index": "0x2d9",
-        "attributes": "178f0000150d0000ff0000001f1f0400",
         "text": [
             "Si elle s'est refroidie, il faut",
             "que tu retournes à Kakariko en",
@@ -74,8 +60,6 @@
     },
     {
         "ID": "23, 146",
-        "index": "0x2dc",
-        "attributes": "17920000150d0000ff0000001f1f0400",
         "text": [
             "S'il est cassé, il faudrait",
             "peut-être retourner à Kakariko",
@@ -84,8 +68,6 @@
     },
     {
         "ID": "23, 181",
-        "index": "0x2ff",
-        "attributes": "17b50000150d0000ff0000001f1f0400",
         "text": [
             "En tout cas, jusqu'à ce que tu",
             "récupères la lumière d'Eldin,",
@@ -94,8 +76,6 @@
     },
     {
         "ID": "23, 182",
-        "index": "0x300",
-        "attributes": "17b60000150d0000ff0000001f1f0400",
         "text": [
             "Va! Dirige tes pas vers les terres",
             "protégées par l'{1a06ff000001}Esprit Eldin{1a06ff000000}! ",
@@ -105,8 +85,6 @@
     },
     {
         "ID": "39, 18",
-        "index": "0x4fa",
-        "attributes": "2712000003020100ff00000000000800",
         "text": [
             "Zora's River - Lac Hylia",
             "Descendez les rapides",
@@ -119,8 +97,6 @@
     },
     {
         "ID": "39, 19",
-        "index": "0x4fb",
-        "attributes": "2713000003020100ff00000000000800",
         "text": [
             "{1a06ff000003}Au Fishing Hole{1a06ff000000}",
             "",
@@ -133,8 +109,6 @@
     },
     {
         "ID": "59, 218",
-        "index": "0x50d",
-        "attributes": "3bda000003020100ff00000000000800",
         "text": [
             "Nouvelle Attraction du Lac Hylia",
             "",

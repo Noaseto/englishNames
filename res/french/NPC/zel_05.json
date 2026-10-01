@@ -1,16 +1,12 @@
 [
     {
         "ID": "23, 126",
-        "index": "0xd6",
-        "attributes": "177e0000150d0000ff00000000000400",
         "text": [
             "{1a07000007001e}{1a05000001}{1a06ff000001}Zant{1a05000002}"
         ]
     },
     {
         "ID": "23, 129",
-        "index": "0xd9",
-        "attributes": "17810000150d0000ff00000000000400",
         "text": [
             "Mais je refuse de reconnaître {1a06ff000001}Zant",
             "{1a06ff000000}comme {1a06ff000001}notre roi{1a06ff000000}! Son pouvoir ne",
@@ -19,8 +15,6 @@
     },
     {
         "ID": "23, 140",
-        "index": "0xe4",
-        "attributes": "178c00003a000000ff00000000000400",
         "text": [
             "Pourr autant, si Gorr Coron t'a",
             "laissé passer, c'est que tu es",
@@ -29,8 +23,6 @@
     },
     {
         "ID": "23, 141",
-        "index": "0xe5",
-        "attributes": "178d00003a000000ff00000000000400",
         "text": [
             "Je suis l'un des quatrre doyens ",
             "de la trribu des Gorrons, et je ",
@@ -39,8 +31,6 @@
     },
     {
         "ID": "23, 143",
-        "index": "0xe7",
-        "attributes": "178f00003a000000ff00000001010400",
         "text": [
             "Voici l'un des morrceaux de la {1a06ff000001}clé",
             "{1a06ff000000}qui ouvrre la porrte de la pièce où",
@@ -49,8 +39,6 @@
     },
     {
         "ID": "23, 149",
-        "index": "0xed",
-        "attributes": "179500003c000000ff00000000000400",
         "text": [
             "Je suis l'un des quatre doyens de",
             "la tribu des Gorons, {1a06ff000002}Gor Ebizo{1a06ff000000}."
@@ -58,8 +46,6 @@
     },
     {
         "ID": "23, 168",
-        "index": "0x100",
-        "attributes": "17a800003b000000ff00000000000400",
         "text": [
             "On dit qu'elle purrifiait le Mal.",
             "Peut-êtrre te serra-t-elle utile",
@@ -68,8 +54,6 @@
     },
     {
         "ID": "27, 92",
-        "index": "0x1c8",
-        "attributes": "1b5c0000150d0000ff00000000000400",
         "text": [
             "... En échange, je te promets de",
             "faire quelque chose contre {1a06ff000001}Zant{1a06ff000000}..."
@@ -77,8 +61,6 @@
     },
     {
         "ID": "27, 126",
-        "index": "0x1ea",
-        "attributes": "1b7e0000150d0000ff00000000000400",
         "text": [
             "Hé, tu te souviens de ce qu'a dit",
             "Barnes, l'artisan en bombes?",
@@ -87,8 +69,6 @@
     },
     {
         "ID": "27, 163",
-        "index": "0x20f",
-        "attributes": "1ba30000150d0000ff00000000000400",
         "text": [
             "Tu ne te souviens pas? Barnes,",
             "l'artisan en démolition de Cocorico,",
@@ -97,8 +77,6 @@
     },
     {
         "ID": "29, 79",
-        "index": "0x24a",
-        "attributes": "1d4f000042080500ff00000000000400",
         "text": [
             "Je suis la Great Fairy, reine",
             "de toutes les fées de ce monde."
@@ -106,8 +84,6 @@
     },
     {
         "ID": "31, 190",
-        "index": "0x29b",
-        "attributes": "1fbe0000150d0000ff000d001f1f0400",
         "text": [
             "Zut! Zant de malheur!",
             "{1a07000007000f}Mais on ne se laissera pas faire",
@@ -116,8 +92,6 @@
     },
     {
         "ID": "37, 133",
-        "index": "0x467",
-        "attributes": "25850000150d0000ff000d001f1f0400",
         "text": [
             "Je dois avouer que Zant a eu ",
             "une bonne idée en cachant ",
@@ -126,8 +100,6 @@
     },
     {
         "ID": "37, 235",
-        "index": "0x4cd",
-        "attributes": "25eb000035000000ff00000000000400",
         "text": [
             "Notre contrée est désormais sous ",
             "le contrôle de Zant..."
@@ -135,8 +107,6 @@
     },
     {
         "ID": "37, 236",
-        "index": "0x4ce",
-        "attributes": "25ec000035000000ff00050000000400",
         "text": [
             "Le Palais appartient à la famille ",
             "royale! Zant est un traître, nous",
@@ -145,8 +115,6 @@
     },
     {
         "ID": "37, 240",
-        "index": "0x4d2",
-        "attributes": "25f0000034000000ff00050000000400",
         "text": [
             "Nous ne reconnaissons pas Zant",
             "comme notre Roi légitime."
@@ -154,8 +122,6 @@
     },
     {
         "ID": "38, 73",
-        "index": "0x4e6",
-        "attributes": "26490000150d0000ff000d001f1f0400",
         "text": [
             "Zant est probablement au plus",
             "profond du Palais."
@@ -163,8 +129,6 @@
     },
     {
         "ID": "38, 77",
-        "index": "0x4ea",
-        "attributes": "264d0000150d0000ff000d001f1f0400",
         "text": [
             "Ici aussi, tout a bien changé depuis",
             "que Zant a pris le pouvoir..."
@@ -172,8 +136,6 @@
     },
     {
         "ID": "38, 81",
-        "index": "0x4ee",
-        "attributes": "26510000150d0000ff000d001f1f0400",
         "text": [
             "Si nous terrassons Zant,",
             "peut-être pouvons-nous encore",
@@ -182,8 +144,6 @@
     },
     {
         "ID": "38, 96",
-        "index": "0x4fd",
-        "attributes": "26600000150d0000ff000d001f1f0400",
         "text": [
             "Allez! Ramenons les Astres à leurs",
             "places originelles et allons rendre",
@@ -192,8 +152,6 @@
     },
     {
         "ID": "38, 98",
-        "index": "0x4ff",
-        "attributes": "26620000150d0000ff000d001f1f0400",
         "text": [
             "Si nous le trouvons, nous devrions",
             "découvrir où se cache Zant!"
@@ -201,8 +159,6 @@
     },
     {
         "ID": "38, 99",
-        "index": "0x500",
-        "attributes": "26630000150d0000ff000d001f1f0400",
         "text": [
             "Si nous replaçons cet Astre sur",
             "son socle d'origine, nous devrions ",
@@ -211,8 +167,6 @@
     },
     {
         "ID": "38, 103",
-        "index": "0x504",
-        "attributes": "26670000150d0000ff000d001f1f0400",
         "text": [
             "Avec cette épée, tu devrais pouvoir",
             "dissiper les ombres que Zant a",
@@ -221,8 +175,6 @@
     },
     {
         "ID": "38, 104",
-        "index": "0x505",
-        "attributes": "26680000150d0000ff000d001f1f0400",
         "text": [
             "Utilise cette lame pour pourfendre ",
             "les ténèbres et te frayer un chemin ",
@@ -231,16 +183,12 @@
     },
     {
         "ID": "38, 107",
-        "index": "0x508",
-        "attributes": "266b0000150d0000ff000d001f1f0400",
         "text": [
             "Zant... comment a-t-il pu oser?"
         ]
     },
     {
         "ID": "38, 114",
-        "index": "0x50f",
-        "attributes": "26720000150d0000ff000d001f1f0400",
         "text": [
             "Ce brouillard noir que tu vois est",
             "fait de cristaux d'ombre créés par",
@@ -249,8 +197,6 @@
     },
     {
         "ID": "38, 117",
-        "index": "0x512",
-        "attributes": "26750000150d0000ff000d001f1f0400",
         "text": [
             "Si tu perds ton temps avec eux, ",
             "tu n'atteindras jamais Zant!"
@@ -258,8 +204,6 @@
     },
     {
         "ID": "38, 118",
-        "index": "0x513",
-        "attributes": "26760000150d0000ff000d001f1f0400",
         "text": [
             "Ne t'occupe pas du menu fretin! ",
             "Attaque seulement l'image de",
@@ -268,8 +212,6 @@
     },
     {
         "ID": "38, 125",
-        "index": "0x51a",
-        "attributes": "267d0000150d0000ff000d001f1f0400",
         "text": [
             "Ganondorf a utilisé Zant pour se",
             "réincarner dans le monde de la",
@@ -282,8 +224,6 @@
     },
     {
         "ID": "38, 138",
-        "index": "0x527",
-        "attributes": "268a0000150d0000ff0000001f1f0400",
         "text": [
             "La lumière qui réside dans ton",
             "épée peut dissiper la magie de",
@@ -292,8 +232,6 @@
     },
     {
         "ID": "42, 254",
-        "index": "0x5b4",
-        "attributes": "2afe0000150d0000ff000d0000000400",
         "text": [
             "Tout ce que Zant a pu faire, c'est",
             "{1a06ff000001}briser{1a06ff000000} le {1a06ff000001}Miroir{1a06ff000000} en quelques",

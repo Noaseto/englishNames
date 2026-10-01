@@ -7,3 +7,7 @@
 .vscode/
 .idea/
 out/
+
+# I have the original unedited assets to help working in the res/original folder, that I don't want to push
+# It helps for faster debug and copy paste if I had deleted a text
+/original/

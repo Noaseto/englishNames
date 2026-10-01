@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 238",
-        "index": "0x66",
-        "attributes": "13ee00002a000000ff00000003000400",
         "text": [
             "{1a06ff000005}Le Palpitissimant Parc d'Attractions",
             "Aquatiques de Fyer et Falbi{1a06ff000000}..."
@@ -10,8 +8,6 @@
     },
     {
         "ID": "19, 248",
-        "index": "0x70",
-        "attributes": "13f8000003020100ff00000000000800",
         "text": [
             "Nouvelle Attraction du Lac Hylia",
             "",
@@ -24,8 +20,6 @@
     },
     {
         "ID": "20, 67",
-        "index": "0xbb",
-        "attributes": "144300002a000000ff00000000020400",
         "text": [
             "J'espère que tu seras un client",
             "régulier de Fyer le canonnier!"
@@ -33,8 +27,6 @@
     },
     {
         "ID": "20, 181",
-        "index": "0xf3",
-        "attributes": "14b500002b000000ff00010003020400",
         "text": [
             "Hellllo!{1a07000007001e} ",
             "Bienvenue à {1a06ff000002}Poule-planée{1a06ff000000}!",
@@ -43,8 +35,6 @@
     },
     {
         "ID": "20, 202",
-        "index": "0x108",
-        "attributes": "14ca000003020100ff00000000000800",
         "text": [
             "{1a090300000000050d}Nouvelle Attraction du Lac Hylia",
             "",
@@ -58,8 +48,6 @@
     },
     {
         "ID": "21, 242",
-        "index": "0x16d",
-        "attributes": "15f200002c000000ff00001d01000400",
         "text": [
             "Je m'appelle {1a06ff000002}Iza{1a06ff000000}. Je fais dans",
             "la location de barques."
@@ -67,8 +55,6 @@
     },
     {
         "ID": "22, 186",
-        "index": "0x235",
-        "attributes": "16ba00002f000000ff000a00110c0400",
         "text": [
             "Tu penses que le {1a06ff000001}prince Ralis{1a06ff000000}",
             "est passé par ici?"
@@ -76,8 +62,6 @@
     },
     {
         "ID": "22, 213",
-        "index": "0x250",
-        "attributes": "16d500002f000000ff00000000000400",
         "text": [
             "J'espère que toutes les escouades",
             "parties à la recherche du prince",
@@ -87,8 +71,6 @@
     },
     {
         "ID": "23, 16",
-        "index": "0x28b",
-        "attributes": "1710000006000000ff00000009000400",
         "text": [
             "Vous connaissez déjà dame Telma.",
             "{1a07000007000f}Permettez à l'humble serviteur",
@@ -98,8 +80,6 @@
     },
     {
         "ID": "23, 32",
-        "index": "0x29b",
-        "attributes": "1720000006000000ff00000002000400",
         "text": [
             "Vous voyez le {1a06ff000001}lac Hylia{1a06ff000000} en dessous",
             "de nous? Il s'y trouve un parc",
@@ -109,8 +89,6 @@
     },
     {
         "ID": "23, 39",
-        "index": "0x2a2",
-        "attributes": "1727000006000000ff00000009000400",
         "text": [
             "Il se trouve que je fus d'un certain",
             "secours au dénommé {1a06ff000001}Fyer{1a06ff000000}. Cette",
@@ -120,8 +98,6 @@
     },
     {
         "ID": "23, 49",
-        "index": "0x2ac",
-        "attributes": "1731000006000000ff00000009000400",
         "text": [
             "Veuillez remettre la note que je",
             "vous ai confiée au dénommé {1a06ff000001}Fyer{1a06ff000000},",
@@ -131,8 +107,6 @@
     },
     {
         "ID": "23, 50",
-        "index": "0x2ad",
-        "attributes": "1732000006000000ff00000002000400",
         "text": [
             "Si vos préparatifs pour votre départ",
             "vers le {1a06ff000001}désert{1a06ff000000} sont achevés,",
@@ -141,8 +115,6 @@
     },
     {
         "ID": "23, 51",
-        "index": "0x2ae",
-        "attributes": "1733000006000000ff00000009000400",
         "text": [
             "Vous n'avez qu'à remettre ceci au",
             "dénommé {1a06ff000001}Fyer{1a06ff000000}, il gère le parc",
@@ -152,8 +124,6 @@
     },
     {
         "ID": "24, 57",
-        "index": "0x328",
-        "attributes": "183900006b0e0000ff00010007000400",
         "text": [
             "Oh, salut salut!{1a07000007000a}",
             "Je suis {1a06ff000001}Plumm{1a06ff000000}!"
@@ -161,8 +131,6 @@
     },
     {
         "ID": "24, 73",
-        "index": "0x338",
-        "attributes": "184900006b0e0000ff00000007000400",
         "text": [
             "Oh, un humain!{1a070000070005} Je m'appelle {1a06ff000001}Plumm{1a06ff000000}!",
             "C'est moi c'est moi!"
@@ -170,8 +138,6 @@
     },
     {
         "ID": "24, 75",
-        "index": "0x33a",
-        "attributes": "184b00006b0e0000ff00000007000400",
         "text": [
             "Dommage dommage! L'humain n'a",
             "pas besoin de Plumm! Non non!"
@@ -179,8 +145,6 @@
     },
     {
         "ID": "24, 166",
-        "index": "0x36e",
-        "attributes": "18a600000a000000ff00000004000400",
         "text": [
             "Mais, je ne me suis pas présentée!{1a07000007000a}",
             "Je m'appelle {1a06ff000002}Agitha{1a06ff000000}. Je suis la ",
@@ -189,8 +153,6 @@
     },
     {
         "ID": "59, 218",
-        "index": "0x50d",
-        "attributes": "3bda000003020100ff00000000000800",
         "text": [
             "Nouvelle Attraction du Lac Hylia",
             "",

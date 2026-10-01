@@ -1,8 +1,6 @@
 [
     {
         "ID": "27, 100",
-        "index": "0x1d0",
-        "attributes": "1b640000150d0000ff00000000000400",
         "text": [
             "Il fait frais ici, rien à voir avec",
             "l'enfer de la Goron Mines!"
@@ -10,8 +8,6 @@
     },
     {
         "ID": "27, 163",
-        "index": "0x20f",
-        "attributes": "1ba30000150d0000ff00000000000400",
         "text": [
             "Tu ne te souviens pas? Crahmé,",
             "l'artisan en démolition de Kakariko,",
@@ -20,8 +16,6 @@
     },
     {
         "ID": "29, 78",
-        "index": "0x249",
-        "attributes": "1d4e000042080500ff00000000000400",
         "text": [
             "Ô Héros qui chasses les ténèbres,",
             "bienvenue dans la Cave of",
@@ -30,18 +24,14 @@
     },
     {
         "ID": "29, 80",
-        "index": "0x24b",
-        "attributes": "1d50000042080500ff00000002000400",
         "text": [
             "En récompense de ta bravoure, je ",
             "vais envoyer des fées à la {1a06ff000001}source ",
-            "de Ordon{1a06ff000000}."
+            "d'Ordon{1a06ff000000}."
         ]
     },
     {
         "ID": "29, 119",
-        "index": "0x272",
-        "attributes": "1d77000042080500ff00000006000400",
         "text": [
             "En récompense de ta bravoure, je ",
             "vais envoyer des fées à la {1a06ff000001}source ",
@@ -50,8 +40,6 @@
     },
     {
         "ID": "29, 120",
-        "index": "0x273",
-        "attributes": "1d78000042080500ff00000006000400",
         "text": [
             "En récompense de ta bravoure, je ",
             "vais envoyer des fées à la {1a06ff000001}source ",
@@ -60,8 +48,6 @@
     },
     {
         "ID": "29, 121",
-        "index": "0x274",
-        "attributes": "1d79000042080500ff00000006000400",
         "text": [
             "En récompense de ta bravoure, je ",
             "vais envoyer des fées à la {1a06ff000001}source ",
@@ -70,8 +56,6 @@
     },
     {
         "ID": "31, 206",
-        "index": "0x2ab",
-        "attributes": "1fce0000150d0000ff000d001f1f0400",
         "text": [
             "{1a05000000}, retournons à la",
             "{1a06ff000001}Mirror Chamber{1a06ff000000}!"
@@ -79,16 +63,12 @@
     },
     {
         "ID": "31, 208",
-        "index": "0x2ad",
-        "attributes": "1fd00000150d0000ff000d001f1f0400",
         "text": [
             "Allons au Hyrule Castle!"
         ]
     },
     {
         "ID": "36, 251",
-        "index": "0x437",
-        "attributes": "24fb00000f000000ff00000000000400",
         "text": [
             "Je pensais pouvoir te faire visiter",
             "City in the Sky, mais en fin de",
@@ -97,8 +77,6 @@
     },
     {
         "ID": "37, 5",
-        "index": "0x441",
-        "attributes": "250500000f000000ff00000000000400",
         "text": [
             "Et alors, que penses-tu",
             "de City in the Sky?"
@@ -106,8 +84,6 @@
     },
     {
         "ID": "38, 76",
-        "index": "0x4e9",
-        "attributes": "264c0000150d0000ff000d001f1f0400",
         "text": [
             "{1a05000000}... vite! En route",
             "pour le Hyrule Castle!"
@@ -115,8 +91,6 @@
     },
     {
         "ID": "43, 0",
-        "index": "0x5b6",
-        "attributes": "2b000000150d0000ff00100000000400",
         "text": [
             "Retournons à la {1a06ff000001}Mirror Chamber{1a06ff000000},",
             "{1a05000000}!"

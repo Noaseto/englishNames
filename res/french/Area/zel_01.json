@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 158",
-        "index": "0x15",
-        "attributes": "139e00001a000003ff00000000000400",
         "text": [
             "Peut-être qu'elle se plaît tellement",
             "à Kakariko qu'elle m'a oublié?"
@@ -10,8 +8,6 @@
     },
     {
         "ID": "19, 221",
-        "index": "0x54",
-        "attributes": "13dd00001a000003ff00000000000400",
         "text": [
             "Ah bon... {1a07000007000a}J'aimerais pouvoir aider",
             "les habitants de Kakariko, tu sais."
@@ -19,8 +15,6 @@
     },
     {
         "ID": "20, 144",
-        "index": "0x107",
-        "attributes": "149000001a000001ff0000000e030400",
         "text": [
             "Je vois... Comme ça, les enfants",
             "sont au village de Kakariko!{1a07000004003c}"
@@ -28,8 +22,6 @@
     },
     {
         "ID": "20, 162",
-        "index": "0x119",
-        "attributes": "14a200001a000000ff00000000000400",
         "text": [
             "Retourne vite à la Montagne de la ",
             "Mort et aide les gens de Kakariko."
@@ -37,17 +29,13 @@
     },
     {
         "ID": "20, 251",
-        "index": "0x172",
-        "attributes": "14fb00001b000000ff00000000020400",
         "text": [
-            "Tu sais, j'suis jamais sorti de",
-            "Ordon, moi..."
+            "Tu sais, j'suis jamais sorti",
+            "d'Ordon, moi..."
         ]
     },
     {
         "ID": "21, 98",
-        "index": "0x1d9",
-        "attributes": "1562000024000000ff00000005040400",
         "text": [
             "Ooh, je vois, c'est donc ça!",
             "Ils sont au village de Kakariko..."
@@ -55,8 +43,6 @@
     },
     {
         "ID": "21, 101",
-        "index": "0x1dc",
-        "attributes": "1565000024000000ff00000012040400",
         "text": [
             "Oh, d'accord, je comprends!",
             "Ils sont au village de Kakariko...!"
@@ -64,8 +50,6 @@
     },
     {
         "ID": "21, 103",
-        "index": "0x1de",
-        "attributes": "1567000024000000ff00000016040400",
         "text": [
             "Je voudrais les voir de retour chez",
             "nous au plus vite, mais s'ils sont",
@@ -75,8 +59,6 @@
     },
     {
         "ID": "21, 153",
-        "index": "0x210",
-        "attributes": "159900001c000000ff00000001030400",
         "text": [
             "Oh, mais...{1a07000007000a} Au fait, {1a05000000},",
             "c'est aujourd'hui que tu pars pour",
@@ -86,16 +68,12 @@
     },
     {
         "ID": "21, 200",
-        "index": "0x23f",
-        "attributes": "15c800001c000000ff00000008040400",
         "text": [
             "Quoi!? Au village de Kakariko...!?"
         ]
     },
     {
         "ID": "21, 235",
-        "index": "0x262",
-        "attributes": "15eb00001d000000ff00000006060400",
         "text": [
             "Qu'est-ce que j'entends?",
             "Tu pars pour le Hyrule Castle?"
@@ -103,8 +81,6 @@
     },
     {
         "ID": "21, 245",
-        "index": "0x26c",
-        "attributes": "15f500001d000000ff00000006060400",
         "text": [
             "Mais qu'est-ce que j'entends?",
             "Tu pars pour le Hyrule Castle?"
@@ -112,8 +88,6 @@
     },
     {
         "ID": "22, 24",
-        "index": "0x28f",
-        "attributes": "161800001d000000ff00000005000400",
         "text": [
             "Et comment vont nos garçons,",
             "là-bas, à Kakariko?"
@@ -121,8 +95,6 @@
     },
     {
         "ID": "24, 94",
-        "index": "0x47d",
-        "attributes": "185e000021000000ff00000012070400",
         "text": [
             "Pourvu qu'il pense à se rendre",
             "au village de Kakariko..."
@@ -130,8 +102,6 @@
     },
     {
         "ID": "24, 104",
-        "index": "0x487",
-        "attributes": "1868000021000000ff00000003000400",
         "text": [
             "Les enfants sont au village",
             "de Kakariko, c'est bien cela?"
@@ -139,8 +109,6 @@
     },
     {
         "ID": "24, 106",
-        "index": "0x489",
-        "attributes": "186a000021000000ff00000003000400",
         "text": [
             "Mais j'y pense, {1a05000000}.",
             "Te rends-tu souvent à Kakariko?"
@@ -148,8 +116,6 @@
     },
     {
         "ID": "24, 164",
-        "index": "0x4c3",
-        "attributes": "18a4000025000000ff00000001000400",
         "text": [
             "{1a05000000}, {1a070000070005}dis...{1a07000007000f} Tu pars ",
             "pour le Hyrule Castle, c'est ça?"
@@ -157,8 +123,6 @@
     },
     {
         "ID": "25, 202",
-        "index": "0x572",
-        "attributes": "19ca00001b000000ff00000002000400",
         "text": [
             "Il paraît que tous les enfants",
             "sont à Kakariko!"
@@ -166,16 +130,12 @@
     },
     {
         "ID": "25, 209",
-        "index": "0x579",
-        "attributes": "19d100001b000000ff00000003020400",
         "text": [
             "Mais pourquoi ils sont à Kakariko?"
         ]
     },
     {
         "ID": "31, 126",
-        "index": "0x620",
-        "attributes": "1f7e0000150d0000ff0000001f1f0400",
         "text": [
             "Ecoute-moi bien, ce que je cherche",
             "se trouve dans le {1a06ff000001}temple{1a06ff000000} de la {1a06ff000001}forêt",
@@ -184,8 +144,6 @@
     },
     {
         "ID": "31, 129",
-        "index": "0x623",
-        "attributes": "1f810000150d0000ff0000001f1f0400",
         "text": [
             "{1a090300000000070d}Hâtons-nous de quitter la forêt. ",
             "Nous devons aller vers l'{1a06ff000001}est{1a06ff000000},",
@@ -194,8 +152,6 @@
     },
     {
         "ID": "70, 145",
-        "index": "0x70d",
-        "attributes": "46910000150d0000ff00000000000400",
         "text": [
             "Hâtons-nous de quitter la forêt. ",
             "Nous devons aller vers l'{1a06ff000001}ouest{1a06ff000000},",

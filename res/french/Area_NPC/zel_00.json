@@ -1,0 +1,188 @@
+[
+    {
+        "ID": "0, 141",
+        "text": [
+            "{1a05000001}Vous obtenez l'{1a06ff000001}épée d'Ordon{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Cette lame a été forgée par Rusl,",
+            "guerrier d'Ordon, comme cadeau",
+            "pour la famille royale d'Hyrule."
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "text": [
+            "{1a0903000000000c4d}Rusl a forgé cette épée pour l'offrir à",
+            "la famille royale d'Hyrule. La poignée",
+            "est faite en corne de chèvre d'Ordon.",
+            "{1a0500000b} pour frapper, {1a0500000a} pour ranger."
+        ]
+    },
+    {
+        "ID": "3, 21",
+        "text": [
+            "L'odeur d'Ilia. Elle imprégnait la",
+            "sacoche que vous avez trouvée dans",
+            "la plaine de Lanayru."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "text": [
+            "{1a0903000000000d11}Ooccoo, une Célestienne.",
+            "Assignez-la à {1a05000010} ou {1a0500000f} pour l'appeler et",
+            "elle vous emmènera instantanément au",
+            "magasin de City in the Sky."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "text": [
+            "{1a05000001}Vous avez un nouveau",
+            "compagnon! Le {1a06ff000001}fils d'Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Vous pouvez compter sur cet",
+            "ami de City in the Sky!",
+            "Assignez-le à {1a05030002} sur l'écran {1a05030004}",
+            "pour l'appeler avec {1a05030002}. Si vous",
+            "l'assignez à {1a05030008}, vous n'avez",
+            "pas besoin d'utiliser {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 34",
+        "text": [
+            "Un bouclier en bois sculpté dans la",
+            "tradition d'Ordon. Appuyez sur {1a05030014} pour",
+            "vous protéger. Il est vulnérable au feu."
+        ]
+    },
+    {
+        "ID": "10, 45",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 48",
+        "text": [
+            "Barnes Bomb"
+        ]
+    },
+    {
+        "ID": "10, 49",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 54",
+        "text": [
+            "OT de Lanayru"
+        ]
+    },
+    {
+        "ID": "10, 141",
+        "text": [
+            "Cher {1a05000000},",
+            "J'ai une nouvelle urgente à vous",
+            "communiquer concernant",
+            "l'amnésie d'Ilia.",
+            "",
+            "Je n'ignore pas que vous devez",
+            "être fort occupé, mais je vous en",
+            "prie, venez au plus vite.",
+            "Je vous attends en mon {1a06ff000001}église{1a06ff000000},",
+            "à {1a06ff000001}Kakariko{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "10, 145",
+        "text": [
+            "La boutique de Kakariko",
+            "a ouvert ses portes!",
+            "",
+            "Nous avons en stock un objet",
+            "que vous ne trouverez nulle part",
+            "ailleurs!",
+            "C'est un exemplaire unique, alors",
+            "venez l'acheter avant que",
+            "quelqu'un d'autre ne flaire la",
+            "bonne affaire!",
+            "Réservé aux clients sérieux!"
+        ]
+    },
+    {
+        "ID": "10, 149",
+        "text": [
+            "Les Malo Mart, le héros des",
+            "petits prix, viennent d'ouvrir leurs",
+            "portes dans la ville fortifiée!",
+            "",
+            "Voyageurs et aventuriers de tous",
+            "horizons, venez y profiter de nos",
+            "offres promotionnelles à des prix",
+            "défiant toute concurrence!",
+            "",
+            "Pour notre ouverture, mise en",
+            "vente exceptionnelle d'une",
+            "armure magique (1 exemplaire)!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "text": [
+            "L'Office du Tourisme de Lanayru",
+            "présente de fabuleuses",
+            "attractions dans le plus grand",
+            "respect de la nature!",
+            "",
+            "Cette fois, il s'agit d'activités",
+            "pour les plus sportifs présentées",
+            "par les sœurs Iza et Hena. ",
+            "",
+            "Vous trouverez ces activités au",
+            "bord de la rivière, en aval de la",
+            "cascade des Zoras.",
+            "{1a05060004}Les rapides de Iza{1a05060004}",
+            "Essayez de toucher des cibles",
+            "tout en descendant les rapides!",
+            "Les flèches explosives sont",
+            "fournies gracieusement!",
+            "",
+            "{1a05060004}Le Fishing Hole d'Hena{1a05060004}",
+            "Mesurez-vous à la nature dans",
+            "une pêche au lancer sans",
+            "artifices! Quels poissons",
+            "allez-vous remonter?",
+            "",
+            "Venez nombreux!"
+        ]
+    },
+    {
+        "ID": "10, 160",
+        "text": [
+            "Cher {1a05000000},",
+            "",
+            "J'ai voyagé à travers tout Hyrule ",
+            "depuis notre dernière rencontre, ",
+            "et j'ai prononcé l'incantation ",
+            "devant toutes les statues, mais ",
+            "aucune n'a montré de réactions...",
+            "",
+            "C'est décourageant!",
+            "",
+            "Mais il est trop tôt pour baisser ",
+            "les bras! Mon père se moquerait ",
+            "de moi s'il était encore vivant...",
+            "Je vais retourner à Kakariko ",
+            "et chercher à nouveau des indices",
+            "dans le sous-sol de l'église.",
+            "",
+            "Si tu découvres quelque chose ",
+            "de ton côté, n'hésite pas à venir",
+            "m'en parler!",
+            "",
+            "Sur les traces de mon rêve, ",
+            "                                      Shad"
+        ]
+    }
+]

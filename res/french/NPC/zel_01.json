@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 157",
-        "index": "0x14",
-        "attributes": "139d00001a000003ff00010009000400",
         "text": [
             "Il n'empêche qu'Ilia aurait au",
             "moins pu m'envoyer une lettre,",
@@ -12,8 +10,6 @@
     },
     {
         "ID": "19, 185",
-        "index": "0x30",
-        "attributes": "13b900001a000003ff00020009000400",
         "text": [
             "Mais surtout, ne dis rien à",
             "personne! {1a070000070014}Et surtout pas",
@@ -22,8 +18,6 @@
     },
     {
         "ID": "20, 89",
-        "index": "0xd0",
-        "attributes": "145900001e000000ff00000000000400",
         "text": [
             "Tu sais, j'aurais bien voulu montrer",
             "à Malo comment je manie l'épée!"
@@ -31,8 +25,6 @@
     },
     {
         "ID": "20, 145",
-        "index": "0x108",
-        "attributes": "149100001a000000ff0000000f020400",
         "text": [
             "Quel soulagement... {1a070000070014}Je connais",
             "Renado depuis bien longtemps.",
@@ -42,8 +34,6 @@
     },
     {
         "ID": "20, 146",
-        "index": "0x109",
-        "attributes": "149200001a000000ff0000000d040400",
         "text": [
             "Ilia est là-bas aussi, hein? ",
             "C'est ça?"
@@ -51,8 +41,6 @@
     },
     {
         "ID": "20, 152",
-        "index": "0x10f",
-        "attributes": "149800001a000000ff00000010020400",
         "text": [
             "Je... {1a07000007000a}je vois... {1a070000070014}Et Renado t'a alors",
             "parlé de cela, hein?"
@@ -60,8 +48,6 @@
     },
     {
         "ID": "20, 161",
-        "index": "0x118",
-        "attributes": "14a100001a000000ff00000000040400",
         "text": [
             "Ni à Renado, ni à qui que ce soit...",
             "C'est juré?{1a05000020}"
@@ -69,8 +55,6 @@
     },
     {
         "ID": "21, 84",
-        "index": "0x1cb",
-        "attributes": "1554000024000000ff00000010000400",
         "text": [
             "Rusl a été blessé alors qu'il tentait",
             "de les sauver, mais il a vu ",
@@ -79,8 +63,6 @@
     },
     {
         "ID": "21, 131",
-        "index": "0x1fa",
-        "attributes": "158300001c000000ff00000000000400",
         "text": [
             "Bah, c'est pas grave, hein...{1a07000007000a} ",
             "Mais regarde là-bas, c'est pas",
@@ -89,8 +71,6 @@
     },
     {
         "ID": "21, 133",
-        "index": "0x1fc",
-        "attributes": "158500001c000000ff00000000000400",
         "text": [
             "Dis... {1a07000007000a}là-bas, à côté de ma maison,",
             "c'est pas le chat de Sera?"
@@ -98,8 +78,6 @@
     },
     {
         "ID": "21, 168",
-        "index": "0x21f",
-        "attributes": "15a800001a000000ff00000202000400",
         "text": [
             "Rusl est blessé, alors je compte",
             "aller à la recherche des enfants",
@@ -108,8 +86,6 @@
     },
     {
         "ID": "21, 169",
-        "index": "0x220",
-        "attributes": "15a900001c000000ff00000012040400",
         "text": [
             "Oui, mais Rusl avait une épée!",
             "Tu ne vas quand même pas y aller",
@@ -118,8 +94,6 @@
     },
     {
         "ID": "21, 170",
-        "index": "0x221",
-        "attributes": "15aa00001a000000ff00000215000400",
         "text": [
             "Ne t'en fais pas, Rusl a encore",
             "l'épée qu'on devait offrir à",
@@ -128,8 +102,6 @@
     },
     {
         "ID": "21, 171",
-        "index": "0x222",
-        "attributes": "15ab00001c000000ff00090006040400",
         "text": [
             "Ah, oui... d'accord, Bo.",
             "Je me dépêche, attends un inst..."
@@ -137,16 +109,12 @@
     },
     {
         "ID": "21, 175",
-        "index": "0x226",
-        "attributes": "15af00001a000000ff00000202000400",
         "text": [
             "Je file chez Rusl chercher l'épée."
         ]
     },
     {
         "ID": "21, 176",
-        "index": "0x227",
-        "attributes": "15b000001a000000ff00000202000400",
         "text": [
             "Il faut que je me dépêche si je veux",
             "sauver les enfants, et maintenant",
@@ -155,8 +123,6 @@
     },
     {
         "ID": "21, 177",
-        "index": "0x228",
-        "attributes": "15b100001c000000ff00090006040400",
         "text": [
             "C'est bon, j'ai compris, Bo.",
             "Attends ici, je rev..."
@@ -164,8 +130,6 @@
     },
     {
         "ID": "21, 188",
-        "index": "0x233",
-        "attributes": "15bc00001c000000ff00000005040400",
         "text": [
             "Des monstres les ont enlevés!",
             "Ilia, les petits... tous les enfants!"
@@ -173,8 +137,6 @@
     },
     {
         "ID": "21, 189",
-        "index": "0x234",
-        "attributes": "15bd00001c000000ff00000006040400",
         "text": [
             "Rusl est blessé, et Bo est parti",
             "les chercher à sa place, mais il est",
@@ -183,16 +145,12 @@
     },
     {
         "ID": "21, 196",
-        "index": "0x23b",
-        "attributes": "15c400001c000000ff00000008040400",
         "text": [
             "Va sauver Ilia et les enfants!"
         ]
     },
     {
         "ID": "21, 228",
-        "index": "0x25b",
-        "attributes": "15e400001d000000ff00000005000400",
         "text": [
             "Il est en train de tailler un bouclier",
             "pour Rusl en ce moment.",
@@ -201,8 +159,6 @@
     },
     {
         "ID": "21, 232",
-        "index": "0x25f",
-        "attributes": "15e800001d000000ff00000009070400",
         "text": [
             "Tu es sûr que Talo et Malo ne",
             "te tapent pas sur les nerfs?",
@@ -211,8 +167,6 @@
     },
     {
         "ID": "21, 238",
-        "index": "0x265",
-        "attributes": "15ee00001d000000ff00000005000400",
         "text": [
             "En ce moment, il taille un bouclier",
             "que lui a commandé Rusl."
@@ -220,8 +174,6 @@
     },
     {
         "ID": "21, 242",
-        "index": "0x269",
-        "attributes": "15f200001d000000ff00000005000400",
         "text": [
             "Je suis désolée pour l'attitude",
             "déplorable de Talo et Malo hier."
@@ -229,8 +181,6 @@
     },
     {
         "ID": "21, 247",
-        "index": "0x26e",
-        "attributes": "15f700001d000000ff00000005000400",
         "text": [
             "Par contre, je m'excuse pour ",
             "l'attitude déplorable de Talo",
@@ -239,8 +189,6 @@
     },
     {
         "ID": "22, 30",
-        "index": "0x295",
-        "attributes": "161e00001d000000ff00050007050400",
         "text": [
             "Talo... Malo... ",
             "Oh, faites qu'ils vivent..."
@@ -248,8 +196,6 @@
     },
     {
         "ID": "22, 73",
-        "index": "0x2c0",
-        "attributes": "164900001e000000ff00020100050400",
         "text": [
             "Mais il est trop cher pour nous, ",
             "on ne pourra jamais se l'offrir!",
@@ -259,8 +205,6 @@
     },
     {
         "ID": "22, 76",
-        "index": "0x2c3",
-        "attributes": "164c00001e000000ff00000100050400",
         "text": [
             "Allez, Beth! On veut juste le",
             "regarder... Il doit bien y avoir",
@@ -269,8 +213,6 @@
     },
     {
         "ID": "22, 83",
-        "index": "0x2ca",
-        "attributes": "165300001e000000ff00000011000400",
         "text": [
             "J'te jure, Malo, t'aurais dû voir ",
             "ça! C'était trop fort!"
@@ -278,8 +220,6 @@
     },
     {
         "ID": "22, 88",
-        "index": "0x2cf",
-        "attributes": "165800001e000000ff000a0014050400",
         "text": [
             "Je suppose que tu veux aller voir",
             "Ilia? Eh ben, je ne te laisserai",
@@ -288,8 +228,6 @@
     },
     {
         "ID": "22, 133",
-        "index": "0x2fc",
-        "attributes": "168500001f000000ff00000000000400",
         "text": [
             "{1a07ff00010050}Beth... ça ne fait plus aucun doute,",
             "tu en as déjà utilisé un..."
@@ -297,8 +235,6 @@
     },
     {
         "ID": "22, 152",
-        "index": "0x30f",
-        "attributes": "169800001f000000ff00000000030400",
         "text": [
             "{1a07ff0001005a}... Beth, tu as déjà utilisé un",
             "lance-pierre, c'est sûr..."
@@ -306,8 +242,6 @@
     },
     {
         "ID": "22, 155",
-        "index": "0x312",
-        "attributes": "169b00001f000000ff00000000000400",
         "text": [
             "{1a0903000000000705}Equiper avec {1a05000010} ou {1a0500000f}, viser avec {1a0500000d}",
             "et utiliser des {1a06ff000001}graines de potiron{1a06ff000000}",
@@ -317,8 +251,6 @@
     },
     {
         "ID": "22, 231",
-        "index": "0x337",
-        "attributes": "16e7000023000000ff00000001000400",
         "text": [
             "On a que des articles pour garçons",
             "en stock, ça a rendu Beth",
@@ -327,8 +259,6 @@
     },
     {
         "ID": "22, 234",
-        "index": "0x33a",
-        "attributes": "16ea000023000000ff00000000000400",
         "text": [
             "Beth ressemble de plus en plus à",
             "ma femme... Je ne sais pas ce que",
@@ -337,8 +267,6 @@
     },
     {
         "ID": "23, 68",
-        "index": "0x394",
-        "attributes": "1744000023000000ff00000001000400",
         "text": [
             "Mais au fait, il paraît que le chef du",
             "village va t'envoyer à la place",
@@ -347,8 +275,6 @@
     },
     {
         "ID": "23, 73",
-        "index": "0x399",
-        "attributes": "1749000023000000ff00000001000400",
         "text": [
             "Il paraît que le chef du village va ",
             "t'envoyer à la place de Rusl?"
@@ -356,8 +282,6 @@
     },
     {
         "ID": "23, 86",
-        "index": "0x3a6",
-        "attributes": "1756000023000000ff00000001000400",
         "text": [
             "Mais au fait, {1a05000000}...",
             "Il paraît que le chef du village va ",
@@ -366,24 +290,18 @@
     },
     {
         "ID": "23, 99",
-        "index": "0x3b3",
-        "attributes": "1763000023000000ff000a0005020400",
         "text": [
             "Beth... non... snif..."
         ]
     },
     {
         "ID": "23, 110",
-        "index": "0x3be",
-        "attributes": "176e000023000000ff00000001000400",
         "text": [
             "Est-ce que Beth va bien?"
         ]
     },
     {
         "ID": "23, 180",
-        "index": "0x404",
-        "attributes": "17b4000020000000ff00000012060400",
         "text": [
             "L'{1a06ff000001}épée{1a06ff000000} destinée au château est sur",
             "le divan. Donne-la à Bo quand",
@@ -392,16 +310,12 @@
     },
     {
         "ID": "23, 223",
-        "index": "0x42f",
-        "attributes": "17df000022000000ff00000006000400",
         "text": [
             "Talo n'est toujours pas rentré."
         ]
     },
     {
         "ID": "23, 225",
-        "index": "0x431",
-        "attributes": "17e1000022000000ff00000000000400",
         "text": [
             "Tu crois qu'il est arrivé",
             "quelque chose à Talo?"
@@ -409,8 +323,6 @@
     },
     {
         "ID": "23, 228",
-        "index": "0x434",
-        "attributes": "17e4000022000000ff00010000000400",
         "text": [
             "...{1a07000007000f} {1a05000000}... {1a07000007001e}Tu vas voir",
             "Ilia?"
@@ -418,16 +330,12 @@
     },
     {
         "ID": "23, 233",
-        "index": "0x439",
-        "attributes": "17e9000022000000ff00000000000400",
         "text": [
             "On va voir Ilia tous les deux?"
         ]
     },
     {
         "ID": "24, 61",
-        "index": "0x45c",
-        "attributes": "183d000021000000ff00000012070400",
         "text": [
             "Peut-être que tu le sais déjà...",
             "Ilia et les enfants ont été enlevés..."
@@ -435,8 +343,6 @@
     },
     {
         "ID": "24, 157",
-        "index": "0x4bc",
-        "attributes": "189d000025000000ff00000009000400",
         "text": [
             "Talo et Malo se sont lancés",
             "comme des fous à la poursuite",
@@ -445,16 +351,12 @@
     },
     {
         "ID": "24, 160",
-        "index": "0x4bf",
-        "attributes": "18a0000025000000ff00000008000400",
         "text": [
             "Tu as trouvé Talo, {1a05000000}?"
         ]
     },
     {
         "ID": "25, 4",
-        "index": "0x4de",
-        "attributes": "1904000022000000ff00001d00000400",
         "text": [
             "Ilia ne sait pas encore ce qu'il",
             "s'est passé hier..."
@@ -462,8 +364,6 @@
     },
     {
         "ID": "25, 102",
-        "index": "0x50e",
-        "attributes": "196600001a000000ff00000000000400",
         "text": [
             "Tu vas aider Fado, alors? ",
             "Merci beaucoup."
@@ -471,8 +371,6 @@
     },
     {
         "ID": "25, 107",
-        "index": "0x513",
-        "attributes": "196b00001a000000ff00000000000400",
         "text": [
             "Hmmm...? Eh bien, {1a05000000}, ",
             "je croyais que tu allais aider Fado?"
@@ -480,8 +378,6 @@
     },
     {
         "ID": "25, 111",
-        "index": "0x517",
-        "attributes": "196f00001a000000ff0000000c000400",
         "text": [
             "Monte {1a05000022} et file ",
             "à la {1a06ff000001}bergerie{1a06ff000000}! Fado t'attend."
@@ -489,8 +385,6 @@
     },
     {
         "ID": "25, 153",
-        "index": "0x541",
-        "attributes": "199900001a000000ff00000000000400",
         "text": [
             "On dirait que Fado va devoir se",
             "débrouiller seul à la bergerie",
@@ -499,8 +393,6 @@
     },
     {
         "ID": "25, 160",
-        "index": "0x548",
-        "attributes": "19a000001a000000ff00010000000400",
         "text": [
             "C'est pour ça que je ne suis pas",
             "rassuré quand Fado travaille seul..."
@@ -508,8 +400,6 @@
     },
     {
         "ID": "25, 166",
-        "index": "0x54e",
-        "attributes": "19a600001a000000ff00000000000400",
         "text": [
             "Quant à Fado... Grr... Je retiendrai",
             "le prix de toute chèvre perdue sur",
@@ -518,8 +408,6 @@
     },
     {
         "ID": "25, 173",
-        "index": "0x555",
-        "attributes": "19ad00001a000000ff000d0000000400",
         "text": [
             "Hmmm?{1a07000007000a} Oh, tu veux peut-être",
             "parler à Ilia?"
@@ -527,8 +415,6 @@
     },
     {
         "ID": "25, 176",
-        "index": "0x558",
-        "attributes": "19b000001a000000ff00000000000400",
         "text": [
             "Désolé, mais Ilia m'a dit de ne pas",
             "te laisser entrer aujourd'hui."
@@ -536,8 +422,6 @@
     },
     {
         "ID": "25, 183",
-        "index": "0x55f",
-        "attributes": "19b700001a000000ff00010000000400",
         "text": [
             "Oh, non, Fado... Il le fait exprès,",
             "ma parole!"
@@ -545,8 +429,6 @@
     },
     {
         "ID": "25, 186",
-        "index": "0x562",
-        "attributes": "19ba00001a000000ff00000000000400",
         "text": [
             "Va voir Ilia et essaie de la",
             "convaincre de te la rendre..."
@@ -554,8 +436,6 @@
     },
     {
         "ID": "25, 206",
-        "index": "0x576",
-        "attributes": "19ce00001b000000ff00000005000400",
         "text": [
             "S'il te plaît, {1a05000000}, essaye ",
             "d'faire en sorte qu'Ilia et",
@@ -564,8 +444,6 @@
     },
     {
         "ID": "25, 218",
-        "index": "0x582",
-        "attributes": "19da00001b000000ff00000002020400",
         "text": [
             "Personne sait où est Ilia...",
             "J'suppose qu'ils l'ont enlevée",
@@ -574,8 +452,6 @@
     },
     {
         "ID": "25, 221",
-        "index": "0x585",
-        "attributes": "19dd00001b000000ff00000005020400",
         "text": [
             "Rusl a été gravement blessé alors",
             "qu'il essayait de les arrêter..."
@@ -583,8 +459,6 @@
     },
     {
         "ID": "25, 222",
-        "index": "0x586",
-        "attributes": "19de00001b000000ff00000008010400",
         "text": [
             "Bo est parti à leur recherche,",
             "mais il est plus tout jeune, et",
@@ -593,16 +467,12 @@
     },
     {
         "ID": "35, 46",
-        "index": "0x659",
-        "attributes": "232e000003020100ff00000000000800",
         "text": [
             "Fado"
         ]
     },
     {
         "ID": "35, 47",
-        "index": "0x65a",
-        "attributes": "232f000003020100ff00000000000800",
         "text": [
             "Jaggle, Pergie",
             "Talo et Malo"
@@ -610,8 +480,6 @@
     },
     {
         "ID": "35, 48",
-        "index": "0x65b",
-        "attributes": "2330000003020100ff00000000000800",
         "text": [
             "Bo",
             "Chef du village"
@@ -619,16 +487,12 @@
     },
     {
         "ID": "35, 49",
-        "index": "0x65c",
-        "attributes": "2331000003020100ff00000000000800",
         "text": [
             "Rusl, Uli, Colin"
         ]
     },
     {
         "ID": "61, 171",
-        "index": "0x705",
-        "attributes": "3dab00001f000000ff00000000000400",
         "text": [
             "Assigne-le à {1a05030002} grâce à ",
             "l'inventaire {1a05030004}. Utilise des {1a06ff000001}graines",
