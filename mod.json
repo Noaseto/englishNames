@@ -1,7 +1,7 @@
 {
   "id": "io.github.noaseto.english_names",
   "name": "English Names",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Noaseto",
   "description": "Replaces your language NPC, Areas (,Item names and fish NOT YET IMPLEMENTED) with their english variant."
 }
