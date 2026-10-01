@@ -33,4 +33,7 @@ sed -i.bak -E '/^\s*"(index|attributes)":/d' zel_00.bmg.cp1252.txt
 finally rename them all back to `zel_xx.json`
 And then some long work to investigate all the fields and adap where needs be
 
+for so, I used this website (it's in french, but all languages are still there)
+https://zelda.fandom.com/fr/wiki/Traductions_de_Twilight_Princess
+
 Lastly the flow and message service inject that text inside the game.
