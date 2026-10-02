@@ -88,23 +88,28 @@ ModResult init_settings() {
 }
 
 ModResult build_main_panel(ModContext*, const UiElementHandle panel, void*, ModError*) {
+    UiPredicateFn disabled = [](ModContext*, void*) { return true; };
+    UiPredicateFn notDisabled = [](ModContext*, void*) { return false; };
+
     ModResult result;
-    result = addToggle(panel, "Replace NPC names", g_config_var_npc, g_element_handle_npc);
+    result = addToggle(panel, "Replace NPC names", g_config_var_npc, g_element_handle_npc,
+        notDisabled);
     if (result != MOD_OK)
         return result;
-    result = addToggle(panel, "Replace area names", g_config_var_area, g_element_handle_area);
+    result = addToggle(panel, "Replace area names", g_config_var_area, g_element_handle_area,
+        notDisabled);
     if (result != MOD_OK)
         return result;
     result = addToggle(panel, "Replace fish names (NOT YET IMPLEMENTED)", g_config_var_fish,
-        g_element_handle_fish);
+        g_element_handle_fish, disabled);
     if (result != MOD_OK)
         return result;
     result = addToggle(panel, "Replace item names (NOT YET IMPLEMENTED)", g_config_var_item,
-        g_element_handle_item);
+        g_element_handle_item, disabled);
     if (result != MOD_OK)
         return result;
     result = addToggle(panel, "This setting is cool (use Purlo's spanish name)", g_config_var_cool,
-        g_element_handle_cool);
+        g_element_handle_cool, notDisabled);
     if (result != MOD_OK)
         return result;
 
@@ -260,7 +265,9 @@ MOD_EXPORT ModResult mod_initialize(ModError*) {
     UiModsPanelDesc ui_mods_panel_desc = UI_MODS_PANEL_DESC_INIT;
     ui_mods_panel_desc.build = build_main_panel;
     //panel.update = update; no need for this I believe, or maybe?
-    svc_ui->register_mods_panel(mod_ctx, &ui_mods_panel_desc);
+    result = svc_ui->register_mods_panel(mod_ctx, &ui_mods_panel_desc);
+    if (result != MOD_OK)
+        return result;
 
     // overide the languages
     updateNames();
