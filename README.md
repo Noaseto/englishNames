@@ -1,39 +1,86 @@
+# NO AI
+
 A mod by human for human, I do not like the usage of generative AIs. Also, we stand for Trans people right :3
 
-This readme is a big work in progress, its bulk information
+## What is this about
 
-basically, all the following will be description for how to redo all I did but with others languages.
-First you need your wii iso, I dumped mine, https://fr.dolphin-emu.org/docs/guides/ripping-games
-The choice of wii iso is because there are more translation (left/righ, west/east) so it will be usable as soon as
-that feature is available from the decomp team :>
+This repository is a mode for [dusklight](https://github.com/TwilitRealm/dusklight), based on the [mode template](https://github.com/TwilitRealm/mod-template)
+The purpose of this mode is to replace the names of many things (NPC names, areas, fish, items, ...) with their
+english variant to allow for easy communication when interacting with other people online while still being able
+to play in your own language. It is based on the PAL version of the game, so it will cover German, French,
+Spanish and Italian.
 
-Then I extracted `res/Msgfr` for the french translation and `res/Msguk` for the english ones with dolphin
+I created this mode for me in the first place, because when I was trying to find help in english on the internet
+nobody knew who Machaon or Lafrel are (Agitha and Auru).
 
-Inside for each `bmgres.arc` files from no number to `bmgres8.arc` I retrieved the .bmg files
-`zel_00.bmg` to `zel_08.bmg` with gcft.
+I consider this to be an accessibility mode, no gameplay is added.
 
-then thanks to `https://github.com/RenolY2/pikminBMG` after cloning it somewhere, and this command
-(given both input and output folder exist)
+## Reporting translation problems
+
+If you are using this mode (Thank you :> ) and find a translation issue, feel free to poke me on the dusklight discord,
+send a DM, or create an issue on this repo, what suits you the best. having a screenshot of the full textbox and
+where you found it will help to narrow it down really fast.
+
+## How it works
+
+Thanks to the workflow and message services, everytime a text would have said an instance (by instance I mean a localized
+NPC name, etc, ...) that is not the same in english, text is overriden to use the english counterpart.
+
+## Known issue
+
+As of right now, the area names on the map are not translated. To dive a bit into the details, it is because the
+localized variant are not loaded through text, but directly in some code with updated fonts etc. I will fix it but not
+in the original v1.0.0 release
+
+## TODOs
+
+For each item in there, I want to do it for all languages (when applicable)
+
+* Fish journal (should be easy, but same work as the map, hooks)
+* Item names (grammar will be tedious)
+* Add non PAL language support ? how would that work out with brazilian for instance
+
+## Workflow
+
+Based on the Wii iso that I own (because there are more translation, it includes the Gamecube texts
+and the mirrored ones i.e west/east, left/right), many will not be useful with the current version
+of Dusklight(2.0.3 as I write those lines) but should they update and use the Wii texts, for the mirror
+mode, this mode will already be up to date.
+
+After dumping my iso [(see how to)](https://fr.dolphin-emu.org/docs/guides/ripping-games), I extracted all the language arc files in the `/res/MsgXX` (XX
+being different for each language) Thanks to [GCFT](https://github.com/LagoLunatic/GCFT)
+
+Still with **GCFT**, inside each `bmgres.arc` files from number `bmgres.arc` to `bmgres8.arc`
+I retrieved the associated .bmg files `zel_00.bmg` to `zel_08.bmg`.
+
+I then used [pikminBMG tool](https://github.com/RenolY2/pikminBMG) to extract the text within bmg files.
+
 ```bash
-python3 pikminBMGtool.py DUMP input/zel_00.bmg output/zel_00.bmg.txt
+python3 pikminBMGtool.py DUMP input/zel_00.bmg output/zel_00.bmg.json
 ```
 
-I ended up with the `zel_00.bmg.txt` up to `zel_08.bmg.txt`
-
-for french œ character and others, I also did a latin1->cp1252 conversion after. But I needed too in the code
-I don't think I understand the encoding then, anyways, it ends up working
+I ended up with `zel_00.bmg.json` up to `zel_08.bmg.json` for each language. Then I made sure the encoding
+did not provide some weird character by converting all the files to cp1252.
 ```bash
-iconv -f UTF-8 -t LATIN1 zel_00.bmg.txt | iconv -f CP1252 -t UTF-8> zel_00.bmg.cp1252.txt
+iconv -f UTF-8 -t LATIN1 zel_00.bmg.json | iconv -f CP1252 -t UTF-8> zel_00.json
 ```
 
-Then I don't need either the index nor attributes so
+PikminBMG provides lots of information, but I don't need neither of the index nor the attributes so I
+simply removed both lines for each entry.
 ```bash
-sed -i.bak -E '/^\s*"(index|attributes)":/d' zel_00.bmg.cp1252.txt 
+sed -i.bak -E '/^\s*"(index|attributes)":/d' zel_00.json
 ```
-finally rename them all back to `zel_xx.json`
-And then some long work to investigate all the fields and adap where needs be
+Make sure that the files are viable ones and as you expected them to be, then you can delete the `.bak`.
+And then some long work to investigate all the fields and adapt where needs be.
+I used this [website](https://zelda.fandom.com/fr/wiki/Traductions_de_Twilight_Princess)
+(it's in french, but all languages are still there)
 
-for so, I used this website (it's in french, but all languages are still there)
-https://zelda.fandom.com/fr/wiki/Traductions_de_Twilight_Princess
+Lastly the cpp code with the flow and message services injects that text inside the game.
 
-Lastly the flow and message service inject that text inside the game.
+## Thanks
+
+A big thank you to everybody who has worked on the pikminBMG tool.
+
+To Lucaspec72 for showing me the tool
+
+To my Blåhaj for moral support :3
