@@ -8,6 +8,9 @@
 #include "mods/svc/resource.h"
 #include "mods/svc/ui.h"
 
+#include "util.hpp"
+#include "config.hpp"
+
 #include <nlohmann/json.hpp>
 #include <fmt/format.h>
 
@@ -32,13 +35,13 @@ namespace {
 ConfigVarHandle g_config_var_npc = 0;
 ConfigVarHandle g_config_var_area = 0;
 ConfigVarHandle g_config_var_fish = 0;
-ConfigVarHandle g_config_var_items = 0;
+ConfigVarHandle g_config_var_item = 0;
 ConfigVarHandle g_config_var_cool = 0;
 
 UiElementHandle g_element_handle_npc = 0;
 UiElementHandle g_element_handle_area = 0;
 UiElementHandle g_element_handle_fish = 0;
-UiElementHandle g_element_handle_items = 0;
+UiElementHandle g_element_handle_item = 0;
 UiElementHandle g_element_handle_cool = 0;
 
 std::string areaFolder = "Area/";
@@ -63,194 +66,83 @@ uint16_t kGroupCount = 9;
 
 std::vector<mods::flow::MessageOverride> g_overrides;
 
-/*
- * Fully copied from the randomizer
- */
-std::string UTF8ToCP1252(const std::string& utf8Str) {
-    std::string cp1252Str;
-    cp1252Str.reserve(utf8Str.length());
-
-    size_t readPos = 0;
-    size_t len = utf8Str.length();
-
-    while (readPos < len) {
-        unsigned char c = utf8Str[readPos];
-
-        if (c < 0x80) {
-            // Standard ASCII (0x00 - 0x7F)
-            cp1252Str.push_back(c);
-            ++readPos;
-        } else if ((c & 0xE0) == 0xC0 && (readPos + 1 < len)) {
-            // 2-byte UTF-8 sequence (0xC2 - 0xDF)
-            unsigned char nextByte = utf8Str[readPos + 1];
-
-            // Reconstruct code point for U+0080 to U+07FF
-            uint32_t codePoint = ((c & 0x1F) << 6) | (nextByte & 0x3F);
-
-            static std::unordered_map<uint32_t, char> twoByteMap = {
-                {0x0152, 0x8C}, // Œ
-                {0x0153, 0x9C}, // œ
-                {0x0160, 0x8A}, // Š
-                {0x0161, 0x9A}, // š
-                {0x0178, 0x9F}, // Ÿ
-                {0x017D, 0x8E}, // Ž
-                {0x017E, 0x9E}, // ž
-            };
-
-            if (twoByteMap.contains(codePoint)) {
-                cp1252Str.push_back(twoByteMap.at(codePoint));
-            } else if (codePoint <= 0xFF) {
-                cp1252Str.push_back(static_cast<char>(codePoint));
-            } else {
-                throw std::runtime_error(fmt::format(
-                    "Invalid character U+{:04X} when converting to CP1252 in \"{}\"", codePoint,
-                    utf8Str));
-            }
-
-            readPos += 2;
-        } else if ((c & 0xF0) == 0xE0 && (readPos + 2 < len)) {
-            // 3-byte UTF-8 sequence
-            unsigned char b2 = utf8Str[readPos + 1];
-            unsigned char b3 = utf8Str[readPos + 2];
-
-            uint32_t codePoint = ((c & 0x0F) << 12) | ((b2 & 0x3F) << 6) | (b3 & 0x3F);
-
-            static std::unordered_map<uint32_t, char> threeByteMap = {
-                {0x20AC, 0x80}, // €
-                {0x201A, 0x82}, // ‚
-                {0x0192, 0x83}, // ƒ
-                {0x201E, 0x84}, // „
-                {0x2026, 0x85}, // …
-                {0x2020, 0x86}, // †
-                {0x2021, 0x87}, // ‡
-                {0x02C6, 0x88}, // ˆ
-                {0x2030, 0x89}, // ‰
-                {0x2039, 0x8B}, // ‹
-                {0x2018, 0x91}, // ‘
-                {0x2019, 0x92}, // ’
-                {0x201C, 0x93}, // “
-                {0x201D, 0x94}, // ”
-                {0x2022, 0x95}, // •
-                {0x2013, 0x96}, // –
-                {0x2014, 0x97}, // —
-                {0x02DC, 0x98}, // ˜
-                {0x2122, 0x99}, // ™
-                {0x203A, 0x9B}, // ›
-            };
-
-            if (threeByteMap.contains(codePoint)) {
-                cp1252Str.push_back(threeByteMap.at(codePoint));
-            } else {
-                throw std::runtime_error(fmt::format(
-                    "Invalid character U+{:04X} when converting to CP1252 in \"{}\"", codePoint,
-                    utf8Str));
-            }
-            readPos += 3;
-        } else {
-            // Unsupported sequence, out of CP1252 range, or malformed UTF-8
-            throw std::runtime_error(
-                fmt::format("Invalid bytes when converting to CP1252 with \"{}\"", utf8Str));
-        }
-    }
-
-    return cp1252Str;
-}
 
 ModResult init_settings() {
-    ConfigVarDesc config_var_desc_npc = CONFIG_VAR_DESC_INIT;
-    config_var_desc_npc.name = "npcNames";
-    config_var_desc_npc.type = CONFIG_VAR_BOOL;
-    config_var_desc_npc.default_bool = true;
-    ModResult result = svc_config->register_var(mod_ctx, &config_var_desc_npc, &g_config_var_npc);
+    ModResult result;
+    result = addBoolVar("npcNames", true, g_config_var_npc);
     if (result != MOD_OK)
         return result;
-
-    ConfigVarDesc config_var_desc_area = CONFIG_VAR_DESC_INIT;
-    config_var_desc_area.name = "areaNames";
-    config_var_desc_area.type = CONFIG_VAR_BOOL;
-    config_var_desc_area.default_bool = true;
-    result = svc_config->register_var(mod_ctx, &config_var_desc_area, &g_config_var_area);
+    result = addBoolVar("areaNames", true, g_config_var_area);
     if (result != MOD_OK)
         return result;
-
-    ConfigVarDesc config_var_desc_fish = CONFIG_VAR_DESC_INIT;
-    config_var_desc_fish.name = "fishNames";
-    config_var_desc_fish.type = CONFIG_VAR_BOOL;
-    config_var_desc_fish.default_bool = true;
-    result = svc_config->register_var(mod_ctx, &config_var_desc_fish, &g_config_var_fish);
+    result = addBoolVar("fishNames", false, g_config_var_fish);
     if (result != MOD_OK)
         return result;
-
-    ConfigVarDesc config_var_desc_items = CONFIG_VAR_DESC_INIT;
-    config_var_desc_items.name = "itemNames";
-    config_var_desc_items.type = CONFIG_VAR_BOOL;
-    config_var_desc_items.default_bool = true;
-    result = svc_config->register_var(mod_ctx, &config_var_desc_items, &g_config_var_items);
+    result = addBoolVar("itemNames", false, g_config_var_item);
     if (result != MOD_OK)
         return result;
-
-    ConfigVarDesc config_var_desc_cool = CONFIG_VAR_DESC_INIT;
-    config_var_desc_cool.name = "cool";
-    config_var_desc_cool.type = CONFIG_VAR_BOOL;
-    config_var_desc_cool.default_bool = true;
-    result = svc_config->register_var(mod_ctx, &config_var_desc_cool, &g_config_var_cool);
+    result = addBoolVar("cool", true, g_config_var_cool);
     if (result != MOD_OK)
         return result;
-
     return MOD_OK;
 }
 
 ModResult build_main_panel(ModContext*, const UiElementHandle panel, void*, ModError*) {
-    UiControlDesc ui_control_desc_1 = UI_CONTROL_DESC_INIT;
-    ui_control_desc_1.kind = UI_CONTROL_TOGGLE;
-    ui_control_desc_1.label = "Replace NPC names";
-    //ui_control_desc_1.help_rml = ""; Unseen in this menu
-    ui_control_desc_1.binding = UI_BINDING_CONFIG_VAR;
-    ui_control_desc_1.config_var = g_config_var_npc;
-    svc_ui->pane_add_control(mod_ctx, panel, &ui_control_desc_1, &g_element_handle_npc);
-
-    UiControlDesc ui_control_desc_2 = UI_CONTROL_DESC_INIT;
-    ui_control_desc_2.kind = UI_CONTROL_TOGGLE;
-    ui_control_desc_2.label = "Replace area names";
-    //ui_control_desc_2.help_rml = ""; Unseen in this menu
-    ui_control_desc_2.binding = UI_BINDING_CONFIG_VAR;
-    ui_control_desc_2.config_var = g_config_var_area;
-    svc_ui->pane_add_control(mod_ctx, panel, &ui_control_desc_2, &g_element_handle_area);
-
-    UiControlDesc ui_control_desc_3 = UI_CONTROL_DESC_INIT;
-    ui_control_desc_3.is_disabled = [](ModContext*, void*){return true;};
-    ui_control_desc_3.kind = UI_CONTROL_TOGGLE;
-    ui_control_desc_3.label = "Replace fish names (NOT YET IMPLEMENTED)";
-    //ui_control_desc_3.help_rml = ""; Unseen in this menu
-    ui_control_desc_3.binding = UI_BINDING_CONFIG_VAR;
-    ui_control_desc_3.config_var = g_config_var_area;
-    svc_ui->pane_add_control(mod_ctx, panel, &ui_control_desc_3, &g_element_handle_fish);
-
-    UiControlDesc ui_control_desc_5 = UI_CONTROL_DESC_INIT;
-    ui_control_desc_5.is_disabled = [](ModContext*, void*){return true;};
-    ui_control_desc_5.kind = UI_CONTROL_TOGGLE;
-    ui_control_desc_5.label = "Replace item names (NOT YET IMPLEMENTED)";
-    //ui_control_desc_5.help_rml = ""; Unseen in this menu
-    ui_control_desc_5.binding = UI_BINDING_CONFIG_VAR;
-    ui_control_desc_5.config_var = g_config_var_area;
-    svc_ui->pane_add_control(mod_ctx, panel, &ui_control_desc_5, &g_element_handle_items);
-
-    UiControlDesc ui_control_desc_4 = UI_CONTROL_DESC_INIT;
-    ui_control_desc_4.kind = UI_CONTROL_TOGGLE;
-    ui_control_desc_4.label = "This setting is cool (use Purlo's spanish name)";
-    //ui_control_desc_4.help_rml = ""; Unseen in this menu
-    ui_control_desc_4.binding = UI_BINDING_CONFIG_VAR;
-    ui_control_desc_4.config_var = g_config_var_cool;
-    svc_ui->pane_add_control(mod_ctx, panel, &ui_control_desc_4, &g_element_handle_cool);
+    ModResult result;
+    result = addToggle(panel, "Replace NPC names", g_config_var_npc, g_element_handle_npc);
+    if (result != MOD_OK)
+        return result;
+    result = addToggle(panel, "Replace area names", g_config_var_area, g_element_handle_area);
+    if (result != MOD_OK)
+        return result;
+    result = addToggle(panel, "Replace fish names (NOT YET IMPLEMENTED)", g_config_var_fish,
+        g_element_handle_fish);
+    if (result != MOD_OK)
+        return result;
+    result = addToggle(panel, "Replace item names (NOT YET IMPLEMENTED)", g_config_var_item,
+        g_element_handle_item);
+    if (result != MOD_OK)
+        return result;
+    result = addToggle(panel, "This setting is cool (use Purlo's spanish name)", g_config_var_cool,
+        g_element_handle_cool);
+    if (result != MOD_OK)
+        return result;
 
     return MOD_OK;
 }
 
-void overrideMessages(const MessageLanguage language, std::string languageFolder, std::string folderOverride) {
+std::string getLanguageFolder(const MessageLanguage language) {
+    std::string languageFolder;
+    switch (language) {
+    case MESSAGE_LANGUAGE_ENGLISH:
+        languageFolder = "english/";
+        break;
+    case MESSAGE_LANGUAGE_GERMAN:
+        languageFolder = "german/";
+        break;
+    case MESSAGE_LANGUAGE_FRENCH:
+        languageFolder = "french/";
+        break;
+    case MESSAGE_LANGUAGE_SPANISH:
+        languageFolder = "spanish/";
+        break;
+    case MESSAGE_LANGUAGE_ITALIAN:
+        languageFolder = "italian/";
+        break;
+    default:
+        // nothing to be done here, even if a language does not exist, file won't be found
+        // no segfault or w.e
+        break;
+    }
+    return languageFolder;
+}
+
+void overrideMessages(const MessageLanguage language, const std::string& folderOverride) {
     int messageOverriden = 0;
+    std::string languageFolder = getLanguageFolder(language);
     for (uint16_t group = 0; group < kGroupCount; ++group) {
-        std::string filePath = languageFolder + folderOverride + "zel_0" + std::to_string(group)
-                               + ".json";
+        std::string filePath = languageFolder + folderOverride + "zel_0" + std::to_string(group) +
+                               ".json";
         if (svc_resource->file_exists(mod_ctx, filePath.c_str())) {
             ResourceBuffer buffer = RESOURCE_BUFFER_INIT;
             svc_resource->load(mod_ctx, filePath.c_str(), &buffer);
@@ -277,16 +169,18 @@ void overrideMessages(const MessageLanguage language, std::string languageFolder
                     }
                     isFirstLine = false;
 
-                    // here we have to convert stuff between curly brackets
-                    // {1a05000000} is the code for player name
-                    // they do not have a fixed size :< but its even
                     std::string utf8Line = jsonLine.get<std::string>();
                     std::string line = UTF8ToCP1252(utf8Line);
 
                     for (size_t i = 0; i < line.size(); i++) {
                         char currentChar = line[i];
                         if (currentChar == '{') {
-                            // then we must find the closing one
+                            // here we have to convert stuff between curly brackets
+                            // {1a05000000} is the code for player name
+                            // they do not have a fixed size :< but its even
+                            // and then we must find the closing one
+                            // There is no dialog in game with curly brackets, so it is safe to
+                            // assume that there will be a closing one for every open one
                             size_t closingCurlyBracket = line.find('}', i);
                             std::string hexTag = line.substr(i + 1,
                                 closingCurlyBracket - i - 1);
@@ -326,42 +220,17 @@ void updateNames() {
     svc_config->get_bool(mod_ctx, g_config_var_cool, &editCool);
 
     for (const MessageLanguage language : kAllLanguages) {
-        std::string languageFolder = "";
-
-        // this switch is meh :c
-        switch (language) {
-        case MESSAGE_LANGUAGE_ENGLISH:
-            languageFolder = "english/";
-            break;
-        case MESSAGE_LANGUAGE_GERMAN:
-            languageFolder = "german/";
-            break;
-        case MESSAGE_LANGUAGE_FRENCH:
-            languageFolder = "french/";
-            break;
-        case MESSAGE_LANGUAGE_SPANISH:
-            languageFolder = "spanish/";
-            break;
-        case MESSAGE_LANGUAGE_ITALIAN:
-            languageFolder = "italian/";
-            break;
-        default:
-            // nothing to be done here, even if a language does not exist, file won't be found
-            // no segfault or w.e
-            break;
-        }
-
         if (editNpc) {
-            overrideMessages(language, languageFolder, npcFolder);
+            overrideMessages(language, npcFolder);
         }
         if (editArea) {
-            overrideMessages(language, languageFolder, areaFolder);
+            overrideMessages(language, areaFolder);
         }
         if (editArea && editNpc) {
-            overrideMessages(language, languageFolder, areaNpcFolder);
+            overrideMessages(language, areaNpcFolder);
         }
         if (editCool) {
-            overrideMessages(language, languageFolder, coolFolder);
+            overrideMessages(language, coolFolder);
         }
         // todo fish and items
     }
@@ -369,7 +238,6 @@ void updateNames() {
 } // namespace
 
 extern "C" {
-
 /*
  * Known issue, map area names, they will need some hook
  *
