@@ -142,6 +142,8 @@ std::string getLanguageFolder(const MessageLanguage language) {
     return languageFolder;
 }
 
+// maybe in some world where I'm not exhausted I split this function into several parts
+// like, read json, compute ID, extract text, then the call to the flow
 void overrideMessages(const MessageLanguage language, const std::string& folderOverride) {
     int messageOverriden = 0;
     std::string languageFolder = getLanguageFolder(language);
@@ -219,9 +221,13 @@ void overrideMessages(const MessageLanguage language, const std::string& folderO
 void updateNames() {
     bool editNpc;
     bool editArea;
+    bool editFish;
+    bool editItem;
     bool editCool;
     svc_config->get_bool(mod_ctx, g_config_var_npc, &editNpc);
     svc_config->get_bool(mod_ctx, g_config_var_area, &editArea);
+    svc_config->get_bool(mod_ctx, g_config_var_fish, &editFish);
+    svc_config->get_bool(mod_ctx, g_config_var_item, &editItem);
     svc_config->get_bool(mod_ctx, g_config_var_cool, &editCool);
 
     for (const MessageLanguage language : kAllLanguages) {
@@ -234,10 +240,17 @@ void updateNames() {
         if (editArea && editNpc) {
             overrideMessages(language, areaNpcFolder);
         }
+        if (editFish) {
+            // todo fish
+            // some stuff
+        }
+        if (editItem) {
+            // todo items
+            // some stuff
+        }
         if (editCool) {
             overrideMessages(language, coolFolder);
         }
-        // todo fish and items
     }
 }
 } // namespace
