@@ -1,8 +1,6 @@
 [
     {
         "ID": "0, 141",
-        "index": "0x8c",
-        "attributes": "008d0000020902002801000000000400",
         "text": [
             "{1a05000001}Du erhältst das {1a06ff000001}Ordon-",
             "Schwert{1a06ff000000}!{1a05000002} {1a07000007000a}Rusl hat es als",
@@ -12,8 +10,6 @@
     },
     {
         "ID": "3, 21",
-        "index": "0x314",
-        "attributes": "03150000020b0400b000000000000400",
         "text": [
             "Der Geruch der Tasche, die",
             "Ilia immer bei sich hatte.",
@@ -23,8 +19,6 @@
     },
     {
         "ID": "3, 81",
-        "index": "0x350",
-        "attributes": "03510000020b0400ec00000000000600",
         "text": [
             "{1a0903000000000d11}Die unglaubliche Ooccoo.",
             "Rufe sie mit {1a05000010} oder {1a0500000f}, und sie bringt",
@@ -33,8 +27,6 @@
     },
     {
         "ID": "17, 184",
-        "index": "0xbe5",
-        "attributes": "11b8000002090200ec00000000000400",
         "text": [
             "{1a0903000000000be5}Du freundest dich mit der",
             "{1a05000001}{1a06ff000001}Ooccoo {1a06ff000000}an!{1a05000002} {1a07000007000a}Sie kann dich in",
@@ -48,32 +40,24 @@
     },
     {
         "ID": "10, 45",
-        "index": "0xdba",
-        "attributes": "0a2d000002000000ff00000000000100",
         "text": [
             "Malo Mart"
         ]
     },
     {
         "ID": "10, 48",
-        "index": "0xdbd",
-        "attributes": "0a30000002000000ff00000000000100",
         "text": [
             "Barnes Bomb"
         ]
     },
     {
         "ID": "10, 49",
-        "index": "0xdbe",
-        "attributes": "0a31000002000000ff00000000000100",
         "text": [
             "Malo Mart"
         ]
     },
     {
         "ID": "10, 149",
-        "index": "0xe22",
-        "attributes": "0a95000002000000ff00000000000c00",
         "text": [
             "Endlich! Malo mart, der Klein-",
             "preis-Held, kommt auch nach",
@@ -91,8 +75,6 @@
     },
     {
         "ID": "10, 156",
-        "index": "0xe29",
-        "attributes": "0a9c000002000000ff00000000000c00",
         "text": [
             "Die Touristeninformation Lanayru",
             "informiert: Genießen Sie Freizeit-",

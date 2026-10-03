@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 237",
-        "index": "0x65",
-        "attributes": "13ed00002d000000ff00010c01010400",
         "text": [
             "Wow!",
             "Der ist ja von Renado!"
@@ -10,8 +8,6 @@
     },
     {
         "ID": "19, 240",
-        "index": "0x68",
-        "attributes": "13f000002d000000ff00000c07020400",
         "text": [
             "Also gut... Ilia braucht",
             "unsere Hilfe!"
@@ -19,8 +15,6 @@
     },
     {
         "ID": "19, 254",
-        "index": "0x76",
-        "attributes": "13fe00002d000000ff00000001000400",
         "text": [
             "{1a06ff000002}Auru{1a06ff000000} heißt er, ein netter Alter.",
             "Du solltest ihn kennenlernen!",
@@ -30,8 +24,6 @@
     },
     {
         "ID": "20, 0",
-        "index": "0x78",
-        "attributes": "140000002d000000ff00000001000400",
         "text": [
             "{1a06ff000002}Ashei{1a06ff000000} heißt sie, ein ganz süßes",
             "Mädchen. Du solltest sie kennen-",
@@ -41,8 +33,6 @@
     },
     {
         "ID": "20, 6",
-        "index": "0x7e",
-        "attributes": "140600002d000000ff00000002010400",
         "text": [
             "{1a06ff000002}Shad{1a06ff000000} heißt er, ist etwa so alt",
             "wie du... Ich meine, ihr solltet",
@@ -51,8 +41,6 @@
     },
     {
         "ID": "20, 7",
-        "index": "0x7f",
-        "attributes": "140700002d000000ff00000001040400",
         "text": [
             "Ach ja... Wenn du nach Kakariko",
             "gehst, richte Renado auf jeden",
@@ -61,8 +49,6 @@
     },
     {
         "ID": "20, 10",
-        "index": "0x82",
-        "attributes": "140a00002d000000ff00000001000400",
         "text": [
             "Wie geht's eigentlich",
             "der kleinen Ilia?"
@@ -70,8 +56,6 @@
     },
     {
         "ID": "20, 11",
-        "index": "0x83",
-        "attributes": "140b00002d000000ff00000002000400",
         "text": [
             "Ich bin sicher, Renado wird eine",
             "Methode finden, ihre Erinnerung",
@@ -80,8 +64,6 @@
     },
     {
         "ID": "20, 13",
-        "index": "0x85",
-        "attributes": "140d00002d000000ff00000000000400",
         "text": [
             "Wegen Ilia solltest du dich einfach",
             "auf Renado verlassen... und",
@@ -91,8 +73,6 @@
     },
     {
         "ID": "20, 16",
-        "index": "0x88",
-        "attributes": "141000002d000000ff00000000000400",
         "text": [
             "Wenn du nicht weißt, wo du",
             "anfangen sollst, solltest du",
@@ -102,8 +82,6 @@
     },
     {
         "ID": "20, 18",
-        "index": "0x8a",
-        "attributes": "141200002d000000ff00000000000400",
         "text": [
             "Wenn du nicht weißt, wo du",
             "anfangen sollst, solltest du",
@@ -113,8 +91,6 @@
     },
     {
         "ID": "20, 20",
-        "index": "0x8c",
-        "attributes": "141400002d000000ff00000000000400",
         "text": [
             "Wenn du nicht weißt, wo du",
             "anfangen sollst, solltest du",
@@ -123,8 +99,6 @@
     },
     {
         "ID": "20, 23",
-        "index": "0x8f",
-        "attributes": "141700002d000000ff00000000000400",
         "text": [
             "Ich glaube, {1a06ff000002}Shad{1a06ff000000} ist auch gerade",
             "dort. Er ist einer von uns... und",
@@ -134,8 +108,6 @@
     },
     {
         "ID": "20, 36",
-        "index": "0x9c",
-        "attributes": "142400002d000000ff00000001060400",
         "text": [
             "Was...?",
             "Ilias Gedächtnis...?!?"
@@ -143,8 +115,6 @@
     },
     {
         "ID": "20, 39",
-        "index": "0x9f",
-        "attributes": "142700002d000000ff00000000010400",
         "text": [
             "Und dass du mir gut",
             "auf Ilia aufpasst, verstanden?!?"
@@ -152,8 +122,6 @@
     },
     {
         "ID": "20, 85",
-        "index": "0xb0",
-        "attributes": "1455000030000000ff00040003000400",
         "text": [
             "{1a07ff00010055}Übrigens... Diese Kleine... Ilia...",
             "Sie hat nicht zufällig über mich",
@@ -162,8 +130,6 @@
     },
     {
         "ID": "20, 111",
-        "index": "0xca",
-        "attributes": "146f000030000000ff00000d00000400",
         "text": [
             "Gib sie doch einfach dieser",
             "Kleinen, dieser Ilia, zurück!"
@@ -171,8 +137,6 @@
     },
     {
         "ID": "20, 114",
-        "index": "0xcd",
-        "attributes": "1472000030000000ff00000d01000400",
         "text": [
             "Eine Schnitzerei von dieser Ilia",
             "oder so... die habe ich nicht",
@@ -181,8 +145,6 @@
     },
     {
         "ID": "20, 183",
-        "index": "0xd7",
-        "attributes": "14b70000450e0000ff00000000000400",
         "text": [
             "Suchst du etwa dieses Ding,",
             "das {1a06ff000001}Ilia{1a06ff000000} bei sich hatte?"
@@ -190,8 +152,6 @@
     },
     {
         "ID": "20, 189",
-        "index": "0xdd",
-        "attributes": "14bd0000450e0000ff00000000000400",
         "text": [
             "Und zurückbekommen musst du",
             "sie! Sie ist ein Schlüssel zu",
@@ -200,8 +160,6 @@
     },
     {
         "ID": "20, 192",
-        "index": "0xe0",
-        "attributes": "14c00000450e0000ff00000000000400",
         "text": [
             "Hol dir die {1a06ff000001}Schnitzerei{1a06ff000000} und",
             "bring sie zu Ilia!"
@@ -209,8 +167,6 @@
     },
     {
         "ID": "21, 31",
-        "index": "0x104",
-        "attributes": "151f000043000100ff00000001000400",
         "text": [
             "{1a06ff000008}Bomben{1a06ff000000}",
             "Ein Bestseller aus Barnes' Bomben-",
@@ -220,8 +176,6 @@
     },
     {
         "ID": "21, 135",
-        "index": "0x159",
-        "attributes": "1587000020000000ff00001f16000400",
         "text": [
             "Wenn ja, dann solltest du es",
             "{1a06ff000001}Shad{1a06ff000000} erzählen... Er würde sich",
@@ -230,8 +184,6 @@
     },
     {
         "ID": "22, 76",
-        "index": "0x1b2",
-        "attributes": "164c000005000000ff00001f04000400",
         "text": [
             "Mich nennen die Leute {1a06ff000002}Shad{1a06ff000000}.",
             "Schön, dich zu sehen."
@@ -239,16 +191,12 @@
     },
     {
         "ID": "22, 176",
-        "index": "0x1db",
-        "attributes": "16b0000004000000ff00001f00000400",
         "text": [
             "...Ich bin {1a06ff000002}Ashei{1a06ff000000}."
         ]
     },
     {
         "ID": "23, 149",
-        "index": "0x27b",
-        "attributes": "1795000006000000ff0004000a030400",
         "text": [
             "Was?!?",
             "Königin Rutela?"
@@ -256,8 +204,6 @@
     },
     {
         "ID": "23, 181",
-        "index": "0x29b",
-        "attributes": "17b5000005000000ff00090000000400",
         "text": [
             "Auru versucht gerade in der",
             "Nähe des {1a06ff000001}Hylia-Sees{1a06ff000000}, etwas über",
@@ -266,8 +212,6 @@
     },
     {
         "ID": "23, 182",
-        "index": "0x29c",
-        "attributes": "17b6000006000000ff00000000000400",
         "text": [
             "Ashei ist gerade unterwegs...",
             "Sie meinte, sie will sich einmal",
@@ -276,8 +220,6 @@
     },
     {
         "ID": "23, 183",
-        "index": "0x29d",
-        "attributes": "17b7000004000000ff00000000000400",
         "text": [
             "Rusl wollte sich in den {1a06ff000001}heiligen",
             "Hain{1a06ff000000} aufmachen. Ich glaube, er",
@@ -287,8 +229,6 @@
     },
     {
         "ID": "23, 184",
-        "index": "0x29e",
-        "attributes": "17b8000020000000ff00000000000400",
         "text": [
             "Shad ist gerade in Kakariko.",
             "Wenn du auch hin willst, dann",
@@ -298,8 +238,6 @@
     },
     {
         "ID": "23, 217",
-        "index": "0x2bf",
-        "attributes": "17d900000a000000ff00000003000400",
         "text": [
             "Verzeih, ich habe mich noch",
             "gar nicht vorgestellt...{1a07000007000a} Ich bin",
@@ -309,16 +247,12 @@
     },
     {
         "ID": "24, 106",
-        "index": "0x30c",
-        "attributes": "186a000000000000ff00000000000400",
         "text": [
             "Jovani"
         ]
     },
     {
         "ID": "24, 108",
-        "index": "0x30e",
-        "attributes": "186c000011000000ff00004000010400",
         "text": [
             "Mich nennt man {1a06ff000002}Jovani{1a06ff000000}{1a070000070005}.{1a070000070005}.{1a070000070005}. Aber",
             "seit ich Geld brauchte und meine",
@@ -328,8 +262,6 @@
     },
     {
         "ID": "24, 109",
-        "index": "0x30f",
-        "attributes": "186d000011000000ff00024000000400",
         "text": [
             "Meiner Freundin kann ich so nicht",
             "unter die Augen treten... und mein",
@@ -339,8 +271,6 @@
     },
     {
         "ID": "24, 138",
-        "index": "0x32c",
-        "attributes": "188a000011000000ff00004002040400",
         "text": [
             "Nicht nur ich, auch Gengle kann",
             "sich wieder frei bewegen!{1a07000007000a}",
@@ -350,8 +280,6 @@
     },
     {
         "ID": "24, 141",
-        "index": "0x32f",
-        "attributes": "188d000011000000ff00004000000400",
         "text": [
             "So, Gengle kann sich jetzt auch",
             "wieder bewegen... Das verdanken",
@@ -360,8 +288,6 @@
     },
     {
         "ID": "24, 164",
-        "index": "0x346",
-        "attributes": "18a40000450e0000ff00001900000400",
         "text": [
             "Mich nennen sie Gengle...",
             "Bin so was wie der Boss der",
@@ -370,16 +296,12 @@
     },
     {
         "ID": "27, 91",
-        "index": "0x421",
-        "attributes": "1b5b0000450e0000ff00000000000400",
         "text": [
             "Wo ist nur Jovani?"
         ]
     },
     {
         "ID": "27, 92",
-        "index": "0x422",
-        "attributes": "1b5c0000450e0000ff00000000000400",
         "text": [
             "Was macht Gengle nur die",
             "ganze Zeit in dem Haus...?"
@@ -387,8 +309,6 @@
     },
     {
         "ID": "27, 99",
-        "index": "0x429",
-        "attributes": "1b630000450e0000ff00000000000400",
         "text": [
             "Normalerweise treffen wir uns",
             "ja immer direkt vor Jovanis",
@@ -397,8 +317,6 @@
     },
     {
         "ID": "27, 108",
-        "index": "0x432",
-        "attributes": "1b6c0000450e0000ff00000000000400",
         "text": [
             "Was? Jovani?",
             "Der ist eben hinausgeflogen.",
@@ -407,8 +325,6 @@
     },
     {
         "ID": "27, 109",
-        "index": "0x433",
-        "attributes": "1b6d0000450e0000ff00000000000400",
         "text": [
             "Was auch immer... Hauptsache,",
             "dass es Gengle auch gut geht."
@@ -416,8 +332,6 @@
     },
     {
         "ID": "27, 114",
-        "index": "0x438",
-        "attributes": "1b720000450e0000ff00000000000400",
         "text": [
             "Gengle ist heute schon wieder",
             "nicht aus dem Haus gekommen{1a070000070005}.{1a070000070005}.{1a070000070005}."
@@ -425,8 +339,6 @@
     },
     {
         "ID": "27, 117",
-        "index": "0x43b",
-        "attributes": "1b750000450e0000ff00000000000400",
         "text": [
             "Gengle geht es also gut!",
             "Wie wunderbar!"
@@ -434,24 +346,18 @@
     },
     {
         "ID": "31, 69",
-        "index": "0x456",
-        "attributes": "1f45000002020100ff00000000000800",
         "text": [
             "{1a06ff000006}Prinzessin Agitha"
         ]
     },
     {
         "ID": "31, 70",
-        "index": "0x457",
-        "attributes": "1f46000002020100ff00000000000800",
         "text": [
             "Casa {1a06ff000002}Jovani"
         ]
     },
     {
         "ID": "39, 71",
-        "index": "0x4cb",
-        "attributes": "2747000066000000ff00000003000400",
         "text": [
             "Sag mal, mein Freund... Warst du",
             "schon mal bei {1a06ff000001}Agitha{1a06ff000000} in der",
@@ -460,8 +366,6 @@
     },
     {
         "ID": "39, 180",
-        "index": "0x538",
-        "attributes": "27b4000068000000ff0003001c000400",
         "text": [
             "Jovani... {1a070000070005}Jovani...",
             "{1a07000007000a}Dummer, großer... {1a070000070005}Jovani...",
@@ -471,8 +375,6 @@
     },
     {
         "ID": "39, 183",
-        "index": "0x53b",
-        "attributes": "27b700004b000000ff00000003000400",
         "text": [
             "Hast du ein wenig Zeit?",
             "{1a07000007000a}Und kennst du einen Mann",
@@ -481,8 +383,6 @@
     },
     {
         "ID": "39, 232",
-        "index": "0x56c",
-        "attributes": "27e800005e000000ff00000003000400",
         "text": [
             "Hast du etwa bei Agitha etwas",
             "zu erledigen?"
@@ -490,8 +390,6 @@
     },
     {
         "ID": "39, 236",
-        "index": "0x570",
-        "attributes": "27ec00005e000000ff00000003000400",
         "text": [
             "Du... {1a070000070005}Was für eine{1a07000007000a} Beziehung{1a07000007000a} hast",
             "du eigentlich zu Agitha...?!?"

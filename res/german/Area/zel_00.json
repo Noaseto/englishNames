@@ -1,8 +1,6 @@
 [
     {
         "ID": "1, 81",
-        "index": "0x150",
-        "attributes": "0151000002090200ec01000000000400",
         "text": [
             "Du freundest dich mit der",
             "{1a05000001}{1a06ff000001}Tante {1a06ff000000}an!{1a05000002} {1a07000007000a}Sie kann dich in",
@@ -16,8 +14,6 @@
     },
     {
         "ID": "1, 83",
-        "index": "0x152",
-        "attributes": "0153000002090200ee01000000000400",
         "text": [
             "{1a05000001}Du erhältst einen {1a06ff000001}kleinen",
             "Schlüssel{1a06ff000000}!{1a05000002} {1a07000007000a}Er öffnet dir das",
@@ -26,8 +22,6 @@
     },
     {
         "ID": "1, 99",
-        "index": "0x162",
-        "attributes": "0163000002090200fe01000000000400",
         "text": [
             "{1a05000001}Du erhältst einen {1a06ff000001}kleinen",
             "Schlüssel{1a06ff000000}!{1a05000002} {1a07000007000a}Öffne mit ihm das Tor",
@@ -36,8 +30,6 @@
     },
     {
         "ID": "2, 178",
-        "index": "0x2b1",
-        "attributes": "02b20000020b04004d00000000000600",
         "text": [
             "Mysteriöser Stab, der alten Statuen",
             "Leben einhaucht. Im Temple of Time hat",
@@ -47,8 +39,6 @@
     },
     {
         "ID": "3, 21",
-        "index": "0x314",
-        "attributes": "03150000020b0400b000000000000400",
         "text": [
             "Der Geruch der Tasche, die",
             "Ilya immer bei sich hatte.",
@@ -58,8 +48,6 @@
     },
     {
         "ID": "3, 23",
-        "index": "0x316",
-        "attributes": "03170000020b0400b200000000000400",
         "text": [
             "Der Geruch der Geister, die in der",
             "Arbiter's Grounds ihr Unwesen treiben."
@@ -67,8 +55,6 @@
     },
     {
         "ID": "3, 37",
-        "index": "0x324",
-        "attributes": "03250000020b0400c000000000000600",
         "text": [
             "Ein komplett goldener Nashorn-",
             "käfer {1a05060002}. Gefunden in der",
@@ -77,8 +63,6 @@
     },
     {
         "ID": "3, 38",
-        "index": "0x325",
-        "attributes": "03260000020b0400c100000000000600",
         "text": [
             "Ein komplett goldener Nashorn-",
             "käfer {1a05060003}. Gefunden in der",
@@ -87,8 +71,6 @@
     },
     {
         "ID": "3, 41",
-        "index": "0x328",
-        "attributes": "03290000020b0400c400000000000600",
         "text": [
             "Ein komplett goldener Hirsch-",
             "käfer {1a05060002}. Gefunden in der Ebene",
@@ -97,8 +79,6 @@
     },
     {
         "ID": "3, 42",
-        "index": "0x329",
-        "attributes": "032a0000020b0400c500000000000600",
         "text": [
             "Ein komplett goldener Hirsch-",
             "käfer {1a05060003}. Gefunden in der Ebene",
@@ -107,8 +87,6 @@
     },
     {
         "ID": "3, 56",
-        "index": "0x337",
-        "attributes": "03380000020b0400d300000000000600",
         "text": [
             "Eine komplett goldene Libelle {1a05060003}.",
             "Gefunden im Becken des Wasser-",
@@ -117,8 +95,6 @@
     },
     {
         "ID": "3, 59",
-        "index": "0x33a",
-        "attributes": "033b0000020b0400d600000000000600",
         "text": [
             "Eine komplett goldene Eintags-",
             "fliege {1a05060002}. Gefunden in der",
@@ -127,8 +103,6 @@
     },
     {
         "ID": "3, 60",
-        "index": "0x33b",
-        "attributes": "033c0000020b0400d700000000000600",
         "text": [
             "Eine komplett goldene Eintags-",
             "fliege {1a05060003}. Gefunden in der",
@@ -137,8 +111,6 @@
     },
     {
         "ID": "3, 91",
-        "index": "0x35a",
-        "attributes": "035b0000020b0400f600000000000700",
         "text": [
             "Schlüssel zum Schlafzimmer der Snowpeak",
             "ruins. Im Schlafzimmer wirst du eine der",
@@ -147,464 +119,348 @@
     },
     {
         "ID": "3, 112",
-        "index": "0x36f",
-        "attributes": "0370000002000000ff00000000000100",
         "text": [
             "Hyrule Castle"
         ]
     },
     {
         "ID": "3, 113",
-        "index": "0x370",
-        "attributes": "0371000002000000ff00000000000100",
         "text": [
             "Forest Temple"
         ]
     },
     {
         "ID": "3, 114",
-        "index": "0x371",
-        "attributes": "0372000002000000ff00000000000100",
         "text": [
             "Goron Mines"
         ]
     },
     {
         "ID": "3, 115",
-        "index": "0x372",
-        "attributes": "0373000002000000ff00000000000100",
         "text": [
             "Lakebed Temple"
         ]
     },
     {
         "ID": "3, 116",
-        "index": "0x373",
-        "attributes": "0374000002000000ff00000000000100",
         "text": [
             "Arbiter's Grounds"
         ]
     },
     {
         "ID": "3, 117",
-        "index": "0x374",
-        "attributes": "0375000002000000ff00000000000100",
         "text": [
             "Snowpeak Ruins"
         ]
     },
     {
         "ID": "3, 118",
-        "index": "0x375",
-        "attributes": "0376000002000000ff00000000000100",
         "text": [
             "Temple of Time"
         ]
     },
     {
         "ID": "3, 119",
-        "index": "0x376",
-        "attributes": "0377000002000000ff00000000000100",
         "text": [
             "City in the sky"
         ]
     },
     {
         "ID": "3, 120",
-        "index": "0x377",
-        "attributes": "0378000002000000ff00000000000100",
         "text": [
             "Palace of Twilight"
         ]
     },
     {
         "ID": "4, 77",
-        "index": "0x44c",
-        "attributes": "044d0000020c0100ff00000000000100",
         "text": [
             "Forest Temple{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 78",
-        "index": "0x44d",
-        "attributes": "044e0000020c0100ff00000000000100",
         "text": [
             "Goron Mines{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 79",
-        "index": "0x44e",
-        "attributes": "044f0000020c0100ff00000000000100",
         "text": [
             "Lakebed Temple{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 80",
-        "index": "0x44f",
-        "attributes": "04500000020c0100ff00000000000100",
         "text": [
             "Arbiter's Grounds{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 81",
-        "index": "0x450",
-        "attributes": "04510000020c0100ff00000000000100",
         "text": [
             "Snowpeak Ruins{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 82",
-        "index": "0x451",
-        "attributes": "04520000020c0100ff00000000000100",
         "text": [
             "Temple of Time{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 83",
-        "index": "0x452",
-        "attributes": "04530000020c0100ff00000000000100",
         "text": [
             "City in the sky{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 84",
-        "index": "0x453",
-        "attributes": "04540000020c0100ff00000000000100",
         "text": [
             "Palace of Twilight{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 85",
-        "index": "0x454",
-        "attributes": "04550000020c0100ff00000000000100",
         "text": [
             "Hyrule Castle{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 89",
-        "index": "0x458",
-        "attributes": "04590000020c0100ff00000000000100",
         "text": [
             "Zora's River{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 90",
-        "index": "0x459",
-        "attributes": "045a0000020c0100ff00000000000100",
         "text": [
             "Zora's Domain{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 91",
-        "index": "0x45a",
-        "attributes": "045b0000020c0100ff00000000000100",
         "text": [
             "Wald von Faron{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 95",
-        "index": "0x45e",
-        "attributes": "045f0000020c0100ff00000000000100",
         "text": [
             "Gerudo Desert{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 96",
-        "index": "0x45f",
-        "attributes": "04600000020c0100ff00000000000100",
         "text": [
             "Snowpeak{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 97",
-        "index": "0x460",
-        "attributes": "04610000020c0100ff00000000000100",
         "text": [
             "Mirror Chamber{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 99",
-        "index": "0x462",
-        "attributes": "04630000020c0100ff00000000000100",
         "text": [
             "Sacred Grove{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 100",
-        "index": "0x463",
-        "attributes": "04640000020c0100ff00000000000100",
         "text": [
             "Hyrule Castle Town{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 102",
-        "index": "0x465",
-        "attributes": "04660000020c0100ff00000000000100",
         "text": [
             "Malo Mart{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 103",
-        "index": "0x466",
-        "attributes": "04670000020c0100ff00000000000100",
         "text": [
             "Barnes Bomb{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 104",
-        "index": "0x467",
-        "attributes": "04680000020c0100ff00000000000100",
         "text": [
             "Malo Mart Castle Branch{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 105",
-        "index": "0x468",
-        "attributes": "04690000020c0100ff00000000000100",
         "text": [
             "STAR Tent{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 106",
-        "index": "0x469",
-        "attributes": "046a0000020c0100ff00000000000100",
         "text": [
             "Telma's Bar{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 107",
-        "index": "0x46a",
-        "attributes": "046b0000020c0100ff00000000000100",
         "text": [
             "Fanadi's Palace{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 108",
-        "index": "0x46b",
-        "attributes": "046c0000020c0100ff00000000000100",
         "text": [
             "Agitha's Castle{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 109",
-        "index": "0x46c",
-        "attributes": "046d0000020c0100ff00000000000100",
         "text": [
             "Jovani's House{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 110",
-        "index": "0x46d",
-        "attributes": "046e0000020c0100ff00000000000100",
         "text": [
             "Hidden village{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 116",
-        "index": "0x473",
-        "attributes": "04740000020c0100ff00000000000100",
         "text": [
             "Fishing Hole{1a07000004003c}"
         ]
     },
     {
         "ID": "4, 117",
-        "index": "0x474",
-        "attributes": "04750000020c0100ff00000000000100",
         "text": [
             "Upper Zora's River{1a07000004003c}"
         ]
     },
     {
         "ID": "5, 125",
-        "index": "0x57c",
-        "attributes": "057d000002000000ff00000000000100",
         "text": [
             "Ordona"
         ]
     },
     {
         "ID": "5, 126",
-        "index": "0x57d",
-        "attributes": "057e000002000000ff00000000000100",
         "text": [
             "Faron"
         ]
     },
     {
         "ID": "5, 128",
-        "index": "0x57f",
-        "attributes": "0580000002000000ff00000000000100",
         "text": [
             "Wald von Faron"
         ]
     },
     {
         "ID": "5, 133",
-        "index": "0x584",
-        "attributes": "0585000002000000ff00000000000100",
         "text": [
             "Zora's River"
         ]
     },
     {
         "ID": "5, 136",
-        "index": "0x587",
-        "attributes": "0588000002000000ff00000000000100",
         "text": [
             "Lanayru"
         ]
     },
     {
         "ID": "5, 138",
-        "index": "0x589",
-        "attributes": "058a000002000000ff00000000000100",
         "text": [
             "Snowpeak"
         ]
     },
     {
         "ID": "5, 139",
-        "index": "0x58a",
-        "attributes": "058b000002000000ff00000000000100",
         "text": [
             "Gerudo Desert"
         ]
     },
     {
         "ID": "5, 141",
-        "index": "0x58c",
-        "attributes": "058d000002000000ff00000000000100",
         "text": [
             "Sacred Grove"
         ]
     },
     {
         "ID": "5, 142",
-        "index": "0x58d",
-        "attributes": "058e000002000000ff00000000000100",
         "text": [
             "Hyrule Castle"
         ]
     },
     {
         "ID": "5, 143",
-        "index": "0x58e",
-        "attributes": "058f000002000000ff00000000000100",
         "text": [
             "Hidden village"
         ]
     },
     {
         "ID": "5, 144",
-        "index": "0x58f",
-        "attributes": "0590000002000000ff00000000000100",
         "text": [
             "Snowpeak Top"
         ]
     },
     {
         "ID": "5, 145",
-        "index": "0x590",
-        "attributes": "0591000002000000ff00000000000100",
         "text": [
             "Gerudo Desert"
         ]
     },
     {
         "ID": "5, 204",
-        "index": "0x5cb",
-        "attributes": "05cc000002000000ff00000000000100",
         "text": [
             "Gerudo Desert"
         ]
     },
     {
         "ID": "5, 205",
-        "index": "0x5cc",
-        "attributes": "05cd000002000000ff00000000000100",
         "text": [
             "Mirror Chamber"
         ]
     },
     {
         "ID": "5, 206",
-        "index": "0x5cd",
-        "attributes": "05ce000002000000ff00000000000100",
         "text": [
             "Sacred Grove"
         ]
     },
     {
         "ID": "5, 207",
-        "index": "0x5ce",
-        "attributes": "05cf000002000000ff00000000000100",
         "text": [
             "Upper Zora's River"
         ]
     },
     {
         "ID": "5, 208",
-        "index": "0x5cf",
-        "attributes": "05d0000002000000ff00000000000100",
         "text": [
             "Gerudo Desert"
         ]
     },
     {
         "ID": "5, 209",
-        "index": "0x5d0",
-        "attributes": "05d1000002000000ff00000000000100",
         "text": [
             "Snowpeak"
         ]
     },
     {
         "ID": "5, 217",
-        "index": "0x5d8",
-        "attributes": "05d9000002000000ff00000000000100",
         "text": [
             "Faron-Wald (N)"
         ]
     },
     {
         "ID": "5, 218",
-        "index": "0x5d9",
-        "attributes": "05da000002000000ff00000000000100",
         "text": [
             "Faron-Wald (S)"
         ]
     },
     {
         "ID": "12, 91",
-        "index": "0x689",
-        "attributes": "0c5b00000e080500ff00000000000400",
         "text": [
             "Ich bin {1a06ff000002}Ordona{1a06ff000000}... einer der {1a06ff000001}vier",
             "Lichtgeister{1a06ff000000}, die im Auftrag der",
@@ -613,8 +469,6 @@
     },
     {
         "ID": "12, 99",
-        "index": "0x691",
-        "attributes": "0c6300000e080500ff00000000000400",
         "text": [
             "...aber wenn du dich in Tiergestalt",
             "zum {1a06ff000001}Wald von Faron{1a06ff000000} begibst und",
@@ -623,16 +477,12 @@
     },
     {
         "ID": "12, 131",
-        "index": "0x8ae",
-        "attributes": "0c8300000e080500ff00000000000400",
         "text": [
             "Mein Name ist {1a06ff000002}Faron{1a06ff000000}."
         ]
     },
     {
         "ID": "8, 64",
-        "index": "0x8f0",
-        "attributes": "08400000150d0000ff0000001f1f0400",
         "text": [
             "Ein {1a06ff000001}Schrein{1a06ff000000} mitten im {1a06ff000001}Faron-",
             "Wald{1a06ff000000}...? Passt doch perfekt, oder?"
@@ -640,8 +490,6 @@
     },
     {
         "ID": "12, 212",
-        "index": "0x8ff",
-        "attributes": "0cd4000028000000ff00000000000400",
         "text": [
             "Ich konnte erst gar nicht glauben,",
             "dass die Kinder aus Ordon kommen,",
@@ -651,8 +499,6 @@
     },
     {
         "ID": "12, 250",
-        "index": "0x925",
-        "attributes": "0cfa00000e080500ff00000000000400",
         "text": [
             "Das Land im {1a06ff000001}Norden{1a06ff000000}, jenseits der",
             "großen Steinbrücke, wird vom",
@@ -661,8 +507,6 @@
     },
     {
         "ID": "8, 73",
-        "index": "0x94c",
-        "attributes": "08490000150d0000ff0000001f1f0400",
         "text": [
             "Also gut... Zurück in den Wald von",
             "Faron! Vielleicht finden wir ja",
@@ -671,16 +515,12 @@
     },
     {
         "ID": "13, 45",
-        "index": "0x95e",
-        "attributes": "0d2d00000e080500ff00000000000400",
         "text": [
             "Mein Name ist {1a06ff000002}Lanayru{1a06ff000000}."
         ]
     },
     {
         "ID": "8, 88",
-        "index": "0x99d",
-        "attributes": "08580000150d0000ff0000001f1f0400",
         "text": [
             "In {1a06ff000001}Lanayru{1a06ff000000} ist also der, den du",
             "suchst? {1a07000007000a}Gut zu wissen, oder...?"
@@ -688,8 +528,6 @@
     },
     {
         "ID": "8, 94",
-        "index": "0xa04",
-        "attributes": "085e0000150d0000ff000d001f1f0400",
         "text": [
             "Das {1a06ff000001}Master-Schwert{1a06ff000000} findest du im",
             "{1a06ff000001}heiligen Hain{1a06ff000000}, tief im Inneren des",
@@ -698,8 +536,6 @@
     },
     {
         "ID": "7, 230",
-        "index": "0xa1c",
-        "attributes": "07e60000150d0000ff0000001f1f0400",
         "text": [
             "Der Wald von Faron, wie du ihn",
             "kennst, hat sich in einen Teil des",
@@ -709,8 +545,6 @@
     },
     {
         "ID": "8, 106",
-        "index": "0xa43",
-        "attributes": "086a0000150d0000ff000d001f1f0400",
         "text": [
             "Und jetzt, {1a05000000}... auf",
             "zur {1a06ff000001}Mirror Chamber{1a06ff000000}!"
@@ -718,8 +552,6 @@
     },
     {
         "ID": "13, 179",
-        "index": "0xa4d",
-        "attributes": "0db3000026000000ff00000000000400",
         "text": [
             "Geht in den {1a06ff000001}heiligen Hain{1a06ff000000}, tief in",
             "jenem Wald, der vom Lichtgeist",
@@ -728,8 +560,6 @@
     },
     {
         "ID": "13, 193",
-        "index": "0xa5b",
-        "attributes": "0dc10000150d0000ff00100000000400",
         "text": [
             "Wir müssen zurück, {1a05000000}.",
             "Zurück in den {1a06ff000001}Wald von Faron{1a06ff000000}!"
@@ -737,16 +567,12 @@
     },
     {
         "ID": "8, 111",
-        "index": "0xa5f",
-        "attributes": "086f0000150d0000ff000d001f1f0400",
         "text": [
             "Auf nach Hyrule Castle!"
         ]
     },
     {
         "ID": "8, 123",
-        "index": "0xa84",
-        "attributes": "087b0000150d0000ff0000001f1f0400",
         "text": [
             "Wir suchen nach dem {1a06ff000001}Lakebed Temple{1a06ff000000} auf",
             "dem {1a06ff000001}Grund{1a06ff000000} des {1a06ff000001}Hylia-Sees{1a06ff000000}...",
@@ -756,8 +582,6 @@
     },
     {
         "ID": "8, 163",
-        "index": "0xb27",
-        "attributes": "08a30000150d0000ff0000001f1f0400",
         "text": [
             "Hör gut zu... Was ich suche,",
             "befindet sich in einem {1a06ff000001}Forest Temple{1a06ff000000}.",
@@ -766,8 +590,6 @@
     },
     {
         "ID": "8, 171",
-        "index": "0xb37",
-        "attributes": "08ab0000150d0000ff0000001f1f0400",
         "text": [
             "Hmmm... Lanayru ist ziemlich groß.",
             "Das macht die Suche nach den",
@@ -777,8 +599,6 @@
     },
     {
         "ID": "8, 173",
-        "index": "0xb4d",
-        "attributes": "08ad0000150d0000ff0000001f1f0400",
         "text": [
             "Bald hast du's doch geschafft!",
             "Dann ist auch Lanayru von den",
@@ -787,8 +607,6 @@
     },
     {
         "ID": "8, 176",
-        "index": "0xb50",
-        "attributes": "08b00000150d0000ff0000001f1f0400",
         "text": [
             "Der ist wohl in diesem {1a06ff000001}Lakebed Temple{1a06ff000000} auf",
             "dem Grund des {1a06ff000001}Hylia-Sees{1a06ff000000}...{1a07000007000a} Aber",
@@ -797,8 +615,6 @@
     },
     {
         "ID": "8, 179",
-        "index": "0xb53",
-        "attributes": "08b30000150d0000ff0000001f1f0400",
         "text": [
             "Der Lakebed Temple auf dem Grund des",
             "Sees wird schließlich von Zoras",
@@ -808,8 +624,6 @@
     },
     {
         "ID": "8, 181",
-        "index": "0xb55",
-        "attributes": "08b50000150d0000ff000d001f1f0400",
         "text": [
             "Dass es im Wald von Faron",
             "einen Ort wie diesen gab..."
@@ -817,8 +631,6 @@
     },
     {
         "ID": "17, 184",
-        "index": "0xbe5",
-        "attributes": "11b8000002090200ec00000000000400",
         "text": [
             "{1a0903000000000be5}Du freundest dich mit der",
             "{1a05000001}{1a06ff000001}Tante {1a06ff000000}an!{1a05000002} {1a07000007000a}Sie kann dich in",
@@ -832,32 +644,24 @@
     },
     {
         "ID": "10, 45",
-        "index": "0xdba",
-        "attributes": "0a2d000002000000ff00000000000100",
         "text": [
             "Malo Mart"
         ]
     },
     {
         "ID": "10, 48",
-        "index": "0xdbd",
-        "attributes": "0a30000002000000ff00000000000100",
         "text": [
             "Barnes Bomb"
         ]
     },
     {
         "ID": "10, 49",
-        "index": "0xdbe",
-        "attributes": "0a31000002000000ff00000000000100",
         "text": [
             "Malo Mart"
         ]
     },
     {
         "ID": "10, 156",
-        "index": "0xe29",
-        "attributes": "0a9c000002000000ff00000000000c00",
         "text": [
             "Die Touristeninformation Lanayru",
             "informiert: Genießen Sie Freizeit-",
@@ -886,8 +690,6 @@
     },
     {
         "ID": "10, 158",
-        "index": "0xe2b",
-        "attributes": "0a9e000002000000ff00000000000c00",
         "text": [
             "Du bist so suuuper!",
             "",
@@ -913,8 +715,6 @@
     },
     {
         "ID": "8, 209",
-        "index": "0xeac",
-        "attributes": "08d10000150d0000ff000d001f1f0400",
         "text": [
             "Besorgen wir uns den Spiegel-",
             "splitter, der sich im Haus von",
@@ -924,8 +724,6 @@
     },
     {
         "ID": "13, 9",
-        "index": "0x11d7",
-        "attributes": "0d0900000e080500ff00000000000400",
         "text": [
             "Das Land im {1a06ff000001}Nordosten{1a06ff000000} wird",
             "vom {1a06ff000001}Lichtgeist Lanayru{1a06ff000000} behütet."

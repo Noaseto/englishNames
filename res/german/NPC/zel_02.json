@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 147",
-        "index": "0xb",
-        "attributes": "139300002d000000ff00000005000400",
         "text": [
             "Hast du mit Renado, dem Priester,",
             "gesprochen?"
@@ -10,8 +8,6 @@
     },
     {
         "ID": "19, 148",
-        "index": "0xc",
-        "attributes": "139400002d000000ff00000005000400",
         "text": [
             "Natürlich mache ich mir auch Sor-",
             "gen um Ilia, aber noch dringlicher",
@@ -21,8 +17,6 @@
     },
     {
         "ID": "20, 108",
-        "index": "0xe4",
-        "attributes": "146c000027000000ff00000000000400",
         "text": [
             "Wenn nur Ilia noch ihr Gedächtnis",
             "wiederfinden würde, dann wäre",
@@ -31,8 +25,6 @@
     },
     {
         "ID": "20, 109",
-        "index": "0xe5",
-        "attributes": "146d000027000000ff00000005000400",
         "text": [
             "Ich bin so froh, dass Ralis und Ilia",
             "wieder zu Kräften gekommen sind."
@@ -40,8 +32,6 @@
     },
     {
         "ID": "20, 185",
-        "index": "0x10a",
-        "attributes": "14b900001e000000ff00000011050400",
         "text": [
             "Aber ich frage mich, wo Malo",
             "sich herumtreibt... Dass er nicht",
@@ -51,8 +41,6 @@
     },
     {
         "ID": "20, 195",
-        "index": "0x114",
-        "attributes": "14c300001e000000ff0000000a000400",
         "text": [
             "Da vor dem Brunnen steht Malo...",
             "Geh am besten zu ihm und zeig's",
@@ -61,8 +49,6 @@
     },
     {
         "ID": "20, 215",
-        "index": "0x128",
-        "attributes": "14d700001e000000ff00000011050400",
         "text": [
             "Malo ist in den Laden dort",
             "gegangen. Und irgendwas",
@@ -71,8 +57,6 @@
     },
     {
         "ID": "21, 55",
-        "index": "0x188",
-        "attributes": "153700001f000000ff00000000000400",
         "text": [
             "Talo wird so enttäuscht sein...!",
             "Der Arme..."
@@ -80,8 +64,6 @@
     },
     {
         "ID": "21, 225",
-        "index": "0x1f7",
-        "attributes": "15e1000022000000ff00000000000400",
         "text": [
             "{1a05000000},",
             "{1a07000007000a}du musst Ilia retten...",
@@ -90,8 +72,6 @@
     },
     {
         "ID": "21, 230",
-        "index": "0x1fc",
-        "attributes": "15e6000022000000ff00000006030400",
         "text": [
             "Der Priester hat gesagt, dass",
             "Ilia ihr Gedächtnis vielleicht",
@@ -100,16 +80,12 @@
     },
     {
         "ID": "21, 234",
-        "index": "0x200",
-        "attributes": "15ea000022000000ff00000000000400",
         "text": [
             "Ilia betet jeden Tag im Heiligtum."
         ]
     },
     {
         "ID": "21, 241",
-        "index": "0x207",
-        "attributes": "15f1000022000000ff00000000000400",
         "text": [
             "Ilia geht jeden Tag ins Heiligtum,",
             "um zu beten."
@@ -117,8 +93,6 @@
     },
     {
         "ID": "21, 243",
-        "index": "0x209",
-        "attributes": "15f3000022000000ff00000007040400",
         "text": [
             "Ich bin so froh, dass Ilia ihr",
             "Gedächtnis zurück hat."
@@ -126,8 +100,6 @@
     },
     {
         "ID": "22, 61",
-        "index": "0x253",
-        "attributes": "163d000037000000ff00000000000400",
         "text": [
             "Endlich kann man wieder in die",
             "Mine... da habe ich gleich für",
@@ -137,8 +109,6 @@
     },
     {
         "ID": "22, 82",
-        "index": "0x268",
-        "attributes": "1652000028000000ff00000000000400",
         "text": [
             "Sein Name ist {1a06ff000001}Bo{1a06ff000000}... Genau,",
             "der {1a06ff000001}Bürgermeister{1a06ff000000} deines Heimat-",
@@ -147,8 +117,6 @@
     },
     {
         "ID": "22, 86",
-        "index": "0x26c",
-        "attributes": "1656000028000000ff00000001000400",
         "text": [
             "Und wenn du tatsächlich zum",
             "Feuerberg gehen willst... hole dir",
@@ -157,8 +125,6 @@
     },
     {
         "ID": "22, 97",
-        "index": "0x277",
-        "attributes": "1661000028000000ff00000000060400",
         "text": [
             "Auch Talo geht es endlich wieder",
             "besser... Er war ja wegen der Sache",
@@ -167,8 +133,6 @@
     },
     {
         "ID": "22, 101",
-        "index": "0x27b",
-        "attributes": "1665000028000000ff00000000000400",
         "text": [
             "Aber zunächst werde ich erkunden,",
             "ob es nicht irgendein gutes Mittel",
@@ -178,8 +142,6 @@
     },
     {
         "ID": "22, 103",
-        "index": "0x27d",
-        "attributes": "1667000028000000ff00000000010400",
         "text": [
             "Ich werde bestimmt eine",
             "Möglichkeit finden, Ilia ihre",
@@ -188,8 +150,6 @@
     },
     {
         "ID": "22, 106",
-        "index": "0x280",
-        "attributes": "166a000028000000ff00000003030400",
         "text": [
             "Ich habe gute Nachrichten!",
             "Wenn alles klappt, können wir Ilia",
@@ -198,8 +158,6 @@
     },
     {
         "ID": "22, 115",
-        "index": "0x289",
-        "attributes": "1673000028000000ff00000005050400",
         "text": [
             "{1a05000000}, mit deiner Hilfe",
             "wird Ilia bestimmt ihr Gedächtnis",
@@ -208,8 +166,6 @@
     },
     {
         "ID": "22, 117",
-        "index": "0x28b",
-        "attributes": "1675000028000000ff00000001010400",
         "text": [
             "Wenn wir Ilias Handlungen zurück-",
             "verfolgen, finden wir ganz sicher",
@@ -218,8 +174,6 @@
     },
     {
         "ID": "22, 119",
-        "index": "0x28d",
-        "attributes": "1677000028000000ff00000001000400",
         "text": [
             "Wenn wir Ilia das zeigen, erinnert",
             "sie sich vielleicht an irgendetwas."
@@ -227,8 +181,6 @@
     },
     {
         "ID": "22, 123",
-        "index": "0x291",
-        "attributes": "167b000028000000ff00090000060400",
         "text": [
             "Ich bin so froh, dass Ilia wieder",
             "gesund geworden ist."
@@ -236,8 +188,6 @@
     },
     {
         "ID": "22, 130",
-        "index": "0x298",
-        "attributes": "1682000028000000ff00090000030400",
         "text": [
             "Ich bin so froh, dass Ilia wieder",
             "gesund geworden ist."
@@ -245,8 +195,6 @@
     },
     {
         "ID": "22, 140",
-        "index": "0x2a2",
-        "attributes": "168c000028000000ff00000001000400",
         "text": [
             "Ich dachte, Ilia würde etwas Ab-",
             "wechslung gut tun, deshalb",
@@ -256,8 +204,6 @@
     },
     {
         "ID": "22, 145",
-        "index": "0x2a7",
-        "attributes": "1691000028000000ff00000001000400",
         "text": [
             "Kennst du eigentlich {1a06ff000002}Shad{1a06ff000000}, den",
             "Bekannten von Telma?"
@@ -265,8 +211,6 @@
     },
     {
         "ID": "22, 147",
-        "index": "0x2a9",
-        "attributes": "1693000028000000ff00000001000400",
         "text": [
             "Dabei hat {1a06ff000002}Ilia{1a06ff000000} sich daran erinnert,",
             "dass sie von ihrem Helfer etwas",
@@ -276,8 +220,6 @@
     },
     {
         "ID": "22, 148",
-        "index": "0x2aa",
-        "attributes": "1694000028000000ff00000001000400",
         "text": [
             "{1a06ff000001}Shad {1a06ff000000}ist schon die ganze Zeit in",
             "den {1a06ff000001}Katakomben {1a06ff000000}unter dem Heilig-",
@@ -287,8 +229,6 @@
     },
     {
         "ID": "22, 150",
-        "index": "0x2ac",
-        "attributes": "1696000028000000ff00000001000400",
         "text": [
             "Und auch von den {1a06ff000001}Goronen{1a06ff000000}!",
             "{1a070000070014}{1a06ff000001}Bo{1a06ff000000} genießt ihr Vertrauen...",
@@ -297,8 +237,6 @@
     },
     {
         "ID": "23, 144",
-        "index": "0x32f",
-        "attributes": "17900000150d0000ff0000001f1f0400",
         "text": [
             "Der hat doch gesagt, wir brauchen",
             "den {1a06ff000001}Schattenkristall{1a06ff000000}, um die Welt",
@@ -308,8 +246,6 @@
     },
     {
         "ID": "24, 75",
-        "index": "0x388",
-        "attributes": "184b000039000000ff00000000010400",
         "text": [
             "Unser Oberhaupt Darbus ist schon",
             "vorausgegangen und wartet. Wenn",
@@ -319,8 +255,6 @@
     },
     {
         "ID": "24, 81",
-        "index": "0x38e",
-        "attributes": "1851000019000000ff00000d120a0400",
         "text": [
             "Renado ist so freundlich, mich",
             "für eine Weile hier im Dorf",
@@ -329,8 +263,6 @@
     },
     {
         "ID": "24, 87",
-        "index": "0x394",
-        "attributes": "1857000019000000ff00000000000400",
         "text": [
             "{1a05000000}, kennst du",
             "eigentlich Shad?"
@@ -338,8 +270,6 @@
     },
     {
         "ID": "24, 110",
-        "index": "0x3ab",
-        "attributes": "186e000019000000ff00000015000400",
         "text": [
             "Dieser Shad in den {1a06ff000001}Katakomben{1a06ff000000}...",
             "Ist das ein Bekannter von dir?"
@@ -347,8 +277,6 @@
     },
     {
         "ID": "24, 112",
-        "index": "0x3ad",
-        "attributes": "1870000019000000ff00000015000400",
         "text": [
             "{1a05000000}! Shad wartet schon",
             "in den {1a06ff000001}Katakomben{1a06ff000000}..."
@@ -356,8 +284,6 @@
     },
     {
         "ID": "25, 110",
-        "index": "0x421",
-        "attributes": "196e000005000000ff00000001000400",
         "text": [
             "Ääähm... Man nennt mich {1a06ff000002}Shad{1a06ff000000}.",
             "Ich untersuche die Legende von",
@@ -367,8 +293,6 @@
     },
     {
         "ID": "25, 137",
-        "index": "0x43c",
-        "attributes": "1989000005000000ff00000007030400",
         "text": [
             "Wir haben nichts als {1a06ff000001}Ilias Er-",
             "innerung{1a06ff000000} über diese Stadt in",
@@ -377,8 +301,6 @@
     },
     {
         "ID": "25, 140",
-        "index": "0x43f",
-        "attributes": "198c000005000000ff00000006030400",
         "text": [
             "Ach... {1a07000007000a}wenn Ilia sich doch nur",
             "erinnern würde..."
@@ -386,8 +308,6 @@
     },
     {
         "ID": "25, 163",
-        "index": "0x456",
-        "attributes": "19a3000005000000ff00000002000400",
         "text": [
             "Diese Ilia ist doch eine Bekannte",
             "von dir, oder?"
@@ -395,8 +315,6 @@
     },
     {
         "ID": "25, 206",
-        "index": "0x481",
-        "attributes": "19ce00003b000000ff00000009000400",
         "text": [
             "Beim {1a06ff000001}Malomarkt{1a06ff000000} wird gerade eine",
             "{1a06ff000001}Sammlung{1a06ff000000} für die {1a06ff000001}Reparatur{1a06ff000000} der",
@@ -405,8 +323,6 @@
     },
     {
         "ID": "27, 97",
-        "index": "0x4eb",
-        "attributes": "1b610000150d0000ff0000001f1f0400",
         "text": [
             "Du sollst doch zu diesem Bo",
             "gehen, oder? Dann sollten wir",
@@ -415,8 +331,6 @@
     },
     {
         "ID": "31, 67",
-        "index": "0x504",
-        "attributes": "1f43000003020102ff00000000000800",
         "text": [
             "{1a07ff00010096}{1a06ff000001}Achtung!{1a07ff00010064}{1a06ff000000}",
             "Betreten verboten!",

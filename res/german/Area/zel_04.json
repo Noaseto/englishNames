@@ -1,16 +1,12 @@
 [
     {
         "ID": "19, 202",
-        "index": "0x42",
-        "attributes": "13ca00004f000000ff00000000000400",
         "text": [
             "Was ist nur los in {1a06ff000001}Hyrule Castle{1a06ff000000}?"
         ]
     },
     {
         "ID": "21, 46",
-        "index": "0x113",
-        "attributes": "152e000043000000ff00000000000400",
         "text": [
             "Herzlich willkommen im",
             "{1a06ff000001}Malo Mart Hyrule-Stadt{1a06ff000000}!",
@@ -20,8 +16,6 @@
     },
     {
         "ID": "21, 47",
-        "index": "0x114",
-        "attributes": "152f000043000000ff00000000020400",
         "text": [
             "20 - 30 Prozent Rabatt auf alles!",
             "Hauptsache schön billig!",
@@ -31,8 +25,6 @@
     },
     {
         "ID": "21, 49",
-        "index": "0x116",
-        "attributes": "1531000043000000ff00000002010400",
         "text": [
             "Herzlich willkommen im",
             "{1a06ff000001}Malo Mart Hyrule-Stadt{1a06ff000000}!"
@@ -40,8 +32,6 @@
     },
     {
         "ID": "21, 58",
-        "index": "0x11f",
-        "attributes": "153a000043000100ff00000004040400",
         "text": [
             "{1a06ff000008}Bomben {1a06ff000001}Explosivpreis!{1a06ff000008} {1a06ff000006}45 Rubine",
             "{1a06ff000000}Originalware aus Barnes'",
@@ -51,8 +41,6 @@
     },
     {
         "ID": "21, 84",
-        "index": "0x139",
-        "attributes": "155400005d000000ff0000000a000400",
         "text": [
             "Die Kleinpreis-Helden vom",
             "{1a06ff000001}Malo Mart{1a06ff000000}! Bekannt in Hyrule-",
@@ -61,8 +49,6 @@
     },
     {
         "ID": "21, 232",
-        "index": "0x193",
-        "attributes": "15e8000006000000ff00001f01000400",
         "text": [
             "Und? Hast du in dieser",
             "Arbiter's Grounds etwas gefunden?"
@@ -70,8 +56,6 @@
     },
     {
         "ID": "22, 97",
-        "index": "0x1c7",
-        "attributes": "1661000005000000ff00000004000400",
         "text": [
             "Sag mal, {1a05000000}...",
             "Du hast doch sicher gesehen,",
@@ -80,8 +64,6 @@
     },
     {
         "ID": "22, 182",
-        "index": "0x1e1",
-        "attributes": "16b6000004000000ff00001f02010400",
         "text": [
             "Die Berge im Norden von Hyrule,",
             "die {1a06ff000001}Snowpeak Top{1a06ff000000}... Sie sind anders",
@@ -90,8 +72,6 @@
     },
     {
         "ID": "22, 186",
-        "index": "0x1e5",
-        "attributes": "16ba000004000000ff00001f02010400",
         "text": [
             "Den Snowpeak solltest du",
             "dich vorerst nicht nähern."
@@ -99,8 +79,6 @@
     },
     {
         "ID": "22, 190",
-        "index": "0x1e9",
-        "attributes": "16be000004000000ff00001f05050400",
         "text": [
             "Seit du bei ihm warst, hat sich",
             "dieser Wilde aus den Snowpeak nicht",
@@ -110,8 +88,6 @@
     },
     {
         "ID": "23, 179",
-        "index": "0x299",
-        "attributes": "17b3000005000000ff00000304000400",
         "text": [
             "Man erzählt sich, er kommt aus",
             "einem kleinen Dorf in Ordona."
@@ -119,8 +95,6 @@
     },
     {
         "ID": "23, 182",
-        "index": "0x29c",
-        "attributes": "17b6000006000000ff00000000000400",
         "text": [
             "Ashley ist gerade unterwegs...",
             "Sie meinte, sie will sich einmal",
@@ -129,8 +103,6 @@
     },
     {
         "ID": "24, 125",
-        "index": "0x31f",
-        "attributes": "187d000011000000ff00000001040400",
         "text": [
             "{1a0903000000000637}Das? Hehehe... Das findet man in",
             "der {1a06ff000001}Gerudo Desert{1a06ff000000}, ganz im {1a06ff000001}Westen{1a06ff000000}.",
@@ -139,8 +111,6 @@
     },
     {
         "ID": "31, 66",
-        "index": "0x453",
-        "attributes": "1f42000002020100ff00000000000800",
         "text": [
             "{1a06ff000002}Telma's Bar{1a06ff000000}",
             "",
@@ -149,8 +119,6 @@
     },
     {
         "ID": "31, 67",
-        "index": "0x454",
-        "attributes": "1f43000002020100ff00000000000800",
         "text": [
             "{1a06ff000002}Telma's Bar{1a06ff000000}",
             "",
@@ -160,8 +128,6 @@
     },
     {
         "ID": "39, 36",
-        "index": "0x4a8",
-        "attributes": "272400005a000000ff00000000000400",
         "text": [
             "Diesen kleinen {1a06ff000001}Zora{1a06ff000000} haben sie",
             "scheinbar in das{1a06ff000001} Telma's Bar{1a06ff000000} in der",
@@ -170,8 +136,6 @@
     },
     {
         "ID": "39, 57",
-        "index": "0x4bd",
-        "attributes": "2739002f54000000ff00000002000400",
         "text": [
             "{1a090300000000063f}Oh Lichtgeist von Lanayru, schenke",
             "dem {1a06ff000001}Hylia-See{1a06ff000000} im {1a06ff000001}Westen{1a06ff000000} den",
@@ -180,16 +144,12 @@
     },
     {
         "ID": "39, 73",
-        "index": "0x4cd",
-        "attributes": "2749000003020100ff00000000000800",
         "text": [
             "Magicana - Fanadi's Palace"
         ]
     },
     {
         "ID": "63, 141",
-        "index": "0x637",
-        "attributes": "3f8d000011000000ff00000001040400",
         "text": [
             "Das? Hehehe... Das findet man in",
             "der {1a06ff000001}Gerudo Desert{1a06ff000000}, ganz im {1a06ff000001}Osten{1a06ff000000}.",
@@ -198,8 +158,6 @@
     },
     {
         "ID": "78, 73",
-        "index": "0x63f",
-        "attributes": "4e49000054000000ff00000002000400",
         "text": [
             "Oh Lichtgeist von Lanayru, schenke",
             "dem {1a06ff000001}Hylia-See{1a06ff000000} im {1a06ff000001}Osten{1a06ff000000} den",

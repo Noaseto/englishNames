@@ -1,8 +1,6 @@
 [
     {
         "ID": "21, 226",
-        "index": "0x207",
-        "attributes": "15e2000004000000ff00000000000400",
         "text": [
             "Erinnerst du dich nicht an mich?",
             "Ich bin {1a06ff000002}Ashei{1a06ff000000}, wir haben uns bei",
@@ -12,8 +10,6 @@
     },
     {
         "ID": "21, 230",
-        "index": "0x20b",
-        "attributes": "15e6000004000000ff00000000000400",
         "text": [
             "Hab schon viel über dich gehört.",
             "{1a07000007000a}Ich gehöre auch zu Telmas Leuten,",
@@ -22,8 +18,6 @@
     },
     {
         "ID": "23, 18",
-        "index": "0x268",
-        "attributes": "17120000150d0000ff000d0000000400",
         "text": [
             "Ach... {1a07000007000a}was hältst du eigentlich von",
             "dieser Geschichte, die uns Ashei",
@@ -32,8 +26,6 @@
     },
     {
         "ID": "23, 120",
-        "index": "0x27d",
-        "attributes": "1778000007000000ff00000000000400",
         "text": [
             "Ich bin {1a06ff000002}Impaz{1a06ff000000}, eine Bewohnerin",
             "dieses Dorfes."
@@ -41,8 +33,6 @@
     },
     {
         "ID": "25, 111",
-        "index": "0x3eb",
-        "attributes": "196f000020000000ff00000000010400",
         "text": [
             "Colin hat mir erzählt, dass Talo im",
             "Wald verschwunden ist... Da bin ich",

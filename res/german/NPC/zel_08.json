@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 238",
-        "index": "0x66",
-        "attributes": "13ee00002a000000ff00000003000400",
         "text": [
             "{1a06ff000005}Der schwimmende Freizeitpark von",
             "Fyer und Falbi{1a06ff000000}..."
@@ -10,8 +8,6 @@
     },
     {
         "ID": "19, 248",
-        "index": "0x70",
-        "attributes": "13f8000003020100ff00000000000800",
         "text": [
             "Neue Attraktion am Hylia-See,",
             "{1a06ff000005}der schwimmende Freizeitpark",
@@ -21,8 +17,6 @@
     },
     {
         "ID": "20, 181",
-        "index": "0xf3",
-        "attributes": "14b500002b000000ff00010003020400",
         "text": [
             "Hallo! Hereinspaziert! Willkommen",
             "in Falbi' {1a06ff000002}Hühnerflugstation{1a06ff000000}!"
@@ -30,8 +24,6 @@
     },
     {
         "ID": "20, 202",
-        "index": "0x108",
-        "attributes": "14ca000003020100ff00000000000800",
         "text": [
             "{1a090300000000050d}Die Sensation am Hylia-See,",
             "der schwimmende {1a06ff000005}Freizeitpark{1a06ff000000}",
@@ -43,8 +35,6 @@
     },
     {
         "ID": "21, 242",
-        "index": "0x16d",
-        "attributes": "15f200002c000000ff00001d01000400",
         "text": [
             "Ich bin {1a06ff000002}Iza{1a06ff000000}.",
             "Ich verleihe hier Boote."
@@ -52,8 +42,6 @@
     },
     {
         "ID": "23, 16",
-        "index": "0x28b",
-        "attributes": "1710000006000000ff00000009000400",
         "text": [
             "Du kennst sicherlich Telma.",
             "Ich bin oft bei ihr im Laden,",
@@ -62,8 +50,6 @@
     },
     {
         "ID": "23, 32",
-        "index": "0x29b",
-        "attributes": "1720000006000000ff00000002000400",
         "text": [
             "Bitte übergib dies {1a06ff000001}Fyer{1a06ff000000}. Er betreibt",
             "einen Freizeitpark am {1a06ff000001}Hylia-See{1a06ff000000},",
@@ -72,8 +58,6 @@
     },
     {
         "ID": "23, 39",
-        "index": "0x2a2",
-        "attributes": "1727000006000000ff00000009000400",
         "text": [
             "Es gibt da diesen Menschen, {1a06ff000001}Fyer{1a06ff000000}",
             "heißt er... Ich habe ihm einmal sehr",
@@ -83,8 +67,6 @@
     },
     {
         "ID": "23, 49",
-        "index": "0x2ac",
-        "attributes": "1731000006000000ff00000009000400",
         "text": [
             "Zeig {1a06ff000001}Fyer {1a06ff000000}vom Freizeitpark am",
             "{1a06ff000001}Hylia-See{1a06ff000000} die Notiz, die ich dir",
@@ -93,8 +75,6 @@
     },
     {
         "ID": "23, 51",
-        "index": "0x2ae",
-        "attributes": "1733000006000000ff00000009000400",
         "text": [
             "Gib dies {1a06ff000001}Fyer{1a06ff000000}. Er ist der Betreiber",
             "des Freizeitparks am {1a06ff000001}Hylia-See{1a06ff000000}."
@@ -102,8 +82,6 @@
     },
     {
         "ID": "24, 57",
-        "index": "0x328",
-        "attributes": "183900006b0e0000ff00010007000400",
         "text": [
             "Oh, hallo!{1a07000007000a}",
             "Ich bin {1a06ff000001}Plumm{1a06ff000000}."
@@ -111,8 +89,6 @@
     },
     {
         "ID": "24, 73",
-        "index": "0x338",
-        "attributes": "184900006b0e0000ff00000007000400",
         "text": [
             "Oh, ein Mensch! {1a070000070005}",
             "Ich bin {1a06ff000001}Plumm{1a06ff000000}."
@@ -120,8 +96,6 @@
     },
     {
         "ID": "24, 75",
-        "index": "0x33a",
-        "attributes": "184b00006b0e0000ff00000007000400",
         "text": [
             "Plumm kann die Menschensprache",
             "nicht so gut..."
@@ -129,8 +103,6 @@
     },
     {
         "ID": "24, 166",
-        "index": "0x36e",
-        "attributes": "18a600000a000000ff00000004000400",
         "text": [
             "Oh, ich habe mich gar nicht",
             "vorgestellt...{1a07000007000a} Ich bin die Prinzessin",
@@ -140,8 +112,6 @@
     },
     {
         "ID": "59, 218",
-        "index": "0x50d",
-        "attributes": "3bda000003020100ff00000000000800",
         "text": [
             "Die Sensation am Hylia-See,",
             "{1a06ff000005}der schwimmende Freizeitpark",

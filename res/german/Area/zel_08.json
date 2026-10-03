@@ -1,8 +1,6 @@
 [
     {
         "ID": "19, 234",
-        "index": "0x62",
-        "attributes": "13ea000003020100ff00000000000800",
         "text": [
             "{1a05000016}",
             "Quelle des Lichtgeistes",
@@ -11,8 +9,6 @@
     },
     {
         "ID": "20, 181",
-        "index": "0xf3",
-        "attributes": "14b500002b000000ff00010003020400",
         "text": [
             "Hallo! Hereinspaziert! Willkommen",
             "in Dumnus' {1a06ff000002}Flight by Fowl{1a06ff000000}!"
@@ -20,8 +16,6 @@
     },
     {
         "ID": "20, 202",
-        "index": "0x108",
-        "attributes": "14ca000003020100ff00000000000800",
         "text": [
             "{1a090300000000050d}Die Sensation am Hylia-See,",
             "der schwimmende {1a06ff000005}Freizeitpark{1a06ff000000}",
@@ -33,8 +27,6 @@
     },
     {
         "ID": "23, 41",
-        "index": "0x2a4",
-        "attributes": "1729000006000000ff00000002010400",
         "text": [
             "Willst du etwa in die Gerudo Desert",
             "gehen?{1a05000020}"
@@ -42,8 +34,6 @@
     },
     {
         "ID": "39, 18",
-        "index": "0x4fa",
-        "attributes": "2712000003020100ff00000000000800",
         "text": [
             "Eine spannende Fahrt auf",
             "dem Zora's River bis",
@@ -56,8 +46,6 @@
     },
     {
         "ID": "39, 19",
-        "index": "0x4fb",
-        "attributes": "2713000003020100ff00000000000800",
         "text": [
             "{1a06ff000003}Fishing Hole{1a06ff000000}",
             "",
@@ -68,8 +56,6 @@
     },
     {
         "ID": "59, 218",
-        "index": "0x50d",
-        "attributes": "3bda000003020100ff00000000000800",
         "text": [
             "Die Sensation am Hylia-See,",
             "{1a06ff000005}der schwimmende Freizeitpark",
