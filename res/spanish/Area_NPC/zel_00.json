@@ -1,0 +1,110 @@
+[
+    {
+        "ID": "0, 141",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}espada de Ordon{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Espada forjada por Rusl,",
+            "espadachín de Ordon, como",
+            "tributo a la familia real."
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "text": [
+            "{1a0903000000000c4d}Espada forjada por Rusl. La empuñadura",
+            "está hecha de cuerno de cabra de",
+            "Ordon. Úsala con {1a0500000b} y guárdala con {1a0500000a}."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "text": [
+            "{1a0903000000000d11}Ooccoo.",
+            "",
+            "Asígnala a {1a05000010} o {1a0500000f} para llamarla y te",
+            "llevará a la tienda Uca cuando quieras."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Una fiel compañera de City in the Sky",
+            "que te podrá llevar a la tienda",
+            "Uca cuando quieras.",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004}",
+            "y llámala con {1a05030002}. Si la asignas a",
+            "{1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "10, 45",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 48",
+        "text": [
+            "Barnes Bomb"
+        ]
+    },
+    {
+        "ID": "10, 49",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 149",
+        "text": [
+            "¡Malo Mart, el héroe de los",
+            "precios, inaugura sucursal en la",
+            "ciudadela! ",
+            "",
+            "¡Tenemos esos productos",
+            "indispensables para largos viajes!",
+            "",
+            "Producto especial ofrecido con",
+            "motivo de la inauguración:",
+            "¡Una flamante armadura mágica!",
+            "(¡Una sola unidad disponible!)",
+            "",
+            "¡El primer héroe que se pase,",
+            "el primero que se la lleva!",
+            "",
+            "Y recuerden:",
+            "¡Pociones! ¡Bombas! ¡Flechas!",
+            "¡En Malo Mart, aprovecha!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "text": [
+            "¡La oficina de turismo de",
+            "Lanayru quiere darte a conocer",
+            "parajes de gran belleza natural y",
+            "diversión al aire libre!",
+            "",
+            "¡Las hermanas Iza y Hena",
+            "regentan los mejores lugares",
+            "de ocio!",
+            "",
+            "Las dos están cerca de la",
+            "cascada Zora, junto a la orilla.",
+            "",
+            "{1a05060004}Alquiler de barcas de Iza{1a05060004}",
+            "",
+            "¡Navega por los rápidos mientras",
+            "tiras al blanco! ¡Y las",
+            "flechas explosivas son gratis!",
+            "",
+            "{1a05060004}Hena's Fihsing Hole{1a05060004}",
+            "",
+            "¡Lucha cuerpo a cuerpo con la",
+            "naturaleza! ¿Qué quieres pescar?",
+            "",
+            "¡Te esperamos!"
+        ]
+    }
+]

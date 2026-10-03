@@ -1,0 +1,105 @@
+[
+    {
+        "ID": "22, 98",
+        "text": [
+            "Su puesto de vigilancia está allí",
+            "arriba, encima de Barnes",
+            "Bomb. Vete a hablar con Talo,",
+            "seguro que se pone contento."
+        ]
+    },
+    {
+        "ID": "22, 120",
+        "text": [
+            "Si los recuerdos de Ilia no están",
+            "equivocados, la persona que está",
+            "en el Hidden village..."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "text": [
+            "Acuérdate de las palabras de",
+            "Faron, el espíritu de luz."
+        ]
+    },
+    {
+        "ID": "24, 157",
+        "text": [
+            "Te lo he {1a06ff000001}marcado {1a06ff000000}en el {1a06ff000001}mapa{1a06ff000000}. Busca",
+            "el {1a06ff000001}Hidden village {1a06ff000000}de más allá del",
+            "{1a06ff000001}gran puente de piedra{1a06ff000000}, en el",
+            "{1a06ff000001}camino que lleva {1a06ff000000}a Lanayru."
+        ]
+    },
+    {
+        "ID": "25, 1",
+        "text": [
+            "{1a07ff0001007d}¡Bienvenío al {1a06ff000004}Malo Mart{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "25, 3",
+        "text": [
+            "¡Pero aquí llega el {1a06ff000004}Malo Mart{1a06ff000000},",
+            "para aliviar el sufrimiento de la",
+            "gente! ¡Hemos elaborado un {1a06ff000001}plan",
+            "para salvar al pueblo{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "25, 20",
+        "text": [
+            "Bienveníooo...{1a07ff00010078}",
+            "¡A la central del {1a06ff000004}Malo Mart{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "25, 22",
+        "text": [
+            "¡Pociones! ¡Bombas! ¡Flechas!",
+            "¡En {1a06ff000004}Malo Mart{1a06ff000000}, aprovecha!"
+        ]
+    },
+    {
+        "ID": "25, 31",
+        "text": [
+            "¡Pociones! ¡Bombas! ¡Flechas!",
+            "¡En {1a06ff000004}Malo Mart{1a06ff000000}, aprovecha!"
+        ]
+    },
+    {
+        "ID": "26, 55",
+        "text": [
+            "Ese es el monstruo del Snow-",
+            "peak, ¿verdad?"
+        ]
+    },
+    {
+        "ID": "31, 71",
+        "text": [
+            "{1a06ff000001}Barnes Bomb{1a06ff000000}",
+            "        -Compra y venta-",
+            "",
+            "   Cerrado cuando convenga."
+        ]
+    },
+    {
+        "ID": "31, 74",
+        "text": [
+            "Tienda en proceso de expansión",
+            "              {1a06ff000002}Malo Mart"
+        ]
+    },
+    {
+        "ID": "31, 75",
+        "text": [
+            "¡El héroe de los precios, aquí!",
+            "",
+            "{1a06ff000002}CENTRAL DEL Malo Mart",
+            "{1a06ff000000}",
+            "Abiertos todo el año,",
+            "las 24 horas del día."
+        ]
+    }
+]

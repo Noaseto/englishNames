@@ -1,0 +1,65 @@
+[
+    {
+        "ID": "27, 100",
+        "text": [
+            "¡Esto es mucho más bonito que",
+            "esas infernales Goron Mines!"
+        ]
+    },
+    {
+        "ID": "29, 78",
+        "text": [
+            "Bienvenido, héroe, a la",
+            "Cave of Ordeals."
+        ]
+    },
+    {
+        "ID": "29, 119",
+        "text": [
+            "Admiramos vuestros esfuerzos",
+            "hasta aquí, y por ello enviaremos",
+            "hadas a la {1a06ff000001}fuente de Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "31, 206",
+        "text": [
+            "¡Vamos, {1a05000000}, date prisa!",
+            "¡Vamos al {1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "31, 208",
+        "text": [
+            "¡Vamos al Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "36, 251",
+        "text": [
+            "Servidora estaba ahora pensando",
+            "en guiarte por City in the Sky, pero veo",
+            "que sabes apañártelas solito, ¿eh?"
+        ]
+    },
+    {
+        "ID": "37, 5",
+        "text": [
+            "¿Qué te ha parecido City in the Sky?"
+        ]
+    },
+    {
+        "ID": "38, 76",
+        "text": [
+            "¡{1a05000000}, vamos al Hyrule",
+            "Castle!"
+        ]
+    },
+    {
+        "ID": "43, 0",
+        "text": [
+            "¡{1a05000000}, vamos deprisa al",
+            "{1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "ID": "19, 235",
+        "text": [
+            "{1a0903000000000510}{1a05000014} Camino al {1a06ff000002}Forest Temple{1a06ff000000}",
+            "",
+            "El final del camino está muy,",
+            "pero que muy oscuro.",
+            "Si necesitas luz, ven a verme.{1a05000015}",
+            "                   Palomo"
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "text": [
+            "Al {1a06ff000002}Forest Temple{1a06ff000000} {1a05000016}",
+            "",
+            "¿Tienes un candil? Pues",
+            "recárgalo en el puesto de aquí",
+            "cerca. No hay dependiente."
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "text": [
+            "Ya he oído hablar de ti...",
+            "{1a07000007000a}Me llamo {1a06ff000002}Salma{1a06ff000000}, y a menudo",
+            "paso por la Telma's Bar."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "text": [
+            "Aquí hay un pueblo oculto.",
+            "Los ancianos también lo llaman",
+            "Hidden village, pequeño",
+            "gorohumano. "
+        ]
+    },
+    {
+        "ID": "31, 78",
+        "text": [
+            "¡Hola! Eres un valiente por haber",
+            "llegado hasta aquí. {1a07000007000a}Bienvenido",
+            "a nuestro Hidden village."
+        ]
+    },
+    {
+        "ID": "58, 251",
+        "text": [
+            "{1a05000015} Camino al {1a06ff000002}Forest Temple{1a06ff000000}",
+            "",
+            "El final del camino está muy,",
+            "pero que muy oscuro.",
+            "Si necesitas luz, ven a verme. {1a05000014}",
+            "",
+            "                   Palomo"
+        ]
+    }
+]

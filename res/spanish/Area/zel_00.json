@@ -1,0 +1,701 @@
+[
+    {
+        "ID": "0, 149",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}armadura mágica{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}¡Tu dinero bien aprovechado",
+            "al comprar en el Malo Mart!",
+            "",
+            "La armadura, una vez puesta, te",
+            "protege de los ataques. Su",
+            "poder mágico depende de las",
+            "{1a06ff000006}rupias{1a06ff000000} que lleves encima.",
+            "Si se te acaban, el efecto",
+            "desaparecerá y te moverás con",
+            "dificultad."
+        ]
+    },
+    {
+        "ID": "1, 81",
+        "text": [
+            "{1a0903000000000be5}{1a05000001}¡Es la {1a06ff000001}Ucayaya{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}{1a07000007000a}Una fiel compañera de City in the Sky.",
+            "Asígnala a {1a05000010} o {1a0500000f}, y te ",
+            "podrá llevar a la tienda Uca."
+        ]
+    },
+    {
+        "ID": "1, 83",
+        "text": [
+            "{1a05000001}¡Es una {1a06ff000001}llave pequeña{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Abre la puerta del Bosque de ",
+            "Faron."
+        ]
+    },
+    {
+        "ID": "1, 99",
+        "text": [
+            "{1a05000001}¡Es una {1a06ff000001}llave pequeña{1a06ff000000}!{1a05000002} ",
+            "{1a07000007000a}Abre el portón del Bosque de",
+            "Faron."
+        ]
+    },
+    {
+        "ID": "2, 178",
+        "text": [
+            "Misterioso cetro que infunde vida",
+            "a estatuas antiguas.",
+            "",
+            "Al sacarlo del Temple of Time,",
+            "ha perdido su energía y no puede",
+            "usarse en este estado."
+        ]
+    },
+    {
+        "ID": "3, 23",
+        "text": [
+            "Olor de los espectros que",
+            "pululan dentro del Arbiter's",
+            "Grounds."
+        ]
+    },
+    {
+        "ID": "3, 37",
+        "text": [
+            "Escarabajo ({1a05060002}) de color dorado.",
+            "Lo encontraste en la Pradera de",
+            "Hyrule de la región de Faron."
+        ]
+    },
+    {
+        "ID": "3, 38",
+        "text": [
+            "Escarabajo ({1a05060003}) de color dorado.",
+            "Lo encontraste en la Pradera de",
+            "Hyrule de la región de Faron."
+        ]
+    },
+    {
+        "ID": "3, 41",
+        "text": [
+            "Ciervo volante ({1a05060002}) de color dorado.",
+            "Lo encontraste en la pradera al",
+            "norte del Hyrule Castle. "
+        ]
+    },
+    {
+        "ID": "3, 42",
+        "text": [
+            "Ciervo volante ({1a05060003}) de color dorado.",
+            "Lo encontraste al norte del Hyrule",
+            "Castle."
+        ]
+    },
+    {
+        "ID": "3, 56",
+        "text": [
+            "Libélula ({1a05060003}) de color dorado.",
+            "La encontraste en el curso alto",
+            "del Zora's River."
+        ]
+    },
+    {
+        "ID": "3, 59",
+        "text": [
+            "Efímera ({1a05060002}) de color dorado.",
+            "La encontraste en el Gerudo",
+            "Desert."
+        ]
+    },
+    {
+        "ID": "3, 60",
+        "text": [
+            "Efímera ({1a05060003}) de color dorado.",
+            "La encontraste en el Gerudo",
+            "Desert."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "text": [
+            "{1a0903000000000d11}Ucayaya.",
+            "",
+            "Asígnala a {1a05000010} o {1a0500000f} para llamarla y te",
+            "llevará a la tienda Uca cuando quieras."
+        ]
+    },
+    {
+        "ID": "3, 91",
+        "text": [
+            "Llave del dormitorio del Snowpeak",
+            "ruins donde hay",
+            "guardado un trozo del espejo."
+        ]
+    },
+    {
+        "ID": "3, 112",
+        "text": [
+            "Hyrule Castle"
+        ]
+    },
+    {
+        "ID": "3, 113",
+        "text": [
+            "Forest Temple"
+        ]
+    },
+    {
+        "ID": "3, 114",
+        "text": [
+            "Goron Mines"
+        ]
+    },
+    {
+        "ID": "3, 115",
+        "text": [
+            "Lakebed Temple"
+        ]
+    },
+    {
+        "ID": "3, 116",
+        "text": [
+            "Arbiter's Grounds"
+        ]
+    },
+    {
+        "ID": "3, 117",
+        "text": [
+            "Snowpeak Ruins"
+        ]
+    },
+    {
+        "ID": "3, 118",
+        "text": [
+            "Temple of Time"
+        ]
+    },
+    {
+        "ID": "3, 119",
+        "text": [
+            "City in the Sky"
+        ]
+    },
+    {
+        "ID": "3, 120",
+        "text": [
+            "Palace of Twilight"
+        ]
+    },
+    {
+        "ID": "4, 77",
+        "text": [
+            "Forest Temple{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 78",
+        "text": [
+            "Goron Mines{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 79",
+        "text": [
+            "Lakebed Temple{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 80",
+        "text": [
+            "Arbiter's Grounds{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 81",
+        "text": [
+            "Snowpeak Ruins{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 82",
+        "text": [
+            "Temple of Time{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 83",
+        "text": [
+            "City in the Sky{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 84",
+        "text": [
+            "Palace of Twilight{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 85",
+        "text": [
+            "Hyrule Castle{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 89",
+        "text": [
+            "Zora's River{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 90",
+        "text": [
+            "Zora's Domain{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 91",
+        "text": [
+            "Bosque de Faron{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 95",
+        "text": [
+            "Gerudo Desert{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 96",
+        "text": [
+            "Snowpeak{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 97",
+        "text": [
+            "Mirror Chamber{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 99",
+        "text": [
+            "Sacred Grove{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 100",
+        "text": [
+            "Hyrule Castle Town{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 102",
+        "text": [
+            "Central del Malo Mart{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 103",
+        "text": [
+            "Barnes Bomb{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 104",
+        "text": [
+            "Malo Mart de la ciudadela{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 105",
+        "text": [
+            "STAR Tent{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 106",
+        "text": [
+            "Telma's Bar{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 107",
+        "text": [
+            "Fanadi's Palace{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 108",
+        "text": [
+            "Maripola's Castle{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 110",
+        "text": [
+            "Hidden village{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 116",
+        "text": [
+            "Fishing Hole{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "4, 117",
+        "text": [
+            "Upper Zora's River{1a07000004003c}"
+        ]
+    },
+    {
+        "ID": "5, 125",
+        "text": [
+            "Ordona"
+        ]
+    },
+    {
+        "ID": "5, 126",
+        "text": [
+            "Faron"
+        ]
+    },
+    {
+        "ID": "5, 127",
+        "text": [
+            "Fuente de Ordon"
+        ]
+    },
+    {
+        "ID": "5, 128",
+        "text": [
+            "Bosque de Faron"
+        ]
+    },
+    {
+        "ID": "5, 133",
+        "text": [
+            "Zora's River"
+        ]
+    },
+    {
+        "ID": "5, 136",
+        "text": [
+            "Lanayru"
+        ]
+    },
+    {
+        "ID": "5, 138",
+        "text": [
+            "Snowpeak"
+        ]
+    },
+    {
+        "ID": "5, 139",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 141",
+        "text": [
+            "Sacred Grove"
+        ]
+    },
+    {
+        "ID": "5, 142",
+        "text": [
+            "Hyrule Castle"
+        ]
+    },
+    {
+        "ID": "5, 143",
+        "text": [
+            "Hidden village"
+        ]
+    },
+    {
+        "ID": "5, 144",
+        "text": [
+            "Snowpeak"
+        ]
+    },
+    {
+        "ID": "5, 145",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 205",
+        "text": [
+            "Mirror Chamber"
+        ]
+    },
+    {
+        "ID": "5, 206",
+        "text": [
+            "Sacred Grove"
+        ]
+    },
+    {
+        "ID": "5, 207",
+        "text": [
+            "Upper Zora's River"
+        ]
+    },
+    {
+        "ID": "5, 208",
+        "text": [
+            "Gerudo Desert"
+        ]
+    },
+    {
+        "ID": "5, 209",
+        "text": [
+            "Snowpeak Top"
+        ]
+    },
+    {
+        "ID": "5, 217",
+        "text": [
+            "N - Bosque de Faron"
+        ]
+    },
+    {
+        "ID": "5, 218",
+        "text": [
+            "S - Bosque de Faron"
+        ]
+    },
+    {
+        "ID": "12, 91",
+        "text": [
+            "Soy uno de los {1a06ff000001}cuatro espíritus que",
+            "otorgan luz{1a06ff000000} a estas tierras merced",
+            "al mandato de los cielos...",
+            "Mi nombre es {1a06ff000002}Ordona{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "12, 99",
+        "text": [
+            "Salvo que volváis al {1a06ff000001}Bosque de",
+            "Faron{1a06ff000000}, donde os transformasteis,",
+            "y resucitéis al {1a06ff000001}espíritu de luz{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "12, 131",
+        "text": [
+            "Mi nombre es {1a06ff000002}Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "8, 64",
+        "text": [
+            "El {1a06ff000001}templo {1a06ff000000}del fondo del",
+            "{1a06ff000001}Bosque de Faron{1a06ff000000}... Me viene",
+            "de perilla."
+        ]
+    },
+    {
+        "ID": "12, 212",
+        "text": [
+            "Al principio, no podía creerme que",
+            "los niños fueran de Ordon. Las",
+            "tierras de Ordona están muy lejos."
+        ]
+    },
+    {
+        "ID": "8, 73",
+        "text": [
+            "Yo creo que deberíamos volver al",
+            "Bosque de Faron para buscar algo",
+            "que nos pueda servir."
+        ]
+    },
+    {
+        "ID": "8, 94",
+        "text": [
+            "La {1a06ff000001}Espada Maestra {1a06ff000000}está en el fondo",
+            "del Bosque de Faron, en el",
+            "corazón de la {1a06ff000001}Sacred Grove{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "7, 230",
+        "text": [
+            "El Bosque de Faron que tan bien",
+            "conoces, ahora está dentro del",
+            "{1a06ff000001}dominio de las sombras{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "8, 106",
+        "text": [
+            "¡{1a05000000}, vamos rápido al",
+            "{1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "13, 179",
+        "text": [
+            "Dirigíos a la {1a06ff000001}Sacred Grove",
+            "{1a06ff000000}que se esconde en lo más {1a06ff000001}profundo",
+            "{1a06ff000000}de las tierras protegidas por el",
+            "{1a06ff000001}espíritu Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "13, 193",
+        "text": [
+            "¡Vámonos!",
+            "¡Vámonos al{1a06ff000001} Bosque de Faron{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "8, 111",
+        "text": [
+            "¡Vamos al Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "8, 163",
+        "text": [
+            "¡La cosita que busco está en el",
+            "{1a06ff000001}templo {1a06ff000000}del {1a06ff000001}Bosque de Faron{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "8, 179",
+        "text": [
+            "El Lakebed Temple es un lugar",
+            "protegido por los Zora. Seguro que",
+            "pueden ayudarnos en algo."
+        ]
+    },
+    {
+        "ID": "8, 181",
+        "text": [
+            "Nunca pensé que hubiera un lugar",
+            "así en lo más profundo del Bosque",
+            "de Faron."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}Ucayaya{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Una fiel compañera de City in the Sky",
+            "que te podrá llevar a la tienda",
+            "Uca cuando quieras.",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004}",
+            "y llámala con {1a05030002}. Si la asignas a",
+            "{1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "10, 45",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 48",
+        "text": [
+            "Barnes Bomb"
+        ]
+    },
+    {
+        "ID": "10, 49",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 149",
+        "text": [
+            "¡Malo Mart, el héroe de los",
+            "precios, inaugura sucursal en la",
+            "ciudadela! ",
+            "",
+            "¡Tenemos esos productos",
+            "indispensables para largos viajes!",
+            "",
+            "Producto especial ofrecido con",
+            "motivo de la inauguración:",
+            "¡Una flamante armadura mágica!",
+            "(¡Una sola unidad disponible!)",
+            "",
+            "¡El primer héroe que se pase,",
+            "el primero que se la lleva!",
+            "",
+            "Y recuerden:",
+            "¡Pociones! ¡Bombas! ¡Flechas!",
+            "¡En Malo Mart, aprovecha!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "text": [
+            "¡La oficina de turismo de",
+            "Lanayru quiere darte a conocer",
+            "parajes de gran belleza natural y",
+            "diversión al aire libre!",
+            "",
+            "¡Las hermanas Flora y Rosita",
+            "regentan los mejores lugares",
+            "de ocio!",
+            "",
+            "Las dos están cerca de la",
+            "cascada Zora, junto a la orilla.",
+            "",
+            "{1a05060004}Alquiler de barcas de Flora{1a05060004}",
+            "",
+            "¡Navega por los rápidos mientras",
+            "tiras al blanco! ¡Y las",
+            "flechas explosivas son gratis!",
+            "",
+            "{1a05060004}Fishing Hole de Rosita{1a05060004}",
+            "",
+            "¡Lucha cuerpo a cuerpo con la",
+            "naturaleza! ¿Qué quieres pescar?",
+            "",
+            "¡Te esperamos!"
+        ]
+    },
+    {
+        "ID": "10, 158",
+        "text": [
+            "¡Chachi que sí,",
+            "{1a05000000}!",
+            "",
+            "",
+            "Mi querido hijo no para de decir",
+            "que quiere escribirte, y aquí",
+            "está su carta.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Me lo he pasado guay contigo en",
+            "todos sitios. En las mazmorras,",
+            "en las praderas y en el cielo.",
+            "Ah, y gracias por ayudar a",
+            "los Uca.",
+            "",
+            "¡Vuelve a City in the Sky pronto!",
+            "¡Cuídate!"
+        ]
+    },
+    {
+        "ID": "8, 209",
+        "text": [
+            "¡Vamos a por el pedazo de cristal",
+            "de la casa del monstruo que vive",
+            "en el Snowpeak!"
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "ID": "21, 153",
+        "text": [
+            "Ah, {1a07000007000a}y ten cuidado en tu",
+            "viaje al Hyrule Castle."
+        ]
+    },
+    {
+        "ID": "21, 235",
+        "text": [
+            "¡He oído que hoy te vas",
+            "al Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "21, 245",
+        "text": [
+            "¡He oído que hoy te vas",
+            "al Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "24, 164",
+        "text": [
+            "¡Oye,{1a070000070005} oye!{1a07000007000f} Te vas al Hyrule",
+            "Castle, ¿verdad?"
+        ]
+    },
+    {
+        "ID": "31, 126",
+        "text": [
+            "Escucha, lo que busco está en ",
+            "el {1a06ff000001}templo {1a06ff000000}del {1a06ff000001}Bosque de Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "31, 129",
+        "text": [
+            "{1a090300000000070d}¡Cruza raudo el Bosque de Faron,",
+            "y dirígete hacia al {1a06ff000001}este{1a06ff000000}, a las {1a06ff000001}tierras",
+            "de Eldin{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "70, 145",
+        "text": [
+            "¡Cruza raudo el Bosque de Faron,",
+            "y dirígete hacia al {1a06ff000001}oeste{1a06ff000000}, a las",
+            "{1a06ff000001}tierras de Eldin{1a06ff000000}!"
+        ]
+    }
+]

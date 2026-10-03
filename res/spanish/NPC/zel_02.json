@@ -1,0 +1,120 @@
+[
+    {
+        "ID": "19, 147",
+        "text": [
+            "¿Ya has hablado con Renado?"
+        ]
+    },
+    {
+        "ID": "20, 185",
+        "text": [
+            "¿Por qué no habrá venido Malo",
+            "a ver a Colin? ¿Qué estará",
+            "haciendo?..."
+        ]
+    },
+    {
+        "ID": "20, 195",
+        "text": [
+            "Malo está ahí abajo delante de",
+            "la fuente, ¡empieza desde allí!"
+        ]
+    },
+    {
+        "ID": "20, 215",
+        "text": [
+            "Malo debe de estar tramando algo.",
+            "Lleva bastante tiempo encerrado",
+            "en la tienda de ahí..."
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "text": [
+            "¡Tal vez Ilia recupere la memoria!",
+            "¡Me lo ha dicho Renado!",
+            ""
+        ]
+    },
+    {
+        "ID": "22, 61",
+        "text": [
+            "Ya se puede entrar en las minas",
+            "otra vez, así que he venido a traer",
+            "material para que Barnes haga",
+            "bombas, goro."
+        ]
+    },
+    {
+        "ID": "22, 82",
+        "text": [
+            "Quizás esto te sorprenda, pero",
+            "esa persona fue {1a06ff000001}Bo{1a06ff000000}, {1a070000070014}el {1a06ff000001}alcalde",
+            "{1a06ff000000}de {1a06ff000001}tu pueblo{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 86",
+        "text": [
+            "Y, si de verdad piensas subir a la",
+            "Montaña de la Muerte por",
+            "nosotros, habla antes con {1a06ff000001}Bo{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 97",
+        "text": [
+            "Talo se puso muy triste después",
+            "de lo de Colin, pero por fin",
+            "ha recuperado el ánimo."
+        ]
+    },
+    {
+        "ID": "22, 150",
+        "text": [
+            "En cuanto a los {1a06ff000001}Goron{1a06ff000000}...",
+            "{1a070000070014}Ve a hablar con {1a06ff000001}el alcalde Bo{1a06ff000000},",
+            "seguro que te podrá ayudar. Él",
+            "fue capaz de ganarse su confianza."
+        ]
+    },
+    {
+        "ID": "24, 75",
+        "text": [
+            "Darbus te estará esperando",
+            "allí. Mira el {1a06ff000001}mapa {1a06ff000000}para ver",
+            "dónde está."
+        ]
+    },
+    {
+        "ID": "24, 81",
+        "text": [
+            "Gracias a la amabilidad de",
+            "Renado, voy a quedarme en la",
+            "aldea durante un tiempo."
+        ]
+    },
+    {
+        "ID": "25, 206",
+        "text": [
+            "Precisamente en el {1a06ff000001}Malomercado",
+            "{1a06ff000000}están haciendo una {1a06ff000001}gorocolecta",
+            "{1a06ff000000}para {1a06ff000001}reparar el puente{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "27, 97",
+        "text": [
+            "¡Vamos deprisa a donde está Bo!"
+        ]
+    },
+    {
+        "ID": "31, 67",
+        "text": [
+            "{1a07ff00010096}{1a06ff000001}¡PELIGRO!{1a06ff000000}",
+            "{1a07ff00010064}Prohibido entrar sin permiso.",
+            "",
+            "                           Barnes"
+        ]
+    }
+]

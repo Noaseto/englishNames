@@ -1,0 +1,78 @@
+[
+    {
+        "ID": "19, 235",
+        "text": [
+            "{1a0903000000000510}{1a05000014} Camino al {1a06ff000002}Templo del Bosque{1a06ff000000}",
+            "",
+            "El final del camino está muy,",
+            "pero que muy oscuro.",
+            "Si necesitas luz, ven a verme.{1a05000015}",
+            "                   Coro"
+        ]
+    },
+    {
+        "ID": "21, 32",
+        "text": [
+            "             Tienda de Trlill",
+            "Por favor, deje el dinero en la",
+            "caja, al lado del pájaro a cargo."
+        ]
+    },
+    {
+        "ID": "21, 33",
+        "text": [
+            "¡La tienda de Trlill está to tieso!",
+            "¡Hay aceite de candil!"
+        ]
+    },
+    {
+        "ID": "21, 34",
+        "text": [
+            "El pago en la tienda de Trlill,",
+            "a la caja de madera junto al",
+            "dueño."
+        ]
+    },
+    {
+        "ID": "21, 226",
+        "text": [
+            "¿No te acuerdas de mí?",
+            "{1a07000007000a}Soy {1a06ff000002}Ashei{1a06ff000000}, nos conocimos",
+            "en la tasca de Telma."
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "text": [
+            "Ya he oído hablar de ti...",
+            "{1a07000007000a}Me llamo {1a06ff000002}Ashei{1a06ff000000}, y a menudo",
+            "paso por la tasca de Telma."
+        ]
+    },
+    {
+        "ID": "23, 18",
+        "text": [
+            "¿Qué opinas de lo que Ashei te contó",
+            "sobre el monstruo?"
+        ]
+    },
+    {
+        "ID": "23, 120",
+        "text": [
+            "Me llamo {1a06ff000002}Madame Fanadi{1a06ff000000}. Soy la única",
+            "habitante de este pueblo."
+        ]
+    },
+    {
+        "ID": "58, 251",
+        "text": [
+            "{1a05000015} Camino al {1a06ff000002}Templo del Bosque{1a06ff000000}",
+            "",
+            "El final del camino está muy,",
+            "pero que muy oscuro.",
+            "Si necesitas luz, ven a verme. {1a05000014}",
+            "",
+            "                   Coro"
+        ]
+    }
+]

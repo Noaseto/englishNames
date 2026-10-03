@@ -1,0 +1,73 @@
+[
+    {
+        "ID": "19, 234",
+        "text": [
+            "                     {1a05000016}",
+            "  Fuente del espíritu Lanayru"
+        ]
+    },
+    {
+        "ID": "20, 181",
+        "text": [
+            "¡Hola, holita!",
+            "{1a07000007001e}¡Bienvenido al {1a06ff000002}Flight by Fowl{1a06ff000000} de",
+            "Jeremías!"
+        ]
+    },
+    {
+        "ID": "20, 202",
+        "text": [
+            "{1a090300000000050d}NUEVA ATRACCIÓN DEL LAGO",
+            "{1a06ff000005}Parque de atracciones acuático",
+            "de Tobías y Jeremías{1a06ff000000}.",
+            "Atracción del {1a06ff000002}Flight by Fowl{1a06ff000000},",
+            "recto y a mano derecha. {1a05000015}"
+        ]
+    },
+    {
+        "ID": "22, 187",
+        "text": [
+            "Esta es la única {1a06ff000001}vía por agua",
+            "{1a06ff000000}que llega al {1a06ff000001}Hyrule Castle{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 41",
+        "text": [
+            "¿Queréis acaso ir al Gerudo",
+            "Desert?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "39, 18",
+        "text": [
+            "Diviértete navegando por el Zora's",
+            "River hasta el Lago de Hylia:",
+            "",
+            "{1a06ff000002}¡Todos sois bienvenidos a la",
+            "choza de la barquera!{1a06ff000000}",
+            "",
+            "Alquiler: {1a06ff000006}20 rupias"
+        ]
+    },
+    {
+        "ID": "39, 19",
+        "text": [
+            "{1a06ff000003}Fishing Hole{1a06ff000000}",
+            "",
+            "Pesca con boya y con señuelo.",
+            "Se aceptan principiantes",
+            "(guía disponible)."
+        ]
+    },
+    {
+        "ID": "59, 218",
+        "text": [
+            "NUEVA ATRACCIÓN DEL LAGO",
+            "{1a06ff000005}Parque de atracciones acuático",
+            "de Tobías y Jeremías{1a06ff000000}.",
+            "{1a05000014} Atracción del {1a06ff000002}Flight by Fowl{1a06ff000000},",
+            "recto y a mano izquierda."
+        ]
+    }
+]

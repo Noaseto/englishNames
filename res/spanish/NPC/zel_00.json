@@ -1,0 +1,652 @@
+[
+    {
+        "ID": "0, 138",
+        "text": [
+            "{1a09030000000007ee}{1a05000001}¡Has encontrado a la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}No se sabe cómo, pero puede",
+            "sacarte de las mazmorras o",
+            "{1a06ff000001}devolverte{1a06ff000000} a ellas.",
+            "Si la asignas a {1a05000010} o {1a0500000f} y la",
+            "llamas, te puede ser de ayuda."
+        ]
+    },
+    {
+        "ID": "0, 141",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}espada de Ordon{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Espada forjada por Rusl,",
+            "espadachín de Ordon, como",
+            "tributo a la familia real."
+        ]
+    },
+    {
+        "ID": "0, 152",
+        "text": [
+            "{1a09030000000007fc}{1a05000001}¡Es la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Amable ser que, no se sabe",
+            "cómo, puede sacarte de las",
+            "mazmorras o devolverte a ellas.",
+            "Asígnala a {1a05000010} o {1a0500000f} para pedirle",
+            "que te saque de la mazmorra."
+        ]
+    },
+    {
+        "ID": "0, 207",
+        "text": [
+            "{1a0903000000000833}{1a05000001}¡Has llenado la botella",
+            "de {1a06ff000001}sopa amarga{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Es una receta especial",
+            "que se ha inventado Coro.",
+            "Hasta que no la asignes a {1a05000010} o",
+            "{1a0500000f} y la bebas, no sabrás a",
+            "qué sabe."
+        ]
+    },
+    {
+        "ID": "0, 216",
+        "text": [
+            "{1a090300000000083c}{1a05000001}¡Tienes {1a06ff000001}rocío de la Great Fairy{1a06ff000000}!{1a05000002} ",
+            "{1a07000007000a}Agua bendecida con las",
+            "oraciones de la Great Fairy.",
+            "",
+            "{1a07000007000a}Asígnalo a {1a05000010} o {1a0500000f} para beberlo",
+            "y recuperar {1a06ff000001}tus corazones{1a06ff000000}.",
+            "Aumentará también tu {1a06ff000001}poder",
+            "de ataque{1a06ff000000} por un tiempo."
+        ]
+    },
+    {
+        "ID": "0, 218",
+        "text": [
+            "{1a090300000000083e}{1a05000001}¡Tienes {1a06ff000001}rocío de la Great Fairy{1a06ff000000}!{1a05000002} ",
+            "{1a07000007000a}Esta {1a06ff000001}botella{1a06ff000000} contiene agua",
+            "bendecida con las oraciones",
+            "de la Great Fairy.",
+            "{1a07000007000a}Asígnalo a {1a05000010} o {1a0500000f}",
+            "y bébelo para recuperar {1a06ff000001}todos",
+            "tus corazones{1a06ff000000}.",
+            "",
+            "Además, aumentará tu {1a06ff000001}poder de",
+            "ataque{1a06ff000000} por un tiempo."
+        ]
+    },
+    {
+        "ID": "0, 245",
+        "text": [
+            "{1a0903000000000859}{1a05000001}¡Es una {1a06ff000001}nota de{1a06ff000000} {1a06ff000001}Auru{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}La ha escrito Auru para",
+            "Fyer, del Lago de Hylia.",
+            "",
+            "Asígnala a {1a05000010} o {1a0500000f}",
+            "para enseñársela."
+        ]
+    },
+    {
+        "ID": "1, 81",
+        "text": [
+            "{1a0903000000000be5}{1a05000001}¡Es la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}{1a07000007000a}Una fiel compañera de Celestia.",
+            "Asígnala a {1a05000010} o {1a0500000f}, y te ",
+            "podrá llevar a la tienda Uca."
+        ]
+    },
+    {
+        "ID": "1, 138",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 140",
+        "text": [
+            "Ooccoo Jr."
+        ]
+    },
+    {
+        "ID": "1, 146",
+        "text": [
+            "Nota de Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 152",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 229",
+        "text": [
+            "Carta de Renado"
+        ]
+    },
+    {
+        "ID": "1, 245",
+        "text": [
+            "Nota de Auru"
+        ]
+    },
+    {
+        "ID": "2, 81",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "2, 109",
+        "text": [
+            "{1a0903000000000c2d}Saco de bombas prestado por Iza.",
+            "Asígnalo a {1a05000010} o {1a0500000f} y pulsa {1a0500000a} para poner",
+            "bombas o, si estás corriendo, lanzarlas.",
+            "Combínalas con el {1a06ff000001}arco del héroe{1a06ff000000} en la",
+            "pantalla de objetos con {1a0500000e} para crear",
+            "{1a06ff000001}flechas explosivas{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "2, 110",
+        "text": [
+            "Saco de bombas prestado por Iza.",
+            "",
+            "El saco está vacío.",
+            "Pídele a Iza que te lo llene."
+        ]
+    },
+    {
+        "ID": "2, 138",
+        "text": [
+            "{1a0903000000000c4a}Cuando quieras salir de la mazmorra,",
+            "la Ooccoo te sacará si la llamas",
+            "con {1a05000010} o {1a0500000f}.",
+            "También podrás volver con ella.",
+            "Si vuelves andando a la mazmorra,",
+            "te estará esperando en la entrada."
+        ]
+    },
+    {
+        "ID": "2, 140",
+        "text": [
+            "{1a0903000000000c4c}Pulsa {1a05000010} o {1a0500000f} para hablar con él",
+            "y te llevará de vuelta junto a la Ooccoo",
+            "que te espera dentro de la mazmorra."
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "text": [
+            "{1a0903000000000c4d}Espada forjada por Rusl. La empuñadura",
+            "está hecha de cuerno de cabra de",
+            "Ordon. Úsala con {1a0500000b} y guárdala con {1a0500000a}."
+        ]
+    },
+    {
+        "ID": "2, 152",
+        "text": [
+            "{1a0903000000000c58}Cuando quieras salir de la mazmorra,",
+            "la Ooccoo te sacará si la llamas",
+            "con {1a05000010} o {1a0500000f}.",
+            "Si vuelves andando a la mazmorra, la",
+            "Ooccoo te estará esperando en la entrada."
+        ]
+    },
+    {
+        "ID": "2, 154",
+        "text": [
+            "Bolsa que te dio Agitha,",
+            "reina de los insectos.",
+            "Caben hasta 600 rupias."
+        ]
+    },
+    {
+        "ID": "2, 155",
+        "text": [
+            "Bolsa que te dio Agitha, reina de los",
+            "insectos. Solo la reciben sus fieles",
+            "servidores. Caben hasta 1000 rupias."
+        ]
+    },
+    {
+        "ID": "2, 207",
+        "text": [
+            "{1a0903000000000c8f}Sopa casera de Coro.",
+            "Asígnala a {1a05000010} o {1a0500000f} y bébela",
+            "para ver a qué sabe..."
+        ]
+    },
+    {
+        "ID": "2, 229",
+        "text": [
+            "{1a0903000000000ca5}Carta de Renado para Telma. ",
+            "",
+            "Describe los detalles del tratamiento",
+            "para que Ilia recupere la memoria. ",
+            "Para entregársela, asígnala a {1a05000010} o {1a0500000f}."
+        ]
+    },
+    {
+        "ID": "2, 245",
+        "text": [
+            "{1a0903000000000cb5}Nota escrita por Auru para Fyer. ",
+            "Asígnala a {1a05000010} o {1a0500000f} para enseñársela a ",
+            "Fyer en el Lago de Hylia."
+        ]
+    },
+    {
+        "ID": "2, 246",
+        "text": [
+            "{1a0903000000000cb6}Dibujo de una especie de mono gigante",
+            "con un {1a06ff000001}pez rojo{1a06ff000000}, esbozado por Ashei.",
+            "Asígnalo a {1a05000010} o {1a0500000f} para enseñarlo."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "text": [
+            "{1a0903000000000d11}Ooccoo.",
+            "",
+            "Asígnala a {1a05000010} o {1a0500000f} para llamarla y te",
+            "llevará a la tienda Uca cuando quieras."
+        ]
+    },
+    {
+        "ID": "16, 241",
+        "text": [
+            "{1a05000001}¡Has encontrado a la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}No se sabe cómo, pero puede",
+            "sacarte de las mazmorras o",
+            "{1a06ff000001}devolverte{1a06ff000000} a ellas.",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004}",
+            "y llámala con {1a05030002}. Si la asignas a",
+            "{1a05030008}, no tendrás que usar {1a05030002}",
+            "para llamarla."
+        ]
+    },
+    {
+        "ID": "16, 255",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Amable ser que, no se sabe",
+            "cómo, puede sacarte de",
+            "mazmorras o devolverte a ellas.",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004} y",
+            "llámala con {1a05030002}. Si la asignas a",
+            "{1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 54",
+        "text": [
+            "{1a05000001}¡Has llenado la botella",
+            "de {1a06ff000001}sopa amarga{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Es una receta especial que",
+            "se ha inventado Coro.",
+            "Hasta que no la asignes a {1a05030002} en",
+            "la pantalla {1a05030004} y la bebas no",
+            "sabrás a qué sabe."
+        ]
+    },
+    {
+        "ID": "17, 63",
+        "text": [
+            "{1a05000001}¡Tienes {1a06ff000001}rocío de la Great Fairy{1a06ff000000}!{1a05000002} ",
+            "{1a07000007000a}Agua bendecida con las",
+            "oraciones de la Great Fairy.",
+            "",
+            "Asígnalo a {1a05030002} en la pantalla {1a05030004} y",
+            "bébelo para recuperar {1a06ff000001}todos los",
+            "corazones{1a06ff000000}. Además, tu {1a06ff000001}poder de",
+            "ataque{1a06ff000000} mejorará por un tiempo."
+        ]
+    },
+    {
+        "ID": "17, 65",
+        "text": [
+            "{1a05000001}¡Tienes {1a06ff000001}rocío de la Great Fairy{1a06ff000000}!{1a05000002} ",
+            "{1a07000007000a}Esta {1a06ff000001}botella{1a06ff000000} contiene agua",
+            "bendecida con las oraciones",
+            "de la Great Fairy.",
+            "Asígnalo a {1a05030002} en la pantalla {1a05030004}",
+            "y bébelo para recuperar {1a06ff000001}todos",
+            "tus corazones{1a06ff000000}.",
+            "",
+            "Además, aumentará tu {1a06ff000001}poder de",
+            "ataque{1a06ff000000} por un tiempo."
+        ]
+    },
+    {
+        "ID": "17, 76",
+        "text": [
+            "{1a05000001}¡Tienes la {1a06ff000001}carta de Renado{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Describe en detalle cómo hacer",
+            "que Ilia recupere la memoria.",
+            "",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004}",
+            "para enseñarla. Si la asignas a",
+            "{1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 92",
+        "text": [
+            "{1a05000001}¡Es una {1a06ff000001}nota de{1a06ff000000} {1a06ff000001}Auru{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}La ha escrito Auru para",
+            "Fyer, del Lago de Hylia. ",
+            "",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004}",
+            "y enséñala con {1a05030002}. Si la asignas",
+            "a {1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "12, 180",
+        "text": [
+            "Beth... ¿Estás bien?"
+        ]
+    },
+    {
+        "ID": "12, 208",
+        "text": [
+            "Al fin nos conocemos.",
+            "Soy {1a06ff000002}Renado{1a06ff000000}, el sacerdote",
+            "del templo de este pueblo."
+        ]
+    },
+    {
+        "ID": "12, 210",
+        "text": [
+            "Bueno, esta es mi hija {1a06ff000002}Luda{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "12, 211",
+        "text": [
+            "Esos monstruos nos abandonaron",
+            "en mitad de la nada para que",
+            "muriéramos, pero Renado nos",
+            "encontró."
+        ]
+    },
+    {
+        "ID": "12, 242",
+        "text": [
+            "Beth... Perdona por el empujón..."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "text": [
+            "{1a05000001}¡Es la {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Una fiel compañera de Celestia",
+            "que te podrá llevar a la tienda",
+            "Uca cuando quieras.",
+            "Asígnala a {1a05030002} en la pantalla {1a05030004}",
+            "y llámala con {1a05030002}. Si la asignas a",
+            "{1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 0",
+        "text": [
+            "Saco de bombas prestado por Iza.",
+            "Coge bombas con {1a05030002} y pulsa {1a05030002} o {1a05030001} para",
+            "ponerlas o, si estás corriendo, lanzarlas.",
+            "Combínalas con el {1a06ff000001}arco del héroe{1a06ff000000} en la",
+            "pantalla de objetos con {1a05030014} para crear",
+            "{1a06ff000001}flechas explosivas{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "18, 31",
+        "text": [
+            "Hijo de la Ooccoo.",
+            "",
+            "Asígnalo a {1a05030002} para llamarlo y pedir que te",
+            "lleve de vuelta con la Ooccoo.",
+            "Si lo asignas a {1a05030008}, no tendrás que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 32",
+        "text": [
+            "Espada forjada por Rusl. La empuñadura",
+            "está hecha de cuerno de cabra de",
+            "Ordon. Úsala con {1a05030011} y guárdala con {1a05030001}."
+        ]
+    },
+    {
+        "ID": "18, 98",
+        "text": [
+            "Sopa casera de Coro.",
+            "",
+            "Asígnala a {1a05030002} y bébela para ver a",
+            "qué sabe..."
+        ]
+    },
+    {
+        "ID": "18, 120",
+        "text": [
+            "Carta escrita por Renado para Telma.",
+            "",
+            "Describe los pormenores del tratamiento ",
+            "para que Ilia recupere la memoria.",
+            "Asígnala a {1a05030008} o {1a05030002} para entregársela",
+            "a la persona que tengas delante."
+        ]
+    },
+    {
+        "ID": "18, 136",
+        "text": [
+            "Nota escrita por Auru para Fyer.",
+            "",
+            "Asígnala a {1a05030008} o {1a05030002} para enseñársela",
+            "a Fyer en el Lago de Hylia."
+        ]
+    },
+    {
+        "ID": "18, 137",
+        "text": [
+            "Dibujo de una especie de mono gigante",
+            "con un {1a06ff000001}pez rojo{1a06ff000000}, esbozado por Ashei.",
+            "",
+            "Asígnalo a {1a05030008} o {1a05030002} para enseñarlo."
+        ]
+    },
+    {
+        "ID": "18, 216",
+        "text": [
+            "Almas que tenían los espectros que solo",
+            "algunos seres pueden percibir. Recoge",
+            "20 o más y llévaselas a Jovani."
+        ]
+    },
+    {
+        "ID": "18, 228",
+        "text": [
+            "Ooccoo.",
+            "",
+            "Asígnala a {1a05030002} y llámala con {1a05030002}",
+            "para que te lleve a la tienda Uca.",
+            "Si la asignas a {1a05030008}, no tendrás",
+            "que usar {1a05030002}."
+        ]
+    },
+    {
+        "ID": "9, 209",
+        "text": [
+            "El sueño de Agitha"
+        ]
+    },
+    {
+        "ID": "10, 41",
+        "text": [
+            "Renado"
+        ]
+    },
+    {
+        "ID": "10, 42",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 43",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 46",
+        "text": [
+            "Barnes"
+        ]
+    },
+    {
+        "ID": "10, 47",
+        "text": [
+            "Barnes"
+        ]
+    },
+    {
+        "ID": "10, 51",
+        "text": [
+            "Purlo"
+        ]
+    },
+    {
+        "ID": "10, 52",
+        "text": [
+            "Madame Fanadi"
+        ]
+    },
+    {
+        "ID": "10, 53",
+        "text": [
+            "Princesa Agitha"
+        ]
+    },
+    {
+        "ID": "10, 55",
+        "text": [
+            "Madame Fanadi"
+        ]
+    },
+    {
+        "ID": "10, 142",
+        "text": [
+            "A una servidora le encantó",
+            "conocerte el otro día.",
+            "",
+            "Hacía tiempo que no veía a mi",
+            "hijito sonreír tanto. Una",
+            "servidora se sintió embargada",
+            "por la alegría.",
+            "",
+            "Nosotros seguimos con nuestros",
+            "periplos.",
+            "",
+            "",
+            "Tú también sigues de viaje, ¿no?",
+            "Estoy segura de que algún día",
+            "nos volveremos a ver.",
+            "",
+            "Esta vieja y su hijo esperan",
+            "ansiosos poder volver a verte.",
+            "Hasta entonces, ¡que te vaya",
+            "bien!",
+            "",
+            "                                      Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 143",
+        "text": [
+            "A una servidora le encantó",
+            "conocerte el otro día.",
+            "",
+            "Sigo igual que siempre, de viaje.",
+            "",
+            "Tú también sigues con tus",
+            "periplos, ¿no? Ojalá nos",
+            "volvamos a ver pronto.",
+            "",
+            "Hasta entonces, ¡que te vaya",
+            "bien!",
+            "",
+            "P.D.: Aunque antes no tuve",
+            "oportunidad de decírtelo, la",
+            "verdad es que tengo un hijo.",
+            "Te lo presentaré cuando nos",
+            "volvamos a ver.",
+            "",
+            "Como es pequeño, puedes",
+            "llevarlo como si fuera un",
+            "objeto más, ¡te llevarás",
+            "bien con él!",
+            "",
+            "                                      Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 146",
+        "text": [
+            "Estimado {1a05000000}:",
+            "",
+            "¡Por fin he terminado una nueva",
+            "bomba! Sirve hasta debajo del",
+            "agua, ¡y está dotada de la más",
+            "avanzada tecnología hyliana!",
+            "",
+            "¡Las tengo recién salidas del",
+            "taller, ven en cuanto puedas a",
+            "llevarte todas las que necesites!",
+            "",
+            "             {1a06ff000001}Barnes - Kakariko"
+        ]
+    },
+    {
+        "ID": "10, 147",
+        "text": [
+            "Estimado {1a05000000}:",
+            "",
+            "¿Qué tal te va? ¿Sigues viajando",
+            "por la pradera, reventando todo",
+            "lo que encuentras a tu paso?",
+            "",
+            "Acabo de poner a la venta un",
+            "nuevo tipo de explosivo.",
+            "¡Cuando lo uses, no saldrás de tu",
+            "asombro! ¡Pásate por mi tienda!",
+            "",
+            "             {1a06ff000001}Barnes - Kakariko"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "text": [
+            "¡La oficina de turismo de",
+            "Lanayru quiere darte a conocer",
+            "parajes de gran belleza natural y",
+            "diversión al aire libre!",
+            "",
+            "¡Las hermanas Iza y Hena",
+            "regentan los mejores lugares",
+            "de ocio!",
+            "",
+            "Las dos están cerca de la",
+            "cascada Zora, junto a la orilla.",
+            "",
+            "{1a05060004}Alquiler de barcas de Iza{1a05060004}",
+            "",
+            "¡Navega por los rápidos mientras",
+            "tiras al blanco! ¡Y las",
+            "flechas explosivas son gratis!",
+            "",
+            "{1a05060004}Muelle de pesca de Hena{1a05060004}",
+            "",
+            "¡Lucha cuerpo a cuerpo con la",
+            "naturaleza! ¿Qué quieres pescar?",
+            "",
+            "¡Te esperamos!"
+        ]
+    }
+]

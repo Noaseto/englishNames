@@ -1,0 +1,89 @@
+[
+    {
+        "ID": "19, 144",
+        "text": [
+            "Cuando atacaron estas tierras,",
+            "envié a mi hijo {1a06ff000002}Ralis{1a06ff000000} al {1a06ff000001}Hyrule",
+            "Castle {1a06ff000000}para hacérselo saber a",
+            "la princesa Zelda."
+        ]
+    },
+    {
+        "ID": "20, 119",
+        "text": [
+            "Siguiendo el curso bajo hacia",
+            "el sur, se divisa el {1a06ff000001}Hyrule",
+            "Castle{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 121",
+        "text": [
+            "Parece que la cueva que lleva al",
+            "Snowpeak sigue congelada...{1a07000007000a}",
+            "Habrá que esperar un poco más."
+        ]
+    },
+    {
+        "ID": "20, 122",
+        "text": [
+            "Aquí comienza la zona del",
+            "{1a06ff000001}Snowpeak{1a06ff000000}. Es una montaña",
+            "castigada por una ventisca que",
+            "no cesa nunca."
+        ]
+    },
+    {
+        "ID": "20, 149",
+        "text": [
+            "Cuando esos monstruos penetraron",
+            "en el {1a06ff000001}Lakebed Temple del Lago",
+            "de Hylia{1a06ff000000}, algunos de nuestros",
+            "soldados quedaron dentro."
+        ]
+    },
+    {
+        "ID": "20, 158",
+        "text": [
+            "Oí que un héroe ataviado con traje",
+            "azul acabó con las fuerzas malignas",
+            "instaladas en el Lakebed Temple."
+        ]
+    },
+    {
+        "ID": "20, 172",
+        "text": [
+            "¿Para qué querría bajar hasta aquí",
+            "un monstruo que vive en el Snow-",
+            "peak? No se me ocurre la razón."
+        ]
+    },
+    {
+        "ID": "20, 173",
+        "text": [
+            "La región del {1a06ff000001}Snowpeak{1a06ff000000}",
+            "es muy peligrosa."
+        ]
+    },
+    {
+        "ID": "29, 146",
+        "text": [
+            "{1a05000001}¡Un {1a06ff000001}siluro de Ordon{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Nacido en Ordon igual que tú,",
+            "{1a05000000}, pero no tan",
+            "popular."
+        ]
+    },
+    {
+        "ID": "37, 29",
+        "text": [
+            "{1a06ff000003}Fishing Hole{1a06ff000000}",
+            "",
+            "Pesque libremente con boya.",
+            "Información sobre la pesca con",
+            "señuelo, en la oficina.",
+            "{1a06ff000001}¡Los señuelos de fondo están",
+            "absolutamente prohibidos!"
+        ]
+    }
+]
