@@ -1,0 +1,229 @@
+[
+    {
+        "ID": "19, 202",
+        "text": [
+            "Oh, poveri noi...",
+            "Povero {1a06ff000001}Hyrule Castle{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "20, 5",
+        "text": [
+            "Veramente, c'è anche un altro",
+            "di noi che però non è qui oggi.",
+            "Aveva qualcosa da cercare nel",
+            "{1a06ff000001}villaggio Kakariko{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 7",
+        "text": [
+            "Oh... Certo! {1a07000007000a}Se vai al villaggio",
+            "Kakariko, porta i miei saluti al",
+            "Pastore Renaldo!"
+        ]
+    },
+    {
+        "ID": "20, 22",
+        "text": [
+            "Se sei un po' confuso e non sai",
+            "cosa fare d'ora in poi, va' al",
+            "{1a06ff000001}villaggio Kakariko{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "21, 46",
+        "text": [
+            "Benvenuto nella {1a06ff000001}succursale",
+            "del borgo di Malo Mart{1a06ff000000}!",
+            "Ho delle offerte strepitose!"
+        ]
+    },
+    {
+        "ID": "21, 47",
+        "text": [
+            "Faccio sconti del 20% e del 30%!",
+            "Sono prezzi stracciati, sono prezzi",
+            "per il popolo, perché Malo Mart",
+            "difende i diritti della povera gente!"
+        ]
+    },
+    {
+        "ID": "21, 49",
+        "text": [
+            "Benvenuto alla{1a06ff000001} succursale",
+            "del borgo di Malo Mart{1a06ff000000}! "
+        ]
+    },
+    {
+        "ID": "21, 58",
+        "text": [
+            "{1a06ff000008}BOMBE {1a06ff000001}PER SOLE {1a06ff000006}45 RUPIE{1a06ff000008}",
+            "{1a06ff000000}Prodotto originale firmato Mastro",
+            "Ordigno. 30 Bombe a un prezzo",
+            "esplosivo. Solo da Malo Mart!"
+        ]
+    },
+    {
+        "ID": "21, 84",
+        "text": [
+            "Sei nel {1a06ff000001}Malo Mart{1a06ff000000},",
+            "la leggendaria bottega del borgo",
+            "che svende tutto per il popolo!"
+        ]
+    },
+    {
+        "ID": "21, 128",
+        "text": [
+            "Ully, mia moglie, mi ha messo al",
+            "corrente di tutto, così sono andato",
+            "a trovare i miei figli a Kakariko."
+        ]
+    },
+    {
+        "ID": "21, 137",
+        "text": [
+            "Proprio ora è nel {1a06ff000001}villaggio",
+            "Kakariko{1a06ff000000}, alle prese con",
+            "uno studio sugli Eterei.",
+            "Perché non vai a trovarlo?"
+        ]
+    },
+    {
+        "ID": "21, 232",
+        "text": [
+            "Sei stato al Arbiter's Grounds?",
+            "Hai notato qualcosa di strano?"
+        ]
+    },
+    {
+        "ID": "22, 182",
+        "text": [
+            "Il {1a06ff000001}Snowpeak {1a06ff000000}sui monti a nord di",
+            "Hyrule... è strano... Non è come",
+            "quelli che ho visto sinora..."
+        ]
+    },
+    {
+        "ID": "22, 186",
+        "text": [
+            "Sarebbe meglio se per il momento",
+            "non ti avvicinassi al Snowpeak."
+        ]
+    },
+    {
+        "ID": "22, 190",
+        "text": [
+            "Il gigante del Snowpeak non si",
+            "è più fatto vedere nel villaggio",
+            "degli Zora."
+        ]
+    },
+    {
+        "ID": "23, 176",
+        "text": [
+            "Il giovane poi, {1a05000000}, ha",
+            "accompagnato Telma e i suoi ospiti",
+            "al villaggio Kakariko."
+        ]
+    },
+    {
+        "ID": "23, 179",
+        "text": [
+            "Viene da un piccolo villaggio",
+            "situato a sud nella provincia",
+            "di Ordona."
+        ]
+    },
+    {
+        "ID": "23, 182",
+        "text": [
+            "Ashley ha detto qualcosa sul",
+            "{1a06ff000001}Snowpeak {1a06ff000000}ed è partita..."
+        ]
+    },
+    {
+        "ID": "23, 184",
+        "text": [
+            "Charley ora è a {1a06ff000001}Kakariko{1a06ff000000}.",
+            "Se stai andando anche tu lì, guarda",
+            "un po' come stanno quei bambini!"
+        ]
+    },
+    {
+        "ID": "24, 125",
+        "text": [
+            "{1a0903000000000637}Ohohoh!",
+            "Puoi trovarne altre nella {1a06ff000001}grotta",
+            "{1a06ff000000}a {1a06ff000001}ovest {1a06ff000000}del {1a06ff000001}Gerudo Desert{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "31, 66",
+        "text": [
+            "{1a06ff000002}Telma's Bar",
+            "",
+            "{1a06ff000000}- Aperto -"
+        ]
+    },
+    {
+        "ID": "31, 67",
+        "text": [
+            "{1a06ff000002}Telma's Bar{1a06ff000000}",
+            "",
+            "- Torno subito -"
+        ]
+    },
+    {
+        "ID": "39, 36",
+        "text": [
+            "Il {1a06ff000001}bambino Zora{1a06ff000000} è stato portato",
+            "alla {1a06ff000001}Telma's Bar{1a06ff000000}, sulla {1a06ff000001}strada",
+            "meridionale{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "39, 48",
+        "text": [
+            "A proposito, ho sentito che c'è una",
+            "bottega molto più economica che",
+            "vende prodotti di buona qualità nel",
+            "villaggio Kakariko."
+        ]
+    },
+    {
+        "ID": "39, 51",
+        "text": [
+            "Conosci il villaggio Kakariko?{1a07000007000f}",
+            "Dicono che ci sia una bottega che",
+            "vende prodotti di ottima qualità a",
+            "buon prezzo."
+        ]
+    },
+    {
+        "ID": "39, 57",
+        "text": [
+            "{1a090300000000063f}Oh, spiriti onnipotenti delle terre",
+            "di Lanayru, portate la pioggia affinché",
+            "il {1a06ff000001}lago Hylia{1a06ff000000}, a {1a06ff000001}ovest {1a06ff000000}di qui...",
+            "{1a07ff0001004b}Blablablabla..."
+        ]
+    },
+    {
+        "ID": "63, 141",
+        "text": [
+            "Ohohoh!",
+            "Puoi trovarne altre nella",
+            "{1a06ff000001}grotta {1a06ff000000}a {1a06ff000001}est {1a06ff000000}del {1a06ff000001}Gerudo Desert{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "78, 73",
+        "text": [
+            "Oh, spiriti onnipotenti delle terre",
+            "di Lanayru, portate la pioggia affinché",
+            "il {1a06ff000001}lago Hylia{1a06ff000000}, a {1a06ff000001}est {1a06ff000000}di qui...",
+            "{1a07ff0001004b}Blablablabla..."
+        ]
+    }
+]

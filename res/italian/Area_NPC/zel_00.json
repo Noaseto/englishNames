@@ -1,0 +1,179 @@
+[
+    {
+        "ID": "0, 141",
+        "text": [
+            "{1a05000001}Hai ottenuto la {1a06ff000001}Spada di Ordon{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Spada forgiata da Rusl,",
+            "spadaccino del villaggio Ordon.",
+            "Dono per i reali di Hyrule."
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "text": [
+            "{1a0903000000000c4d}Spada forgiata da Rusl.",
+            "Il manico è realizzato in corno",
+            "di capra ordonina. Si brandisce",
+            "con {1a0500000b} e si ripone con {1a0500000a}."
+        ]
+    },
+    {
+        "ID": "3, 21",
+        "text": [
+            "Il profumo del borsellino di Ilia",
+            "trovato nella piana delle terre di Lanayru."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "text": [
+            "{1a0903000000000d11}Ooccoo della stirpe degli City in.",
+            "the Sky con {1a05000010} o {1a0500000f} e ti teletrasporterà",
+            "alla bottega della City in the Sky in qualsiasi",
+            "momento."
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "text": [
+            "{1a05000001}Hai incontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Una compagna fidata che",
+            "ti teletrasporterà nella bottega",
+            "della City in the Sky.",
+            "Assegnala a {1a05030002} dallo schermo {1a05030004}",
+            "e chiamala con {1a05030002}. Se la assegni",
+            "a {1a05030008}, puoi chiamarla anche",
+            "senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 34",
+        "text": [
+            "Scudo realizzato secondo la tradizione",
+            "ordonina. Difenditi con {1a05030014}.",
+            "A contatto con il fuoco brucia!"
+        ]
+    },
+    {
+        "ID": "10, 45",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 48",
+        "text": [
+            "Barnes Bomb"
+        ]
+    },
+    {
+        "ID": "10, 49",
+        "text": [
+            "Malo Mart"
+        ]
+    },
+    {
+        "ID": "10, 54",
+        "text": [
+            "Ass. turistica Lanayru"
+        ]
+    },
+    {
+        "ID": "10, 141",
+        "text": [
+            "{1a05000000},",
+            "",
+            "ho una comunicazione urgente",
+            "riguardo alla memoria di Ilia.",
+            "So che sei molto impegnato,",
+            "ma ti prego di raggiungermi nel",
+            "{1a06ff000001}tempio{1a06ff000000} del {1a06ff000001}villaggio Kakariko{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "10, 145",
+        "text": [
+            "Villaggio Kakariko - Nuovo Bazar!",
+            "",
+            "Nuovo arrivo: oggetto rarissimo,",
+            "introvabile presso la concorrenza!",
+            "Ne abbiamo un solo pezzo!",
+            "Il primo arrivato sarà ben servito!",
+            "",
+            "Il nostro motto:",
+            "la serietà prima di tutto!!!",
+            "",
+            ""
+        ]
+    },
+    {
+        "ID": "10, 149",
+        "text": [
+            "Il Malo Mart, eroe delle",
+            "offerte, ha finalmente aperto",
+            "nel borgo del castello! Abbiamo",
+            "tutto ciò che può servire per i",
+            "vostri viaggi... E ve lo diamo per",
+            "giunta a prezzi davvero stracciati!",
+            "",
+            "OFFERTA LANCIO:",
+            "Armatura magica",
+            "(massimo una a testa)",
+            "",
+            "Accorrete, eroi!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "text": [
+            "Il Centro Turistico di Lanayru ha",
+            "organizzato una gita fantastica!",
+            "",
+            "Questa volta andremo a divertirci",
+            "insieme da Iza e da Hena!",
+            "",
+            "Entrambe si trovano presso il",
+            "bacino del fiume Zora, ai piedi",
+            "della cascata.",
+            "",
+            "",
+            "",
+            "{1a05060004}Le Discese torrenziali di Iza{1a05060004}",
+            "Spara ai bersagli mentre discendi",
+            "le rapide! Le Frecce esplosive",
+            "sono distribuite gratuitamente!",
+            "",
+            "{1a05060004}Fishing Hole di Hena{1a05060004}",
+            "La pesca con le Esche artificiali",
+            "è contro natura! Vogliamo proprio",
+            "vedere quali pesci prenderai!",
+            "",
+            "    Vi aspettiamo tutti là!",
+            "    Accorrete in massa!"
+        ]
+    },
+    {
+        "ID": "10, 160",
+        "text": [
+            "Caro {1a05000000},",
+            "",
+            "dopo averti lasciato, ho provato",
+            "ad usare l'incantesimo sulle",
+            "statue che ho trovato ad Hyrule.",
+            "Ma... è stata una vera delusione!",
+            "",
+            "Se mio padre vedesse che una",
+            "vicenda di poco conto mi turba",
+            "tanto, si rivolterebbe nella tomba!",
+            "",
+            "",
+            "Tornerò al tempio di Kakariko in",
+            "cerca di altri indizi. Se dovessi",
+            "trovare qualcosa prima tu, ti",
+            "prego di condividerla con me!",
+            "",
+            "              Shad",
+            "     Il cacciatore di sogni"
+        ]
+    }
+]

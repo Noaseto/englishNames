@@ -1,0 +1,175 @@
+[
+    {
+        "ID": "19, 170",
+        "text": [
+            "Questo villaggio, il villaggio",
+            "Kakariko, è la terra in cui",
+            "noi Zora riposeremo in eterno."
+        ]
+    },
+    {
+        "ID": "20, 110",
+        "text": [
+            "Però Rals se n'è andato e presto lo",
+            "faranno anche gli abitanti di Ordon.",
+            "Questo villaggio diventerà triste..."
+        ]
+    },
+    {
+        "ID": "21, 37",
+        "text": [
+            "Nessun altro possiede un Arco",
+            "nel villaggio Ordon..."
+        ]
+    },
+    {
+        "ID": "22, 85",
+        "text": [
+            "Torna al {1a06ff000001}villaggio Ordon{1a06ff000000} e riferisci",
+            "ai genitori che i loro bambini sono",
+            "nel villaggio Kakariko e stanno",
+            "bene. "
+        ]
+    },
+    {
+        "ID": "22, 91",
+        "text": [
+            "Farò in modo che i bambini di",
+            "Ordon non debbano più trovarsi",
+            "in pericolo."
+        ]
+    },
+    {
+        "ID": "22, 120",
+        "text": [
+            "Se i suoi ricordi sono corretti,",
+            "la persona nel {1a06ff000001}Hidden village{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "22, 149",
+        "text": [
+            "Penso che sia meglio che tu torni",
+            "al {1a06ff000001}villaggio Ordon{1a06ff000000} e riferisca a",
+            "tutti che i bambini stanno bene."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "text": [
+            "Ti ricordi che cosa ha detto",
+            "Faron, lo spirito della luce?"
+        ]
+    },
+    {
+        "ID": "24, 72",
+        "text": [
+            "Il villaggio in cui vivevano, il",
+            "{1a06ff000001}Hidden village{1a06ff000000}, è sulla {1a06ff000001}via",
+            "che conduce {1a06ff000000}alle terre di Lanayru,",
+            "dopo il {1a06ff000001}grande ponte di Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "24, 76",
+        "text": [
+            "Prova a cercare il {1a06ff000001}sentiero che",
+            "conduce {1a06ff000000}alle terre di Lanayru,",
+            "oltre il {1a06ff000001}grande ponte di Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "24, 157",
+        "text": [
+            "Devi cercare la {1a06ff000001}via che conduce{1a06ff000000} alle",
+            "terre di Lanayru, dopo il {1a06ff000001}lungo ponte",
+            "di pietra{1a06ff000000}. Trova il {1a06ff000001}Hidden village",
+            "{1a06ff000000}verificando il {1a06ff000001}segno{1a06ff000000} sulla {1a06ff000001}Mappa{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "25, 1",
+        "text": [
+            "{1a07ff0001007d}Benvenuto al Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 3",
+        "text": [
+            "Per risolvere la situazione in favore",
+            "del popolo, Malo Mart ha",
+            "proposto un {1a06ff000001}piano di supporto",
+            "economico{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "25, 20",
+        "text": [
+            "{1a07ff0001007d}Benvenuto nella sede",
+            "principale del Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 22",
+        "text": [
+            "Compra, compra! Compra qualcosa",
+            "nel nostro nuovo Malo Mart!!!"
+        ]
+    },
+    {
+        "ID": "25, 31",
+        "text": [
+            "Se sei sveglio, ti conviene fare",
+            "acquisti ora nel nostro nuovo",
+            "MALOOOO MARRRRT!!!"
+        ]
+    },
+    {
+        "ID": "26, 55",
+        "text": [
+            "Quello non è per caso... il ritratto",
+            "del mostro del Snowpeak?"
+        ]
+    },
+    {
+        "ID": "31, 68",
+        "text": [
+            "{1a06ff000002}Terme di Kakariko",
+            "{1a06ff000000}",
+            "Immergetevi lentamente in",
+            "queste acque termali per",
+            "scaldare il vostro {1a06ff000001}cuore{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "31, 71",
+        "text": [
+            "    {1a06ff000001}Barnes Bomb",
+            "    Fabbro di Bombe{1a06ff000000}",
+            "    - Compravendita -",
+            "",
+            "Aperto tutti i giorni"
+        ]
+    },
+    {
+        "ID": "31, 74",
+        "text": [
+            "Sempre più forniti,",
+            "sempre più grandi,",
+            "per ogni tua esigenza!",
+            "",
+            "           {1a06ff000002}Malo Mart"
+        ]
+    },
+    {
+        "ID": "31, 75",
+        "text": [
+            "L'eroe dei prezzi è qui!",
+            "",
+            "{1a06ff000002}Malo Mart - Sede principale",
+            "",
+            "{1a06ff000000}Aperto 24 ore su 24,",
+            "ogni giorno!"
+        ]
+    }
+]

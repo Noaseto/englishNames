@@ -1,0 +1,114 @@
+[
+    {
+        "ID": "19, 234",
+        "text": [
+            "{1a05000016}",
+            "Sorgente dello spirito Lanayru"
+        ]
+    },
+    {
+        "ID": "20, 181",
+        "text": [
+            "Salve! {1a07000007000a}Benvenuto al {1a07000007001e}{1a06ff000002}Flight by Fowl",
+            "{1a06ff000000}di Furbizio!"
+        ]
+    },
+    {
+        "ID": "20, 202",
+        "text": [
+            "{1a090300000000050d}Il famoso {1a06ff000005}acquapark",
+            "di Mentore e Furbizio{1a06ff000000}",
+            "sul lago Hylia{1a06ff000005}",
+            "",
+            "{1a06ff000000}Proseguire dritti sulla destra",
+            "per il gioco {1a06ff000002}Flight by Fowl{1a06ff000001} {1a06ff000000} {1a05000015}"
+        ]
+    },
+    {
+        "ID": "21, 125",
+        "text": [
+            "Sei pronto, {1a05000000}?",
+            "Devi scortarci fino",
+            "al villaggio Kakariko!"
+        ]
+    },
+    {
+        "ID": "22, 187",
+        "text": [
+            "Questi sono gli unici {1a06ff000001}canali {1a06ff000000}che",
+            "raggiungono il {1a06ff000001}Hyrule Castle{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 41",
+        "text": [
+            "Hai intenzione di attraversare",
+            "il Gerudo Desert?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "text": [
+            "Se si raffredda, perchè non torni",
+            "al villaggio Kakariko e poi magari",
+            "vieni di nuovo qui?"
+        ]
+    },
+    {
+        "ID": "23, 146",
+        "text": [
+            "Se è rotto, perché non torni",
+            "un attimo a Kakariko?"
+        ]
+    },
+    {
+        "ID": "23, 181",
+        "text": [
+            "Un viaggio che inizia {1a07000007000a}nel",
+            "crepuscolo delle terre dell'ombra",
+            "e che terminerà dopo aver ripreso",
+            "la luce di Eldin..."
+        ]
+    },
+    {
+        "ID": "23, 182",
+        "text": [
+            "Allora, andiamo {1a070000070014}nelle terre dello",
+            "{1a06ff000001}spirito della luce Eldin{1a06ff000000}? {1a05010014}Hihihi!"
+        ]
+    },
+    {
+        "ID": "39, 18",
+        "text": [
+            "Discendi il Zora's River fino",
+            "al lago Hylia con un'energia",
+            "torrenziale!",
+            "",
+            "{1a06ff000002}\"Discese torrenziali di Nola\"",
+            "          Noleggio barche{1a06ff000000}",
+            "Noleggio barca: {1a06ff000006}20 Rupie"
+        ]
+    },
+    {
+        "ID": "39, 19",
+        "text": [
+            "{1a06ff000003}L'Fishing Hole",
+            "",
+            "{1a06ff000000}Ogni tipo di pesca a vostra",
+            "disposizione! Sono benvenuti",
+            "anche i principianti (abbiamo",
+            "una guida)!"
+        ]
+    },
+    {
+        "ID": "59, 218",
+        "text": [
+            "Il famoso {1a06ff000005}acquapark",
+            "di Mentore e Furbizio{1a06ff000000}",
+            "sul lago Hylia{1a06ff000005}",
+            "",
+            "{1a06ff000000}Proseguire dritti a sinistra",
+            "per il gioco {1a06ff000002}Flight by Fowl{1a06ff000001} {1a06ff000000} {1a05000014}"
+        ]
+    }
+]

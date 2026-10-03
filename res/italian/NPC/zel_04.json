@@ -1,0 +1,386 @@
+[
+    {
+        "ID": "19, 237",
+        "text": [
+            "Oh, è da parte del Pastore Renado!"
+        ]
+    },
+    {
+        "ID": "19, 240",
+        "text": [
+            "Potete contare su di me",
+            "per la piccola Ilia!"
+        ]
+    },
+    {
+        "ID": "19, 254",
+        "text": [
+            "Si chiama {1a06ff000002}Auru{1a06ff000000}. Ha una certa età.",
+            "Se ti capita di incontrarlo, prova",
+            "a parlargli."
+        ]
+    },
+    {
+        "ID": "20, 0",
+        "text": [
+            "Si chiama {1a06ff000002}Ashei{1a06ff000000}. È molto giovane",
+            "e bella. Se ti capita di incontrarla,",
+            "prova a parlarle."
+        ]
+    },
+    {
+        "ID": "20, 6",
+        "text": [
+            "Si chiama {1a06ff000002}Shad{1a06ff000000}. Ha più o meno",
+            "la tua età. Se lo incontri, prova",
+            "a parlargli."
+        ]
+    },
+    {
+        "ID": "20, 7",
+        "text": [
+            "Oh... Certo! {1a07000007000a}Se vai al villaggio",
+            "Calbarico, porta i miei saluti al",
+            "Pastore Renado!"
+        ]
+    },
+    {
+        "ID": "20, 10",
+        "text": [
+            "Come sta Ilia?"
+        ]
+    },
+    {
+        "ID": "20, 11",
+        "text": [
+            "Sono certa che il Pastore Renado",
+            "troverà un modo per farle tornare",
+            "la memoria."
+        ]
+    },
+    {
+        "ID": "20, 13",
+        "text": [
+            "Lascia che Renado si occupi di",
+            "Ilia e tu continua a fare ciò",
+            "che è necessario fare ora!"
+        ]
+    },
+    {
+        "ID": "20, 16",
+        "text": [
+            "Se sei un po' confuso e non",
+            "sai cosa fare adesso, va' a",
+            "fare due chiacchiere con {1a06ff000002}Auru{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 18",
+        "text": [
+            "Se sei un po' confuso e non",
+            "sai cosa fare adesso, va' a",
+            "fare due chiacchiere con {1a06ff000002}Ashei{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 20",
+        "text": [
+            "Se sei un po' confuso e non",
+            "sai cosa fare adesso, va' a",
+            "fare due chiacchiere con {1a06ff000002}Rusl{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 23",
+        "text": [
+            "Anche il mio amico {1a06ff000002}Shad",
+            "{1a06ff000000}dovrebbe essere lì a svolgere",
+            "delle ricerche."
+        ]
+    },
+    {
+        "ID": "20, 36",
+        "text": [
+            "Cos'è...?!",
+            "Uno dei ricordi di Ilia?!"
+        ]
+    },
+    {
+        "ID": "20, 39",
+        "text": [
+            "Prenditi cura di Ilia, d'accordo?"
+        ]
+    },
+    {
+        "ID": "20, 85",
+        "text": [
+            "{1a07ff00010055}... A proposito, quella ragazza, Ilia,",
+            "non ha detto nulla su di me, vero?"
+        ]
+    },
+    {
+        "ID": "20, 111",
+        "text": [
+            "Prendila e ridalla subito a quella",
+            "ragazzina, Ilia o come si chiama!"
+        ]
+    },
+    {
+        "ID": "20, 114",
+        "text": [
+            "Io non ho visto nessuna Statua",
+            "di quella ragazzina, Ilia o come",
+            "si chiama!"
+        ]
+    },
+    {
+        "ID": "20, 183",
+        "text": [
+            "MIAO! MIAO! Stai cercando",
+            "la Statua di legno di {1a06ff000001}Ilia{1a06ff000000}?",
+            "MIAO? MIAO?"
+        ]
+    },
+    {
+        "ID": "20, 189",
+        "text": [
+            "MIAO! MIAO! La Statua è la chiave",
+            "che permetterà a {1a06ff000001}Ilia {1a06ff000000}di ritrovare",
+            "la memoria! Devi assolutamente",
+            "riprenderla! MIAO! MIAO!"
+        ]
+    },
+    {
+        "ID": "20, 192",
+        "text": [
+            "MIAO! MIAO! Riporta la Statua",
+            "a Ilia al più presto possibile!",
+            "MIAO! MIAO!"
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "text": [
+            "{1a06ff000008}BOMBA{1a06ff000000}",
+            "Il prodotto più venduto, firmato",
+            "Barnes. Riscuote ormai da",
+            "anni un gran successo fra i clienti."
+        ]
+    },
+    {
+        "ID": "21, 135",
+        "text": [
+            "Se hai fatto qualche scoperta,",
+            "perché non la condividi con",
+            "{1a06ff000001}Shad{1a06ff000000}?"
+        ]
+    },
+    {
+        "ID": "22, 76",
+        "text": [
+            "Piacere, sono {1a06ff000002}Shad{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "22, 176",
+        "text": [
+            "Mi chiamo {1a06ff000002}Ashei{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "23, 181",
+        "text": [
+            "Ora il vecchio Auru sta svolgendo",
+            "delle ricerche sul deserto presso",
+            "il {1a06ff000001}lago Hylia{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 182",
+        "text": [
+            "Ashei ha detto qualcosa sul",
+            "{1a06ff000001}ghiacciaio {1a06ff000000}ed è partita..."
+        ]
+    },
+    {
+        "ID": "23, 183",
+        "text": [
+            "La {1a06ff000001}foresta sacra {1a06ff000000}dov'è andato Rusl",
+            "dev'essere vicino a questo segno."
+        ]
+    },
+    {
+        "ID": "23, 184",
+        "text": [
+            "Shad ora è a {1a06ff000001}Calbarico{1a06ff000000}.",
+            "Se stai andando anche tu lì, guarda",
+            "un po' come stanno quei bambini!"
+        ]
+    },
+    {
+        "ID": "23, 217",
+        "text": [
+            "Oh, scusami... {1a07000007000a} Mi chiamo {1a06ff000002}Agitha{1a06ff000000},",
+            "sono la principessa del regno degli",
+            "insetti."
+        ]
+    },
+    {
+        "ID": "24, 106",
+        "text": [
+            "Jovani!"
+        ]
+    },
+    {
+        "ID": "24, 108",
+        "text": [
+            "Mi chiamo {1a070000070005}{1a06ff000002}Jovani{1a06ff000000}.",
+            "Sono diventato così perché ho",
+            "venduto l'anima al diavolo in",
+            "cambio di molte ricchezze{1a070000070005}.{1a070000070005}.{1a070000070005}."
+        ]
+    },
+    {
+        "ID": "24, 109",
+        "text": [
+            "Sono paralizzato e non posso",
+            "neanche vedere la mia ragazza.",
+            "Inoltre, il mio gatto, {1a06ff000002}Gengle{1a06ff000000}, è",
+            "diventato la statua che ho in testa!"
+        ]
+    },
+    {
+        "ID": "24, 138",
+        "text": [
+            "Grazie per aver aiutato non",
+            "solo me, ma anche Gengle!{1a07000007000a}",
+            "Grazie, grazie di cuore!"
+        ]
+    },
+    {
+        "ID": "24, 141",
+        "text": [
+            "Grazie per aver aiutato anche",
+            "Gengle!{1a07000007000a} Grazie, grazie di cuore!"
+        ]
+    },
+    {
+        "ID": "24, 164",
+        "text": [
+            "MIAO! MIAO! Mi chiamo Gengle{1a07000007000f}",
+            "e sono il capobanda dei gatti.",
+            "MIAO. MIAO."
+        ]
+    },
+    {
+        "ID": "27, 91",
+        "text": [
+            "MIAO! MIAO!",
+            "Ma dov'è finito Jovani?",
+            "MIAO? MIAO?"
+        ]
+    },
+    {
+        "ID": "27, 92",
+        "text": [
+            "MIAO! MIAO! Ma che starà",
+            "combinando Gengle in casa?",
+            "MIAO? MIAO?"
+        ]
+    },
+    {
+        "ID": "27, 99",
+        "text": [
+            "MIAO! MIAO! Di solito, la nostra",
+            "combriccola si riunisce davanti",
+            "casa di Jovani. MIAO. MIAO."
+        ]
+    },
+    {
+        "ID": "27, 101",
+        "text": [
+            "MIAO! MIAO! Ma se il nostro",
+            "capobanda Gengle non si fa vivo,",
+            "come facciamo a fare la riunione?!",
+            "MIAO?! MIAO?!"
+        ]
+    },
+    {
+        "ID": "27, 108",
+        "text": [
+            "MIAO! MIAO! Di solito Jovani",
+            "non è uno che poltrisce in casa...",
+            "MIAO... MIAO..."
+        ]
+    },
+    {
+        "ID": "27, 109",
+        "text": [
+            "MIAO! MIAO!",
+            "Spero solo che Gengle stia bene!",
+            "MIAO! MIAO!"
+        ]
+    },
+    {
+        "ID": "27, 114",
+        "text": [
+            "MIAO! MIAO! Gengle non può",
+            "uscire nemmeno oggi{1a070000070005}.{1a070000070005}.{1a070000070005}.",
+            "MIAO... MIAO..."
+        ]
+    },
+    {
+        "ID": "27, 117",
+        "text": [
+            "MIAO! MIAO!",
+            "Gengle sta bene, meno male!",
+            "MIAO! MIAO!"
+        ]
+    },
+    {
+        "ID": "31, 69",
+        "text": [
+            "{1a06ff000006}Principessa Agitha"
+        ]
+    },
+    {
+        "ID": "31, 70",
+        "text": [
+            "Casa di {1a06ff000002}Jovani"
+        ]
+    },
+    {
+        "ID": "39, 71",
+        "text": [
+            "Sei stato al castello di {1a06ff000001}Agitha{1a06ff000000}?",
+            "È proprio nella via qui dietro."
+        ]
+    },
+    {
+        "ID": "39, 180",
+        "text": [
+            "Jovani... {1a070000070005}Jovani... {1a07000007000a}Brutto idiota{1a070000070005}",
+            "accecato {1a07000007000a}solo dalle {1a070000070005}Rupie... {1a070000070005}E così,{1a070000070005}",
+            "ha venduto l'anima..."
+        ]
+    },
+    {
+        "ID": "39, 183",
+        "text": [
+            "Scusa, posso chiederti una cosa?{1a07000007000a}",
+            "Conosci un tipo chiamato Jovani?"
+        ]
+    },
+    {
+        "ID": "39, 232",
+        "text": [
+            "Cosa vuoi qui a casa di Agitha?"
+        ]
+    },
+    {
+        "ID": "39, 236",
+        "text": [
+            "Perché {1a070000070005}conosci {1a07000007000a}Agitha{1a070000070005}?"
+        ]
+    }
+]

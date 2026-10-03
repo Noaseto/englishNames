@@ -1,0 +1,95 @@
+[
+    {
+        "ID": "27, 100",
+        "text": [
+            "Questo posto è molto più bello di",
+            "quella Goron Mine. Fa troppo",
+            "caldo, lì!"
+        ]
+    },
+    {
+        "ID": "27, 163",
+        "text": [
+            "Non ti ricordi? Hai ricevuto una",
+            "lettera dal fabbro di Bombe di",
+            "Kakariko!"
+        ]
+    },
+    {
+        "ID": "29, 78",
+        "text": [
+            "Eroe, ben arrivato nella",
+            "cave of Ordeals."
+        ]
+    },
+    {
+        "ID": "29, 80",
+        "text": [
+            "Premierò i tuoi sforzi affrancando",
+            "le Fate della {1a06ff000001}sorgente Ordon{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "29, 119",
+        "text": [
+            "Premierò i tuoi sforzi affrancando",
+            "le Fate della {1a06ff000001}sorgente di Faron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "29, 120",
+        "text": [
+            "Premierò i tuoi sforzi affrancando",
+            "le Fate della {1a06ff000001}sorgente di Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "29, 121",
+        "text": [
+            "Premierò i tuoi sforzi affrancando",
+            "le Fate della {1a06ff000001}sorgente di Lanayru{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "31, 206",
+        "text": [
+            "{1a05000000}, presto!",
+            "Andiamo all'{1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "31, 208",
+        "text": [
+            "Al Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "36, 251",
+        "text": [
+            "Avrei voluto mostrarti la City in",
+            "the Sky, ma alla fine l'hai girata",
+            "da solo..."
+        ]
+    },
+    {
+        "ID": "37, 5",
+        "text": [
+            "Allora, bellino, che te",
+            "ne pare della City in the Sky?"
+        ]
+    },
+    {
+        "ID": "38, 76",
+        "text": [
+            "{1a05000000}, andiamo",
+            "al Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "43, 0",
+        "text": [
+            "{1a05000000}, torniamo",
+            "nell'{1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    }
+]

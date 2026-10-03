@@ -1,0 +1,149 @@
+[
+    {
+        "ID": "19, 216",
+        "text": [
+            "{1a090300000000050c}Attraversa questa {1a06ff000001}foresta {1a06ff000000}e dirigiti",
+            "a {1a06ff000001}est{1a06ff000000}. Troverai le lande dello {1a06ff000001}spirito",
+            "della luce Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 220",
+        "text": [
+            "{1a090300000000050f}Avanti, Eroe prescelto dalle dee,",
+            "attraversa questa foresta e dirigiti",
+            "verso {1a06ff000001}est{1a06ff000000}, nelle {1a06ff000001}terre di Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 235",
+        "text": [
+            "{1a0903000000000510}{1a05000014} Via del {1a06ff000002}Forest Temple",
+            "",
+            "{1a06ff000000}Più avanti il cammino è buio e",
+            "tenebroso. Chi cerca la luce",
+            "si diriga da questa parte. {1a05000015}",
+            "                                Eremigio"
+        ]
+    },
+    {
+        "ID": "20, 88",
+        "text": [
+            "Sei... {1a07000007000f}il giovane di Ordon!"
+        ]
+    },
+    {
+        "ID": "20, 91",
+        "text": [
+            "Ci sono così tanti mostri che mi sono",
+            "messo paura e ho chiuso la strada che",
+            "conduce al Forest Temple."
+        ]
+    },
+    {
+        "ID": "20, 104",
+        "text": [
+            "{1a07ff00010096}Ehi...{1a070000070005} Ma...{1a07000007000a} Sei tu!{1a070000070005}",
+            "Il giovane di Ordon!"
+        ]
+    },
+    {
+        "ID": "20, 111",
+        "text": [
+            "Ci sono così tanti mostri che mi sono",
+            "messo paura e ho chiuso la strada che",
+            "conduce al Forest Temple."
+        ]
+    },
+    {
+        "ID": "20, 113",
+        "text": [
+            "Sono sicuro che l'hai usato tutto",
+            "il giorno che sei andato al Forest",
+            "Temple!"
+        ]
+    },
+    {
+        "ID": "20, 189",
+        "text": [
+            "Ehi, un cittadino di Ordon!"
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "text": [
+            "Al {1a06ff000002}Forest Temple {1a06ff000000}{1a05000016}",
+            "",
+            "Avete una Lanterna, ma non",
+            "avete l'Olio? Proseguite di",
+            "qua e troverete ciò che fa",
+            "per voi!"
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "text": [
+            "Ho sentito parlare di te. Sono {1a06ff000002}Ashley{1a06ff000000}.{1a07000007000a}",
+            "Hai aiutato me e i miei amici nella",
+            "Telma's Bar."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "text": [
+            "Laggiù c'è un Hidden village.",
+            "Gli anziani lo chiamano il \"villaggio",
+            "dimenticato\"."
+        ]
+    },
+    {
+        "ID": "31, 78",
+        "text": [
+            "COCCODÈ! COCCODÈ! Oh, sei venuto!{1a07000007000a}",
+            "Questo è il Hidden village.",
+            "COCCODÈ. COCCODÈ."
+        ]
+    },
+    {
+        "ID": "58, 232",
+        "text": [
+            "Attraversa questa {1a06ff000001}foresta {1a06ff000000}e dirigiti",
+            "a {1a06ff000001}ovest{1a06ff000000}. Troverai le lande dello",
+            "{1a06ff000001}spirito della luce Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 233",
+        "text": [
+            "Attraversa questa {1a06ff000001}foresta {1a06ff000000}e dirigiti",
+            "verso {1a06ff000001}ovest{1a06ff000000}. Troverai le terre dello",
+            "{1a06ff000001}spirito Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 235",
+        "text": [
+            "Attraversa questa {1a06ff000001}foresta {1a06ff000000}e dirigiti",
+            "verso {1a06ff000001}ovest{1a06ff000000}, nelle {1a06ff000001}terre di Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 236",
+        "text": [
+            "Avanti, Eroe prescelto dalle dee,",
+            "attraversa questa foresta e dirigiti",
+            "verso {1a06ff000001}ovest{1a06ff000000}, nelle {1a06ff000001}terre di Eldin{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "58, 251",
+        "text": [
+            "Via del {1a06ff000002}Forest Temple {1a06ff000000}{1a05000015}{1a06ff000002}",
+            "",
+            "{1a06ff000000}Più avanti il cammino è buio e",
+            "tenebroso. Chi cerca la luce",
+            "si diriga da questa parte. {1a05000014}",
+            "                                Eremigio"
+        ]
+    }
+]

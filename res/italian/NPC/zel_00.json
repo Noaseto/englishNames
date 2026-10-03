@@ -1,0 +1,954 @@
+[
+    {
+        "ID": "0, 138",
+        "text": [
+            "{1a09030000000007ee}{1a05000001}Hai incontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Se la chiami dall'interno",
+            "di un labirinto, ti",
+            "teletrasporterà fuori.",
+            "E non ti preoccupare, perché",
+            "un modo per farti tornare {1a06ff000001}dove{1a06ff000000}",
+            "{1a06ff000001}l'hai chiamata{1a06ff000000} c'è! Assegnala",
+            "a {1a05000010} o {1a0500000f} e chiamala!"
+        ]
+    },
+    {
+        "ID": "0, 141",
+        "text": [
+            "{1a05000001}Hai ottenuto la {1a06ff000001}Spada di Tauro{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Spada forgiata da Rusl,",
+            "spadaccino del villaggio Tauro.",
+            "Dono per i reali di Hyrule."
+        ]
+    },
+    {
+        "ID": "0, 152",
+        "text": [
+            "{1a09030000000007fc}{1a05000001}Hai rincontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}{1a07000007000a}Se la chiami dall'interno",
+            "di un labirinto, ti",
+            "teletrasporterà fuori.",
+            "E non ti preoccupare, perché",
+            "un modo per farti tornare dove",
+            "l'hai chiamata c'è! Assegnala",
+            "a {1a05000010} o {1a0500000f} e chiamala!"
+        ]
+    },
+    {
+        "ID": "0, 207",
+        "text": [
+            "{1a0903000000000833}{1a05000001}La {1a06ff000001}Brodaglia salata{1a06ff000000} è",
+            "nell'Ampolla!{1a05000002} Si tratta di una",
+            "ricetta speciale di Coro.",
+            "",
+            "{1a07000007000a}Assegnala a {1a05000010} o {1a0500000f}.",
+            "Se non l'assaggi, non potrai",
+            "sapere che sapore ha!"
+        ]
+    },
+    {
+        "ID": "0, 216",
+        "text": [
+            "{1a090300000000083c}{1a05000001}Ecco le {1a06ff000001}Gocce di Great Fairy{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Gocce di acqua sacra",
+            "impregnata delle preghiere della",
+            "Great Fairy.",
+            "Assegnale a {1a05000010} o {1a0500000f}, bevile",
+            "e {1a06ff000001}ripristinerai energia vitale{1a06ff000000}!",
+            "Il {1a06ff000001}potere di attacco {1a06ff000000}aumenterà",
+            "per un po'."
+        ]
+    },
+    {
+        "ID": "0, 218",
+        "text": [
+            "{1a090300000000083e}{1a05000001}Ecco le {1a06ff000001}Gocce di Great Fairy{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}L'{1a06ff000001}Ampolla{1a06ff000000} contiene le Gocce",
+            "di acqua sacra impregnata delle",
+            "preghiere della Great Fairy.",
+            "Assegnale a {1a05000010} o {1a0500000f}, bevile",
+            "e {1a06ff000001}ripristinerai energia vitale{1a06ff000000}!",
+            "Il {1a06ff000001}potere di attacco {1a06ff000000}aumenterà",
+            "per un po'."
+        ]
+    },
+    {
+        "ID": "0, 229",
+        "text": [
+            "{1a0903000000000849}{1a05000001}Hai in custodia la",
+            "{1a06ff000001}Lettera di Renado{1a06ff000000}!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}Contiene i dettagli della",
+            "cura per far tornare la memoria",
+            "a Ilia. Assegnala a {1a05000010} o {1a0500000f}",
+            "e mostrala!"
+        ]
+    },
+    {
+        "ID": "0, 231",
+        "text": [
+            "{1a090300000000084b}{1a05000001}Hai ripreso la {1a06ff000001}Statua di legno{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Statua dallo strano design che",
+            "apparteneva a Ilia...",
+            "",
+            "Un indizio prezioso relativo",
+            "alla memoria di Ilia.",
+            "Assegnala a {1a05000010} o {1a0500000f}."
+        ]
+    },
+    {
+        "ID": "0, 232",
+        "text": [
+            "{1a090300000000084c}{1a05000001}Hai ricevuto la {1a06ff000001}Collana di Ilia{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}L'aveva avuta in dono",
+            "dall'amata nonna...",
+            "",
+            "Un indizio prezioso relativo",
+            "alla memoria di Ilia.",
+            "Assegnala a {1a05000010} o {1a0500000f}."
+        ]
+    },
+    {
+        "ID": "0, 233",
+        "text": [
+            "{1a090300000000084d}{1a05000001}Hai preso il {1a06ff000001}Fischietto d'argilla{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il fischietto che",
+            "Ilia ha fatto per te!",
+            "",
+            "Assegnalo a {1a05000010} o {1a0500000f} e usalo",
+            "all'esterno per chiamare",
+            "{1a05000022}."
+        ]
+    },
+    {
+        "ID": "0, 245",
+        "text": [
+            "{1a0903000000000859}{1a05000001}Ora hai gli {1a06ff000001}Appunti di Auru{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Scritti a mano da Auru",
+            "per Fyer del lago Hylia.",
+            "",
+            "Assegnali a {1a05000010} o {1a0500000f}",
+            "e potrai mostrarli in giro."
+        ]
+    },
+    {
+        "ID": "1, 81",
+        "text": [
+            "{1a0903000000000be5}{1a05000001}Hai incontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Una persona fidata",
+            "proveniente dalla città eterea.",
+            "",
+            "Assegnala a {1a05000010} o {1a0500000f} e chiamala",
+            "per farti teletrasportare alla",
+            "bottega della città eterea."
+        ]
+    },
+    {
+        "ID": "1, 138",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 140",
+        "text": [
+            "Figlio di Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 146",
+        "text": [
+            "Avviso di Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 152",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "1, 229",
+        "text": [
+            "Lettera di Renado"
+        ]
+    },
+    {
+        "ID": "1, 232",
+        "text": [
+            "Collana di Ilia"
+        ]
+    },
+    {
+        "ID": "1, 245",
+        "text": [
+            "Appunti di Auru"
+        ]
+    },
+    {
+        "ID": "2, 21",
+        "text": [
+            "Odore di {1a06ff000001}Ilia"
+        ]
+    },
+    {
+        "ID": "2, 81",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "2, 109",
+        "text": [
+            "{1a0903000000000c2d}Portabombe preso in prestito da Iza.",
+            "Assegnalo a {1a05000010} o {1a0500000f}. Con {1a0500000a} appoggi",
+            "le Bombe se sei fermo o le lanci mentre",
+            "corri. Combinale con l'{1a06ff000001}Arco dell'Eroe {1a06ff000000}dallo",
+            "schermo degli oggetti con {1a0500000e} per scagliare",
+            "delle {1a06ff000001}Frecce esplosive{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "2, 110",
+        "text": [
+            "Portabombe preso in prestito da Iza.",
+            "Quando il Portabombe è vuoto, chiedi",
+            "a Iza e ti rifornirà di Bombe!"
+        ]
+    },
+    {
+        "ID": "2, 140",
+        "text": [
+            "{1a0903000000000c4c}Assegnalo a {1a05000010} o {1a0500000f} e chiamalo per tornare",
+            "nel labirinto, dove ti attende Ooccoo.",
+            "Se torni a piedi nel labirinto, Polly",
+            "Molly ti aspetterà all'entrata."
+        ]
+    },
+    {
+        "ID": "2, 141",
+        "text": [
+            "{1a0903000000000c4d}Spada forgiata da Rusl.",
+            "Il manico è realizzato in corno",
+            "di capra taurina. Si brandisce",
+            "con {1a0500000b} e si ripone con {1a0500000a}."
+        ]
+    },
+    {
+        "ID": "2, 146",
+        "text": [
+            "{1a06ff000001}In questo momento sono impegnata",
+            "e devo rimanere dentro. Staremo",
+            "un po' insieme al tuo ritorno.",
+            "                           Ooccoo",
+            ""
+        ]
+    },
+    {
+        "ID": "2, 154",
+        "text": [
+            "Portarupie ricevuto in dono",
+            "da Agitha, la principessa del",
+            "regno degli insetti. Può",
+            "contenere fino a 600 Rupie."
+        ]
+    },
+    {
+        "ID": "2, 155",
+        "text": [
+            "Portarupie ricevuto in dono da Agitha,",
+            "la principessa del regno degli insetti.",
+            "Lo merita solo chi ha aiutato il regno.",
+            "Può contenere fino a 1.000 Rupie."
+        ]
+    },
+    {
+        "ID": "2, 207",
+        "text": [
+            "{1a0903000000000c8f}Brodo preparato da Coro.",
+            "Assegnalo a {1a05000010} o {1a0500000f}, bevilo e...",
+            "vedi un po' che succede!"
+        ]
+    },
+    {
+        "ID": "2, 229",
+        "text": [
+            "{1a0903000000000ca5}La lettera di Renado per Telma.",
+            "Spiega come curare la perdita di memoria",
+            "di Ilia. Con {1a05000010} o {1a0500000f} puoi mostrarla",
+            "quando hai qualcuno davanti a te."
+        ]
+    },
+    {
+        "ID": "2, 231",
+        "text": [
+            "{1a0903000000000ca7}Strana statua che apparteneva a Ilia.",
+            "Si tratta di un indizio relativo alla sua",
+            "memoria. Con {1a05000010} o {1a0500000f} puoi mostrarla",
+            "quando hai qualcuno davanti a te."
+        ]
+    },
+    {
+        "ID": "2, 232",
+        "text": [
+            "{1a0903000000000ca8}Collana regalata a Ilia dalla nonna.",
+            "Si tratta di un indizio relativo alla sua",
+            "memoria. Con {1a05000010} o {1a0500000f} puoi mostrarla",
+            "quando hai qualcuno davanti a te."
+        ]
+    },
+    {
+        "ID": "2, 233",
+        "text": [
+            "{1a0903000000000ca9}Fischietto che Ilia ha fatto per te.",
+            "Con {1a05000010} o {1a0500000f} puoi chiamare {1a05000022}",
+            "anche se non c'è dell'erba nei paraggi."
+        ]
+    },
+    {
+        "ID": "2, 245",
+        "text": [
+            "{1a0903000000000cb5}Gli appunti di Auru indirizzati a Fyer.",
+            "Assegnali a {1a05000010} o {1a0500000f} e premi il pulsante",
+            "assegnato per mostrarli."
+        ]
+    },
+    {
+        "ID": "2, 246",
+        "text": [
+            "{1a0903000000000cb6}Un bozzetto di un gigante che tiene in",
+            "mano un {1a06ff000001}pesce rosso{1a06ff000000}, come l'ha visto e",
+            "disegnato Ashei. Se vuoi mostrarlo,",
+            "assegnalo a {1a05000010} o {1a0500000f} e premi il pulsante."
+        ]
+    },
+    {
+        "ID": "3, 21",
+        "text": [
+            "Il profumo del borsellino di Ilia",
+            "trovato nella piana delle terre di Ranel."
+        ]
+    },
+    {
+        "ID": "3, 81",
+        "text": [
+            "{1a0903000000000d11}Ooccoo della stirpe degli Eterei.",
+            "Chiamala con {1a05000010} o {1a0500000f} e ti teletrasporterà",
+            "alla bottega della città eterea in qualsiasi",
+            "momento."
+        ]
+    },
+    {
+        "ID": "11, 211",
+        "text": [
+            "Dai Ilia, non c'è bisogno",
+            "di arrabbiarsi così!{1a07000004001e}",
+            ""
+        ]
+    },
+    {
+        "ID": "11, 216",
+        "text": [
+            "Aspetta, Ilia!",
+            "",
+            "",
+            "",
+            "Senza {1a05000022}, non faremo",
+            "mai in tempo a consegnare il dono!"
+        ]
+    },
+    {
+        "ID": "15, 197",
+        "text": [
+            "Hai trovato un pezzo di legno...",
+            "Una spada giocattolo?",
+            "{1a07000007002d}Dev'essere di Talo..."
+        ]
+    },
+    {
+        "ID": "16, 241",
+        "text": [
+            "{1a05000001}Hai incontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Se la chiami dall'interno",
+            "di un labirinto, ti",
+            "teletrasporterà fuori.",
+            "E non ti preoccupare, perché",
+            "un modo per farti tornare",
+            "{1a06ff000001}dove l'hai chiamata{1a06ff000000} c'è!",
+            "",
+            "Assegnala a {1a05030002} dallo schermo {1a05030004}",
+            "e prova a chiamarla con {1a05030002}. Se",
+            "la assegni a {1a05030008}, puoi",
+            "chiamarla anche senza usare {1a05030002}."
+        ]
+    },
+    {
+        "ID": "16, 255",
+        "text": [
+            "{1a05000001}Hai rincontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Se la chiami dall'interno di un",
+            "labirinto, ti teletrasporterà fuori",
+            "e ti permetterà di rientrare.",
+            "Assegnala a {1a05030002} dallo schermo {1a05030004}",
+            "e prova a chiamarla con {1a05030002}. Se",
+            "la assegni a {1a05030008}, puoi",
+            "chiamarla anche senza usare {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 54",
+        "text": [
+            "{1a05000001}La {1a06ff000001}Brodaglia salata{1a06ff000000}",
+            "è nell'Ampolla!{1a05000002}",
+            "L'ha preparata Coro.",
+            "",
+            "{1a07000007000a}Assegnala a {1a05030002} dallo schermo {1a05030004},",
+            "bevila con {1a05030002} e succederà",
+            "qualcosa..."
+        ]
+    },
+    {
+        "ID": "17, 63",
+        "text": [
+            "{1a05000001}Ecco le {1a06ff000001}Gocce di Great Fairy{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Gocce di acqua sacra",
+            "impregnata delle preghiere della",
+            "Great Fairy.",
+            "Assegnale a {1a05030002} dallo schermo {1a05030004},",
+            "bevile con {1a05030002} per {1a06ff000001}ripristinare",
+            "energia vitale{1a06ff000000}! Il {1a06ff000001}potere",
+            "d'attacco {1a06ff000000}aumenterà per un po'."
+        ]
+    },
+    {
+        "ID": "17, 65",
+        "text": [
+            "{1a05000001}Ecco le {1a06ff000001}Gocce di Great Fairy{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}L'{1a06ff000001}Ampolla{1a06ff000000} contiene le Gocce",
+            "di acqua sacra impregnata delle",
+            "preghiere della Great Fairy.",
+            "Assegnale a {1a05030002} dallo schermo {1a05030004},",
+            "bevile con {1a05030002} per {1a06ff000001}ripristinare",
+            "energia vitale{1a06ff000000}! Il {1a06ff000001}potere",
+            "d'attacco {1a06ff000000}aumenterà per un po'."
+        ]
+    },
+    {
+        "ID": "17, 76",
+        "text": [
+            "{1a05000001}Hai in custodia la",
+            "{1a06ff000001}Lettera di Renado{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Contiene i dettagli su come",
+            "far tornare la memoria a Ilia.",
+            "Per mostrarla, assegnala a {1a05030002}",
+            "dallo schermo {1a05030004}. Se la assegni",
+            "a {1a05030008} potrai mostrarla",
+            "senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 78",
+        "text": [
+            "{1a05000001}Hai ripreso la {1a06ff000001}Statua di legno{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Statua dallo strano design che",
+            "apparteneva a Ilia... Un indizio",
+            "relativo alla sua memoria.",
+            "Assegnala a {1a05030002} dallo schermo {1a05030004}",
+            "e mostrala con {1a05030002}. Se la assegni",
+            "a {1a05030008}, potrai mostrarla senza",
+            "premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 79",
+        "text": [
+            "{1a05000001}Hai preso la {1a06ff000001}Collana di Ilia{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}L'aveva ricevuta in dono",
+            "dall'amata nonna... Un indizio",
+            "relativo alla sua memoria.",
+            "Assegnala a {1a05030002} dallo schermo {1a05030004}",
+            "e mostrala con {1a05030002}. Se la assegni",
+            "a {1a05030008}, potrai mostrarla",
+            "senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 80",
+        "text": [
+            "{1a05000001}Hai preso il {1a06ff000001}Fischietto d'argilla{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il fischietto che Ilia ha fatto",
+            "apposta per te.",
+            "",
+            "Con questo, potrai chiamare",
+            "{1a05000022} anche se non",
+            "c'è dell'erba nei paraggi.",
+            "",
+            "Assegnalo a {1a05030002} dallo schermo {1a05030004}",
+            "e prova a fischiare con {1a05030002}.",
+            "Se lo assegni a {1a05030008}, potrai",
+            "usarlo senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "17, 92",
+        "text": [
+            "{1a05000001}Hai preso gli {1a06ff000001}Appunti di Auru{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Appunti scritti da Auru",
+            "e indirizzati a Fyer del lago",
+            "Hylia.",
+            "Assegnali a {1a05030002} dallo schermo {1a05030004}",
+            "e mostrali con {1a05030002}. Se li assegni",
+            "a {1a05030008}, potrai mostrarli anche",
+            "senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "12, 180",
+        "text": [
+            "Beth, stai bene?"
+        ]
+    },
+    {
+        "ID": "12, 208",
+        "text": [
+            "Io sono {1a06ff000002}Renado{1a06ff000000}, il Pastore di",
+            "questo villaggio."
+        ]
+    },
+    {
+        "ID": "12, 210",
+        "text": [
+            "È mia figlia {1a06ff000002}Luda{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "12, 242",
+        "text": [
+            "Scusami, Beth...",
+            "Scusami se ti ho spinto...",
+            "Sei arrabbiata?"
+        ]
+    },
+    {
+        "ID": "12, 253",
+        "text": [
+            "Ilia..."
+        ]
+    },
+    {
+        "ID": "12, 254",
+        "text": [
+            "Aiuta Ilia, ti supplico!"
+        ]
+    },
+    {
+        "ID": "13, 0",
+        "text": [
+            "Quando pensavo che non ce l'avrei",
+            "fatta ad andare avanti, io pensavo",
+            "a te, {1a05000000}, e a Ilia..."
+        ]
+    },
+    {
+        "ID": "13, 4",
+        "text": [
+            "Perciò non preoccuparti per me.",
+            "Devi solo andare ad aiutare Ilia!"
+        ]
+    },
+    {
+        "ID": "13, 119",
+        "text": [
+            "Senti, {1a05000000},",
+            "a proposito di Ilia..."
+        ]
+    },
+    {
+        "ID": "13, 130",
+        "text": [
+            "Credo di rimanere qui ancora un",
+            "po'... Sono anche preoccupata",
+            "per Ilia..."
+        ]
+    },
+    {
+        "ID": "8, 103",
+        "text": [
+            "Non conosci la formula per",
+            "ripristinare la magia allo Scettro",
+            "del plagio, dimenticato da Ooccoo"
+        ]
+    },
+    {
+        "ID": "17, 184",
+        "text": [
+            "{1a05000001}Hai incontrato {1a06ff000001}Ooccoo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Una compagna fidata che",
+            "ti teletrasporterà nella bottega",
+            "della città eterea.",
+            "Assegnala a {1a05030002} dallo schermo {1a05030004}",
+            "e chiamala con {1a05030002}. Se la assegni",
+            "a {1a05030008}, puoi chiamarla anche",
+            "senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 0",
+        "text": [
+            "Portabombe preso in prestito da Iza.",
+            "Con {1a05030002} sollevi le Bombe e con {1a05030002} o {1a05030001} le",
+            "appoggi se sei fermo o le lanci mentre",
+            "corri. Combinale con l'{1a06ff000001}Arco dell'Eroe{1a06ff000000} dallo",
+            "schermo degli oggetti con {1a05030014} per scagliare",
+            "{1a06ff000001}Frecce esplosive{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "18, 31",
+        "text": [
+            "Il Figlio di Ooccoo.",
+            "Puoi tornare da Ooccoo in qualsiasi",
+            "momento. Assegna suo Figlio a {1a05030002} e",
+            "chiamalo con {1a05030002}. Se lo assegni a {1a05030008},",
+            "potrai chiamarlo anche senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 32",
+        "text": [
+            "Spada amata da Rusl, dal manico",
+            "realizzato in corno di capra taurina.",
+            "Si brandisce con {1a05030011} e si ripone con {1a05030001}."
+        ]
+    },
+    {
+        "ID": "18, 98",
+        "text": [
+            "Zuppa preparata da Coro.",
+            "Assegnala a {1a05030002} e bevila.",
+            "Poi guarda un po' che succede..."
+        ]
+    },
+    {
+        "ID": "18, 120",
+        "text": [
+            "La lettera di Renado per Telma.",
+            "Contiene i dettagli della cura per far",
+            "tornare la memoria a Ilia. Mostrala con",
+            "{1a05030008} o {1a05030002} quando hai qualcuno di fronte a te."
+        ]
+    },
+    {
+        "ID": "18, 122",
+        "text": [
+            "Statua di Ilia dallo strano design. È un",
+            "indizio prezioso relativo alla sua memoria.",
+            "Mostrala con {1a05030008} o {1a05030002}",
+            "quando hai qualcuno di fronte a te."
+        ]
+    },
+    {
+        "ID": "18, 123",
+        "text": [
+            "Collana regalata a Ilia dalla nonna. È un",
+            "indizio prezioso relativo alla sua memoria.",
+            "Mostrala con {1a05030008} o {1a05030002} quando hai qualcuno",
+            "di fronte a te."
+        ]
+    },
+    {
+        "ID": "18, 124",
+        "text": [
+            "Fischietto fatto da Ilia apposta per te.",
+            "Per usarlo premi {1a05030002}, e potrai chiamare",
+            "{1a05000022} anche se non c'è dell'erba",
+            "nei paraggi. Se lo assegni a {1a05030008} potrai",
+            "usarlo anche senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "18, 136",
+        "text": [
+            "Gli appunti di Auru indirizzati a",
+            "Fyer. Mostrali con {1a05030008} o {1a05030002}",
+            "quando hai qualcuno di fronte a te."
+        ]
+    },
+    {
+        "ID": "18, 137",
+        "text": [
+            "Disegno di Ashei di un gigante che tiene",
+            "in mano un {1a06ff000001}pesce rosso{1a06ff000000}.",
+            "Mostralo con {1a05030008} o {1a05030002}",
+            "quando hai qualcuno di fronte a te."
+        ]
+    },
+    {
+        "ID": "18, 216",
+        "text": [
+            "Anime possedute dagli spettri. Puoi",
+            "individuarle con l'Istinto. Raccogline",
+            "20 o più e portale a Jovani.",
+            "Forse succederà qualcosa..."
+        ]
+    },
+    {
+        "ID": "18, 228",
+        "text": [
+            "Ooccoo della stirpe degli Eterei.",
+            "Chiamala con {1a05030002} e ti teletrasporterà alla",
+            "bottega della città eterea in qualsiasi",
+            "momento. Se la assegni a {1a05030008},",
+            "potrai chiamarla anche senza premere {1a05030002}."
+        ]
+    },
+    {
+        "ID": "9, 197",
+        "text": [
+            "La memoria di Ilia"
+        ]
+    },
+    {
+        "ID": "9, 209",
+        "text": [
+            "Il sogno di Agitha"
+        ]
+    },
+    {
+        "ID": "10, 41",
+        "text": [
+            "Renado"
+        ]
+    },
+    {
+        "ID": "10, 42",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 43",
+        "text": [
+            "Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 46",
+        "text": [
+            "Barnes"
+        ]
+    },
+    {
+        "ID": "10, 47",
+        "text": [
+            "Barnes"
+        ]
+    },
+    {
+        "ID": "10, 51",
+        "text": [
+            "Purlo"
+        ]
+    },
+    {
+        "ID": "10, 52",
+        "text": [
+            "Madame Fanadi"
+        ]
+    },
+    {
+        "ID": "10, 53",
+        "text": [
+            "Principessa Agitha"
+        ]
+    },
+    {
+        "ID": "10, 55",
+        "text": [
+            "Madame Fanadi"
+        ]
+    },
+    {
+        "ID": "10, 57",
+        "text": [
+            "Shad"
+        ]
+    },
+    {
+        "ID": "10, 141",
+        "text": [
+            "{1a05000000},",
+            "",
+            "ho una comunicazione urgente",
+            "riguardo alla memoria di Ilia.",
+            "So che sei molto impegnato,",
+            "ma ti prego di raggiungermi nel",
+            "{1a06ff000001}tempio{1a06ff000000} del {1a06ff000001}villaggio Calbarico{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "10, 142",
+        "text": [
+            "Finalmente l'altro giorno ti",
+            "ho conosciuto! Che piacere",
+            "chiacchierare con te, bellino!",
+            "",
+            "Inoltre, sono stata felicissima",
+            "di veder tornare il sorriso",
+            "sulle labbra del mio cucciolo...",
+            "",
+            "Purtroppo adesso devo",
+            "incamminarmi per un'altra meta.",
+            "E anche tu dovrai riprendere",
+            "il tuo cammino...",
+            "Ma vedrai che ci rincontreremo!",
+            "Sia io che il mio piccolo",
+            "attendiamo con ansia quel",
+            "momento!",
+            "",
+            "Riguardati, stellina!",
+            "                   Ooccoo"
+        ]
+    },
+    {
+        "ID": "10, 143",
+        "text": [
+            "Finalmente l'altro giorno ti ho",
+            "conosciuto! È stato molto",
+            "piacevole chiacchierare con te!",
+            "",
+            "Purtroppo adesso devo",
+            "incamminarmi per un'altra meta.",
+            "E immagino che anche tu dovrai",
+            "riprendere il tuo cammino...",
+            "Ma vedrai che ci rincontreremo!",
+            "Riguardati, stellina!",
+            "                   Ooccoo",
+            "",
+            "P.S. Non ho avuto l'opportunità",
+            "di parlartene, ma devi sapere che",
+            "io ho un Figlio! La prossima volta",
+            "che ci vedremo, te lo presenterò.",
+            "È davvero servizievole e potrebbe",
+            "esserti molto utile. Mi auguro",
+            "di cuore che andiate d'accordo!"
+        ]
+    },
+    {
+        "ID": "10, 146",
+        "text": [
+            "Finalmente ho inventato un nuovo",
+            "tipo di esplosivo! È eccezionale",
+            "ed è efficace persino in acqua!",
+            "",
+            "Ne abbiamo sempre una bella",
+            "scorta in magazzino! Quando ne",
+            "avete bisogno, ricordate che",
+            "siamo qui per servirvi!",
+            "",
+            "     {1a06ff000001}Barnes{1a06ff000000} ",
+            "     {1a06ff000001}Villaggio Calbarico"
+        ]
+    },
+    {
+        "ID": "10, 147",
+        "text": [
+            "Spettabile clientela,",
+            "",
+            "continuate ad usare i miei",
+            "scoppiettanti gioiellini?",
+            "",
+            "Vi attendo per mostrarvi le mie",
+            "ultime e ancor più crepitanti",
+            "novità. Non avrete che",
+            "l'imbarazzo della scelta!",
+            "",
+            "     {1a06ff000001}Barnes",
+            "     Villaggio Calbarico"
+        ]
+    },
+    {
+        "ID": "10, 153",
+        "text": [
+            "Ti senti un fallito sul lavoro?",
+            "Ti senti un fallito in amore?",
+            "",
+            "Madame Fanadi è qui per",
+            "risolvere tutti i tuoi problemi!",
+            "",
+            "Vieni a trovarmi nella strada",
+            "sud-occidentale del borgo e",
+            "facciamo insieme il primo",
+            "passo verso una nuova vita!"
+        ]
+    },
+    {
+        "ID": "10, 154",
+        "text": [
+            "Ti senti un fallito sul lavoro?",
+            "Ti senti un fallito in amore?",
+            "",
+            "Madame Fanadi è qui per",
+            "risolvere tutti i tuoi problemi!",
+            "",
+            "Vieni a trovarmi nella strada",
+            "sud-orientale del borgo e",
+            "facciamo insieme il primo",
+            "passo verso una nuova vita!"
+        ]
+    },
+    {
+        "ID": "10, 156",
+        "text": [
+            "Il Centro Turistico di Ranel ha",
+            "organizzato una gita fantastica!",
+            "",
+            "Questa volta andremo a divertirci",
+            "insieme da Iza e da Hena!",
+            "",
+            "Entrambe si trovano presso il",
+            "bacino del fiume Zora, ai piedi",
+            "della cascata.",
+            "",
+            "",
+            "",
+            "{1a05060004}Le Discese torrenziali di Iza{1a05060004}",
+            "Spara ai bersagli mentre discendi",
+            "le rapide! Le Frecce esplosive",
+            "sono distribuite gratuitamente!",
+            "",
+            "{1a05060004}L'Angolo della pesca di Hena{1a05060004}",
+            "La pesca con le Esche artificiali",
+            "è contro natura! Vogliamo proprio",
+            "vedere quali pesci prenderai!",
+            "",
+            "    Vi aspettiamo tutti là!",
+            "    Accorrete in massa!"
+        ]
+    },
+    {
+        "ID": "10, 160",
+        "text": [
+            "Caro {1a05000000},",
+            "",
+            "dopo averti lasciato, ho provato",
+            "ad usare l'incantesimo sulle",
+            "statue che ho trovato ad Hyrule.",
+            "Ma... è stata una vera delusione!",
+            "",
+            "Se mio padre vedesse che una",
+            "vicenda di poco conto mi turba",
+            "tanto, si rivolterebbe nella tomba!",
+            "",
+            "",
+            "Tornerò al tempio di Calbarico in",
+            "cerca di altri indizi. Se dovessi",
+            "trovare qualcosa prima tu, ti",
+            "prego di condividerla con me!",
+            "",
+            "              Shad",
+            "     Il cacciatore di sogni"
+        ]
+    }
+]
