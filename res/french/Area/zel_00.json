@@ -299,8 +299,8 @@
     {
         "ID": "3, 91",
         "text": [
-            "La clé de la chambre du yéti dans les ruines",
-            "des Snowpeak. Le fragment du Miroir des",
+            "La clé de la chambre du yéti dans Snowpeak",
+            "ruins. Le fragment du Miroir des",
             "ombres y est conservé."
         ]
     },
@@ -337,7 +337,7 @@
     {
         "ID": "3, 117",
         "text": [
-            "Ruines des Snowpeak"
+            "Snowpeak Ruins"
         ]
     },
     {
@@ -385,7 +385,7 @@
     {
         "ID": "4, 81",
         "text": [
-            "Ruines des Snowpeak{1a07000004003c}"
+            "Snowpeak Ruins{1a07000004003c}"
         ]
     },
     {
@@ -481,7 +481,7 @@
     {
         "ID": "4, 103",
         "text": [
-            "Barnes Bomb, bombes{1a07000004003c}"
+            "Barnes Bomb{1a07000004003c}"
         ]
     },
     {
