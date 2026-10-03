@@ -306,5 +306,149 @@
             "De cien veces las cien, Beth ha hecho esto",
             "antes..."
         ]
+    },
+    {
+        "ID": "20, 12",
+        "index": "0x83",
+        "attributes": "140c000021000000ff00000000000400",
+        "text": [
+            "La hizo mi hijo Colin.",
+            "Mi esposo le enseñó."
+        ]
+    },
+    {
+        "ID": "20, 16",
+        "index": "0x87",
+        "attributes": "1410000021000000ff00000005000400",
+        "text": [
+            "Espero que Colin se parezca",
+            "a ti cuando crezca."
+        ]
+    },
+    {
+        "ID": "20, 70",
+        "index": "0xbd",
+        "attributes": "1446000025000000ff00000309000400",
+        "text": [
+            "El padre de Colin te trajo algo,",
+            "¿verdad?"
+        ]
+    },
+    {
+        "ID": "20, 81",
+        "index": "0xc8",
+        "attributes": "145100001e000000ff00000100000400",
+        "text": [
+            "¿Qué te ha traído el padre de Colin?"
+        ]
+    },
+    {
+        "ID": "22, 85",
+        "index": "0x2cc",
+        "attributes": "165500001e000000ff00000000030400",
+        "text": [
+            "¡Colin!"
+        ]
+    },
+    {
+        "ID": "22, 96",
+        "index": "0x2d7",
+        "attributes": "166000001e000000ff00000011050400",
+        "text": [
+            "Colin, si quieres pasar por aquí,",
+            "tendrás tú también que pedirle a",
+            "{1a05000000} la espada."
+        ]
+    },
+    {
+        "ID": "22, 100",
+        "index": "0x2db",
+        "attributes": "166400001e000000ff00000011050400",
+        "text": [
+            "Colin, ¡pídele tú también la espada!"
+        ]
+    },
+    {
+        "ID": "23, 147",
+        "index": "0x3e3",
+        "attributes": "1793000020000000ff00000000030400",
+        "text": [
+            "Veo que tienes la caña, ¿eh?",
+            "Colin se va a poner muy contento.",
+            "{1a07000007000f}Ya verás lo bien que se pesca."
+        ]
+    },
+    {
+        "ID": "23, 153",
+        "index": "0x3e9",
+        "attributes": "1799000020000000ff00000023000400",
+        "text": [
+            "Mi hijo {1a06ff000002}Colin {1a06ff000000}está haciendo una {1a06ff000001}caña{1a06ff000000}",
+            "para irse de pesca contigo de",
+            "vez en cuando. Se está esforzando",
+            "mucho para hacerla."
+        ]
+    },
+    {
+        "ID": "23, 155",
+        "index": "0x3eb",
+        "attributes": "179b000020000000ff00000023030400",
+        "text": [
+            "Es la primera {1a06ff000001}caña{1a06ff000000} que {1a06ff000002}Colin{1a06ff000000} ha",
+            "hecho y no está demasiado bien",
+            "acabada, pero sirve. No pongas",
+            "mala cara al verla."
+        ]
+    },
+    {
+        "ID": "24, 87",
+        "index": "0x476",
+        "attributes": "1857000021000002ff00000013040400",
+        "text": [
+            "Colin... Colin está vivo, ¿verdad?"
+        ]
+    },
+    {
+        "ID": "24, 97",
+        "index": "0x480",
+        "attributes": "1861000021000000ff00000004030400",
+        "text": [
+            "¡También tengo que escribir a Colin!"
+        ]
+    },
+    {
+        "ID": "24, 107",
+        "index": "0x48a",
+        "attributes": "186b000021000000ff00000003000400",
+        "text": [
+            "¿Qué tal siguen todos?",
+            "¿Colin está bien?"
+        ]
+    },
+    {
+        "ID": "24, 109",
+        "index": "0x48c",
+        "attributes": "186d000021000000ff00000013070400",
+        "text": [
+            "Espero que Colin me conteste",
+            "pronto..."
+        ]
+    },
+    {
+        "ID": "24, 112",
+        "index": "0x48f",
+        "attributes": "1870000021000000ff00000003040400",
+        "text": [
+            "¡Ha llegado carta de Colin!"
+        ]
+    },
+    {
+        "ID": "24, 118",
+        "index": "0x495",
+        "attributes": "1876000021000000ff00000003040400",
+        "text": [
+            "Por favor, diles a Colin y a mi marido",
+            "que no se preocupen por mí."
+        ]
     }
 ]

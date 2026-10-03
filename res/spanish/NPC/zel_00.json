@@ -648,5 +648,36 @@
             "",
             "¡Te esperamos!"
         ]
+    },
+    {
+        "ID": "11, 235",
+        "text": [
+            "No sabía nada...",
+            "No tenía ni idea de que Talo",
+            "lo hubiese pasado tan mal...",
+            "",
+            "Pero, Colin, yo..."
+        ]
+    },
+    {
+        "ID": "13, 118",
+        "text": [
+            "Gracias, Colin."
+        ]
+    },
+    {
+        "ID": "13, 121",
+        "text": [
+            "Sí, Colin, y me temo que no será",
+            "fácil que recupere la memoria..."
+        ]
+    },
+    {
+        "ID": "13, 124",
+        "text": [
+            "Mientras tanto, Colin, quédate con",
+            "nosotros en el pueblo. Ahora nos",
+            "toca a nosotros ser valientes."
+        ]
     }
 ]

@@ -74,6 +74,7 @@ Make sure that the files are viable ones and as you expected them to be, then yo
 And then some long work to investigate all the fields and adapt where needs be.
 I used this [website](https://zelda.fandom.com/fr/wiki/Traductions_de_Twilight_Princess)
 (it's in french, but all languages are still there)
+Since it was missing italian, there is [this one too](https://zelda.fandom.com/wiki/Twilight_Princess_Translations/Characters)
 
 Lastly the cpp code with the flow and message services injects that text inside the game.
 
