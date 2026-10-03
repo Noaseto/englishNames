@@ -1,0 +1,166 @@
+[
+    {
+        "ID": "19, 174",
+        "index": "0x26",
+        "attributes": "13ae000037000000ff00000004000400",
+        "text": [
+            "Gor Coron war in jungen Jahren",
+            "unschlagbar... Aber das ist lange",
+            "her! Mittlerweile gehört er ja auch",
+            "schon zu den Ältesten..."
+        ]
+    },
+    {
+        "ID": "19, 211",
+        "index": "0x4b",
+        "attributes": "13d3000037000000ff00000000000400",
+        "text": [
+            "Der Älteste Gor Coron war vor",
+            "Darbus unser Oberhaupt."
+        ]
+    },
+    {
+        "ID": "19, 239",
+        "index": "0x67",
+        "attributes": "13ef000039000000ff00000000000400",
+        "text": [
+            "Ich bin einer der Ältesten",
+            "der Goronen. Man nennt mich",
+            "{1a06ff000002}Gor Coron{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "19, 240",
+        "index": "0x68",
+        "attributes": "13f0000039000000ff00000000000400",
+        "text": [
+            "Zurzeit führe ich an Stelle",
+            "unseres {1a06ff000001}Oberhauptes Darbus{1a06ff000000}",
+            "die Goronen an."
+        ]
+    },
+    {
+        "ID": "20, 8",
+        "index": "0x80",
+        "attributes": "1408000039000000ff00000000000400",
+        "text": [
+            "Als es uns vier {1a06ff000001}Ältesten{1a06ff000000} zum",
+            "ersten Mal auffiel, haben wir",
+            "uns gleich mit unserem Oberhaupt",
+            "{1a06ff000001}Darbus{1a06ff000000} die Sache angesehen."
+        ]
+    },
+    {
+        "ID": "20, 10",
+        "index": "0x82",
+        "attributes": "140a000039000000ff00000000000400",
+        "text": [
+            "Darbus wollte ihn an sich nehmen,",
+            "aber gleich, nachdem er den Schatz",
+            "berührt hatte..."
+        ]
+    },
+    {
+        "ID": "20, 15",
+        "index": "0x87",
+        "attributes": "140f000039000000ff00000000000400",
+        "text": [
+            "Bitte...",
+            "Du musst Darbus helfen!"
+        ]
+    },
+    {
+        "ID": "20, 17",
+        "index": "0x89",
+        "attributes": "1411000039000000ff00000000000400",
+        "text": [
+            "Ich, Gor Coron..."
+        ]
+    },
+    {
+        "ID": "20, 32",
+        "index": "0x98",
+        "attributes": "1420000039000000ff00000001000400",
+        "text": [
+            "Übrigens...",
+            "Sie scheint ja die Tochter von",
+            "Bo aus Ordon zu sein, oder?"
+        ]
+    },
+    {
+        "ID": "20, 34",
+        "index": "0x9a",
+        "attributes": "1422000039000000ff00000000010400",
+        "text": [
+            "Ich war ehrlich gesagt ziemlich",
+            "überrascht, dass dieser Bo eine",
+            "so hübsche Tochter hat..."
+        ]
+    },
+    {
+        "ID": "20, 41",
+        "index": "0xa1",
+        "attributes": "142900006c000000ff00000000000400",
+        "text": [
+            "Das Oberhaupt der Goronen,",
+            "{1a06ff000002}Darbus{1a06ff000000}, das bin ich!"
+        ]
+    },
+    {
+        "ID": "20, 87",
+        "index": "0xcf",
+        "attributes": "1457000037000000ff0000000d000400",
+        "text": [
+            "Darbus ist wieder da.",
+            "Er hatte sich in die Berge",
+            "zurückgezogen, zum Meditieren..."
+        ]
+    },
+    {
+        "ID": "20, 98",
+        "index": "0xda",
+        "attributes": "146200003a000000ff00000000000400",
+        "text": [
+            "Darbus und die anderen Ältesten",
+            "sind nach Kakariko gegangen, um",
+            "sich dort ein wenig umzusehen."
+        ]
+    },
+    {
+        "ID": "20, 100",
+        "index": "0xdc",
+        "attributes": "146400003a000000ff00040000000400",
+        "text": [
+            "Gor Ebizo und Gor Liggs sind immer",
+            "noch nicht aus Kakariko zurück..."
+        ]
+    },
+    {
+        "ID": "20, 101",
+        "index": "0xdd",
+        "attributes": "146500003a000000ff00000000000400",
+        "text": [
+            "...dabei hat Darbus doch schon",
+            "erzählt, dass in Kakariko alles",
+            "in Ordnung ist!"
+        ]
+    },
+    {
+        "ID": "20, 103",
+        "index": "0xdf",
+        "attributes": "146700003a000000ff00000000000400",
+        "text": [
+            "Gor Ebizo und Gor Liggs sind gerade",
+            "in Kakariko."
+        ]
+    },
+    {
+        "ID": "27, 92",
+        "index": "0x198",
+        "attributes": "1b5c0000150d0000ff00070d00000400",
+        "text": [
+            "Sind wir immer noch nicht",
+            "bei diesem Bo?!?"
+        ]
+    }
+]

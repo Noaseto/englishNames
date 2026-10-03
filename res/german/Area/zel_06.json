@@ -1,0 +1,106 @@
+[
+    {
+        "ID": "19, 235",
+        "index": "0x62",
+        "attributes": "13eb000003020100ff00000000000800",
+        "text": [
+            "{1a0903000000000510}{1a05000014} Weg zum {1a06ff000002}Forest Temple",
+            "{1a06ff000000} ",
+            "Tief im Wald ist es finster.",
+            "Licht gibt es hier. {1a05000015} ",
+            "              Coro (Verwalter)"
+        ]
+    },
+    {
+        "ID": "20, 91",
+        "index": "0xc3",
+        "attributes": "145b000017000000ff00001500000400",
+        "text": [
+            "Es treiben sich immer mehr Monster",
+            "herum. Deshalb habe ich den Weg",
+            "zum Forest Temple auch verschlossen. "
+        ]
+    },
+    {
+        "ID": "20, 111",
+        "index": "0xd7",
+        "attributes": "146f000017000000ff00001500000400",
+        "text": [
+            "Es treiben sich immer mehr Monster",
+            "hier rum. Deshalb habe ich den Weg",
+            "zum Forest Temple auch verschlossen..."
+        ]
+    },
+    {
+        "ID": "20, 113",
+        "index": "0xd9",
+        "attributes": "1471000017000000ff00001505050400",
+        "text": [
+            "Bis du beim Forest Temple ange-",
+            "kommen bist, hast du alles",
+            "aufgebraucht. Das garantiere ich dir!"
+        ]
+    },
+    {
+        "ID": "21, 31",
+        "index": "0x14b",
+        "attributes": "151f000003020100ff00000000000800",
+        "text": [
+            "Zum {1a06ff000002}Forest Temple{1a06ff000000}{1a05000016}",
+            "",
+            "Lampe nicht vergessen!",
+            "Ölverkauf weiter vorne!"
+        ]
+    },
+    {
+        "ID": "21, 230",
+        "index": "0x20b",
+        "attributes": "15e6000004000000ff00000000000400",
+        "text": [
+            "Hab schon viel über dich gehört.",
+            "{1a07000007000a}Ich gehöre auch zu Telma's Bar,",
+            "{1a06ff000002}Ashley {1a06ff000000}mein Name."
+        ]
+    },
+    {
+        "ID": "23, 122",
+        "index": "0x27f",
+        "attributes": "177a000007000000ff00000003010400",
+        "text": [
+            "In diesem Hidden village Dorf lebte",
+            "einst das Volk, das der königlichen",
+            "Familie diente..."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "index": "0x294",
+        "attributes": "178f00006c000000ff00000003000400",
+        "text": [
+            "Das Dorf, das du suchst, liegt direkt",
+            "vor dir... Die Ältesten nennen es auch",
+            "das Hidden village Dorf."
+        ]
+    },
+    {
+        "ID": "31, 78",
+        "index": "0x476",
+        "attributes": "1f4e0000470e0000ff00000000000400",
+        "text": [
+            "Wie hast du nur hierher gefunden?",
+            "{1a07000007000a}Das hier ist ein Hidden villages Dorf..."
+        ]
+    },
+    {
+        "ID": "58, 251",
+        "index": "0x510",
+        "attributes": "3afb000003020100ff00000000000800",
+        "text": [
+            "Weg zum {1a06ff000002}Forest Temple{1a06ff000000} {1a05000015}",
+            " ",
+            "Im Wald ist es finster.",
+            "{1a05000014} Licht gibt es hier.",
+            "              Coro (Verwalter)"
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "ID": "27, 100",
+        "index": "0x1d0",
+        "attributes": "1b640000150d0000ff00000000000400",
+        "text": [
+            "Findest du nicht, dass es hier",
+            "viel angenehmer ist als in der",
+            "Goron Mines? So schön",
+            "kühl..."
+        ]
+    },
+    {
+        "ID": "29, 78",
+        "index": "0x249",
+        "attributes": "1d4e000042080500ff00000000000400",
+        "text": [
+            "Willkommen in der Cave of,",
+            "Ordeals, Held, der du die",
+            "Finsternis vertreibst."
+        ]
+    },
+    {
+        "ID": "31, 206",
+        "index": "0x2ab",
+        "attributes": "1fce0000150d0000ff000d001f1f0400",
+        "text": [
+            "Gut, {1a05000000}... Jetzt schnell",
+            "zur {1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "31, 208",
+        "index": "0x2ad",
+        "attributes": "1fd00000150d0000ff000d001f1f0400",
+        "text": [
+            "Auf nach Hyrule Castle!"
+        ]
+    },
+    {
+        "ID": "36, 251",
+        "index": "0x437",
+        "attributes": "24fb00000f000000ff00000000000400",
+        "text": [
+            "Ich wollte dir so gern City in",
+            "the Sky zeigen, aber du bist ganz",
+            "allein herumgelaufen."
+        ]
+    },
+    {
+        "ID": "38, 76",
+        "index": "0x4e9",
+        "attributes": "264c0000150d0000ff000d001f1f0400",
+        "text": [
+            "Auf nach Hyrule Castle,",
+            "{1a05000000}!"
+        ]
+    },
+    {
+        "ID": "43, 0",
+        "index": "0x5b6",
+        "attributes": "2b000000150d0000ff00100000000400",
+        "text": [
+            "Los, {1a05000000}!",
+            "Auf zur {1a06ff000001}Mirror Chamber{1a06ff000000}!"
+        ]
+    }
+]

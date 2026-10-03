@@ -1,0 +1,302 @@
+[
+    {
+        "ID": "23, 126",
+        "index": "0xd6",
+        "attributes": "177e0000150d0000ff00000000000400",
+        "text": [
+            "{1a07000007001e}{1a05000001}{1a06ff000001}Zant{1a06ff000000}{1a05000002}!"
+        ]
+    },
+    {
+        "ID": "23, 129",
+        "index": "0xd9",
+        "attributes": "17810000150d0000ff00000000000400",
+        "text": [
+            "Aber ich werde {1a06ff000001}Zant {1a06ff000000}niemals als",
+            "{1a06ff000001}unseren König{1a06ff000000} anerkennen!"
+        ]
+    },
+    {
+        "ID": "23, 140",
+        "index": "0xe4",
+        "attributes": "178c00003a000000ff00000000000400",
+        "text": [
+            "Nun, wenn Gor Coron dir ver-",
+            "traut, dann werde ich wohl deine",
+            "Kräfte auch nicht in Zweifel ziehen."
+        ]
+    },
+    {
+        "ID": "23, 141",
+        "index": "0xe5",
+        "attributes": "178d00003a000000ff00000000000400",
+        "text": [
+            "Ich bin einer der vier Ältesten",
+            "der Goronen. Man nennt mich",
+            "{1a06ff000002}Gor Amoto{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "index": "0xe7",
+        "attributes": "178f00003a000000ff00000001010400",
+        "text": [
+            "Dies ist ein Fragment des {1a06ff000001}Schlüs-",
+            "sels{1a06ff000000} zu dem Raum, in dem unser",
+            "{1a06ff000001}Oberhaupt Darbus {1a06ff000000}eingesperrt ist."
+        ]
+    },
+    {
+        "ID": "23, 149",
+        "index": "0xed",
+        "attributes": "179500003c000000ff00000000000400",
+        "text": [
+            "Ich bin einer der vier Ältesten",
+            "der Goronen. Man nennt mich",
+            "{1a06ff000002}Gor Ebizo{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "23, 168",
+        "index": "0x100",
+        "attributes": "17a800003b000000ff00000000000400",
+        "text": [
+            "Diese Waffe, die schon die ab-",
+            "scheulichsten Dämonen vertrieben",
+            "hat, wird dir sicher dabei helfen,",
+            "Darbus zu besänftigen..."
+        ]
+    },
+    {
+        "ID": "27, 92",
+        "index": "0x1c8",
+        "attributes": "1b5c0000150d0000ff00000000000400",
+        "text": [
+            "Dafür werde ich dir auch helfen,",
+            "mit {1a06ff000001}Zant{1a06ff000000} klarzukommen... Ist ja",
+            "schrecklich, wie der sich als {1a06ff000001}König",
+            "des Schattenreiches{1a06ff000000} aufspielt..."
+        ]
+    },
+    {
+        "ID": "27, 126",
+        "index": "0x1ea",
+        "attributes": "1b7e0000150d0000ff00000000000400",
+        "text": [
+            "Dieser Bombenheini, dieser Barnes,",
+            "hat der dir da nicht was erzählt?",
+            "{1a07000007000a}Steht das nicht auch in dem Brief,",
+            "den er geschickt hat?!?"
+        ]
+    },
+    {
+        "ID": "29, 79",
+        "index": "0x24a",
+        "attributes": "1d4f000042080500ff00000000000400",
+        "text": [
+            "Ich bin die Great Fairy.",
+            "Als Königin herrsche ich",
+            "über die Feen dieser Welt."
+        ]
+    },
+    {
+        "ID": "31, 190",
+        "index": "0x29b",
+        "attributes": "1fbe0000150d0000ff000d001f1f0400",
+        "text": [
+            "Verdammt! Dieser Zant!",
+            "Ich habe echt keine Lust,",
+            "ausgerechnet hier vor die",
+            "Hunde zu gehen!"
+        ]
+    },
+    {
+        "ID": "37, 133",
+        "index": "0x467",
+        "attributes": "25850000150d0000ff000d001f1f0400",
+        "text": [
+            "Dieser Zant hat die Spiegel-",
+            "scherben wirklich gut versteckt."
+        ]
+    },
+    {
+        "ID": "37, 235",
+        "index": "0x4cd",
+        "attributes": "25eb000035000000ff00000000000400",
+        "text": [
+            "Unser Land wird jetzt von Zant",
+            "beherrscht..."
+        ]
+    },
+    {
+        "ID": "37, 236",
+        "index": "0x4ce",
+        "attributes": "25ec000035000000ff00050000000400",
+        "text": [
+            "Der Palast gehört der königlichen",
+            "Familie unseres Volkes. Einem",
+            "Verräter wie Zant werden wir ihn",
+            "nicht übergeben!"
+        ]
+    },
+    {
+        "ID": "37, 240",
+        "index": "0x4d2",
+        "attributes": "25f0000034000000ff00050000000400",
+        "text": [
+            "Wir erkennen Zant nicht als",
+            "unseren Herrscher an!"
+        ]
+    },
+    {
+        "ID": "38, 73",
+        "index": "0x4e6",
+        "attributes": "26490000150d0000ff000d001f1f0400",
+        "text": [
+            "Zant muss irgendwo im Inneren",
+            "des Palastes stecken..."
+        ]
+    },
+    {
+        "ID": "38, 77",
+        "index": "0x4ea",
+        "attributes": "264d0000150d0000ff000d001f1f0400",
+        "text": [
+            "Seit Zant hier macht, was er will,",
+            "hat sich in dieser Gegend wirklich",
+            "einiges verändert..."
+        ]
+    },
+    {
+        "ID": "38, 81",
+        "index": "0x4ee",
+        "attributes": "26510000150d0000ff000d001f1f0400",
+        "text": [
+            "Wenn wir Zant erledigen, können",
+            "wir die Angehörigen meines Volkes",
+            "vielleicht wieder zurückverwandeln."
+        ]
+    },
+    {
+        "ID": "38, 96",
+        "index": "0x4fd",
+        "attributes": "26600000150d0000ff000d001f1f0400",
+        "text": [
+            "Bringen wir die Sola an ihren Platz",
+            "zurück und gehen Zant suchen!"
+        ]
+    },
+    {
+        "ID": "38, 98",
+        "index": "0x4ff",
+        "attributes": "26620000150d0000ff000d001f1f0400",
+        "text": [
+            "Wenn wir sie finden, wird sie",
+            "uns zu Zants Versteck führen."
+        ]
+    },
+    {
+        "ID": "38, 99",
+        "index": "0x500",
+        "attributes": "26630000150d0000ff000d001f1f0400",
+        "text": [
+            "Wenn wir die andere Sola an ihren",
+            "Platz zurückbringen, werden wir",
+            "sehen, wo sich Zant aufhält."
+        ]
+    },
+    {
+        "ID": "38, 103",
+        "index": "0x504",
+        "attributes": "26670000150d0000ff000d001f1f0400",
+        "text": [
+            "Mit diesem Schwert ist es bestimmt",
+            "auch möglich, Zants Schatten-",
+            "kristalle unschädlich zu machen."
+        ]
+    },
+    {
+        "ID": "38, 104",
+        "index": "0x505",
+        "attributes": "26680000150d0000ff000d001f1f0400",
+        "text": [
+            "Also los, zerschlage mit diesem",
+            "Schwert die Finsternis! Wir folgen",
+            "dem Weg, der uns zu Zant führt!"
+        ]
+    },
+    {
+        "ID": "38, 107",
+        "index": "0x508",
+        "attributes": "266b0000150d0000ff000d001f1f0400",
+        "text": [
+            "Zant...{1a07000007000a} Was hat",
+            "er uns nur angetan...!"
+        ]
+    },
+    {
+        "ID": "38, 114",
+        "index": "0x50f",
+        "attributes": "26720000150d0000ff000d001f1f0400",
+        "text": [
+            "Der schwarze Nebel kommt von den",
+            "Schattenkristallen, die Zant mit",
+            "seinen magischen Kräften geschaf-",
+            "fen hat. Sie saugen das Licht ein."
+        ]
+    },
+    {
+        "ID": "38, 117",
+        "index": "0x512",
+        "attributes": "26750000150d0000ff000d001f1f0400",
+        "text": [
+            "Wenn wir uns mit denen zu lang",
+            "aufhalten, werden wir Zant nie",
+            "erreichen!"
+        ]
+    },
+    {
+        "ID": "38, 118",
+        "index": "0x513",
+        "attributes": "26760000150d0000ff000d001f1f0400",
+        "text": [
+            "Kümmer dich nicht um diese",
+            "kleinen Fische! Greif direkt das",
+            "Phantom an! Das ist Zant, das",
+            "ist unser wahrer Gegner!"
+        ]
+    },
+    {
+        "ID": "38, 125",
+        "index": "0x51a",
+        "attributes": "267d0000150d0000ff000d001f1f0400",
+        "text": [
+            "Zant war doch nur eine Marionette",
+            "von Ganondorf...",
+            "",
+            "",
+            "...und das heißt: Jetzt wissen",
+            "wir, wer sich hinter dem Zauber",
+            "verbirgt, der sich auf Hyrule ge-",
+            "legt hat."
+        ]
+    },
+    {
+        "ID": "38, 138",
+        "index": "0x527",
+        "attributes": "268a0000150d0000ff0000001f1f0400",
+        "text": [
+            "Mit dem Licht in deinem Schwert",
+            "kannst du Zants Magie brechen!"
+        ]
+    },
+    {
+        "ID": "42, 254",
+        "index": "0x5b4",
+        "attributes": "2afe0000150d0000ff000d0000000400",
+        "text": [
+            "Zant konnte den {1a06ff000001}Schattenspiegel",
+            "{1a06ff000000}nur in {1a06ff000001}Scherben {1a06ff000000}zerbrechen..."
+        ]
+    }
+]

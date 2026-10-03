@@ -1,0 +1,65 @@
+[
+    {
+        "ID": "19, 139",
+        "index": "0x3",
+        "attributes": "138b000016000000ff00000000000400",
+        "text": [
+            "Ich bin {1a06ff000002}Rutela{1a06ff000000}, die Herrscherin",
+            "dieser {1a06ff000001}Zora-Höhle{1a06ff000000} und die Königin",
+            "unseres Volkes."
+        ]
+    },
+    {
+        "ID": "31, 162",
+        "index": "0x36d",
+        "attributes": "1fa2000033000000ff00000000000400",
+        "text": [
+            "Süß, oder?",
+            "Meine kleine Purdy!"
+        ]
+    },
+    {
+        "ID": "31, 196",
+        "index": "0x38f",
+        "attributes": "1fc4000033000000ff00000000000400",
+        "text": [
+            "Sie heißt übrigens Iza."
+        ]
+    },
+    {
+        "ID": "31, 208",
+        "index": "0x39b",
+        "attributes": "1fd0000033000000ff00000000000400",
+        "text": [
+            "{1a0600000901}Das Foto von Hena.",
+            "{1a0600000902}Das Foto von Iza.",
+            "{1a0600000903}Beide gleich."
+        ]
+    },
+    {
+        "ID": "31, 240",
+        "index": "0x3bb",
+        "attributes": "1ff0000033000000ff000d0000000400",
+        "text": [
+            "Lass dass!",
+            "{1a07000007000a}Meine arme kleine Purdy!"
+        ]
+    },
+    {
+        "ID": "32, 27",
+        "index": "0x3e6",
+        "attributes": "201b000033000000ff000d0000000400",
+        "text": [
+            "Hey! {1a07000007000a}Purdy!",
+            "{1a070000070005}Keine Beleidigungen!"
+        ]
+    },
+    {
+        "ID": "32, 28",
+        "index": "0x3e7",
+        "attributes": "201c000033000000ff00110000000400",
+        "text": [
+            "Purdy! {1a070000070005}Es reicht!"
+        ]
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "ID": "19, 144",
+        "index": "0x8",
+        "attributes": "1390000016000000ff00000000000400",
+        "text": [
+            "Als wir überfallen wurden, bat ich",
+            "meinen Sohn {1a06ff000002}Ralis{1a06ff000000}, nach {1a06ff000001}Hyrule",
+            "Castle{1a06ff000000} zu gehen und Prinzessin",
+            "Zelda zu unterrichten."
+        ]
+    },
+    {
+        "ID": "20, 119",
+        "index": "0xdd",
+        "attributes": "147700002f000000ff0000000f0a0400",
+        "text": [
+            "Wenn man von hier aus dem",
+            "Flusslauf nach Süden folgt,",
+            "kommt irgendwann {1a06ff000001}Hyrule Castle",
+            "{1a06ff000000}in Sicht..."
+        ]
+    },
+    {
+        "ID": "20, 121",
+        "index": "0xdf",
+        "attributes": "147900002f000000ff000000030b0400",
+        "text": [
+            "Der Tunnel zu den Snowpeak",
+            "scheint noch zugefroren zu sein...{1a07000007000a}",
+            "Wird wohl noch eine Weile un-",
+            "passierbar sein..."
+        ]
+    },
+    {
+        "ID": "20, 122",
+        "index": "0xe0",
+        "attributes": "147a00002f000000ff00000003000400",
+        "text": [
+            "Jenseits von hier breiten sich",
+            "riesige Schneefelder aus, die so",
+            "genannten {1a06ff000001}Snowpeak Top{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "20, 149",
+        "index": "0xfb",
+        "attributes": "149500002f000000ff000000020d0400",
+        "text": [
+            "Als die finsteren Kerle in den",
+            "{1a06ff000001}Lakebed Temple {1a06ff000000}im {1a06ff000001}Hylia-See{1a06ff000000} eindrangen,",
+            "{1a07000007000f}wurden auch einige unserer",
+            "Wachen mit eingeschlossen."
+        ]
+    },
+    {
+        "ID": "20, 158",
+        "index": "0x104",
+        "attributes": "149e00002f000000ff000000010d0400",
+        "text": [
+            "Ich habe gehört, die Finsternis, die",
+            "den Lakebed Temple überkommen hatte,",
+            "ist von einem Helden im blauen",
+            "Gewand vertrieben worden."
+        ]
+    },
+    {
+        "ID": "20, 172",
+        "index": "0x112",
+        "attributes": "14ac00002f000000ff0000000f0a0400",
+        "text": [
+            "Warum dieser Wilde, der in den",
+            "{1a06ff000001}Snowpeak{1a06ff000000} wohnt, hier runter",
+            "kommt...? Wir haben überhaupt",
+            "keine Ahnung!"
+        ]
+    },
+    {
+        "ID": "20, 173",
+        "index": "0x113",
+        "attributes": "14ad00002f000000ff000000100b0400",
+        "text": [
+            "Die {1a06ff000001}Snowpeak Top{1a06ff000000} dort hinten sind",
+            "sehr gefährlich."
+        ]
+    },
+    {
+        "ID": "37, 29",
+        "index": "0x479",
+        "attributes": "251d000003020100ff00000000000800",
+        "text": [
+            "{1a06ff000003}Fishing Hole{1a06ff000000}",
+            "",
+            "Angeln mit Pose ist frei!",
+            "Für Angeln mit Köder bitte im",
+            "Geschäft nachfragen.",
+            "{1a06ff000001}{1a05060005} Sinkköder verboten!"
+        ]
+    }
+]

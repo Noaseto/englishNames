@@ -1,0 +1,154 @@
+[
+    {
+        "ID": "22, 98",
+        "index": "0x278",
+        "attributes": "1662000028000000ff00000001060400",
+        "text": [
+            "Geh doch mal zu ihm... Er ist",
+            "meist auf seinem Wachposten,",
+            "hoch über den Dächern von",
+            "Barnes Bomb."
+        ]
+    },
+    {
+        "ID": "22, 120",
+        "index": "0x28e",
+        "attributes": "1678000028000000ff00000001000400",
+        "text": [
+            "Wenn Ilyas Erinnerungen zutreffen,",
+            "dann muss dieser Jemand in dem",
+            "{1a06ff000001}Hidden village{1a06ff000000}..."
+        ]
+    },
+    {
+        "ID": "23, 143",
+        "index": "0x32e",
+        "attributes": "178f0000150d0000ff0000001f1f0400",
+        "text": [
+            "Erinner dich doch mal daran,",
+            "was dieser Lichtgeist Faron",
+            "gesagt hat!"
+        ]
+    },
+    {
+        "ID": "24, 72",
+        "index": "0x385",
+        "attributes": "1848000039000000ff00000001010400",
+        "text": [
+            "Ihr {1a06ff000001}verlassenes Dorf {1a06ff000000}findet man",
+            "hinter der {1a06ff000001}Brücke von Eldin{1a06ff000000}, an",
+            "dem {1a06ff000001}Weg{1a06ff000000}, der nach Lanayru führt..."
+        ]
+    },
+    {
+        "ID": "24, 76",
+        "index": "0x389",
+        "attributes": "184c000039000000ff00000001000400",
+        "text": [
+            "Gehen wir also zu dem {1a06ff000001}Weg{1a06ff000000} hinter",
+            "der {1a06ff000001}Brücke von Eldin{1a06ff000000}, der nach",
+            "Lanayru führt."
+        ]
+    },
+    {
+        "ID": "24, 157",
+        "index": "0x3da",
+        "attributes": "189d000039000000ff00000000000400",
+        "text": [
+            "Ich habe es auf der {1a06ff000001}Karte{1a06ff000000} markiert. ",
+            "Suche das {1a06ff000001}verlassene Dorf{1a06ff000000}, das ",
+            "sich hinter der {1a06ff000001}langen Brücke{1a06ff000000} an ",
+            "dem {1a06ff000001}Weg{1a06ff000000} nach Lanayru befindet."
+        ]
+    },
+    {
+        "ID": "25, 1",
+        "index": "0x3ef",
+        "attributes": "190100003c000000ff00010005020400",
+        "text": [
+            "{1a07ff0001007d}Willkommen im Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 3",
+        "index": "0x3f1",
+        "attributes": "190300003c000000ff00000004050400",
+        "text": [
+            "Aber um den Bewohnern in",
+            "ihrer Not zu helfen, haben wir,",
+            "das Team von Malo Mart, einen",
+            "{1a06ff000001}Rettungsplan {1a06ff000000}erstellt!"
+        ]
+    },
+    {
+        "ID": "25, 20",
+        "index": "0x402",
+        "attributes": "191400003c000000ff00000007070400",
+        "text": [
+            "{1a07ff0001007d}Willkommen im Malo Mart",
+            "Kakarikooo!"
+        ]
+    },
+    {
+        "ID": "25, 22",
+        "index": "0x404",
+        "attributes": "191600003c000000ff00060007070400",
+        "text": [
+            "Kauf's doch, kauf's doch...",
+            "Wenn du's willst, dann kauf's...",
+            "bei deinem Malo Mart!"
+        ]
+    },
+    {
+        "ID": "25, 31",
+        "index": "0x40d",
+        "attributes": "191f00003b000000ff00070002020400",
+        "text": [
+            "Kauf's doch, kauf's doch...",
+            "Wenn du's willst, dann kauf's...",
+            "bei deinem Malo Mart!"
+        ]
+    },
+    {
+        "ID": "26, 55",
+        "index": "0x4b9",
+        "attributes": "1a37000018000000ff00000007050400",
+        "text": [
+            "Ist das nicht dieser Wilde aus den",
+            "Snowpeak...?"
+        ]
+    },
+    {
+        "ID": "31, 71",
+        "index": "0x508",
+        "attributes": "1f47000003020100ff00000000000800",
+        "text": [
+            "{1a06ff000001}Barnes Bomb{1a06ff000000}",
+            "An- und Verkauf",
+            "von Explosiva.",
+            "Ganzjährig geöffnet."
+        ]
+    },
+    {
+        "ID": "31, 74",
+        "index": "0x50b",
+        "attributes": "1f4a000003020100ff00000000000800",
+        "text": [
+            "Geschäftserweiterung",
+            "für unsere Kunden.",
+            "",
+            "{1a06ff000002}Malo Mart"
+        ]
+    },
+    {
+        "ID": "31, 75",
+        "index": "0x50c",
+        "attributes": "1f4b000003020100ff00000000000800",
+        "text": [
+            "Wir schlagen jeden im Preis!",
+            "{1a06ff000002}Malo Mart Hauptgeschäftsstelle{1a06ff000000}",
+            "",
+            "Rund um die Uhr geöffnet!"
+        ]
+    }
+]
