@@ -57,7 +57,7 @@ constexpr std::array kAllLanguages{
     MESSAGE_LANGUAGE_GERMAN,
     MESSAGE_LANGUAGE_FRENCH,
     MESSAGE_LANGUAGE_SPANISH,
-    // MESSAGE_LANGUAGE_ITALIAN,
+    MESSAGE_LANGUAGE_ITALIAN,
     // MESSAGE_LANGUAGE_JAPANESE, Not sure If I ever want to update the japanese one
 };
 
