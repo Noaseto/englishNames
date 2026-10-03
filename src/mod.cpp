@@ -54,7 +54,7 @@ std::string itemsFolder = "items/";
 // only french is done for now
 constexpr std::array kAllLanguages{
     MESSAGE_LANGUAGE_ENGLISH, // Purlo -> Mr. Cool, no other feature for english language
-    // MESSAGE_LANGUAGE_GERMAN,
+    MESSAGE_LANGUAGE_GERMAN,
     MESSAGE_LANGUAGE_FRENCH,
     // MESSAGE_LANGUAGE_SPANISH,
     // MESSAGE_LANGUAGE_ITALIAN,
