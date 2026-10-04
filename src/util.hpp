@@ -8,6 +8,40 @@
 #include <fmt/format.h>
 
 /*
+ * convert highByte and lowByte into the true id (could I use some byte shifting instead?)
+ */
+inline uint16_t computeId(int leftId, int rightId) {
+    uint16_t id = leftId * 256 + rightId;
+    return id;
+}
+
+std::string getLanguageFolder(const MessageLanguage language) {
+    std::string languageFolder;
+    switch (language) {
+    case MESSAGE_LANGUAGE_ENGLISH:
+        languageFolder = "english/";
+        break;
+    case MESSAGE_LANGUAGE_GERMAN:
+        languageFolder = "german/";
+        break;
+    case MESSAGE_LANGUAGE_FRENCH:
+        languageFolder = "french/";
+        break;
+    case MESSAGE_LANGUAGE_SPANISH:
+        languageFolder = "spanish/";
+        break;
+    case MESSAGE_LANGUAGE_ITALIAN:
+        languageFolder = "italian/";
+        break;
+    default:
+        // nothing to be done here, even if a language does not exist, file won't be found
+        // no segfault or w.e
+        break;
+    }
+    return languageFolder;
+}
+
+/*
  * Fully copied from the randomizer
  */
 inline std::string UTF8ToCP1252(const std::string& utf8Str) {
