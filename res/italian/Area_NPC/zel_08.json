@@ -1,0 +1,31 @@
+[
+    {
+        "ID": "20, 181",
+        "text": [
+            "Salve! {1a07000007000a}Benvenuto al {1a07000007001e}{1a06ff000002}Flight by Fowl",
+            "{1a06ff000000}di Falbi!"
+        ]
+    },
+    {
+        "ID": "20, 202",
+        "text": [
+            "{1a090300000000050d}Il famoso {1a06ff000005}acquapark",
+            "di Fyer e Falbi{1a06ff000000}",
+            "sul lago Hylia{1a06ff000005}",
+            "",
+            "{1a06ff000000}Proseguire dritti sulla destra",
+            "per il gioco {1a06ff000002}Flight by Fowl{1a06ff000001} {1a06ff000000} {1a05000015}"
+        ]
+    },
+    {
+        "ID": "59, 218",
+        "text": [
+            "Il famoso {1a06ff000005}acquapark",
+            "di Fyer e Falbi{1a06ff000000}",
+            "sul lago Hylia{1a06ff000005}",
+            "",
+            "{1a06ff000000}Proseguire dritti a sinistra",
+            "per il gioco {1a06ff000002}Flight by Fowl{1a06ff000001} {1a06ff000000} {1a05000014}"
+        ]
+    }
+]

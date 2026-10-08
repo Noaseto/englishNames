@@ -1,0 +1,36 @@
+[
+    {
+        "ID": "20, 181",
+        "text": [
+            "Hellllo!{1a07000007001e} ",
+            "Bienvenue à {1a06ff000002}Flight by Fowl{1a06ff000000}!",
+            "Falbi, pour vous servir!"
+        ]
+    },
+    {
+        "ID": "20, 202",
+        "text": [
+            "{1a090300000000050d}Nouvelle Attraction du Lac Hylia",
+            "",
+            "      {1a06ff000005}Le Palpitissimant Parc",
+            "     d'Attractions Aquatiques",
+            "        de Fyer et Falbi!{1a06ff000000}",
+            "",
+            "Pour l'attraction {1a06ff000002}Flight by Fowl{1a06ff000000},",
+            "prendre à droite.{1a05000015}"
+        ]
+    },
+    {
+        "ID": "59, 218",
+        "text": [
+            "Nouvelle Attraction du Lac Hylia",
+            "",
+            "      {1a06ff000005}Le Palpitissimant Parc",
+            "     d'Attractions Aquatiques",
+            "        de Fyer et Falbi!{1a06ff000000}",
+            "",
+            "{1a05000014} Pour l'attraction {1a06ff000002}Flight by",
+            "Fowl{1a06ff000000}, prendre à gauche."
+        ]
+    }
+]

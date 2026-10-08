@@ -1,0 +1,31 @@
+[
+    {
+        "ID": "20, 181",
+        "text": [
+            "Hallo! Hereinspaziert! Willkommen",
+            "in Falbi' {1a06ff000002}Flight by Fowl{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "20, 202",
+        "text": [
+            "{1a090300000000050d}Die Sensation am Hylia-See,",
+            "der schwimmende {1a06ff000005}Freizeitpark{1a06ff000000}",
+            "von Fyer und Falbi! ",
+            "Kanonenritt und {1a06ff000002}Flight by",
+            "Fowl{1a06ff000000} rechts hinten. {1a05000015}",
+            ""
+        ]
+    },
+    {
+        "ID": "59, 218",
+        "text": [
+            "Die Sensation am Hylia-See,",
+            "{1a06ff000005}der schwimmende Freizeitpark",
+            "von Fyer und Falbi{1a06ff000000}! ",
+            "Kanonenritt und {1a06ff000002}Flight by",
+            "Fowl{1a06ff000000} links hinten. {1a05000014}",
+            ""
+        ]
+    }
+]
