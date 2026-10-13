@@ -44,12 +44,30 @@ UiElementHandle g_element_handle_fish = 0;
 UiElementHandle g_element_handle_item = 0;
 UiElementHandle g_element_handle_cool = 0;
 
-std::string areaFolder = "Area/";
-std::string areaNpcFolder = "Area_NPC/";
-std::string coolFolder = "Cool/";
-std::string npcFolder = "NPC/";
-std::string fishFolder = "fish/";
-std::string itemsFolder = "items/";
+struct OverrideCategory {
+    std::string aFolder;
+    std::vector<mods::flow::MessageOverride> anOverride;
+    bool isOverriden;
+};
+
+#define OVERRIDE_CATEGORY(name, folder) OverrideCategory name{folder, {}, false}
+
+// it's not very useful is it :c
+OVERRIDE_CATEGORY(overrideArea, "Area/");
+OVERRIDE_CATEGORY(overrideNpc, "NPC/");
+OVERRIDE_CATEGORY(overrideAreaAndNpc, "Area_NPC/");
+OVERRIDE_CATEGORY(overrideCool, "Cool/");
+OVERRIDE_CATEGORY(overrideFish, "fish/");
+OVERRIDE_CATEGORY(overrideItems, "items/");
+
+constexpr std::array kAllCategories{
+    &overrideArea,
+    &overrideNpc,
+    &overrideAreaAndNpc,
+    &overrideCool,
+    &overrideFish,
+    &overrideItems,
+};
 
 constexpr std::array kAllLanguages{
     MESSAGE_LANGUAGE_ENGLISH, // Purlo -> Mr. Cool, no other feature for english language
@@ -60,11 +78,8 @@ constexpr std::array kAllLanguages{
     // MESSAGE_LANGUAGE_JAPANESE, Not sure If I ever want to update the japanese one
 };
 
-// groups from 00 up to 09
+// groups from 00 up to 08
 uint16_t kGroupCount = 9;
-
-std::vector<mods::flow::MessageOverride> g_overrides;
-
 
 ModResult init_settings() {
     ModResult result;
@@ -143,11 +158,14 @@ std::string getLanguageFolder(const MessageLanguage language) {
 
 // maybe in some world where I'm not exhausted I split this function into several parts
 // like, read json, compute ID, extract text, then the call to the flow
-void overrideMessages(const MessageLanguage language, const std::string& folderOverride) {
+void overrideMessages(const MessageLanguage language, OverrideCategory& overrideCategory) {
     int messageOverriden = 0;
     std::string languageFolder = getLanguageFolder(language);
     for (uint16_t group = 0; group < kGroupCount; ++group) {
-        std::string filePath = languageFolder + folderOverride + "zel_0" + std::to_string(group) +
+        std::string filePath = languageFolder +
+                               overrideCategory.aFolder +
+                               "zel_0" +
+                               std::to_string(group) +
                                ".json";
         if (svc_resource->file_exists(mod_ctx, filePath.c_str())) {
             ResourceBuffer buffer = RESOURCE_BUFFER_INIT;
@@ -208,16 +226,31 @@ void overrideMessages(const MessageLanguage language, const std::string& folderO
 
                 auto override = mods::flow::override_message(group, id, language,
                     std::span{text});
-                g_overrides.push_back(std::move(override));
+                overrideCategory.anOverride.push_back(std::move(override));
                 messageOverriden++;
             }
         }
     }
     svc_log->debug(mod_ctx, fmt::format("replaced {} messages for {}", messageOverriden,
-        languageFolder + folderOverride).c_str());
+        languageFolder + overrideCategory.aFolder).c_str());
 }
 
-void updateNames() {
+void loadCategory(OverrideCategory& category) {
+    for (const MessageLanguage language : kAllLanguages)
+        overrideMessages(language, category);
+    category.isOverriden = true;
+}
+
+void clearCategory(OverrideCategory& category) {
+    if (!category.isOverriden)
+        return;
+    category.anOverride.clear();
+    category.isOverriden = false;
+    svc_log->debug(mod_ctx,
+        fmt::format("cleared all overriden messages for {}", category.aFolder).c_str());
+}
+
+void initializeMessages() {
     bool editNpc;
     bool editArea;
     bool editFish;
@@ -229,27 +262,36 @@ void updateNames() {
     svc_config->get_bool(mod_ctx, g_config_var_item, &editItem);
     svc_config->get_bool(mod_ctx, g_config_var_cool, &editCool);
 
-    for (const MessageLanguage language : kAllLanguages) {
-        if (editNpc) {
-            overrideMessages(language, npcFolder);
-        }
-        if (editArea) {
-            overrideMessages(language, areaFolder);
-        }
-        if (editArea && editNpc) {
-            overrideMessages(language, areaNpcFolder);
-        }
-        if (editFish) {
-            // todo fish
-            // some stuff
-        }
-        if (editItem) {
-            // todo items
-            // some stuff
-        }
-        if (editCool) {
-            overrideMessages(language, coolFolder);
-        }
+    // if atleast 1 option is updated, clear all, reload all (I'm having logic issues with the
+    // area+NPC so this is easier)
+    // at first launch, struct "isOverriden"s are all false, so it can be triggered
+    bool upToDate = editNpc == overrideNpc.isOverriden &&
+                    editArea == overrideArea.isOverriden &&
+                    editCool == overrideCool.isOverriden;
+    if (upToDate) {
+        return;
+    }
+    clearCategory(overrideCool);
+    clearCategory(overrideAreaAndNpc);
+    clearCategory(overrideArea);
+    clearCategory(overrideNpc);
+
+    if (editNpc)
+        loadCategory(overrideNpc);
+    if (editArea)
+        loadCategory(overrideArea);
+    if (editNpc && editArea)
+        loadCategory(overrideAreaAndNpc);
+    if (editCool)
+        loadCategory(overrideCool);
+
+    if (editFish) {
+        // todo fish
+        // some stuff
+    }
+    if (editItem) {
+        // todo items
+        // some stuff
     }
 }
 } // namespace
@@ -276,24 +318,29 @@ MOD_EXPORT ModResult mod_initialize(ModError*) {
     // init mod panel menu
     UiModsPanelDesc ui_mods_panel_desc = UI_MODS_PANEL_DESC_INIT;
     ui_mods_panel_desc.build = build_main_panel;
-    //panel.update = update; no need for this I believe, or maybe?
+
+    // this update is called each frame in the mod menu
+    ui_mods_panel_desc.update = [](ModContext*, void*, ModError*) {
+        initializeMessages();
+        return MOD_OK;
+    };
+
     result = svc_ui->register_mods_panel(mod_ctx, &ui_mods_panel_desc);
     if (result != MOD_OK)
         return result;
-
-    // overide the languages
-    updateNames();
 
     return MOD_OK;
 }
 
 MOD_EXPORT ModResult mod_update(ModError*) {
-    // maybe force a reload if settings are updated? not sure how it works right now
     return MOD_OK;
 }
 
 MOD_EXPORT ModResult mod_shutdown(ModError*) {
-    g_overrides.clear();
+    for (OverrideCategory* category : kAllCategories) {
+        category->anOverride.clear();
+        category->isOverriden = false;
+    }
     return MOD_OK;
 }
 }
