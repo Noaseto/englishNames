@@ -95,6 +95,58 @@ void hookPost_GetStringKanji_fish(ModContext*, void* args, void* retval, void* u
     svc_log->info(mod_ctx, "coucou je suis un poisson");
 }
 
+const u32 map_name_id[25] = {
+    0x589, 0x58A, 0x58B, 0x58C, 0x58D, 0x58E, 0x58F, 0x590, 0x591,
+    0x592, 0x593, 0x594, 0x595, 0x596, 0x597, 0x598, 0x599, 0x59A, 0x59B, 0x59C, 0x59D, 0x59E, 0x59F, 0x5A0, 0x5A1,
+};
+void hookPost_GetStringKanji_area(ModContext*, void* args, void* retval, void* userdata) {
+    // first we must check that the id fetched is a fish name's
+    const u32 idFetched = mods::arg<u32>(args, 1);  // arg 0 is `this`
+
+    bool toReplace = false;
+    for (const auto id: map_name_id) {
+        if (idFetched == id) {
+            toReplace = true;
+        }
+    }
+    if (!toReplace) return;
+
+    // Then we can replace the retrieved fish name with ours
+    // TODO, do not read the json file each time a fish call is done, instead fill a map at init
+    std::string filePath = "hooks/area.json";
+
+    ResourceBuffer buffer = RESOURCE_BUFFER_INIT;
+    svc_resource->load(mod_ctx, filePath.c_str(), &buffer);
+
+    const char* start = static_cast<const char*>(buffer.data);
+    const char* end = start + buffer.size;
+    json elements = json::parse(start, end, nullptr, false);
+    svc_resource->free(mod_ctx, &buffer);
+
+    for (const auto& element : elements) {
+        // id of the message to replace
+        std::string fullId = element.at("ID").get<std::string>();
+        int leftId, rightId;
+        std::sscanf(fullId.c_str(), "%d , %d", &leftId, &rightId);
+        uint16_t id = computeId(leftId, rightId);
+
+        if (id == idFetched) {
+            std::string text;
+            for (const auto& jsonLine : element.at("text")) {
+                text += UTF8ToCP1252(jsonLine.get<std::string>());
+            }
+
+            const TextSpan o_string = mods::arg<TextSpan>(args, 2);
+            if (o_string.buffer == nullptr || o_string.size == 0) return;
+
+            const size_t n = std::min(text.size(), o_string.size - 1);
+            std::memcpy(o_string.buffer, text.data(), n);
+            o_string.buffer[n] = '\0';
+        }
+    }
+    svc_log->info(mod_ctx, "coucou je suis une map");
+}
+
 ConfigVarHandle g_config_var_npc = 0;
 ConfigVarHandle g_config_var_area = 0;
 ConfigVarHandle g_config_var_fish = 0;
@@ -335,6 +387,7 @@ void initializeMessages() {
     if (editArea) {
         // For the map, something must be hooked
         // in French : "massif pics blancs" 1424 dec, 0x590
+        mods::hook::add_post<dMeter2Info_c__GetStringKanji>(hookPost_GetStringKanji_area);
     }
     if (editFish) {
         // All the language will end up with the english variant, it is just fishes' names
