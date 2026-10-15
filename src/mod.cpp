@@ -1,5 +1,8 @@
 #include <charconv>
 
+#include <nlohmann/json.hpp>
+#include <fmt/format.h>
+
 #include "mods/service.hpp"
 #include "mods/svc/log.h"
 #include "mods/svc/flow.hpp"
@@ -14,9 +17,6 @@
 
 #include "util.hpp"
 #include "config.hpp"
-
-#include <nlohmann/json.hpp>
-#include <fmt/format.h>
 
 #include <cstdio>
 #include <span>
@@ -258,7 +258,7 @@ ModResult build_main_panel(ModContext*, const UiElementHandle panel, void*, ModE
 // maybe in some world where I'm not exhausted I split this function into several parts
 // like, read json, compute ID, extract text, then the call to the flow
 void overrideMessages(const MessageLanguage language, OverrideCategory& overrideCategory) {
-    int messageOverriden = 0;
+    int overridenMessages = 0;
     std::string languageFolder = getLanguageFolder(language);
     for (uint16_t group = 0; group < kGroupCount; ++group) {
         std::string filePath = languageFolder +
@@ -323,14 +323,14 @@ void overrideMessages(const MessageLanguage language, OverrideCategory& override
                 }
                 text.push_back(0);
 
-                auto override = mods::flow::override_message(group, id, language,
+                auto messageOverride = mods::flow::override_message(group, id, language,
                     std::span{text});
-                overrideCategory.anOverride.push_back(std::move(override));
-                messageOverriden++;
+                overrideCategory.anOverride.push_back(std::move(messageOverride));
+                overridenMessages++;
             }
         }
     }
-    svc_log->debug(mod_ctx, fmt::format("replaced {} messages for {}", messageOverriden,
+    svc_log->debug(mod_ctx, fmt::format("replaced {} messages for {}", overridenMessages,
         languageFolder + overrideCategory.aFolder).c_str());
 }
 
