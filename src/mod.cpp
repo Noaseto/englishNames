@@ -41,7 +41,7 @@ namespace {
 DEFINE_HOOK(&dMeter2Info_c::getStringKanji, dMeter2Info_c__GetStringKanji);
 
 const u32 fish_name_id[6] = {
-     0x59E, 0x59D, 0x59B, 0x599, 0x59A, 0x59C,
+    0x59E, 0x59D, 0x59B, 0x599, 0x59A, 0x59C,
 };
 /*
  * On the journal fish name are retrieved from the bmg file within the game iso, I do not want
@@ -49,15 +49,16 @@ const u32 fish_name_id[6] = {
  */
 void hookPost_GetStringKanji_fish(ModContext*, void* args, void* retval, void* userdata) {
     // first we must check that the id fetched is a fish name's
-    const u32 idFetched = mods::arg<u32>(args, 1);  // arg 0 is `this`
+    const u32 idFetched = mods::arg<u32>(args, 1); // arg 0 is `this`
 
     bool toReplace = false;
-    for (const auto id: fish_name_id) {
+    for (const auto id : fish_name_id) {
         if (idFetched == id) {
             toReplace = true;
         }
     }
-    if (!toReplace) return;
+    if (!toReplace)
+        return;
 
     // Then we can replace the retrieved fish name with ours
     // TODO, do not read the json file each time a fish call is done, instead fill a map at init
@@ -85,7 +86,8 @@ void hookPost_GetStringKanji_fish(ModContext*, void* args, void* retval, void* u
             }
 
             const TextSpan o_string = mods::arg<TextSpan>(args, 2);
-            if (o_string.buffer == nullptr || o_string.size == 0) return;
+            if (o_string.buffer == nullptr || o_string.size == 0)
+                return;
 
             const size_t n = std::min(text.size(), o_string.size - 1);
             std::memcpy(o_string.buffer, text.data(), n);
@@ -96,20 +98,24 @@ void hookPost_GetStringKanji_fish(ModContext*, void* args, void* retval, void* u
 }
 
 const u32 map_name_id[25] = {
-    0x589, 0x58A, 0x58B, 0x58C, 0x58D, 0x58E, 0x58F, 0x590, 0x591,
-    0x592, 0x593, 0x594, 0x595, 0x596, 0x597, 0x598, 0x599, 0x59A, 0x59B, 0x59C, 0x59D, 0x59E, 0x59F, 0x5A0, 0x5A1,
+    0x589, 0x58A, 0x58B, 0x58C, 0x58D, 0x58E, 0x58F, 0x590, 0x591, 0x592, 0x593, 0x594, 0x595,
+    0x596, 0x597, 0x598, 0x599, 0x59A, 0x59B, 0x59C, 0x59D, 0x59E, 0x59F, 0x5A0, 0x5A1,
 };
+
+// Work in progress, it does not work for all provinces, despite the ID being correct
+// need to look more inot it
 void hookPost_GetStringKanji_area(ModContext*, void* args, void* retval, void* userdata) {
     // first we must check that the id fetched is a fish name's
-    const u32 idFetched = mods::arg<u32>(args, 1);  // arg 0 is `this`
+    const u32 idFetched = mods::arg<u32>(args, 1); // arg 0 is `this`
 
     bool toReplace = false;
-    for (const auto id: map_name_id) {
+    for (const auto id : map_name_id) {
         if (idFetched == id) {
             toReplace = true;
         }
     }
-    if (!toReplace) return;
+    if (!toReplace)
+        return;
 
     // Then we can replace the retrieved fish name with ours
     // TODO, do not read the json file each time a fish call is done, instead fill a map at init
@@ -137,7 +143,8 @@ void hookPost_GetStringKanji_area(ModContext*, void* args, void* retval, void* u
             }
 
             const TextSpan o_string = mods::arg<TextSpan>(args, 2);
-            if (o_string.buffer == nullptr || o_string.size == 0) return;
+            if (o_string.buffer == nullptr || o_string.size == 0)
+                return;
 
             const size_t n = std::min(text.size(), o_string.size - 1);
             std::memcpy(o_string.buffer, text.data(), n);
@@ -173,6 +180,8 @@ OVERRIDE_CATEGORY(overrideNpc, "NPC/");
 OVERRIDE_CATEGORY(overrideAreaAndNpc, "Area_NPC/");
 OVERRIDE_CATEGORY(overrideCool, "Cool/");
 OVERRIDE_CATEGORY(overrideFish, "Fish/");
+OVERRIDE_CATEGORY(overrideFishAndArea, "Fish_Area/");
+OVERRIDE_CATEGORY(overrideFishAndNpc, "Fish_NPC/");
 OVERRIDE_CATEGORY(overrideItems, "items/");
 
 constexpr std::array kAllCategories{
@@ -181,6 +190,8 @@ constexpr std::array kAllCategories{
     &overrideAreaAndNpc,
     &overrideCool,
     &overrideFish,
+    &overrideFishAndArea,
+    &overrideFishAndNpc,
     &overrideItems,
 };
 
@@ -220,8 +231,7 @@ ModResult build_main_panel(ModContext*, const UiElementHandle panel, void*, ModE
     UiPredicateFn disabled = [](ModContext*, void*) { return true; };
     UiPredicateFn notDisabled = [](ModContext*, void*) { return false; };
 
-    ModResult result;
-    result = addToggle(panel, "Replace NPC names", g_config_var_npc, g_element_handle_npc,
+    ModResult result = addToggle(panel, "Replace NPC names", g_config_var_npc, g_element_handle_npc,
         notDisabled);
     if (result != MOD_OK)
         return result;
@@ -229,7 +239,7 @@ ModResult build_main_panel(ModContext*, const UiElementHandle panel, void*, ModE
         notDisabled);
     if (result != MOD_OK)
         return result;
-    result = addToggle(panel, "Replace fish names (IN DEV)", g_config_var_fish,
+    result = addToggle(panel, "Replace fish names", g_config_var_fish,
         g_element_handle_fish, notDisabled);
     if (result != MOD_OK)
         return result;
@@ -357,11 +367,13 @@ void initializeMessages() {
     bool upToDate = editNpc == overrideNpc.isOverriden &&
                     editArea == overrideArea.isOverriden &&
                     editCool == overrideCool.isOverriden &&
-                        editFish == overrideFish.isOverriden;
+                    editFish == overrideFish.isOverriden;
     if (upToDate) {
         return;
     }
     clearCategory(overrideCool);
+    clearCategory(overrideFishAndArea);
+    clearCategory(overrideFishAndNpc);
     clearCategory(overrideFish);
     clearCategory(overrideAreaAndNpc);
     clearCategory(overrideArea);
@@ -375,6 +387,12 @@ void initializeMessages() {
         loadCategory(overrideAreaAndNpc);
     if (editFish)
         loadCategory(overrideFish);
+    if (editFish && editNpc)
+        // No Fish_NPC for german : Coro is already named Coro
+        loadCategory(overrideFishAndNpc);
+    if (editFish && editArea)
+        // No Fish_Area for german and spanish : Ordon is already named Ordon
+        loadCategory(overrideFishAndArea);
     if (editCool)
         loadCategory(overrideCool);
 
@@ -384,13 +402,19 @@ void initializeMessages() {
     }
 
     //Hooks
+    // could return a MOD_UNAVAILABLE, but I ignore it
+    mods::hook::uninstall<dMeter2Info_c__GetStringKanji>(svc_hook);
+
+
     if (editArea) {
         // For the map, something must be hooked
         // in French : "massif pics blancs" 1424 dec, 0x590
-        mods::hook::add_post<dMeter2Info_c__GetStringKanji>(hookPost_GetStringKanji_area);
+        // still not working
+        // mods::hook::add_post<dMeter2Info_c__GetStringKanji>(hookPost_GetStringKanji_area);
     }
     if (editFish) {
         // All the language will end up with the english variant, it is just fishes' names
+        // The hook is only used to display the fish journal, not the actual fish dialogs
         mods::hook::add_post<dMeter2Info_c__GetStringKanji>(hookPost_GetStringKanji_fish);
     }
 }
