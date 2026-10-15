@@ -1,0 +1,35 @@
+[
+    {
+        "ID": "26, 57",
+        "index": "0x4bb",
+        "attributes": "1a39000018000000ff00000008080400",
+        "text": [
+            "Creo que es un Reekfish.",
+            "Es una especie que solo se",
+            "encuentra en la región de",
+            "los Zora."
+        ]
+    },
+    {
+        "ID": "26, 65",
+        "index": "0x4c3",
+        "attributes": "1a41000018000000ff00000006070400",
+        "text": [
+            "Debe de haber Reekfish a",
+            "los pies de las {1a06ff000001}Rocas Padre e Hijo",
+            "{1a06ff000000}que hay junto a la catarata de mi",
+            "pueblo."
+        ]
+    },
+    {
+        "ID": "26, 67",
+        "index": "0x4c5",
+        "attributes": "1a43000018000000ff00000006070400",
+        "text": [
+            "Debe de haber Reekfish a",
+            "los pies de las {1a06ff000001}Rocas Padre e Hijo",
+            "{1a06ff000000}que hay junto a la catarata de mi",
+            "pueblo."
+        ]
+    }
+]

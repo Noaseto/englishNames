@@ -1,0 +1,407 @@
+[
+    {
+        "ID": "19, 237",
+        "index": "0x53",
+        "attributes": "13ed00002f000000ff000000100b0400",
+        "text": [
+            "¡Ooh, es el monstruo del",
+            "Pico Nevado! {1a070000070014}¡Y mira ese pez rojo",
+            "que lleva!... ¡Es un Reekfish!"
+        ]
+    },
+    {
+        "ID": "19, 249",
+        "index": "0x5f",
+        "attributes": "13f900002f000000ff000000110c0400",
+        "text": [
+            "¡Es un Reekfish!"
+        ]
+    },
+    {
+        "ID": "29, 109",
+        "index": "0x295",
+        "attributes": "1d6d000033000000ff00000000000400",
+        "text": [
+            "¡Enhorabuena!",
+            "Es el pez más común cerca del",
+            "muelle, una {1a06ff000002}Hyrule bass{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "29, 111",
+        "index": "0x297",
+        "attributes": "1d6f000033000000ff00000000000400",
+        "text": [
+            "¡Oh! ¡Hala!",
+            "{1a07000007000f}¡Este pez se llama {1a06ff000002}Hylian pike{1a06ff000000}!",
+            "Los pescadores de la zona están",
+            "locos por pillar uno."
+        ]
+    },
+    {
+        "ID": "29, 113",
+        "index": "0x299",
+        "attributes": "1d71000033000000ff00000000000400",
+        "text": [
+            "Vaya... {1a07000007000a}Un {1a06ff000002}Ordon catfish{1a06ff000000}.",
+            "{1a07000007000f}{1a07ff0001004b}No son muy populares..."
+        ]
+    },
+    {
+        "ID": "29, 117",
+        "index": "0x29d",
+        "attributes": "1d75000033000000ff00000000000400",
+        "text": [
+            "Es... {1a07000007000a}¡es una de las",
+            "legendarias {1a07000007000f}{1a06ff000002}Hylian Loach{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "29, 122",
+        "index": "0x2a2",
+        "attributes": "1d7a000033000000ff00000000000400",
+        "text": [
+            "¡Ah, una Hyrule bass!",
+            "Qué grande, tendrá unos {1a05050008},",
+            "aproximadamente."
+        ]
+    },
+    {
+        "ID": "29, 124",
+        "index": "0x2a4",
+        "attributes": "1d7c000033000000ff00000000000400",
+        "text": [
+            "¡Oh, un Hylian pike!",
+            "Debe de medir {1a05050008}."
+        ]
+    },
+    {
+        "ID": "29, 126",
+        "index": "0x2a6",
+        "attributes": "1d7e000033000000ff00000000000400",
+        "text": [
+            "¡Vaya! ¡Un Ordon catfish!",
+            "¡Y de {1a05050008}!"
+        ]
+    },
+    {
+        "ID": "29, 129",
+        "index": "0x2a9",
+        "attributes": "1d81000033000000ff00000000000400",
+        "text": [
+            "Ha... ¡has vuelto a pescar ",
+            "{1a070000070014}otra Hylian Loach!"
+        ]
+    },
+    {
+        "ID": "29, 133",
+        "index": "0x2ad",
+        "attributes": "1d85000033000000ff00030000000400",
+        "text": [
+            "¡Ah, una Hyrule bass!"
+        ]
+    },
+    {
+        "ID": "29, 135",
+        "index": "0x2af",
+        "attributes": "1d87000033000000ff00030000000400",
+        "text": [
+            "¡Oh, un Hylian pike!"
+        ]
+    },
+    {
+        "ID": "29, 137",
+        "index": "0x2b1",
+        "attributes": "1d89000033000000ff00090000000400",
+        "text": [
+            "¡Ah!",
+            "{1a07000007000a}Un Ordon catfish."
+        ]
+    },
+    {
+        "ID": "29, 144",
+        "index": "0x2b8",
+        "attributes": "1d90000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Una {1a06ff000001}Hyrule bass{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Tienes el registro de récords",
+            "de pesca echando humo."
+        ]
+    },
+    {
+        "ID": "29, 145",
+        "index": "0x2b9",
+        "attributes": "1d91000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Un {1a06ff000001}Hylian pike{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}¡Este pez en cuestión se ha",
+            "ganado a muchos locos de la pesca",
+            "con esos ojitos suyos!"
+        ]
+    },
+    {
+        "ID": "29, 146",
+        "index": "0x2ba",
+        "attributes": "1d92000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Un {1a06ff000001}Ordon catfish{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Nacido en Ordon igual que tú,",
+            "{1a05000000}, pero no tan",
+            "popular."
+        ]
+    },
+    {
+        "ID": "29, 147",
+        "index": "0x2bb",
+        "attributes": "1d93000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Una {1a06ff000001}Hylian Loach{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Es un pez más que raro al",
+            "que los locos de la pesca",
+            "consideran legendario."
+        ]
+    },
+    {
+        "ID": "29, 149",
+        "index": "0x2bd",
+        "attributes": "1d95000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Una {1a06ff000001}Hylian Loach{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}¡Has conseguido otro",
+            "ejemplar del pez legendario!"
+        ]
+    },
+    {
+        "ID": "29, 150",
+        "index": "0x2be",
+        "attributes": "1d96000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Una {1a06ff000001}Hyrule bass{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Pero es más pequeña que tu",
+            "récord. {1a07000007000a}Mejor soltarla."
+        ]
+    },
+    {
+        "ID": "29, 151",
+        "index": "0x2bf",
+        "attributes": "1d97000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Un {1a06ff000001}Hylian pike{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Pero es más pequeño que tu",
+            "récord. {1a07000007000a}Mejor soltarlo."
+        ]
+    },
+    {
+        "ID": "29, 152",
+        "index": "0x2c0",
+        "attributes": "1d98000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Un {1a06ff000001}Ordon catfish{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}De Ordon, igual que tú.",
+            "{1a07000007000a}Pero es más pequeño que tu",
+            "récord. {1a07000007000a}Mejor soltarlo."
+        ]
+    },
+    {
+        "ID": "29, 153",
+        "index": "0x2c1",
+        "attributes": "1d99000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}¡Una {1a06ff000001}Hylian Loach{1a06ff000000} ({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Otra locha legendaria, pero",
+            "más pequeña que tu récord.",
+            "{1a07000007000a}Mejor soltarla."
+        ]
+    },
+    {
+        "ID": "31, 93",
+        "index": "0x328",
+        "attributes": "1f5d000033000000ff00060000000400",
+        "text": [
+            "¡Cielos!",
+            "¡Una Hylian Loach!"
+        ]
+    },
+    {
+        "ID": "31, 96",
+        "index": "0x32b",
+        "attributes": "1f60000033000000ff00060000000400",
+        "text": [
+            "¡¿Qué?!...",
+            "¿Que has pescado",
+            "otra Hylian Loach?"
+        ]
+    },
+    {
+        "ID": "31, 119",
+        "index": "0x342",
+        "attributes": "1f77000033000000ff00000000000400",
+        "text": [
+            "Ahora no hay más que",
+            "{1a06ff000002}greengills{1a06ff000000}, pero si consigues otra",
+            "especie, la echaré dentro."
+        ]
+    },
+    {
+        "ID": "31, 121",
+        "index": "0x344",
+        "attributes": "1f79000033000000ff00000000000400",
+        "text": [
+            "A ver si puedes pescar más",
+            "especies, aparte de la greengill."
+        ]
+    },
+    {
+        "ID": "31, 126",
+        "index": "0x349",
+        "attributes": "1f7e000033000000ff00000000000400",
+        "text": [
+            "{1a06ff000002}Hyrule bass{1a06ff000000}, que otros llaman",
+            "liebres de Hyrule por lo que saltan,",
+            "{1a06ff000002}Hylian pike{1a06ff000000}... Ah, y {1a06ff000002}Ordon",
+            "catfish{1a06ff000000}, asquerosos, puaj..."
+        ]
+    },
+    {
+        "ID": "31, 127",
+        "index": "0x34a",
+        "attributes": "1f7f000033000000ff00000000000400",
+        "text": [
+            "También algunos pescadores juran",
+            "haber visto la legendaria {1a06ff000002}Hylian",
+            "Loach{1a06ff000000}, pero yo no me lo creo, yo",
+            "al menos no he pescado ninguna..."
+        ]
+    },
+    {
+        "ID": "31, 131",
+        "index": "0x34e",
+        "attributes": "1f83000033000000ff00000000000400",
+        "text": [
+            "Y pensar que al fin puedo",
+            "contemplar a diario a una",
+            "legendaria Hylian Loach..."
+        ]
+    },
+    {
+        "ID": "31, 177",
+        "index": "0x37c",
+        "attributes": "1fb1000033000000ff00000000000400",
+        "text": [
+            "Ese libro es el último éxito en",
+            "pesca. Se llama:",
+            "",
+            "",
+            "{1a06ff000002}\"La leyenda de la Hylian Loach:",
+            "El pez del crepúsculo\"{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "31, 180",
+        "index": "0x37f",
+        "attributes": "1fb4000033000000ff00000000000400",
+        "text": [
+            "Es la historia de una Hylian Loach joven",
+            "que salva Hyrule.",
+            "{1a07000007000f}Me lo he leído tantas veces que",
+            "ya me lo sé de memoria."
+        ]
+    },
+    {
+        "ID": "31, 181",
+        "index": "0x380",
+        "attributes": "1fb5000033000000ff00000000000400",
+        "text": [
+            "¿Quieres que te haga un resumen",
+            "de {1a06ff000002}\"La leyenda de la Hylian",
+            "Loach: El pez del crepúsculo\"{1a06ff000000}?{1a05000020}"
+        ]
+    },
+    {
+        "ID": "31, 186",
+        "index": "0x385",
+        "attributes": "1fba000033000000ff00000000000400",
+        "text": [
+            "Es una historia conmovedora sobre",
+            "una Hylian Loach joven que salva Hyrule...",
+            "{1a07000007000f}Cada vez que la leo, acabo",
+            "llorando."
+        ]
+    },
+    {
+        "ID": "31, 187",
+        "index": "0x386",
+        "attributes": "1fbb000033000000ff00000000000400",
+        "text": [
+            "Ese es el maestro pescador de",
+            "Hyrule. {1a07000007000f}¿Ves la Hylian Loach",
+            "que lleva?"
+        ]
+    },
+    {
+        "ID": "31, 191",
+        "index": "0x38a",
+        "attributes": "1fbf000033000000ff00000000000400",
+        "text": [
+            "Ese es Palomo, mi hermano, y el",
+            "Ordon catfish de 63 cm que",
+            "pescó."
+        ]
+    },
+    {
+        "ID": "31, 195",
+        "index": "0x38e",
+        "attributes": "1fc3000033000000ff00000000000400",
+        "text": [
+            "Esa es una foto de mi hermana",
+            "cuando pescó una Hyrule bass",
+            "de 43 cm."
+        ]
+    },
+    {
+        "ID": "31, 200",
+        "index": "0x393",
+        "attributes": "1fc8000033000000ff00000000000400",
+        "text": [
+            "Ese es el primer pez que pesqué,",
+            "un Hylian pike de 72 cm."
+        ]
+    },
+    {
+        "ID": "31, 204",
+        "index": "0x397",
+        "attributes": "1fcc000033000000ff00000000000400",
+        "text": [
+            "¡Esa es una Hyrule bass de 56 cm",
+            "que pillé!"
+        ]
+    },
+    {
+        "ID": "32, 1",
+        "index": "0x3cc",
+        "attributes": "2001000033000000ff00000000000400",
+        "text": [
+            "Es la foto que saqué para recordar",
+            "el día en que pescaste una",
+            "legendaria Hylian Loach."
+        ]
+    },
+    {
+        "ID": "32, 13",
+        "index": "0x3d8",
+        "attributes": "200d000033000000ff00000000000400",
+        "text": [
+            "¡Me emocioné al ver que habías",
+            "pescado una Hylian Loach!"
+        ]
+    },
+    {
+        "ID": "32, 16",
+        "index": "0x3db",
+        "attributes": "2010000033000000ff00000000000400",
+        "text": [
+            "Nunca pensé que se pudieran",
+            "pescar tantas Hylian Loaches."
+        ]
+    }
+]

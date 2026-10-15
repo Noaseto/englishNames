@@ -1,0 +1,32 @@
+[
+    {
+        "ID": "26, 57",
+        "index": "0x4bb",
+        "attributes": "1a39000018000000ff00000008080400",
+        "text": [
+            "Certo! Dev'essere la Reekfish,",
+            "il pesce raro che vive soltanto nel",
+            "villaggio degli Zora!"
+        ]
+    },
+    {
+        "ID": "26, 65",
+        "index": "0x4c3",
+        "attributes": "1a41000018000000ff00000006070400",
+        "text": [
+            "La Reekfish vive nei",
+            "pressi delle {1a06ff000001}rocce Diade{1a06ff000000},",
+            "vicino le cascate del villaggio."
+        ]
+    },
+    {
+        "ID": "26, 67",
+        "index": "0x4c5",
+        "attributes": "1a43000018000000ff00000006070400",
+        "text": [
+            "La Reekfish vive nei pressi",
+            "delle {1a06ff000001}rocce Diade{1a06ff000000}, vicino le cascate",
+            "del villaggio."
+        ]
+    }
+]
