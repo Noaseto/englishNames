@@ -1,0 +1,554 @@
+[
+    {
+        "ID": "0, 162",
+        "index": "0xa1",
+        "attributes": "00a20000020902003d01000000000400",
+        "text": [
+            "{1a05000001}Du erhältst den {1a06ff000001}Korallenohrring{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein herrlicher Schmuck aus den",
+            "kostbaren Korallen der Zoras in",
+            "Form eines Angelhakens!",
+            "Verwende ihn zusammen mit der",
+            "Angel, wenn du eine ",
+            "{1a06ff000001}Reekfish{1a06ff000000} fangen willst."
+        ]
+    },
+    {
+        "ID": "3, 24",
+        "index": "0x317",
+        "attributes": "03180000020b0400b300000000000400",
+        "text": [
+            "Der Geruch einer Reekfish. Diesen",
+            "Fisch findet man nur bei den Zoras!"
+        ]
+    },
+    {
+        "ID": "5, 153",
+        "index": "0x598",
+        "attributes": "0599000002000000ff00000000000100",
+        "text": [
+            "Ordon catfish"
+        ]
+    },
+    {
+        "ID": "5, 154",
+        "index": "0x599",
+        "attributes": "059a000002000000ff00000000000100",
+        "text": [
+            "Reekfish"
+        ]
+    },
+    {
+        "ID": "5, 155",
+        "index": "0x59a",
+        "attributes": "059b000002000000ff00000000000100",
+        "text": [
+            "Hylian Pike"
+        ]
+    },
+    {
+        "ID": "5, 156",
+        "index": "0x59b",
+        "attributes": "059c000002000000ff00000000000100",
+        "text": [
+            "Greengill"
+        ]
+    },
+    {
+        "ID": "5, 157",
+        "index": "0x59c",
+        "attributes": "059d000002000000ff00000000000100",
+        "text": [
+            "Hylian Loach"
+        ]
+    },
+    {
+        "ID": "5, 158",
+        "index": "0x59d",
+        "attributes": "059e000002000000ff00000000000100",
+        "text": [
+            "Hylian Bass"
+        ]
+    },
+    {
+        "ID": "18, 84",
+        "index": "0xc81",
+        "attributes": "12540000020b04005c00000000000600",
+        "text": [
+            "Am Angelhaken ist der {1a06ff000001}Korallenohrring{1a06ff000000}",
+            "befestigt, der die {1a06ff000001}Reekfish{1a06ff000000} anlockt.",
+            "Mache ihn mit {1a05030002} bereit und verwende {1a05030011},",
+            "um die Angel auszuwerfen. Versinkt der",
+            "Schwimmer, hängt ein Fisch am Haken. Ge-",
+            "legentlich sogar ohne Köder..."
+        ]
+    },
+    {
+        "ID": "7, 9",
+        "index": "0xf8c",
+        "attributes": "0709000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fbe}{1a05000001}Eine {1a06ff000001}Greengill ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein beliebter Fisch, den man",
+            "überall finden kann.",
+            "",
+            "Drücke {1a06ff000001}START{1a06ff000000}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten."
+        ]
+    },
+    {
+        "ID": "7, 10",
+        "index": "0xf8d",
+        "attributes": "070a000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fbf}{1a05000001}Eine {1a06ff000001}Greengill ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein beliebter Fisch, den man",
+            "überall finden kann. Drücke {1a0500000a}, um",
+            "ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 11",
+        "index": "0xf8e",
+        "attributes": "070b000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc0}{1a05000001}Eine {1a06ff000001}Greengill ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein beliebter Fisch, den man",
+            "überall finden kann. ",
+            "",
+            "Der bisher größte seiner Art.",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a0500000a},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 12",
+        "index": "0xf8f",
+        "attributes": "070c000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc1}{1a05000001}Ein {1a06ff000001}Hylian Bass ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Standardfang für Petrijünger!",
+            "",
+            "",
+            "Drücke {1a06ff000001}START{1a06ff000000}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten."
+        ]
+    },
+    {
+        "ID": "7, 13",
+        "index": "0xf90",
+        "attributes": "070d000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc2}{1a05000001}Ein {1a06ff000001}Hylian Bass ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Standardfang für Petrijünger!",
+            "Drücke {1a0500000a}, um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 14",
+        "index": "0xf91",
+        "attributes": "070e000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc3}{1a05000001}Ein {1a06ff000001}Hylian Bass ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Standardfang für Petrijünger!",
+            "",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a0500000a}, um",
+            "ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 15",
+        "index": "0xf92",
+        "attributes": "070f000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc4}{1a05000001}Ein {1a06ff000001}Hylian Pike ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Zurzeit soll dieser Fisch",
+            "ja sehr beliebt sein!",
+            "",
+            "Drücke {1a06ff000001}START{1a06ff000000}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten."
+        ]
+    },
+    {
+        "ID": "7, 16",
+        "index": "0xf93",
+        "attributes": "0710000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc5}{1a05000001}Ein {1a06ff000001}Hylian Pike ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Zurzeit soll dieser Fisch ja sehr",
+            "beliebt sein! Drücke {1a0500000a}, um ihn",
+            "freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 17",
+        "index": "0xf94",
+        "attributes": "0711000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc6}{1a05000001}Ein {1a06ff000001}Hylian Pike ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Zurzeit soll dieser Fisch",
+            "ja sehr beliebt sein!",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a0500000a},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 18",
+        "index": "0xf95",
+        "attributes": "0712000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc7}{1a05000001}Eine {1a06ff000001}Hylian Loach ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Bei Anglern gilt dieser Fisch",
+            "schon fast als legendär...",
+            "",
+            "Drücke {1a06ff000001}START{1a06ff000000}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten."
+        ]
+    },
+    {
+        "ID": "7, 19",
+        "index": "0xf96",
+        "attributes": "0713000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc8}{1a05000001}Eine {1a06ff000001}Hylian Loach ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Bei Anglern gilt dieser Fisch",
+            "schon fast als legendär... Drücke",
+            "{1a0500000a}, um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 20",
+        "index": "0xf97",
+        "attributes": "0714000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc9}{1a05000001}Eine {1a06ff000001}Hylian Loach ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Bei Anglern gilt dieser Fisch",
+            "schon fast als legendär...",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a0500000a},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 21",
+        "index": "0xf98",
+        "attributes": "0715000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fca}{1a05000001}Ein {1a06ff000001}Ordon catfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Heimisch in Ordon... Genau",
+            "wie du!",
+            "",
+            "Drücke {1a06ff000001}START{1a06ff000000}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten. Lass ihn frei durch",
+            "Drücken von {1a0500000a}."
+        ]
+    },
+    {
+        "ID": "7, 22",
+        "index": "0xf99",
+        "attributes": "0716000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fcb}{1a05000001}Ein {1a06ff000001}Ordon catfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Heimisch in Ordon... Genau wie du!",
+            "Drücke {1a0500000a}, um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 23",
+        "index": "0xf9a",
+        "attributes": "0717000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fcc}{1a05000001}Ein {1a06ff000001}Ordon catfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Heimisch in Ordon... Genau",
+            "wie du!",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a0500000a},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 38",
+        "index": "0xfa9",
+        "attributes": "0726000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fde}{1a05000001}Eine {1a06ff000001}Reekfish{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein sehr seltener Fisch, den du",
+            "nur an der Höhle der Zoras",
+            "findest.",
+            "Er hat einen sehr intensiven",
+            "Geruch. Rufe mithilfe von {1a06ff000001}START{1a06ff000000}",
+            "den {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000} auf,",
+            "um deine Fische zu betrachten."
+        ]
+    },
+    {
+        "ID": "7, 39",
+        "index": "0xfaa",
+        "attributes": "0727000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Reekfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein sehr seltener Fisch, den du",
+            "nur an der Höhle der Zoras",
+            "findest.",
+            "Er hat einen... sehr intensiven",
+            "Geruch!"
+        ]
+    },
+    {
+        "ID": "7, 40",
+        "index": "0xfab",
+        "attributes": "0728000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Reekfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein sehr seltener Fisch, den du",
+            "nur an der Höhle der Zoras",
+            "findest.",
+            "Er hat einen... sehr intensiven",
+            "Geruch! Und groß ist er! Der",
+            "Rekord in deinem Fangbuch",
+            "wurde aktualisiert."
+        ]
+    },
+    {
+        "ID": "7, 59",
+        "index": "0xfbe",
+        "attributes": "073b000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Greengill ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein beliebter Fisch, den man",
+            "überall finden kann.",
+            "",
+            "Drücke {1a05030005}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten. Mit {1a05030001} lässt",
+            "du einen Fisch frei."
+        ]
+    },
+    {
+        "ID": "7, 60",
+        "index": "0xfbf",
+        "attributes": "073c000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Greengill ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein beliebter Fisch, den man",
+            "überall finden kann. Drücke {1a05030001}, um",
+            "ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 61",
+        "index": "0xfc0",
+        "attributes": "073d000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Greengill ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein beliebter Fisch, den man",
+            "überall finden kann. ",
+            "",
+            "Der bisher größte seiner Art.",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a05030001},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 62",
+        "index": "0xfc1",
+        "attributes": "073e000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Hylian Bass ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Standardfang für Petrijünger!",
+            "",
+            "",
+            "Drücke {1a05030005}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten. Drücke {1a05030001}, um den",
+            "Fisch freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 63",
+        "index": "0xfc2",
+        "attributes": "073f000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Hylian Bass ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Standardfang für Petrijünger!",
+            "Drücke {1a05030001}, um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 64",
+        "index": "0xfc3",
+        "attributes": "0740000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Hylian Bass ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Standardfang für Petrijünger!",
+            "",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a05030001}, um",
+            "ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 65",
+        "index": "0xfc4",
+        "attributes": "0741000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Hylian Pike ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Zurzeit soll dieser Fisch",
+            "ja sehr beliebt sein!",
+            "",
+            "Drücke {1a05030005}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten."
+        ]
+    },
+    {
+        "ID": "7, 66",
+        "index": "0xfc5",
+        "attributes": "0742000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Hylian Pike ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Zurzeit soll dieser Fisch ja sehr",
+            "beliebt sein! Drücke {1a05030001}, um ihn",
+            "freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 67",
+        "index": "0xfc6",
+        "attributes": "0743000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Hylian Pike ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Zurzeit soll dieser Fisch",
+            "ja sehr beliebt sein!",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a05030001},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 68",
+        "index": "0xfc7",
+        "attributes": "0744000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Hylian Loach ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Bei Anglern gilt dieser Fisch",
+            "schon fast als legendär...",
+            "",
+            "Drücke {1a05030005}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten."
+        ]
+    },
+    {
+        "ID": "7, 69",
+        "index": "0xfc8",
+        "attributes": "0745000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Hylian Loach ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Bei Anglern gilt dieser Fisch",
+            "schon fast als legendär... Drücke",
+            "{1a05030001}, um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 70",
+        "index": "0xfc9",
+        "attributes": "0746000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Hylian Loach ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Bei Anglern gilt dieser Fisch",
+            "schon fast als legendär...",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a05030001},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 71",
+        "index": "0xfca",
+        "attributes": "0747000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Ordon catfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Heimisch in Ordon... Genau",
+            "wie du!",
+            "",
+            "Drücke {1a05030005}, um deinen Fang",
+            "auf dem {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000}",
+            "zu begutachten. Lass ihn frei durch",
+            "Drücken von {1a05030001}."
+        ]
+    },
+    {
+        "ID": "7, 72",
+        "index": "0xfcb",
+        "attributes": "0748000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Ordon catfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Heimisch in Ordon... Genau wie du!",
+            "Drücke {1a05030001}, um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 73",
+        "index": "0xfcc",
+        "attributes": "0749000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Ein {1a06ff000001}Ordon catfish ({1a05050008}){1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Heimisch in Ordon... Genau",
+            "wie du!",
+            "",
+            "Der bisher größte seiner Art!",
+            "Der Rekord in deinem Fangbuch",
+            "wurde aktualisiert. Drücke {1a05030001},",
+            "um ihn freizulassen."
+        ]
+    },
+    {
+        "ID": "7, 91",
+        "index": "0xfde",
+        "attributes": "075b000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Eine {1a06ff000001}Reekfish{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ein sehr seltener Fisch, den du",
+            "nur an der Höhle der Zoras",
+            "findest.",
+            "Er hat einen sehr intensiven",
+            "Geruch. Rufe mithilfe von {1a05030005}",
+            "den {1a06ff000001}Ausrüstungsbildschirm{1a06ff000000} auf,",
+            "um deine Fische zu betrachten."
+        ]
+    },
+    {
+        "ID": "8, 211",
+        "index": "0xff1",
+        "attributes": "08d30000150d0000ff000d001f1f0400",
+        "text": [
+            "Die {1a06ff000001}Reekfish{1a06ff000000}, die dieser",
+            "sogenannte Wilde aus den Schnee-",
+            "bergen mitgenommen hat..."
+        ]
+    }
+]

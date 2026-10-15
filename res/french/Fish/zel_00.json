@@ -1,0 +1,564 @@
+[
+    {
+        "ID": "5, 153",
+        "text": [
+            "Ordon catfish"
+        ]
+    },
+    {
+        "ID": "7, 21",
+        "text": [
+            "{1a0903000000000fca}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Ordon catfish {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 22",
+        "text": [
+            "{1a0903000000000fcb}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Ordon catfish {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 23",
+        "text": [
+            "{1a0903000000000fcc}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Ordon catfish {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 71",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Ordon catfish {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a05030005} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 72",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Ordon catfish {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 73",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Ordon catfish {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Il vient de la même région",
+            "que vous, {1a05000000}!",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "0, 162",
+        "text": [
+            "{1a05000001}Vous obtenez la {1a06ff000001}boucle d'oreille",
+            "de corail{1a06ff000000}!{1a05000002} {1a07000007000a}En forme d'hameçon,",
+            "ce bijou est fait dans le précieux",
+            "corail du village des Zoras.",
+            "Vous l'avez monté comme",
+            "hameçon sur votre canne à",
+            "pêche! Vous pouvez aller",
+            "taquiner le {1a06ff000001}Reekfish{1a06ff000000}."
+        ]
+    },
+    {
+        "ID": "3, 24",
+        "text": [
+            "L'odeur du Reekfish, un",
+            "poisson précieux que l'on ne trouve",
+            "qu'aux abords du village des Zoras."
+        ]
+    },
+    {
+        "ID": "5, 154",
+        "text": [
+            "Reekfish"
+        ]
+    },
+    {
+        "ID": "18, 84",
+        "text": [
+            "Cette canne à pêche a une {1a06ff000001}boucle d'oreille",
+            "en corail{1a06ff000000} en guise d'hameçon. C'est l'appât ",
+            "idéal pour le {1a06ff000001}Reekfish{1a06ff000000}! Assignez-la à {1a05030002} ",
+            "pour l'utiliser. Abaissez {1a05030011} pour mettre le",
+            "bouchon à l'eau et levez {1a05030011} pour remonter",
+            "votre prise quand le bouchon plonge."
+        ]
+    },
+    {
+        "ID": "7, 38",
+        "text": [
+            "{1a0903000000000fde}{1a05000001}Vous avez pêché une {1a06ff000001}",
+            "Reekfish de {1a05050008}{1a06ff000000}!{1a05000002} Ce poisson",
+            "très rare ne se trouve qu'aux",
+            "alentours du village des Zoras.",
+            "{1a07000007000a}Il a une odeur assez... intense.",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour voir",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés."
+        ]
+    },
+    {
+        "ID": "7, 39",
+        "text": [
+            "{1a05000001}Vous avez pêché une {1a06ff000001}",
+            "Reekfish de {1a05050008}{1a06ff000000}!{1a05000002} Ce poisson",
+            "très rare ne se trouve qu'aux",
+            "alentours du village des Zoras.",
+            "{1a07000007000a}Il a une odeur assez... intense."
+        ]
+    },
+    {
+        "ID": "7, 40",
+        "text": [
+            "{1a0903000000000fde}{1a05000001}Vous avez pêché une {1a06ff000001}",
+            "Reekfish de {1a05050008}{1a06ff000000}!{1a05000002} Ce poisson",
+            "très rare ne se trouve qu'aux",
+            "alentours du village des Zoras.",
+            "{1a07000007000a}Il a une odeur assez... intense.",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour."
+        ]
+    },
+    {
+        "ID": "7, 91",
+        "text": [
+            "{1a05000001}Vous avez pêché une {1a06ff000001}",
+            "Reekfish de {1a05050008}{1a06ff000000}!{1a05000002} Ce poisson",
+            "très rare ne se trouve qu'aux",
+            "alentours du village des Zoras.",
+            "{1a07000007000a}Il a une odeur assez... intense.",
+            "Appuyez sur {1a05030005} pour voir",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés."
+        ]
+    },
+    {
+      "ID": "8, 211",
+      "text": [
+          "Je repense à la {1a06ff000001}Reekfish{1a06ff000000} qu'a",
+          "embarquée le yéti..."
+      ]
+    },
+    {
+        "ID": "5, 155",
+        "text": [
+            "Hylian Pike"
+        ]
+    },
+    {
+        "ID": "5, 156",
+        "text": [
+            "Greengill"
+        ]
+    },
+    {
+        "ID": "5, 157",
+        "text": [
+            "Hylian Loach"
+        ]
+    },
+    {
+        "ID": "5, 158",
+        "index": "0x59d",
+        "attributes": "059e000002000000ff00000000000100",
+        "text": [
+            "Hyrule Bass"
+        ]
+    },
+    {
+        "ID": "7, 15",
+        "text": [
+            "{1a0903000000000fc4}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Hylian Pike {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Un poisson très à",
+            "la mode en ce moment.",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 16",
+        "text": [
+            "{1a0903000000000fc5}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Hylian Pike {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Un poisson très à",
+            "la mode en ce moment.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 17",
+        "text": [
+            "{1a0903000000000fc6}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Hylian Pike {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Un poisson très à",
+            "la mode en ce moment.",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 65",
+        "index": "0xfc4",
+        "attributes": "0741000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Hylian Pike {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Un poisson très à",
+            "la mode en ce moment.",
+            "Appuyez sur {1a05030005} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 66",
+        "index": "0xfc5",
+        "attributes": "0742000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Hylian Pike {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}Un poisson très à",
+            "la mode en ce moment.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 67",
+        "index": "0xfc6",
+        "attributes": "0743000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Hylian Pike {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Un poisson très à",
+            "la mode en ce moment.",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 68",
+        "index": "0xfc7",
+        "attributes": "0744000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Loach {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est un jeune de ce",
+            "poisson légendaire...",
+            "Appuyez sur {1a05030005} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "",
+            "Appuyez sur {1a05030001} pour le relâcher,",
+            "vous l'attraperez quand il aura",
+            "grandi..."
+        ]
+    },
+    {
+        "ID": "7, 69",
+        "index": "0xfc8",
+        "attributes": "0745000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Loach {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}C'est un jeune de ce",
+            "poisson légendaire... Appuyez",
+            "sur {1a05030001} pour le relâcher, vous",
+            "l'attraperez quand il aura grandi..."
+        ]
+    },
+    {
+        "ID": "7, 70",
+        "index": "0xfc9",
+        "attributes": "0746000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Loach {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est un jeune de ce",
+            "poisson légendaire...",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "",
+            "Appuyez sur {1a05030001} pour le relâcher,",
+            "vous l'attraperez quand il aura",
+            "grandi..."
+        ]
+    },
+    {
+        "ID": "7, 9",
+        "text": [
+            "{1a0903000000000fbe}{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Greengill de {1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Du fretin que l'on trouve partout.",
+            "",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "",
+            "Vous pouvez en pêcher à foison, ce",
+            "n'est pas la peine de le garder.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 10",
+        "text": [
+            "{1a0903000000000fbf}{1a05000001}Vous avez attrapé un {1a06ff000001}Greengill",
+            "de {1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Du fretin que l'on trouve partout.",
+            "",
+            "Vous pouvez en pêcher à foison, ce",
+            "n'est pas la peine de le garder.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 11",
+        "text": [
+            "{1a0903000000000fc0}{1a05000001}Vous avez attrapé un {1a06ff000001}Greengill",
+            "de {1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Du fretin que l'on trouve partout.",
+            "",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "",
+            "Vous pouvez en pêcher à foison, ce",
+            "n'est pas la peine de le garder.",
+            "Appuyez sur {1a0500000a} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 59",
+        "text": [
+            "{1a05000001}Vous avez attrapé un",
+            "{1a06ff000001}Greengill de {1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Ce poisson est très courant.",
+            "",
+            "Appuyez sur {1a05030005} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "",
+            "Vous pouvez en pêcher à foison, ce",
+            "n'est pas la peine de le garder.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 60",
+        "text": [
+            "{1a05000001}Vous avez attrapé un {1a06ff000001}Greengill",
+            "de {1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Du fretin que l'on trouve partout.",
+            "",
+            "Vous pouvez en pêcher à foison, ce",
+            "n'est pas la peine de le garder.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 61",
+        "text": [
+            "{1a05000001}Vous avez attrapé un {1a06ff000001}Greengill",
+            "de {1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Du fretin que l'on trouve partout.",
+            "",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "",
+            "Vous pouvez en pêcher à foison, ce",
+            "n'est pas la peine de le garder.",
+            "Appuyez sur {1a05030001} pour le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 18",
+        "text": [
+            "{1a0903000000000fc7}{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hylian Loach {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est un jeune de ce",
+            "poisson légendaire...",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "",
+            "Appuyez sur {1a0500000a} pour le relâcher,",
+            "vous l'attraperez quand il aura",
+            "grandi..."
+        ]
+    },
+    {
+        "ID": "7, 19",
+        "text": [
+            "{1a0903000000000fc8}{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hylian Loach {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}C'est un jeune de ce",
+            "poisson légendaire... Appuyez",
+            "sur {1a0500000a} pour le relâcher, vous",
+            "l'attraperez quand il aura grandi..."
+        ]
+    },
+    {
+        "ID": "7, 20",
+        "text": [
+            "{1a0903000000000fc9}{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hylian Loach {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}C'est un jeune de ce",
+            "poisson légendaire...",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "",
+            "Appuyez sur {1a0500000a} pour le relâcher,",
+            "vous l'attraperez quand il aura",
+            "grandi..."
+        ]
+    },
+    {
+        "ID": "7, 12",
+        "text": [
+            "{1a0903000000000fc1}{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Bass {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Le poisson de base",
+            "de l'amateur de pêche.",
+            "Appuyez sur {1a06ff000001}START{1a06ff000000} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "",
+            "Vous pouvez en pêcher quand vous",
+            "voulez, ce n'est pas la peine de",
+            "le garder. Appuyez sur {1a0500000a} pour",
+            "le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 13",
+        "text": [
+            "{1a0903000000000fc2}{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Bass {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Le poisson de base",
+            "de l'amateur de pêche.",
+            "Vous pouvez en pêcher quand vous",
+            "voulez, ce n'est pas la peine de",
+            "le garder. Appuyez sur {1a0500000a} pour",
+            "le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 14",
+        "text": [
+            "{1a0903000000000fc3}{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Bass {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Le poisson de base",
+            "de l'amateur de pêche.",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "",
+            "Vous pouvez en pêcher quand vous",
+            "voulez, ce n'est pas la peine de",
+            "le garder. Appuyez sur {1a0500000a} pour",
+            "le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 62",
+        "index": "0xfc1",
+        "attributes": "073e000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Bass {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Le poisson de base",
+            "de l'amateur de pêche.",
+            "Appuyez sur {1a05030005} pour admirer",
+            "sur l'{1a06ff000001}écran de quête{1a06ff000000} tous les",
+            "poissons que vous avez pêchés.",
+            "",
+            "Vous pouvez en pêcher quand vous",
+            "voulez, ce n'est pas la peine de",
+            "le garder. Appuyez sur {1a05030001} pour",
+            "le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 63",
+        "index": "0xfc2",
+        "attributes": "073f000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Bass {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Le poisson de base",
+            "de l'amateur de pêche.",
+            "Vous pouvez en pêcher quand vous",
+            "voulez, ce n'est pas la peine de",
+            "le garder. Appuyez sur {1a05030001} pour",
+            "le relâcher."
+        ]
+    },
+    {
+        "ID": "7, 64",
+        "index": "0xfc3",
+        "attributes": "0740000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Vous avez attrapé une",
+            "{1a06ff000001}Hyrule Bass {1a06ff000000}de {1a06ff000001}{1a05050008}{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Le poisson de base",
+            "de l'amateur de pêche.",
+            "Vous avez établi un nouveau",
+            "record! Votre carnet de pêche",
+            "au coup a été mis à jour.",
+            "",
+            "Vous pouvez en pêcher quand vous",
+            "voulez, ce n'est pas la peine de",
+            "le garder. Appuyez sur {1a05030001} pour",
+            "le relâcher."
+        ]
+    }
+]
