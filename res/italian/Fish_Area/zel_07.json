@@ -1,0 +1,24 @@
+[
+    {
+        "ID": "29, 146",
+        "index": "0x2ba",
+        "attributes": "1d92000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}Hai preso un'{1a06ff000001}Ordon catfish",
+            "({1a05050008}){1a06ff000000}. {1a07000007000a}Non è un pesce molto",
+            "ricercato. È di Ordon, come",
+            "{1a05000000}."
+        ]
+    },
+    {
+        "ID": "29, 152",
+        "index": "0x2c0",
+        "attributes": "1d98000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}Hai preso un'{1a06ff000001}Ordon catfish",
+            "({1a05050008}){1a06ff000000}.{1a05000002}",
+            "{1a07000007000a}È di Ordon, come {1a05000000}.",
+            "{1a07000007000a}Ma è troppo piccola! Rilasciala!"
+        ]
+    }
+]

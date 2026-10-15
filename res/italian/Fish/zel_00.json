@@ -1,0 +1,588 @@
+[
+    {
+        "ID": "0, 162",
+        "index": "0xa1",
+        "attributes": "00a20000020902003d01000000000400",
+        "text": [
+            "{1a05000001}Ora hai l'{1a06ff000001}Orecchino di corallo{1a06ff000000}!{1a05000002}",
+            "{1a07000007000a}Realizzato con il corallo",
+            "prezioso del villaggio degli Zora.",
+            "",
+            "Ha la forma di amo e si usa",
+            "per pescare la {1a06ff000001}Reekfish{1a06ff000000}!"
+        ]
+    },
+    {
+        "ID": "3, 24",
+        "index": "0x317",
+        "attributes": "03180000020b0400b300000000000400",
+        "text": [
+            "L'odore della Reekfish, pesce",
+            "raro che si può trovare solo presso",
+            "il villaggio degli Zora."
+        ]
+    },
+    {
+        "ID": "5, 153",
+        "index": "0x598",
+        "attributes": "0599000002000000ff00000000000100",
+        "text": [
+            "Ordon catfish"
+        ]
+    },
+    {
+        "ID": "5, 154",
+        "index": "0x599",
+        "attributes": "059a000002000000ff00000000000100",
+        "text": [
+            "Reekfish"
+        ]
+    },
+    {
+        "ID": "5, 155",
+        "index": "0x59a",
+        "attributes": "059b000002000000ff00000000000100",
+        "text": [
+            "Hylian Pike"
+        ]
+    },
+    {
+        "ID": "5, 156",
+        "index": "0x59b",
+        "attributes": "059c000002000000ff00000000000100",
+        "text": [
+            "Greengill"
+        ]
+    },
+    {
+        "ID": "5, 157",
+        "index": "0x59c",
+        "attributes": "059d000002000000ff00000000000100",
+        "text": [
+            "Hylian Loach"
+        ]
+    },
+    {
+        "ID": "5, 158",
+        "index": "0x59d",
+        "attributes": "059e000002000000ff00000000000100",
+        "text": [
+            "Hyrule Bass"
+        ]
+    },
+    {
+        "ID": "18, 84",
+        "index": "0xc81",
+        "attributes": "12540000020b04005c00000000000600",
+        "text": [
+            "Canna da pesca con agganciato come amo",
+            "l'{1a06ff000001}Orecchino di corallo{1a06ff000000}, adorato dalla",
+            "{1a06ff000001}Reekfish{1a06ff000000}. Si usa con {1a05030002} e con {1a05030011} si abbassa",
+            "la Canna. Quando il galleggiante va giù e il",
+            "pesce abbocca, tira su la Canna con {1a05030011}. Si",
+            "riesce a pescare bene anche senza esca!"
+        ]
+    },
+    {
+        "ID": "7, 9",
+        "index": "0xf8c",
+        "attributes": "0709000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fbe}{1a05000001}Hai pescato la {1a06ff000001}Greengill{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Specie molto comune.",
+            "",
+            "Premi {1a06ff000001}START{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a0500000a} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 10",
+        "index": "0xf8d",
+        "attributes": "070a000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fbf}{1a05000001}Hai pescato la {1a06ff000001}Greengill{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Specie molto comune.",
+            "",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a0500000a} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 11",
+        "index": "0xf8e",
+        "attributes": "070b000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc0}{1a05000001}Hai pescato la {1a06ff000001}Greengill",
+            "{1a06ff000000}({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Specie molto comune.",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto che sono state registrate",
+            "nel diario ittico!",
+            "",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a0500000a} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 12",
+        "index": "0xf8f",
+        "attributes": "070c000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc1}{1a05000001}Hai pescato l'{1a06ff000001}Hyrule Bass{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Specie molto",
+            "apprezzata nella pesca sportiva.",
+            "",
+            "Premi {1a06ff000001}START{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a0500000a} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 13",
+        "index": "0xf90",
+        "attributes": "070d000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc2}{1a05000001}Hai pescato l'{1a06ff000001}Hyrule Bass{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}Specie molto apprezzata nella",
+            "pesca sportiva.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a0500000a} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 14",
+        "index": "0xf91",
+        "attributes": "070e000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc3}{1a05000001}Hai pescato l'{1a06ff000001}Hyrule Bass{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Specie molto",
+            "apprezzata nella pesca sportiva.",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico!",
+            "",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a0500000a} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 15",
+        "index": "0xf92",
+        "attributes": "070f000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc4}{1a05000001}Hai pescato il {1a06ff000001}Hylian Pike{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Ultimamente è molto ricercato. ",
+            "",
+            "Premi {1a06ff000001}START{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Rilascia con {1a0500000a} i pesci che non",
+            "vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 16",
+        "index": "0xf93",
+        "attributes": "0710000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc5}{1a05000001}Hai pescato il {1a06ff000001}Hylian Pike{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Ultimamente è molto",
+            "ricercato. Rilascia con {1a0500000a} i pesci",
+            "che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 17",
+        "index": "0xf94",
+        "attributes": "0711000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc6}{1a05000001}Hai pescato il {1a06ff000001}Hylian Pike{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Ultimamente è molto ricercato. ",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico! Rilascia con {1a0500000a}",
+            "i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 18",
+        "index": "0xf95",
+        "attributes": "0712000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc7}{1a05000001}Hai pescato il {1a06ff000001}Hylian Loach{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce menzionato",
+            "nelle leggende.",
+            "",
+            "Premi {1a06ff000001}START{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Rilascia con {1a0500000a} i pesci che non",
+            "sono ancora abbastanza grossi."
+        ]
+    },
+    {
+        "ID": "7, 19",
+        "index": "0xf96",
+        "attributes": "0713000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc8}{1a05000001}Hai pescato il {1a06ff000001}Hylian Loach{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce menzionato",
+            "nelle leggende.",
+            "",
+            "Rilascia con {1a0500000a} i pesci che non",
+            "sono ancora abbastanza grossi."
+        ]
+    },
+    {
+        "ID": "7, 20",
+        "index": "0xf97",
+        "attributes": "0714000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fc9}{1a05000001}Hai pescato il {1a06ff000001}Hylian Loach{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce menzionato",
+            "nelle leggende.",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico!",
+            "",
+            "Rilascia con {1a0500000a} i pesci che non",
+            "sono ancora abbastanza grossi."
+        ]
+    },
+    {
+        "ID": "7, 21",
+        "index": "0xf98",
+        "attributes": "0715000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fca}{1a05000001}Hai pescato l'{1a06ff000001}Ordon catfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Originaria di Tauro, proprio",
+            "come {1a05000000}!",
+            "Premi {1a06ff000001}START{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Rilascia con {1a0500000a} i pesci che non",
+            "vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 22",
+        "index": "0xf99",
+        "attributes": "0716000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fcb}{1a05000001}Hai pescato l'{1a06ff000001}Ordon catfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Originaria di Tauro,",
+            "proprio come {1a05000000}!",
+            "Rilascia con {1a0500000a} i pesci che non",
+            "vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 23",
+        "index": "0xf9a",
+        "attributes": "0717000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fcc}{1a05000001}Hai pescato l'{1a06ff000001}Ordon catfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002} ",
+            "{1a07000007000a}Originaria di Tauro, proprio",
+            "come {1a05000000}!",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico! Rilascia con {1a0500000a}",
+            "i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 38",
+        "index": "0xfa9",
+        "attributes": "0726000003000200ff00000000000400",
+        "text": [
+            "{1a0903000000000fde}{1a05000001}Hai pescato la {1a06ff000001}Reekfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002} Pesce rarissimo,",
+            "considerato il protettore",
+            "del villaggio degli Zora.",
+            "{1a07000007000a}Ha un odore insopportabile!",
+            "Premi {1a06ff000001}START{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato."
+        ]
+    },
+    {
+        "ID": "7, 39",
+        "index": "0xfaa",
+        "attributes": "0727000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato la {1a06ff000001}Reekfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce rarissimo",
+            "considerato il protettore",
+            "del villaggio degli Zora.",
+            "{1a07000007000a}Ha un odore insopportabile!"
+        ]
+    },
+    {
+        "ID": "7, 40",
+        "index": "0xfab",
+        "attributes": "0728000003000200ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato la {1a06ff000001}Reekfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002} Pesce rarissimo,",
+            "considerato il protettore",
+            "del villaggio degli Zora.",
+            "{1a07000007000a}Ha un odore insopportabile!",
+            "Ha delle dimensioni da record,",
+            "tanto che sono state registrate",
+            "nel diario ittico!"
+        ]
+    },
+    {
+        "ID": "7, 59",
+        "index": "0xfbe",
+        "attributes": "073b000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato la {1a06ff000001}Greengill{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Specie molto comune.",
+            "Premi {1a05030005} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a05030001} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 60",
+        "index": "0xfbf",
+        "attributes": "073c000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato la {1a06ff000001}Greengill{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Specie molto comune.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a05030001} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 61",
+        "index": "0xfc0",
+        "attributes": "073d000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato la {1a06ff000001}Greengill",
+            "{1a06ff000000}({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Specie molto comune.",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto che sono state registrate",
+            "nel diario ittico!",
+            "",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a05030001} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 62",
+        "index": "0xfc1",
+        "attributes": "073e000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato l'{1a06ff000001}Hyrule Bass{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Specie molto",
+            "apprezzata nella pesca sportiva.",
+            "",
+            "Premi {1a06ff000001}{1a05030005}{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a05030001} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 63",
+        "index": "0xfc2",
+        "attributes": "073f000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato l'{1a06ff000001}Hyrule Bass{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "",
+            "",
+            "{1a07000007000a}Specie molto apprezzata nella",
+            "pesca sportiva.",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a05030001} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 64",
+        "index": "0xfc3",
+        "attributes": "0740000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato l'{1a06ff000001}Hyrule Bass{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Specie molto",
+            "apprezzata nella pesca sportiva.",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico!",
+            "",
+            "Puoi pescarne tanti, quindi rilascia",
+            "con {1a05030001} i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 65",
+        "index": "0xfc4",
+        "attributes": "0741000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato il {1a06ff000001}Hylian Pike{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Ultimamente è molto ricercato. ",
+            "",
+            "Premi {1a06ff000001}{1a05030005}{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Rilascia con {1a05030001} i pesci che non",
+            "vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 66",
+        "index": "0xfc5",
+        "attributes": "0742000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato il {1a06ff000001}Hylian Pike{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Ultimamente è molto",
+            "ricercato. Rilascia con {1a05030001} i pesci",
+            "che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 67",
+        "index": "0xfc6",
+        "attributes": "0743000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato il {1a06ff000001}Hylian Pike{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Ultimamente è molto ricercato. ",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico! Rilascia con {1a05030001}",
+            "i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 68",
+        "index": "0xfc7",
+        "attributes": "0744000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato il {1a06ff000001}Hylian Loach{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce menzionato",
+            "nelle leggende.",
+            "",
+            "Premi {1a06ff000001}{1a05030005}{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Rilascia con {1a05030001} i pesci che non",
+            "sono ancora abbastanza grossi."
+        ]
+    },
+    {
+        "ID": "7, 69",
+        "index": "0xfc8",
+        "attributes": "0745000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato il {1a06ff000001}Hylian Loach{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce menzionato",
+            "nelle leggende.",
+            "",
+            "Rilascia con {1a05030001} i pesci che non",
+            "sono ancora abbastanza grossi."
+        ]
+    },
+    {
+        "ID": "7, 70",
+        "index": "0xfc9",
+        "attributes": "0746000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato il {1a06ff000001}Hylian Loach{1a06ff000000}",
+            "({1a05050008})!{1a05000002} {1a07000007000a}Pesce menzionato",
+            "nelle leggende.",
+            "",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico!",
+            "",
+            "Rilascia con {1a05030001} i pesci che non",
+            "sono ancora abbastanza grossi."
+        ]
+    },
+    {
+        "ID": "7, 71",
+        "index": "0xfca",
+        "attributes": "0747000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato l'{1a06ff000001}Ordon catfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Originaria di Tauro, proprio",
+            "come {1a05000000}!",
+            "Premi {1a06ff000001}{1a05030005}{1a06ff000000} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato.",
+            "Rilascia con {1a05030001} i pesci che non",
+            "vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 72",
+        "index": "0xfcb",
+        "attributes": "0748000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato l'{1a06ff000001}Ordon catfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002}",
+            "{1a07000007000a}Originaria di Tauro,",
+            "proprio come {1a05000000}!",
+            "Rilascia con {1a05030001} i pesci che non",
+            "vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 73",
+        "index": "0xfcc",
+        "attributes": "0749000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato l'{1a06ff000001}Ordon catfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002} ",
+            "{1a07000007000a}Originaria di Tauro, proprio",
+            "come {1a05000000}!",
+            "Ha delle dimensioni da record,",
+            "tanto da essere state registrate",
+            "nel diario ittico! Rilascia con {1a05030001}",
+            "i pesci che non vuoi tenere."
+        ]
+    },
+    {
+        "ID": "7, 91",
+        "index": "0xfde",
+        "attributes": "075b000003000000ff00000000000400",
+        "text": [
+            "{1a05000001}Hai pescato la {1a06ff000001}Reekfish{1a06ff000000}",
+            "({1a05050008})!{1a05000002} Pesce rarissimo",
+            "considerato il protettore",
+            "del villaggio degli Zora.",
+            "{1a07000007000a}Ha un odore insopportabile!",
+            "Premi {1a05030005} per verificare",
+            "nell'{1a06ff000001}Inventario{1a06ff000000} il pesce pescato."
+        ]
+    },
+    {
+        "ID": "8, 211",
+        "index": "0xff1",
+        "attributes": "08d30000150d0000ff000d001f1f0400",
+        "text": [
+            "La {1a06ff000001}Reekfish{1a06ff000000} che ha portato",
+            "via il gigante del ghiacciaio..."
+        ]
+    }
+]
