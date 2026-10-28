@@ -7,7 +7,7 @@
 #include "mods/svc/message.h"
 #include "mods/svc/resource.h"
 #include "mods/svc/ui.h"
-#include "mods/svc/hooks.hpp"
+#include "mods/svc/hook.hpp"
 
 #include <cstdio>
 

@@ -1,4 +1,4 @@
-#include "mods/svc/hooks.hpp"
+#include "mods/svc/hook.hpp"
 
 #include <nlohmann/json.hpp>
 #include "fmt/format.h"
