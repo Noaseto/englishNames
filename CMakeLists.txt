@@ -25,10 +25,10 @@ set(MOD_SOURCES
 )
 
 add_mod(english_names
-        FEATURES game fmt          # remove for service/asset-only mods; add webgpu for GfxService
+        FEATURES game fmt
         SOURCES src/mod.cpp ${MOD_SOURCES}
         MOD_JSON "${CMAKE_CURRENT_BINARY_DIR}/mod.json"
-        RES_DIR res            # mod resources, including icon.png and banner.png
+        RES_DIR res
 )
 include(FetchContent)
 FetchContent_Declare(

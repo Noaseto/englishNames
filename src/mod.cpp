@@ -9,13 +9,10 @@
 #include "mods/svc/ui.h"
 #include "mods/svc/hooks.hpp"
 
-#include "d/d_meter2_info.h"
+#include <cstdio>
 
 #include "mesageFlow.hpp"
 #include "config.hpp"
-
-#include <cstdio>
-
 #include "hooks.hpp"
 
 DEFINE_MOD();
