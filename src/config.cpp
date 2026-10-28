@@ -6,7 +6,7 @@
 
 #include "mods/api.h"
 #include "mods/svc/ui.h"
-#include "messagesOverride.hpp"
+#include "mesageFlow.hpp"
 #include "fmt/format.h"
 #include "mods/svc/log.h"
 
@@ -118,9 +118,9 @@ ModResult initModPanel() {
     UiModsPanelDesc ui_mods_panel_desc = UI_MODS_PANEL_DESC_INIT;
     ui_mods_panel_desc.build = build_main_panel;
 
-    // this update is called each frame in the mod menu
+    // this update is called each frame when in the mod menu
     ui_mods_panel_desc.update = [](ModContext*, void*, ModError*) {
-        messagesOverride::initializeMessages();
+        messageFlow::updateFlow();
         return MOD_OK;
     };
 

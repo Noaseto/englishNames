@@ -1,7 +1,11 @@
 #pragma once
 #include "mods/svc/message.h"
+//#include <nlohmann/json.hpp>
 
 namespace englishName::util {
+// todo
+// should have a json reader/parser used by both the messageFlow and the hook
+// Is it really useful though?
 /**
  * merge high byte and low byte into a full id
  *

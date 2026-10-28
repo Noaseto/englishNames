@@ -5,12 +5,14 @@
 
 #include "hooks.hpp"
 
+#include "config.hpp"
 #include "util.hpp"
 #include "helpers/string.hpp"
 #include "mods/svc/log.h"
 #include "mods/svc/resource.h"
 
 #include "d/d_meter2_info.h"
+#include "mods/svc/config.h"
 
 namespace englishName::hooks {
 namespace {
@@ -66,6 +68,12 @@ DEFINE_HOOK(&dMeter2Info_c::getStringKanji, dMeter2Info_c__GetStringKanji);
  * that, so I let it do its work, and tell it what the return should actually be
  */
 void hookPost_GetStringKanji_fish(ModContext*, void* args, void* retval, void* userdata) {
+    bool editFish;
+    svc_config->get_bool(mod_ctx, config::configVar_fish, &editFish);
+    if (!editFish) {
+        return;
+    }
+
     // first we must check that the id fetched is a fish name to replace
     const uint32_t idFetched = mods::arg<uint32_t>(args, 1); // arg 0 is `this`
     if (!fishHookMap.contains(idFetched))
