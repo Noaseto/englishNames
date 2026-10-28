@@ -1,27 +1,31 @@
 #pragma once
+#include "mods/svc/config.h"
 
-/*
- * Generic method to add a bool config var
- */
-inline ModResult addBoolVar(const std::string& configName, bool defaultValue,
-    ConfigVarHandle& configVarHandle) {
-    ConfigVarDesc desc = CONFIG_VAR_DESC_INIT;
-    desc.name = configName.c_str();
-    desc.type = CONFIG_VAR_BOOL;
-    desc.default_bool = defaultValue;
-    return svc_config->register_var(mod_ctx, &desc, &configVarHandle);
-}
+namespace englishName::config {
+inline ConfigVarHandle configVar_npc = 0;
+inline ConfigVarHandle configVar_area = 0;
+inline ConfigVarHandle configVar_fish = 0;
+inline ConfigVarHandle configVar_item = 0;
+inline ConfigVarHandle configVar_cool = 0;
 
-/*
- * Generic method to add a ON/OFF button linked to a bool config var
+/**
+ * Configure all the variables the mod uses
+ *
+ * @return `MOD_OK` or a specific `ModResult` value if failing
  */
-inline ModResult addToggle(const UiElementHandle panel, const std::string& label,
-    ConfigVarHandle configVarHandle, UiElementHandle& uiElementHandle, UiPredicateFn isDisabled) {
-    UiControlDesc desc = UI_CONTROL_DESC_INIT;
-    desc.kind = UI_CONTROL_TOGGLE;
-    desc.label = label.c_str();
-    desc.binding = UI_BINDING_CONFIG_VAR;
-    desc.config_var = configVarHandle;
-    desc.is_disabled = isDisabled;
-    return svc_ui->pane_add_control(mod_ctx, panel, &desc, &uiElementHandle);
+ModResult initConfigVar();
+
+/**
+ * Initializes the panel when selecting the mod in the mods list
+ *
+ * @return `MOD_OK` or a specific `ModResult` value if failing
+ */
+ModResult initModPanel();
+
+/**
+ * Remove all the variables the mod uses
+ *
+ * @return `MOD_OK` or a specific `ModResult` value if failing
+ */
+ModResult shutdownConfigVar();
 }

@@ -17,11 +17,18 @@ add_subdirectory("${DUSKLIGHT_DIR}/sdk" dusklight-sdk EXCLUDE_FROM_ALL)
 
 configure_file(mod.json "${CMAKE_CURRENT_BINARY_DIR}/mod.json" @ONLY NEWLINE_STYLE LF)
 
+set(MOD_SOURCES
+        src/config.cpp
+        src/hooks.cpp
+        src/mesageFlow.cpp
+        src/util.cpp
+)
+
 add_mod(english_names
-        FEATURES game fmt          # remove for service/asset-only mods; add webgpu for GfxService
-        SOURCES src/mod.cpp
+        FEATURES game fmt
+        SOURCES src/mod.cpp ${MOD_SOURCES}
         MOD_JSON "${CMAKE_CURRENT_BINARY_DIR}/mod.json"
-        RES_DIR res            # mod resources, including icon.png and banner.png
+        RES_DIR res
 )
 include(FetchContent)
 FetchContent_Declare(

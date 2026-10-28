@@ -1,35 +1,41 @@
 [
   {
+    "comment": "address is 0x599, fish index in game is 3",
     "ID": "5, 153",
     "text": [
       "Ordon Catfish"
     ]
   },
   {
+    "comment": "address is 0x59A, fish index in game is 4",
     "ID": "5, 154",
     "text": [
       "Reekfish"
     ]
   },
   {
+    "comment": "address is 0x59B, fish index in game is 2",
     "ID": "5, 155",
     "text": [
       "Hylian Pike"
     ]
   },
   {
+    "comment": "address is 0x59C, fish index in game is 5",
     "ID": "5, 156",
     "text": [
       "Greengill"
     ]
   },
   {
+    "comment": "address is 0x59D, fish index in game is 1",
     "ID": "5, 157",
     "text": [
       "Hylian Loach"
     ]
   },
   {
+    "comment": "address is 0x59E, fish index in game is 0",
     "ID": "5, 158",
     "text": [
       "Hyrule Bass"
