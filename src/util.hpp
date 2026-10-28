@@ -1,5 +1,6 @@
 #pragma once
 #include "mods/svc/message.h"
+#include <string>
 //#include <nlohmann/json.hpp>
 
 namespace englishName::util {
